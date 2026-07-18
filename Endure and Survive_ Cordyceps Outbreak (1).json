@@ -1,0 +1,520 @@
+{
+  "book_id": "endure_and_survive_cordyceps_outbreak",
+  "title": {
+    "en": "Endure and Survive: Cordyceps Outbreak",
+    "id": "Bertahan dan Hidup: Wabah Cordyceps"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Patient Zero Hours",
+        "id": "Jam-Jam Pasien Nol"
+      },
+      "preview": {
+        "en": "A normal day collapses into a chain reaction—small errors, delayed warnings, and one infection that refuses to stay contained.",
+        "id": "Hari yang tampak normal runtuh jadi reaksi berantai—kesalahan kecil, peringatan yang telat, dan satu infeksi yang menolak tetap terkunci."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The First Break in the Pattern",
+            "id": "Retakan Pertama dalam Pola"
+          },
+          "content": {
+            "en": "The outbreak doesn’t begin with screaming. It begins with a cough that lasts too long in a crowded room.\n\nIn the industrial edge of a humid city, a night shift changes hands. Flour dust hangs in the air like fog. The machines keep running because stopping them costs money, and money decides what warnings are allowed to sound.\n\nA worker slips in the loading bay and scrapes a forearm on a jagged pallet nail. It’s nothing—until the wound starts itching with a heat that feels wrong.\n\nBy morning, clinics are full of people describing the same two things: fever, and a strange aggression that arrives in flashes, like a switch being tested.\n\nThe first official bulletin blames contaminated food. Inspectors are sent, samples are taken, forms are filed. The paperwork moves like it always does—slower than biology.\n\nAt noon, a school goes into lockdown after a teacher bites a student hard enough to tear skin. It’s filmed. It hits group chats first, then news.\n\nThe city tries to correct the story in real time: deny, soften, explain. But the footage isn’t a rumor. It’s evidence, and evidence travels faster than calm.\n\nHospitals begin separating ‘violent’ patients from ‘sick’ patients. The decision makes sense on paper. In practice, it concentrates the infection into rooms full of restraints, blood, and exhausted staff.\n\nBy evening, emergency services stop responding to single-person calls. They need to triage, they say. They need to prioritize. What they really need is a new definition of “normal.”\n\nA small family—one parent, one teenager, one younger child—listens to the distant sirens and does the first truly useful thing anyone has done all day: they pack water, tape a knife to a broomstick, and decide that the safest place is not where the rules point.\n\nOn the way out of their apartment block, they pass a neighbor praying in the stairwell. The neighbor’s eyes track them with hunger that has no language.\n\nThey reach the street and see the city’s first visible truth: traffic isn’t jammed by accidents. It’s jammed by people trying to leave at the same time, all following the same predicted routes.\n\nChapter 1 ends with the family stepping away from the main road into narrow alleys and service corridors—choosing uncertainty over crowds. Behind them, the first quarantine order is announced, and it arrives exactly as late as everyone will later admit it was.",
+            "id": "Wabahnya tidak dimulai dengan jerit. Ia dimulai dengan batuk yang terlalu lama di ruangan padat.\n\nDi pinggiran industri kota lembap, shift malam berganti. Debu tepung menggantung di udara seperti kabut. Mesin tetap berjalan karena menghentikannya berarti rugi, dan rugi menentukan peringatan mana yang “boleh” berbunyi.\n\nSeorang pekerja terpeleset di area bongkar muat dan lengannya tergores paku palet yang mencuat. Sepele—sampai lukanya terasa gatal dengan panas yang tidak wajar.\n\nPagi harinya, klinik penuh orang yang menggambarkan dua hal yang sama: demam, dan agresi aneh yang datang seperti kilatan, seolah ada sakelar yang sedang diuji.\n\nBuletin resmi pertama menyalahkan makanan terkontaminasi. Inspektur dikirim, sampel diambil, formulir diisi. Administrasi bergerak seperti biasa—lebih lambat dari biologi.\n\nTengah hari, sebuah sekolah lockdown setelah seorang guru menggigit murid sampai kulit robek. Ada rekamannya. Video itu masuk grup chat lebih dulu, baru kemudian berita.\n\nKota mencoba mengoreksi cerita secara real time: menyangkal, melunakkan, menjelaskan. Tapi rekaman itu bukan rumor. Itu bukti, dan bukti bergerak lebih cepat daripada ketenangan.\n\nRumah sakit mulai memisahkan pasien ‘kasar’ dari pasien ‘sakit.’ Keputusan itu masuk akal di atas kertas. Di lapangan, itu memusatkan infeksi ke ruangan penuh ikatan, darah, dan staf yang kelelahan.\n\nMenjelang sore, layanan darurat berhenti merespons panggilan satu orang. Mereka perlu triase, katanya. Mereka perlu prioritas. Yang sebenarnya mereka perlu adalah definisi baru tentang “normal.”\n\nSebuah keluarga kecil—satu orang tua, satu remaja, satu anak kecil—mendengar sirene jauh dan melakukan hal pertama yang benar-benar berguna hari itu: mereka mengepak air, menempelkan pisau ke gagang sapu, lalu memutuskan tempat paling aman bukanlah tempat yang ditunjuk aturan.\n\nSaat turun dari blok apartemen, mereka melewati tetangga yang berdoa di tangga darurat. Mata tetangga itu mengikuti mereka dengan lapar yang tidak punya bahasa.\n\nMereka mencapai jalan dan melihat kebenaran pertama yang kasatmata: macet bukan karena kecelakaan. Macet karena semua orang mencoba pergi bersamaan, semuanya mengikuti rute yang sama—rute yang mudah ditebak.\n\nBab 1 berakhir saat keluarga itu menjauh dari jalan utama menuju gang sempit dan koridor servis—memilih ketidakpastian daripada kerumunan. Di belakang mereka, perintah karantina pertama diumumkan, dan ia datang setelat yang kelak semua orang akan akui."
+          }
+        },
+        {
+          "id": "what_if_1_they_follow_the_main_road",
+          "type": "what_if",
+          "title": {
+            "en": "They Took the Predicted Route",
+            "id": "Mereka Mengikuti Rute yang Mudah Ditebak"
+          },
+          "content": {
+            "en": "In this path, the family stays on the main road because it feels safer to be seen. They tell themselves that crowds mean protection and that the authorities will prioritize the largest flow.\n\nThe traffic doesn’t just slow—it locks. Windows steam with breath, tempers rise, and one minor fender-bender becomes a knife fight because everyone is already running on fear.\n\nAn ambulance tries to push through and can’t. When a violent patient bolts from a stopped vehicle further ahead, panic spreads backward like a wave.\n\nThe family loses their advantage: choice. They can’t turn around, can’t exit, can’t even open doors without being grabbed.\n\nIn this what if, Chapter 1 ends with them abandoning the car and splitting in the crowd—alive, but separated by the simplest disaster: a route everyone chose at once.",
+            "id": "Dalam jalur ini, keluarga itu tetap di jalan utama karena terasa lebih aman jika terlihat. Mereka meyakinkan diri kerumunan berarti perlindungan dan otoritas akan memprioritaskan arus terbesar.\n\nMacetnya bukan sekadar melambat—ia mengunci. Kaca berembun oleh napas, emosi naik, dan satu senggolan kecil berubah jadi perkelahian pisau karena semua orang sudah hidup di atas takut.\n\nAmbulans mencoba menerobos dan gagal. Ketika seorang pasien agresif kabur dari kendaraan yang terhenti di depan, panik merambat ke belakang seperti gelombang.\n\nKeluarga itu kehilangan keunggulan mereka: pilihan. Mereka tak bisa putar balik, tak bisa keluar, bahkan tak bisa membuka pintu tanpa ada tangan yang menarik.\n\nDalam what if ini, Bab 1 berakhir saat mereka meninggalkan mobil dan tercerai di kerumunan—selamat, tetapi terpisah oleh bencana paling sederhana: rute yang dipilih semua orang bersamaan."
+          }
+        },
+        {
+          "id": "what_if_1_they_trust_the_quarantine_order",
+          "type": "what_if",
+          "title": {
+            "en": "They Stayed When Told",
+            "id": "Mereka Bertahan Karena Diperintah"
+          },
+          "content": {
+            "en": "In this path, the family hears the first quarantine order and decides to comply. They lock the door, tape the windows, and ration food, believing the danger is outside.\n\nThe building becomes its own small ecosystem. A neighbor bangs on doors asking for water. Another hides a fever behind a smile because being reported feels worse than being sick.\n\nWhen the first bite happens in the stairwell, it doesn’t trigger sirens. It triggers denial. People argue about whether it was ‘real’ right up until the second bite.\n\nBy the time they decide to leave, exits are contested and the hallways belong to whoever is strongest—or most desperate.\n\nIn this what if, Chapter 1 ends with the same lesson wearing a different mask: rules that arrive late can turn your home into a holding cell.",
+            "id": "Dalam jalur ini, keluarga itu mendengar perintah karantina pertama dan memilih patuh. Mereka mengunci pintu, menutup jendela, dan merasion makanan, percaya bahaya ada di luar.\n\nGedung itu berubah jadi ekosistem kecilnya sendiri. Seorang tetangga menggedor meminta air. Yang lain menyembunyikan demam di balik senyum karena dilaporkan terasa lebih mengerikan daripada sakit.\n\nSaat gigitan pertama terjadi di tangga, itu tidak memicu sirene. Itu memicu penyangkalan. Orang-orang berdebat apakah itu ‘nyata’ sampai gigitan kedua terjadi.\n\nKetika akhirnya mereka memutuskan pergi, pintu keluar sudah diperebutkan dan lorong-lorong dimiliki oleh siapa pun yang paling kuat—atau paling putus asa.\n\nDalam what if ini, Bab 1 berakhir dengan pelajaran yang sama memakai topeng berbeda: aturan yang datang terlambat bisa mengubah rumah jadi sel penahanan."
+          }
+        },
+        {
+          "id": "what_if_1_the_family_helps_the_praying_neighbor",
+          "type": "what_if",
+          "title": {
+            "en": "They Stopped for Mercy",
+            "id": "Mereka Berhenti Karena Belas Kasih"
+          },
+          "content": {
+            "en": "In this path, the family doesn’t pass the praying neighbor. The teenager offers water. The parent offers a hand up.\n\nThe neighbor’s hunger has no language, but it has reflex. The bite lands on the wrist—small, fast, and instantly disbelieved.\n\nThey escape into the street anyway, but the wound changes everything. Every plan becomes a countdown nobody wants to name.\n\nThe parent hides the injury to keep moving. The teenager watches the parent’s eyes for flickers of the ‘switch’ described at clinics.\n\nIn this what if, Chapter 1 ends with the most brutal trade: compassion buys time for someone else, but sells certainty for your own.",
+            "id": "Dalam jalur ini, keluarga itu tidak melewati tetangga yang berdoa. Si remaja menawarkan air. Si orang tua menawarkan tangan untuk berdiri.\n\nLapar tetangga itu tak punya bahasa, tapi punya refleks. Gigitannya mendarat di pergelangan—kecil, cepat, dan langsung ditolak untuk dipercaya.\n\nMereka tetap lolos ke jalan, tetapi luka itu mengubah segalanya. Setiap rencana menjadi hitung mundur yang tak ada yang mau menyebut.\n\nSi orang tua menyembunyikan cedera agar mereka tetap bergerak. Si remaja menatap mata orang tuanya mencari kilatan ‘sakelar’ yang diceritakan klinik.\n\nDalam what if ini, Bab 1 berakhir dengan barter paling kejam: belas kasih membeli waktu untuk orang lain, tapi menjual kepastian untuk milikmu sendiri."
+          }
+        },
+        {
+          "id": "what_if_1_they_head_to_the_hospital",
+          "type": "what_if",
+          "title": {
+            "en": "They Ran Toward Help",
+            "id": "Mereka Lari ke Arah Pertolongan"
+          },
+          "content": {
+            "en": "In this path, the family decides the hospital is the only rational destination. If this is sickness, they need medicine; if it’s violence, they need security.\n\nThey arrive to a scene that looks organized from afar and catastrophic up close. Tents, lines, shouted instructions—then a back door where staff drag ‘violent’ patients into a sealed corridor.\n\nThe family learns the hidden logic of the first day: institutions concentrate people because concentration is efficient. But efficiency is a perfect fuel for contagion.\n\nWhen a restrained patient breaks free, panic turns hallways into funnels. The family is forced to flee through laundry rooms and maintenance shafts—exactly the kind of service corridors they tried to choose earlier.\n\nIn this what if, Chapter 1 ends with irony sharp enough to cut: they reach help, and help becomes the most dangerous crowd of all.",
+            "id": "Dalam jalur ini, keluarga itu memutuskan rumah sakit adalah tujuan paling rasional. Jika ini penyakit, mereka butuh obat; jika ini kekerasan, mereka butuh keamanan.\n\nMereka tiba pada pemandangan yang tampak rapi dari jauh dan bencana dari dekat. Tenda, antrean, teriakan instruksi—lalu pintu belakang tempat staf menyeret pasien ‘kasar’ ke koridor tertutup.\n\nKeluarga itu belajar logika tersembunyi hari pertama: institusi memusatkan manusia karena pemusatan itu efisien. Tapi efisiensi adalah bahan bakar sempurna bagi penularan.\n\nSaat satu pasien terikat lepas, panik mengubah lorong jadi corong. Keluarga itu terpaksa kabur lewat ruang laundry dan lorong servis—persis jenis koridor yang sebenarnya ingin mereka pilih sejak awal.\n\nDalam what if ini, Bab 1 berakhir dengan ironi setajam pisau: mereka mencapai pertolongan, dan pertolongan berubah jadi kerumunan paling berbahaya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The First Night Rule",
+        "id": "Aturan Malam Pertama"
+      },
+      "preview": {
+        "en": "The day was panic. The night becomes doctrine: light attracts, noise invites, and trust has to be rationed like water.",
+        "id": "Siang adalah panik. Malam berubah jadi doktrin: cahaya mengundang, suara memancing, dan percaya harus dirasion seperti air."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "Quiet Roads, Loud Consequences",
+            "id": "Jalur Sunyi, Konsekuensi Bising"
+          },
+          "content": {
+            "en": "They move through service corridors behind shops—places designed for deliveries, not escape. The alleys smell of oil, wet cardboard, and the city’s heat trapped between walls.\n\nThe parent keeps counting supplies out loud under their breath: water, crackers, tape, the broomstick spear. Counting is comfort. Comfort is dangerous.\n\nFrom the main road, they hear the first crack of gunfire. Not constant, not controlled—single shots spaced like punctuation. The city is trying to speak authority one sentence at a time.\n\nA police drone passes overhead with a loudspeaker repeating quarantine instructions. It doesn’t calm anyone. It just tells every hungry thing where living people still are.\n\nThey find a small convenience store half-shuttered. Inside, shelves are already stripped low. A man with a bleeding hand argues with an old cashier about payment, as if money can still negotiate biology.\n\nThe teenager spots the sign first: a smear of dried fungus-like growth around the back room doorframe, pale and thread-thin, clinging where humidity lingers. Nobody says the word.\n\nA crash comes from the back. The man with the bleeding hand turns too late. Something—human-shaped but wrong in its movement—hits the door from the inside.\n\nThe parent pulls the children out before the door gives. They don’t run; they walk fast, because running makes noise and noise turns corners into traps.\n\nOutside, the drone returns. Its camera eye swivels. A spotlight flickers across puddles and catches the teenager’s face.\n\nThe parent makes a choice that will shape everything later: they break a storefront window across the street with a thrown brick. Glass explodes. The drone snaps its light to the sound.\n\nThey slip into a stairwell while the drone hovers over the broken window, broadcasting warnings into empty air. For the first time, the family uses the city’s systems against the city.\n\nIn the stairwell, they meet another family—two adults and one infant—hiding in the dark. No one speaks at first. Everyone listens to breathing.\n\nThe teenager offers a cracker. The other adult shakes their head. Sharing is risk. Refusing is also risk.\n\nThey agree on a temporary rule: travel together until dawn, then split before patterns form.\n\nChapter 2 ends with them climbing to a rooftop garden above a silent building, watching the city below flicker between emergency lights and darkness. The parent whispers the first night rule: don’t be seen, don’t be heard, don’t be predictable.",
+            "id": "Mereka bergerak lewat koridor servis di belakang toko—tempat yang dibuat untuk pengiriman, bukan pelarian. Gang-gang itu berbau oli, kardus basah, dan panas kota yang terperangkap di antara dinding.\n\nSi orang tua terus menghitung perbekalan lirih: air, biskuit, selotip, tombak gagang sapu. Menghitung itu nyaman. Nyaman itu berbahaya.\n\nDari jalan utama, terdengar letusan senjata pertama. Bukan rentetan, bukan terkendali—tembakan tunggal berjarak seperti tanda baca. Kota mencoba berbicara sebagai otoritas satu kalimat demi satu kalimat.\n\nSebuah drone polisi melintas dengan pengeras suara mengulang instruksi karantina. Itu tidak menenangkan. Itu hanya memberi tahu setiap makhluk lapar di mana manusia hidup masih berada.\n\nMereka menemukan minimarket setengah tertutup. Di dalam, rak sudah terkuras. Seorang pria dengan tangan berdarah berdebat dengan kasir tua soal pembayaran, seolah uang masih bisa menawar biologi.\n\nSi remaja melihat duluan: olesan pertumbuhan mirip jamur yang mengering di kusen pintu ruang belakang, pucat dan berserat tipis, menempel di tempat lembap. Tak ada yang menyebut namanya.\n\nSebuah benturan datang dari belakang. Pria bertangan berdarah menoleh terlambat. Sesuatu—berbentuk manusia tapi salah cara bergeraknya—menghantam pintu dari dalam.\n\nSi orang tua menarik anak-anak keluar sebelum pintu jebol. Mereka tidak lari; mereka berjalan cepat, karena berlari bikin suara dan suara membuat sudut jadi perangkap.\n\nDi luar, drone itu kembali. Mata kameranya berputar. Sorot lampu menyapu genangan dan menangkap wajah si remaja.\n\nSi orang tua membuat pilihan yang akan membentuk segalanya nanti: ia memecahkan kaca etalase seberang jalan dengan lemparan batu bata. Kaca meledak. Drone mengunci sorot ke arah suara.\n\nMereka menyelinap ke tangga darurat saat drone melayang di atas kaca pecah, menyiarkan peringatan ke udara kosong. Untuk pertama kalinya, keluarga itu memakai sistem kota untuk melawan kota.\n\nDi tangga darurat, mereka bertemu keluarga lain—dua orang dewasa dan satu bayi—bersembunyi dalam gelap. Tak ada yang bicara dulu. Semua mendengarkan napas.\n\nSi remaja menawarkan biskuit. Orang dewasa itu menggeleng. Berbagi itu risiko. Menolak juga risiko.\n\nMereka sepakat satu aturan sementara: berjalan bersama sampai fajar, lalu berpisah sebelum pola terbentuk.\n\nBab 2 berakhir saat mereka naik ke kebun atap di atas gedung sunyi, menatap kota di bawah yang berkedip antara lampu darurat dan gelap. Si orang tua membisikkan aturan malam pertama: jangan terlihat, jangan terdengar, jangan bisa ditebak."
+          }
+        },
+        {
+          "id": "what_if_2_they_hide_in_the_store",
+          "type": "what_if",
+          "title": {
+            "en": "They Stayed Behind the Shutter",
+            "id": "Mereka Bertahan di Balik Rolling Door"
+          },
+          "content": {
+            "en": "In this path, the family chooses to hide inside the half-shuttered convenience store instead of leaving immediately. The logic is simple: walls are better than streets.\n\nThey pull the shutter lower, turn off lights, and hold their breath as the crash repeats behind the back room door. The cashier whispers that the back room has been ‘warm’ all day.\n\nWhen the door finally gives, the sound is not a roar. It’s a wet scrape, like something peeling itself free. The store becomes a box with too few exits.\n\nThey escape through a ceiling hatch into a maintenance crawlspace, crawling above aisles of food they can’t stop to take. Safety costs them supplies.\n\nIn this what if, Chapter 2 ends with a rule carved into panic: a shelter that can’t be exited quietly is just a trap you haven’t recognized yet.",
+            "id": "Dalam jalur ini, keluarga itu memilih bersembunyi di dalam minimarket setengah tertutup alih-alih segera pergi. Logikanya sederhana: dinding lebih baik daripada jalan.\n\nMereka menurunkan rolling door, mematikan lampu, dan menahan napas saat benturan dari pintu ruang belakang berulang. Kasir tua berbisik ruang belakang terasa ‘hangat’ sejak siang.\n\nKetika pintu akhirnya jebol, suaranya bukan auman. Melainkan seretan basah, seperti sesuatu yang mengupas dirinya dari dalam. Toko berubah jadi kotak dengan terlalu sedikit jalan keluar.\n\nMereka kabur lewat palka plafon ke rongga servis, merangkak di atas lorong rak makanan yang tak sempat mereka ambil. Aman membuat mereka kehilangan perbekalan.\n\nDalam what if ini, Bab 2 berakhir dengan satu aturan yang lahir dari panik: tempat berlindung yang tidak bisa ditinggalkan dengan sunyi hanyalah perangkap yang belum kamu sadari."
+          }
+        },
+        {
+          "id": "what_if_2_the_drone_spots_them",
+          "type": "what_if",
+          "title": {
+            "en": "The Spotlight Didn’t Miss",
+            "id": "Sorot Itu Tidak Melenceng"
+          },
+          "content": {
+            "en": "In this path, the drone’s spotlight catches the teenager and stays there. The loudspeaker switches tone, ordering them to halt and identify.\n\nThe parent hesitates—a human reflex to obey uniforms, even when uniforms are now just noise. That hesitation is enough.\n\nOther people nearby see the light and run toward it, believing it marks safety or evacuation. The alley mouth fills with bodies, and bodies make heat, sound, and chaos.\n\nWhen something infected hits the crowd from the side, nobody can tell where the danger begins. The family survives only by dropping low into a drainage cut and letting the wave pass above.\n\nIn this what if, Chapter 2 ends with a harsher night rule: being ‘found’ is not being rescued—sometimes it’s being announced.",
+            "id": "Dalam jalur ini, sorot drone menangkap wajah si remaja dan tidak lepas. Pengeras suara berubah nada, memerintahkan mereka berhenti dan identifikasi.\n\nSi orang tua ragu—refleks manusia untuk patuh pada seragam, bahkan ketika seragam kini cuma kebisingan. Keraguan itu cukup.\n\nOrang-orang lain melihat sorot itu dan berlari mendekat, mengira itu tanda aman atau evakuasi. Mulut gang dipenuhi tubuh, dan tubuh menciptakan panas, suara, dan kekacauan.\n\nSaat sesuatu yang terinfeksi menerjang kerumunan dari samping, tak ada yang bisa membedakan di mana bahaya dimulai. Keluarga itu selamat hanya dengan menjatuhkan diri ke saluran drainase dan membiarkan gelombang lewat di atas.\n\nDalam what if ini, Bab 2 berakhir dengan aturan malam yang lebih kejam: ‘ditemukan’ bukan berarti ‘diselamatkan’—kadang itu berarti diumumkan."
+          }
+        },
+        {
+          "id": "what_if_2_they_dont_break_the_window",
+          "type": "what_if",
+          "title": {
+            "en": "They Refused to Make Noise",
+            "id": "Mereka Menolak Membuat Suara"
+          },
+          "content": {
+            "en": "In this path, the parent cannot bring themselves to smash the storefront window. It feels like inviting the whole city to look.\n\nThey keep moving, quiet and careful, hoping silence will be enough. But the drone’s camera is patient; it doesn’t need sound if it has a face.\n\nThe family is forced into a dead-end stairwell when the light swings back. The parent realizes too late that sometimes noise is a tool, not a mistake.\n\nThey escape only because another group elsewhere panics and makes a louder distraction—proving survival can depend on strangers’ worst moments.\n\nIn this what if, Chapter 2 ends with a complicated lesson: silence is not invisibility. Sometimes you must choose where the noise goes.",
+            "id": "Dalam jalur ini, si orang tua tak sanggup memecahkan kaca etalase. Rasanya seperti mengundang seluruh kota untuk menoleh.\n\nMereka terus bergerak, sunyi dan hati-hati, berharap sunyi cukup. Namun kamera drone sabar; ia tak butuh suara jika ia punya wajah.\n\nKeluarga itu terpaksa masuk ke tangga buntu saat sorot berputar kembali. Si orang tua terlambat sadar bahwa kadang suara adalah alat, bukan kesalahan.\n\nMereka lolos hanya karena kelompok lain di tempat lain panik dan menciptakan distraksi yang lebih keras—membuktikan selamat kadang bergantung pada momen terburuk orang asing.\n\nDalam what if ini, Bab 2 berakhir dengan pelajaran rumit: sunyi bukan tak terlihat. Kadang kamu harus memilih ke mana suara itu pergi."
+          }
+        },
+        {
+          "id": "what_if_2_the_two_families_merge",
+          "type": "what_if",
+          "title": {
+            "en": "They Became One Group",
+            "id": "Mereka Menjadi Satu Kelompok"
+          },
+          "content": {
+            "en": "In this path, the two families in the stairwell decide not to split at dawn. The infant changes the calculus—nobody wants to leave a crying risk behind.\n\nThey create a shared plan: one adult scouts, one adult carries the baby, the teenager watches corners. It feels like structure, and structure feels like hope.\n\nBut structure also creates rhythm. Footsteps sync. Rest stops align. The city begins to read them as a single moving unit.\n\nWhen dawn comes, they notice something else moving in parallel—silhouettes at a distance that stop when they stop.\n\nIn this what if, Chapter 2 ends with a paradox: community increases strength, but it also increases legibility. The question becomes what price they’ll pay to stay together.",
+            "id": "Dalam jalur ini, dua keluarga di tangga darurat memutuskan tidak berpisah saat fajar. Bayi mengubah hitungan—tak ada yang tega meninggalkan risiko tangisan.\n\nMereka membuat rencana bersama: satu dewasa mengintai, satu dewasa menggendong bayi, si remaja menjaga sudut. Rasanya seperti struktur, dan struktur terasa seperti harapan.\n\nNamun struktur juga menciptakan ritme. Langkah jadi selaras. Titik istirahat berbarengan. Kota mulai ‘membaca’ mereka sebagai satu unit bergerak.\n\nSaat fajar, mereka melihat sesuatu lain bergerak paralel—siluet di kejauhan yang ikut berhenti saat mereka berhenti.\n\nDalam what if ini, Bab 2 berakhir dengan paradoks: kebersamaan menambah daya, tapi juga menambah keterbacaan. Pertanyaannya jadi berapa harga yang akan mereka bayar untuk tetap bersama."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Dawn Splits",
+        "id": "Fajar Memecah"
+      },
+      "preview": {
+        "en": "Morning doesn’t bring rescue; it brings counting—who is missing, who is infected, and which routes are already compromised.",
+        "id": "Pagi tidak membawa penyelamatan; ia membawa hitung-hitungan—siapa yang hilang, siapa yang terinfeksi, dan rute mana yang sudah bocor."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Cost of Patterns",
+            "id": "Harga dari Pola"
+          },
+          "content": {
+            "en": "At dawn, the rooftop garden looks peaceful from above—green planters, damp soil, a city pretending it can still be ordinary. Up close, it’s a vantage point for counting disasters.\n\nSmoke rises in separate columns, not from fires meant to warm, but from fires meant to erase. Someone is burning evidence of a life they can’t carry.\n\nThe two families keep their promise: together until dawn. Now comes the hard part—splitting before habit becomes a trail.\n\nThey argue quietly about direction. The other adult wants to reach an official checkpoint, believing soldiers mean order. The parent refuses. Order is where crowds gather, and crowds are where infection turns geometry into a weapon.\n\nA helicopter passes far away, loud enough to pull heads toward the sky. A moment later, distant screams echo from streets that funnel toward the sound. The lesson is immediate: rescue signals are also feeding bells.\n\nThe parent chooses a route that feels wrong because it is inconvenient—down through a maintenance stairwell, across a skybridge into a closed office block, then into a parking structure where cars sit like sealed tombs.\n\nInside the structure, they find bodies that didn’t die from bites. Some are slumped with mouths open, skin bruised around the neck. The teenager recognizes it as the city’s second violence: people doing ‘prevention’ without understanding what they’re preventing.\n\nThey move deeper and discover a temporary triage area marked with spray paint: arrows, numbers, and a word repeated on concrete pillars—CLEAR. It’s not a promise. It’s a request.\n\nA faint clicking comes from the dark. Not a machine. Something organic, dry, and wrong—like fingernails tapping as a body re-learns joints.\n\nThey freeze. The parent signals: no light, no whisper. They wait until the sound drifts away.\n\nWhen they finally exit the parking structure, they do not go back to streets. They cut through drainage channels where the air is cooler and footprints are harder to read.\n\nAt noon, they find a small community center with doors chained from the outside. A hand-painted sign reads: NO NEW PEOPLE.\n\nThe younger child asks why. The parent answers with the first daylight rule: in an outbreak, every shelter becomes a test of who gets to be human.\n\nChapter 3 ends when the family walks past the locked community center and keeps going, choosing exposure over rejection. Behind them, someone watches from a second-floor window, calculating whether to open the chain—or whether opening it is the same as dying.",
+            "id": "Saat fajar, kebun atap tampak damai dari atas—pot tanaman, tanah lembap, kota yang pura-pura masih bisa normal. Dari dekat, itu titik pandang untuk menghitung bencana.\n\nAsap naik dalam kolom-kolom terpisah, bukan dari api untuk menghangat, melainkan api untuk menghapus. Seseorang membakar bukti kehidupan yang tak bisa mereka bawa.\n\nDua keluarga menepati janji: bersama sampai fajar. Sekarang bagian sulitnya—berpisah sebelum kebiasaan berubah jadi jejak.\n\nMereka berdebat pelan soal arah. Orang dewasa lain ingin menuju pos pemeriksaan resmi, percaya tentara berarti keteraturan. Si orang tua menolak. Keteraturan adalah tempat kerumunan terkumpul, dan kerumunan adalah tempat infeksi mengubah geometri jadi senjata.\n\nSebuah helikopter melintas jauh, cukup keras untuk menarik kepala menatap langit. Sesaat kemudian, jerit jauh menggema dari jalan-jalan yang mengerucut menuju sumber suara. Pelajarannya langsung: sinyal penyelamatan juga lonceng makan.\n\nSi orang tua memilih rute yang terasa “salah” karena merepotkan—turun lewat tangga servis, menyeberang skybridge ke gedung kantor tutup, lalu masuk ke parkiran bertingkat tempat mobil-mobil diam seperti makam tersegel.\n\nDi dalam parkiran, mereka menemukan mayat yang tidak mati karena gigitan. Ada yang terkulai dengan mulut menganga, kulit memar di leher. Si remaja mengenalinya sebagai kekerasan kedua kota: orang melakukan ‘pencegahan’ tanpa paham apa yang dicegah.\n\nMereka masuk lebih dalam dan menemukan area triase sementara yang ditandai cat semprot: panah, angka, dan satu kata berulang di pilar beton—CLEAR. Itu bukan janji. Itu permintaan.\n\nAda bunyi klik pelan dari gelap. Bukan mesin. Sesuatu yang organik, kering, dan salah—seperti kuku mengetuk saat tubuh belajar ulang sendi.\n\nMereka membeku. Si orang tua memberi isyarat: tanpa cahaya, tanpa bisik. Mereka menunggu sampai bunyi itu menjauh.\n\nSaat akhirnya keluar dari parkiran, mereka tidak kembali ke jalan besar. Mereka memotong lewat kanal drainase yang udaranya lebih dingin dan jejak lebih sulit terbaca.\n\nSiang hari, mereka menemukan balai warga kecil dengan pintu dirantai dari luar. Papan tulisan tangan berbunyi: TIDAK TERIMA ORANG BARU.\n\nSi anak kecil bertanya kenapa. Si orang tua menjawab dengan aturan siang pertama: dalam wabah, tiap tempat berlindung berubah jadi ujian tentang siapa yang masih diizinkan jadi manusia.\n\nBab 3 berakhir saat keluarga itu melewati balai terkunci dan terus berjalan, memilih terpapar daripada ditolak. Di belakang mereka, seseorang mengintip dari jendela lantai dua, menghitung apakah rantai perlu dibuka—atau apakah membukanya sama dengan mati."
+          }
+        },
+        {
+          "id": "what_if_3_they_go_to_the_checkpoint",
+          "type": "what_if",
+          "title": {
+            "en": "They Walked Toward Order",
+            "id": "Mereka Berjalan Menuju Keteraturan"
+          },
+          "content": {
+            "en": "In this path, the family follows the other adults toward an official checkpoint. The promise of uniforms feels like the last remaining rule the world might still honor.\n\nThe closer they get, the more the streets behave like funnels. People pour in from side roads, all pulled by the same idea: safety has an address.\n\nAt the checkpoint, the soldiers don’t look heroic. They look tired. They’re triaging with gestures that are too practiced—left, right, back.\n\nA single cough in the line turns heads. A shove turns into a stampede. The barricades that were meant to protect become rails that keep bodies packed together.\n\nIn this what if, Chapter 3 ends with the family escaping sideways through a gap in a fence, learning that “order” is just another crowd—only with guns.",
+            "id": "Dalam jalur ini, keluarga itu mengikuti orang dewasa lain menuju pos pemeriksaan resmi. Janji seragam terasa seperti aturan terakhir yang mungkin masih dihormati dunia.\n\nSemakin dekat, jalanan makin berperilaku seperti corong. Orang mengalir dari gang-gang, semuanya ditarik gagasan yang sama: aman itu punya alamat.\n\nDi pos, tentara tidak tampak heroik. Mereka tampak lelah. Mereka melakukan triase dengan gerakan yang terlalu terbiasa—kiri, kanan, mundur.\n\nSatu batuk di antrean membuat kepala menoleh. Satu dorongan berubah jadi injak-injak. Barikade yang harusnya melindungi berubah jadi rel yang memadatkan tubuh.\n\nDalam what if ini, Bab 3 berakhir saat keluarga itu kabur menyamping lewat celah pagar, belajar bahwa “keteraturan” hanyalah kerumunan lain—hanya saja bersenjata."
+          }
+        },
+        {
+          "id": "what_if_3_they_open_the_chained_center",
+          "type": "what_if",
+          "title": {
+            "en": "They Broke the Chain",
+            "id": "Mereka Memutus Rantai"
+          },
+          "content": {
+            "en": "In this path, the parent cannot accept the sign. They pry at the chain with a metal pipe scavenged from the parking structure, ignoring how loud the leverage sounds.\n\nInside, the community center is not empty. Families are packed into dark rooms, sitting on gym mats, each one watching the door like it’s a border.\n\nThe people inside don’t welcome them. They interrogate: Where did you sleep? Who did you touch? Why is your child coughing?\n\nThe argument grows, and the noise carries. The faint clicking from earlier returns—closer, curious.\n\nIn this what if, Chapter 3 ends with a bitter irony: they gain shelter for a night, but the shelter costs them the one thing the first night rule protected—silence.",
+            "id": "Dalam jalur ini, si orang tua tak bisa menerima papan larangan itu. Ia mencongkel rantai dengan pipa metal dari parkiran, mengabaikan betapa bising bunyi ungkitannya.\n\nDi dalam, balai warga tidak kosong. Keluarga-keluarga berdesakan di ruangan gelap, duduk di matras, masing-masing menatap pintu seperti perbatasan.\n\nOrang-orang di dalam tidak menyambut. Mereka menginterogasi: Kamu tidur di mana? Kamu menyentuh siapa? Kenapa anakmu batuk?\n\nPerdebatan membesar, dan suaranya merambat. Bunyi klik samar dari sebelumnya kembali—lebih dekat, lebih ingin tahu.\n\nDalam what if ini, Bab 3 berakhir dengan ironi pahit: mereka dapat tempat berlindung semalam, tetapi tempat berlindung itu menukar hal yang dijaga aturan malam pertama—kesunyian."
+          }
+        },
+        {
+          "id": "what_if_3_the_clicking_is_a_person",
+          "type": "what_if",
+          "title": {
+            "en": "The Click Was a Warning",
+            "id": "Klik Itu Peringatan"
+          },
+          "content": {
+            "en": "In this path, the clicking in the parking structure isn’t infected hunting. It’s a survivor using a homemade signal—two clicks, pause, one click—to say “don’t come closer.”\n\nThe family almost flees, but the teenager recognizes intention in the rhythm. They answer with a soft knock on concrete.\n\nA thin, exhausted woman emerges from between cars, face wrapped in cloth against spores. She teaches them a rule they didn’t know yet: the air itself can be a bite.\n\nShe shows them how to test rooms—dust motes in flashlight beams, fungal threads on damp seams, the smell of wet earth where wet earth shouldn’t be.\n\nIn this what if, Chapter 3 ends with the family gaining something rarer than food: technique. The city is still lethal, but it becomes legible in a new way.",
+            "id": "Dalam jalur ini, bunyi klik di parkiran bukan suara terinfeksi berburu. Itu penyintas yang memakai sinyal buatan—dua klik, jeda, satu klik—untuk berkata “jangan mendekat.”\n\nKeluarga itu hampir kabur, tapi si remaja menangkap niat di ritmenya. Ia membalas dengan ketukan pelan di beton.\n\nSeorang perempuan kurus yang kelelahan muncul dari sela mobil, wajahnya terbalut kain untuk menahan spora. Ia mengajarkan aturan yang belum mereka ketahui: udara sendiri bisa jadi gigitan.\n\nIa menunjukkan cara menguji ruangan—debu menari di sorot senter, serat jamur di sambungan lembap, bau tanah basah di tempat yang seharusnya tidak basah.\n\nDalam what if ini, Bab 3 berakhir dengan keluarga mendapat sesuatu yang lebih langka dari makanan: teknik. Kota tetap mematikan, tapi jadi terbaca dengan cara baru."
+          }
+        },
+        {
+          "id": "what_if_3_the_drainage_channel_floods",
+          "type": "what_if",
+          "title": {
+            "en": "The Cool Air Became a River",
+            "id": "Udara Dingin Itu Jadi Sungai"
+          },
+          "content": {
+            "en": "In this path, the family chooses the drainage channels to avoid streets, but the city’s weather turns. A sudden storm upriver sends a surge through the concrete veins.\n\nThe channel that felt safe becomes a conveyor belt. Water rises fast, carrying trash, branches, and the smell of rot.\n\nThey scramble onto slick ledges. The broomstick spear becomes dead weight. The younger child almost slips, saved only by the teenager’s grip.\n\nWhen they finally climb out through a maintenance grate, they are soaked, shaking, and louder than they’ve been since the outbreak began.\n\nIn this what if, Chapter 3 ends with a new daylight rule: quiet routes have their own predators—and sometimes that predator is the city itself.",
+            "id": "Dalam jalur ini, keluarga itu memilih kanal drainase untuk menghindari jalanan, tapi cuaca kota berbalik. Badai mendadak di hulu mengirim gelombang deras ke urat-urat beton.\n\nKanal yang terasa aman berubah jadi ban berjalan. Air naik cepat, membawa sampah, ranting, dan bau busuk.\n\nMereka memanjat ke bibir licin. Tombak gagang sapu jadi beban mati. Si anak kecil hampir terpeleset, selamat hanya oleh pegangan si remaja.\n\nSaat akhirnya mereka keluar lewat jeruji servis, mereka basah kuyup, menggigil, dan lebih bising daripada sejak wabah dimulai.\n\nDalam what if ini, Bab 3 berakhir dengan aturan siang baru: jalur sunyi punya predatornya sendiri—dan kadang predator itu adalah kota."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Air That Bites",
+        "id": "Udara yang Menggigit"
+      },
+      "preview": {
+        "en": "The infection stops being a chase and becomes an environment. Streets can be avoided, but spores can’t be negotiated with.",
+        "id": "Infeksi berhenti jadi pengejaran dan berubah jadi lingkungan. Jalan bisa dihindari, tapi spora tidak bisa ditawar."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Spore Lines",
+            "id": "Garis Spora"
+          },
+          "content": {
+            "en": "By afternoon, the city’s sound changes. Fewer engines. More shutters. The loud parts of panic have moved elsewhere, leaving behind a quieter, heavier danger.\n\nThey follow back alleys toward an older district where buildings stand closer together and humidity stays trapped between brick. The teenager notices the pattern first: some doorways have been marked with chalk—small circles and slashes that don’t match any official symbol.\n\nThe parent wants to ignore it. Symbols can be lies. But the marks repeat too often to be random.\n\nThey watch from behind a dumpster as two strangers approach a marked doorway. One steps in confidently. The other grabs their arm and pulls them back. A minute later, the first person staggers out coughing, eyes watering, hands clawing at their throat as if the air is sand.\n\nThe family learns a new truth: there are places the infection doesn’t need bodies to defend. It only needs conditions.\n\nThey begin to treat air like water—something you can’t trust everywhere. They tear strips of cloth, wet them with the last clean bottle, and cover their mouths. It’s not filtration. It’s ritual. But rituals can slow panic.\n\nInside an abandoned office, they find a wall map of the district with handwritten notes: SAFE ROOF, BAD AIR, DON’T OPEN. Someone has been doing what authorities could not: building a local, practical knowledge network.\n\nThe teenager wants to take the map. The parent refuses; paper is loud in the wrong way—it tells you there is a plan worth stealing.\n\nInstead, they memorize a section and copy it onto the back of a candy wrapper with a pencil stub. The first page of their own ‘field manual’ is born.\n\nAs they move, they start seeing the infection’s architecture: vents that exhale warmth, basements that breathe damp, stairwells where air doesn’t circulate. The city’s design becomes a diagram of risk.\n\nNear dusk, they reach a narrow pedestrian tunnel under a road. It looks like the fastest path. It also smells like wet earth.\n\nThey stop. They wait. They listen.\n\nA thin dust drifts in the tunnel’s lightless throat, moving as if the tunnel itself is exhaling. The parent backs away and leads them around, choosing a longer climb over a shorter choke point.\n\nAt the top of the detour, they find a rooftop where someone has hung a white cloth as a signal—clean, still, visible from far away.\n\nThey do not rush to it. They circle first. They learned the lesson of crowds.\n\nWhen they finally approach, a voice from behind a vent says, \"Masks on. One at a time. Hands where I can see.\" Not a soldier. Not a police drone. Just a survivor enforcing a rule that works.\n\nChapter 4 ends with the family stepping into a rooftop refuge that smells of plants and boiled water. They trade a little food for a new kind of currency: information about which air is safe, and which air is hungry.",
+            "id": "Menjelang sore, suara kota berubah. Mesin lebih sedikit. Rolling door lebih banyak. Bagian panik yang bising sudah bergeser entah ke mana, menyisakan bahaya yang lebih sunyi dan lebih berat.\n\nMereka menyusuri gang belakang menuju distrik tua tempat bangunan berdempetan dan lembap terperangkap di antara bata. Si remaja melihat polanya lebih dulu: beberapa kusen pintu diberi tanda kapur—lingkar kecil dan garis miring yang tidak mirip simbol resmi.\n\nSi orang tua ingin mengabaikannya. Simbol bisa bohong. Tapi tandanya terlalu sering untuk disebut kebetulan.\n\nMereka mengintip dari balik bak sampah saat dua orang asing mendekati pintu bertanda. Yang satu melangkah masuk percaya diri. Yang lain meraih lengannya dan menarik mundur. Semenit kemudian, orang pertama terhuyung keluar batuk-batuk, mata berair, tangan mencakar tenggorokan seolah udara adalah pasir.\n\nKeluarga itu belajar kebenaran baru: ada tempat yang infeksinya tak perlu tubuh untuk dijaga. Ia hanya butuh kondisi.\n\nMereka mulai memperlakukan udara seperti air—sesuatu yang tidak bisa dipercaya di semua tempat. Mereka merobek kain, membasahinya dengan botol bersih terakhir, lalu menutup mulut. Itu bukan filtrasi. Itu ritual. Tapi ritual bisa memperlambat panik.\n\nDi dalam kantor terbengkalai, mereka menemukan peta dinding distrik dengan catatan tulisan tangan: ATAP AMAN, UDARA BURUK, JANGAN BUKA. Seseorang telah melakukan hal yang otoritas tak mampu: membangun jaringan pengetahuan lokal yang praktis.\n\nSi remaja ingin mengambil peta itu. Si orang tua menolak; kertas itu “bising” dengan cara lain—ia memberi tahu ada rencana yang layak dicuri.\n\nSebagai gantinya, mereka menghafal sebagian lalu menyalinnya ke belakang bungkus permen dengan pensil pendek. Halaman pertama ‘panduan lapangan’ mereka lahir.\n\nSaat bergerak, mereka mulai melihat arsitektur infeksi: ventilasi yang mengembuskan hangat, basement yang “bernapas” lembap, tangga darurat tempat udara tak bersirkulasi. Desain kota berubah jadi diagram risiko.\n\nMenjelang senja, mereka tiba di terowongan pejalan kaki di bawah jalan. Terlihat seperti jalur tercepat. Juga berbau tanah basah.\n\nMereka berhenti. Mereka menunggu. Mereka mendengarkan.\n\nDebu tipis melayang di tenggorokan gelap terowongan, bergerak seolah terowongan itu mengembuskan napas. Si orang tua mundur dan membawa mereka memutar, memilih tanjakan lebih panjang ketimbang titik cekik lebih pendek.\n\nDi puncak putaran, mereka menemukan atap dengan kain putih tergantung sebagai sinyal—bersih, diam, terlihat dari jauh.\n\nMereka tidak langsung mendekat. Mereka memutar dulu. Mereka sudah belajar pelajaran tentang kerumunan.\n\nSaat akhirnya mendekat, sebuah suara dari balik ventilasi berkata, \"Masker. Satu-satu. Tangan terlihat.\" Bukan tentara. Bukan drone. Hanya penyintas yang menegakkan aturan yang bekerja.\n\nBab 4 berakhir saat keluarga itu melangkah ke tempat singgah atap yang berbau tanaman dan air rebusan. Mereka menukar sedikit makanan dengan mata uang baru: informasi tentang udara mana yang aman, dan udara mana yang lapar."
+          }
+        },
+        {
+          "id": "what_if_4_they_take_the_tunnel",
+          "type": "what_if",
+          "title": {
+            "en": "They Chose the Fastest Throat",
+            "id": "Mereka Memilih Tenggorokan Tercepat"
+          },
+          "content": {
+            "en": "In this path, exhaustion wins the argument. The tunnel is shorter, the climb around it feels impossible, and the family convinces themselves that danger is something you can outrun.\n\nHalfway in, the air turns thick. Their wet cloth masks cling to their lips like a bad joke. The teenager coughs once—then can’t stop.\n\nThey stumble out the far side not chased by infected bodies, but chased by their own lungs. The parent realizes too late that the environment can be the predator.\n\nThey make it to the rooftop refuge, but the guard hears the cough and refuses entry. Rules that keep a refuge alive cannot bend for sympathy.\n\nIn this what if, Chapter 4 ends with them outside a safe door, learning the cruel equation of outbreaks: the wrong air can exile you faster than violence.",
+            "id": "Dalam jalur ini, lelah memenangkan perdebatan. Terowongan lebih pendek, memutar terasa mustahil, dan keluarga itu meyakinkan diri bahwa bahaya adalah sesuatu yang bisa dikejar-kejaran.\n\nDi tengah jalan, udara jadi pekat. Kain basah yang menutupi mulut menempel seperti lelucon buruk. Si remaja batuk sekali—lalu tak bisa berhenti.\n\nMereka terhuyung keluar sisi seberang bukan dikejar tubuh terinfeksi, melainkan dikejar paru-paru sendiri. Si orang tua terlambat sadar bahwa lingkungan bisa jadi predator.\n\nMereka sampai ke atap singgah, tetapi penjaga mendengar batuk dan menolak masuk. Aturan yang menjaga tempat singgah tetap hidup tidak bisa melunak karena iba.\n\nDalam what if ini, Bab 4 berakhir dengan mereka berdiri di luar pintu aman, belajar persamaan kejam wabah: udara yang salah bisa mengasingkanmu lebih cepat daripada kekerasan."
+          }
+        },
+        {
+          "id": "what_if_4_they_steal_the_wall_map",
+          "type": "what_if",
+          "title": {
+            "en": "Paper Became a Beacon",
+            "id": "Kertas Jadi Suar"
+          },
+          "content": {
+            "en": "In this path, the teenager insists on taking the wall map. Information feels like the only weapon that doesn’t run out.\n\nThey tear it down fast, fold it tight, and carry it like treasure. But treasure changes posture: they guard it, argue over it, and stop to consult it too often.\n\nAnother desperate group spots the paper and follows. Not because they want to hurt anyone—because they want the plan.\n\nBy night, the family has an audience they never asked for. Their careful route becomes a trail of imitation.\n\nIn this what if, Chapter 4 ends with a warning about knowledge: if it concentrates in one object, it creates a center. And a center invites pressure—human or infected.",
+            "id": "Dalam jalur ini, si remaja bersikeras mengambil peta dinding. Informasi terasa seperti satu-satunya senjata yang tidak habis.\n\nMereka merobeknya cepat, melipat rapat, dan membawanya seperti harta. Tapi harta mengubah postur: mereka menjaganya, berdebat soal itu, dan terlalu sering berhenti untuk membukanya.\n\nKelompok putus asa lain melihat kertas itu dan mengikuti. Bukan karena ingin menyakiti—karena mereka menginginkan rencana.\n\nMenjelang malam, keluarga itu punya “penonton” yang tak pernah mereka minta. Rute hati-hati mereka berubah jadi jejak imitasi.\n\nDalam what if ini, Bab 4 berakhir dengan peringatan tentang pengetahuan: jika ia terkonsentrasi dalam satu benda, ia menciptakan pusat. Dan pusat mengundang tekanan—manusia maupun terinfeksi."
+          }
+        },
+        {
+          "id": "what_if_4_the_chalk_marks_are_wrong",
+          "type": "what_if",
+          "title": {
+            "en": "The Chalk Lied by Accident",
+            "id": "Kapur Itu Bohong Tanpa Sengaja"
+          },
+          "content": {
+            "en": "In this path, the family treats the chalk symbols as gospel. They avoid every marked doorway and follow only the ‘safe’ sequence.\n\nThey don’t know the marks were made days earlier, before the humidity shifted and spores bloomed somewhere new. The city’s air map has moved.\n\nThey step into an unmarked stairwell that smells clean—and find fungal threads lacing the underside of the handrail like hair.\n\nThey escape, but the parent finally understands the danger of static rules in a living outbreak: yesterday’s safety can be today’s trap.\n\nIn this what if, Chapter 4 ends with a new principle added to the field manual: treat every map as expired the moment you draw it.",
+            "id": "Dalam jalur ini, keluarga itu memperlakukan simbol kapur seperti kitab. Mereka menghindari tiap kusen bertanda dan hanya mengikuti urutan yang dianggap ‘aman’.\n\nMereka tidak tahu tanda itu dibuat beberapa hari lalu, sebelum lembap bergeser dan spora mekar di tempat baru. Peta udara kota sudah berpindah.\n\nMereka masuk ke tangga darurat yang tidak bertanda dan baunya terasa bersih—lalu melihat serat jamur merambat di bawah handrail seperti rambut.\n\nMereka lolos, tapi si orang tua akhirnya paham bahaya aturan yang beku dalam wabah yang hidup: aman kemarin bisa jadi perangkap hari ini.\n\nDalam what if ini, Bab 4 berakhir dengan prinsip baru untuk panduan lapangan: anggap setiap peta kedaluwarsa begitu kamu selesai menggambarnya."
+          }
+        },
+        {
+          "id": "what_if_4_the_rooftop_refuge_is_raided",
+          "type": "what_if",
+          "title": {
+            "en": "The Refuge Was a Signal",
+            "id": "Tempat Singgah Itu Sinyal"
+          },
+          "content": {
+            "en": "In this path, the white cloth on the rooftop has been visible for too long. It started as a sign of order. It becomes an advertisement.\n\nA hungry human group arrives first, demanding entry and supplies. The guard refuses. Voices rise. The argument carries across rooftops.\n\nInfected don’t climb because they’re clever. They climb because sound is a ladder.\n\nThe family is forced to choose between joining the fight for the door or slipping away while everyone else becomes loud enough to be targeted.\n\nIn this what if, Chapter 4 ends with the survivalist’s paradox: the more successful a refuge is, the more it risks becoming a destination—and destinations are predictable.",
+            "id": "Dalam jalur ini, kain putih di atap sudah terlalu lama terlihat. Mulanya tanda keteraturan. Lama-lama jadi iklan.\n\nKelompok manusia lapar datang lebih dulu, menuntut masuk dan perbekalan. Penjaga menolak. Suara meninggi. Perdebatan merambat melintasi atap.\n\nYang terinfeksi tidak memanjat karena mereka cerdas. Mereka memanjat karena suara adalah tangga.\n\nKeluarga itu terpaksa memilih: ikut berebut pintu atau menyelinap pergi saat semua orang lain menjadi cukup bising untuk disasar.\n\nDalam what if ini, Bab 4 berakhir dengan paradoks penyintas: makin berhasil sebuah tempat singgah, makin besar risikonya jadi tujuan—dan tujuan itu mudah ditebak."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Price of Shelter",
+        "id": "Harga Sebuah Perlindungan"
+      },
+      "preview": {
+        "en": "A refuge can keep you alive, but it can also remake you—into a rule-follower, a liar, or a threat.",
+        "id": "Tempat singgah bisa menyelamatkanmu, tapi juga bisa membentuk ulang dirimu—jadi pematuhi aturan, pembohong, atau ancaman."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "Triage of Trust",
+            "id": "Triase Kepercayaan"
+          },
+          "content": {
+            "en": "The rooftop refuge is small and disciplined. Planters line the edges as windbreaks. Pots of boiled water cool under cloth. Everyone moves as if sound is a debt.\n\nThe guard who let them in is called Mara. She isn’t a leader by vote; she is a leader by enforcement. She points at the family’s wet cloth masks and tells them to keep them on until breathing stops feeling like a gamble.\n\nRules come fast: no shouting, no running, no opening stairwell doors unless two people watch the air. Sleep in shifts. If someone coughs wetly, they sleep alone.\n\nThe parent almost argues, then remembers the chained community center and stops. In this world, a closed door can be cruelty—or mercy.\n\nMara trades information like rations. She draws a crude map in dirt, marking “bad air” basements and “clean wind” roofs. She warns them about the city’s new predators: not only the infected, but the desperate who follow signals and take what they can.\n\nThe teenager is assigned a task to earn the night: help maintain the rooftop’s condensation catchers—plastic sheets angled to drip into a clean pot. The lesson is blunt: water is now a technology.\n\nAt midnight, a thud echoes from below. Not a scream—something heavier. Mara signals everyone down and still.\n\nThrough a cracked vent cover, they see a shape moving in the stairwell—slow, groping, guided by smell more than sight. The wet clicking of its mouth turns the stairwell into a metronome.\n\nNo one fights it. Fighting is noise. Instead, Mara uses the refuge’s oldest trick: she drops a glass jar filled with pebbles down a different shaft. The jar shatters, and the sound pulls the shape away like a leash.\n\nThe parent realizes the refuge’s real weapon is not strength. It is choreography.\n\nBefore dawn, Mara makes her offer. The refuge can’t keep newcomers long—destinations become predictable. But she can sell them a route: a chain of roofs and wind corridors leading toward the hills where humidity breaks and spore density thins.\n\nThe price is not money. The price is a promise: they will not tell anyone the refuge exists.\n\nThe parent hesitates. Keeping secrets feels like betrayal. Then they remember the drone loudspeaker, the feeding-bell helicopter, the way crowds become funnels.\n\nThey agree.\n\nChapter 5 ends with the family leaving at first light, carrying boiled water and a dirt-drawn map copied onto wrappers. Behind them, Mara wipes the rooftop clean of traces. A refuge survives by erasing itself.",
+            "id": "Tempat singgah atap itu kecil dan disiplin. Pot tanaman melapisi tepi sebagai pemecah angin. Panci air rebusan mendingin di bawah kain. Semua bergerak seolah suara adalah utang.\n\nPenjaga yang membiarkan mereka masuk bernama Mara. Ia bukan pemimpin karena dipilih; ia pemimpin karena menegakkan. Ia menunjuk kain basah di wajah mereka dan menyuruh tetap dipakai sampai bernapas berhenti terasa seperti judi.\n\nAturan datang cepat: tidak berteriak, tidak berlari, tidak membuka pintu tangga darurat kecuali dua orang mengawasi udara. Tidur bergiliran. Jika ada yang batuk basah, tidur sendiri.\n\nSi orang tua hampir membantah, lalu teringat balai warga yang dirantai dan berhenti. Di dunia ini, pintu tertutup bisa jadi kejam—atau belas kasih.\n\nMara menukar informasi seperti ransum. Ia menggambar peta kasar di tanah, menandai basement “udara buruk” dan atap “angin bersih.” Ia memperingatkan predator baru kota: bukan hanya yang terinfeksi, tetapi yang putus asa yang mengikuti sinyal dan merampas apa pun.\n\nSi remaja diberi tugas untuk “membayar” malam: merawat penangkap embun—lembar plastik dimiringkan agar menetes ke panci bersih. Pelajarannya tegas: air kini teknologi.\n\nTengah malam, ada gedebuk dari bawah. Bukan jerit—sesuatu yang lebih berat. Mara memberi isyarat semua orang diam dan merunduk.\n\nDari celah kisi ventilasi, mereka melihat sosok bergerak di tangga—lambat, meraba, dipandu bau lebih dari penglihatan. Klik basah mulutnya mengubah tangga jadi metronom.\n\nTak ada yang melawannya. Melawan adalah bising. Sebagai gantinya, Mara memakai trik tertua tempat singgah: ia menjatuhkan stoples kaca berisi kerikil ke shaft lain. Stoples pecah, dan suara menarik sosok itu menjauh seperti tali.\n\nSi orang tua sadar senjata tempat singgah bukan kekuatan. Melainkan koreografi.\n\nMenjelang fajar, Mara menawarkan sesuatu. Tempat singgah tak bisa menampung pendatang lama—tujuan itu mudah ditebak. Tapi ia bisa “menjual” rute: rangkaian atap dan koridor angin menuju perbukitan tempat lembap pecah dan kepadatan spora menipis.\n\nHarganya bukan uang. Harganya janji: mereka tidak akan memberi tahu siapa pun tempat singgah itu ada.\n\nSi orang tua ragu. Menyimpan rahasia terasa seperti mengkhianati. Lalu ia teringat pengeras suara drone, helikopter yang jadi lonceng makan, dan cara kerumunan berubah jadi corong.\n\nMereka setuju.\n\nBab 5 berakhir saat keluarga itu pergi saat cahaya pertama, membawa air rebusan dan peta tanah yang disalin ke bungkus-bungkus. Di belakang, Mara menghapus jejak di atap. Tempat singgah bertahan hidup dengan cara menghapus dirinya sendiri."
+          }
+        },
+        {
+          "id": "what_if_5_they_break_the_promise",
+          "type": "what_if",
+          "title": {
+            "en": "They Told Someone Anyway",
+            "id": "Mereka Tetap Memberi Tahu Seseorang"
+          },
+          "content": {
+            "en": "In this path, the family cannot carry the secret. On the way out, they meet a stranded couple with blistered feet and empty bottles, and the younger child blurts out that there’s ‘a safe roof with boiled water.’\n\nThe couple follows at a distance, then another group follows them, and soon the route becomes a rumor with legs.\n\nWhen the family realizes what they’ve done, it’s too late to un-say. The refuge’s survival depends on being forgettable, and they have made it memorable.\n\nThat night, noise blooms around the building—pleading, bargaining, threats. The infected don’t need directions; they only need the sound.\n\nIn this what if, Chapter 5 ends with Mara paying the price of mercy: she abandons the rooftop and burns the plastic catchers so nobody can use them as proof the refuge ever existed.",
+            "id": "Dalam jalur ini, keluarga itu tak sanggup membawa rahasia. Di perjalanan, mereka bertemu pasangan terdampar dengan kaki melepuh dan botol kosong, dan si anak kecil ceplas-ceplos ada ‘atap aman dengan air rebusan.’\n\nPasangan itu mengikuti dari jauh, lalu kelompok lain mengikuti mereka, dan rute itu berubah jadi rumor yang punya kaki.\n\nSaat keluarga itu sadar apa yang mereka lakukan, semuanya sudah terlambat untuk ditarik. Tempat singgah bertahan dengan cara dilupakan, dan mereka membuatnya diingat.\n\nMalamnya, kebisingan mekar di sekitar gedung—memohon, menawar, mengancam. Yang terinfeksi tak butuh petunjuk; mereka cuma butuh suara.\n\nDalam what if ini, Bab 5 berakhir dengan Mara membayar harga belas kasih: ia meninggalkan atap dan membakar lembar plastik penangkap embun agar tak ada yang bisa memakainya sebagai bukti tempat singgah itu pernah ada."
+          }
+        },
+        {
+          "id": "what_if_5_mara_refuses_to_sell_the_route",
+          "type": "what_if",
+          "title": {
+            "en": "No Route for Strangers",
+            "id": "Tak Ada Rute untuk Orang Asing"
+          },
+          "content": {
+            "en": "In this path, Mara decides the family is too risky to release with knowledge. She offers water and one night only, but no map, no corridor chain, no hill path.\n\nThe parent realizes the refuge is not cruel; it is rational. Knowledge leaks are what kill safe places.\n\nAt dawn, the family leaves with nothing but boiled water and memory. They attempt to improvise, but improvisation makes them predictable again—back to obvious streets, obvious bridges, obvious stairwells.\n\nThey survive the day, but the cost is energy and time they can’t replace.\n\nIn this what if, Chapter 5 ends with the rule sharpened into a knife: shelter can be shared, but guidance is power—and power is hoarded when the world collapses.",
+            "id": "Dalam jalur ini, Mara memutuskan keluarga itu terlalu berisiko dilepas membawa pengetahuan. Ia memberi air dan satu malam saja, tapi tanpa peta, tanpa rantai koridor angin, tanpa jalur bukit.\n\nSi orang tua sadar tempat singgah itu bukan kejam; ia rasional. Kebocoran pengetahuanlah yang membunuh tempat aman.\n\nSaat fajar, keluarga itu pergi hanya dengan air rebusan dan ingatan. Mereka mencoba improvisasi, tapi improvisasi membuat mereka kembali mudah ditebak—kembali ke jalan jelas, jembatan jelas, tangga jelas.\n\nMereka selamat hari itu, tetapi ongkosnya energi dan waktu yang tak bisa diganti.\n\nDalam what if ini, Bab 5 berakhir dengan aturan yang dipertajam jadi pisau: perlindungan bisa dibagi, tapi panduan adalah kuasa—dan kuasa ditimbun saat dunia runtuh."
+          }
+        },
+        {
+          "id": "what_if_5_the_infected_enters_the_rooftop",
+          "type": "what_if",
+          "title": {
+            "en": "The Stairwell Broke Containment",
+            "id": "Tangga Darurat Menembus Penyekatan"
+          },
+          "content": {
+            "en": "In this path, the jar of pebbles fails. The sound redirects the infected for a moment, but a second shape is already climbing—silent, patient, guided by smell.\n\nMara’s discipline holds until it doesn’t. One person panics and bolts, slamming a door. The refuge’s greatest strength—silence—shatters.\n\nThe infected reaches the rooftop edge. No dramatic charge, just a wrong body crossing a line.\n\nMara orders an immediate scatter across adjacent roofs. The family learns the refuge’s real doctrine: never defend a place when the place has become a signal.\n\nIn this what if, Chapter 5 ends with them leaving without supplies, carrying only the lesson: choreography must include retreat, or it becomes theater that gets you killed.",
+            "id": "Dalam jalur ini, stoples kerikil gagal. Suara memang mengalihkan si terinfeksi sesaat, tapi sosok kedua sudah memanjat—sunyi, sabar, dipandu bau.\n\nDisiplin Mara bertahan sampai tidak. Satu orang panik dan lari, membanting pintu. Kekuatan terbesar tempat singgah—kesunyian—pecah.\n\nYang terinfeksi mencapai tepi atap. Tidak ada terjangan dramatis, hanya tubuh yang salah melintasi garis.\n\nMara memerintahkan tercerai segera ke atap-atap tetangga. Keluarga itu belajar doktrin sejati tempat singgah: jangan pertahankan tempat jika tempat itu sudah jadi sinyal.\n\nDalam what if ini, Bab 5 berakhir dengan mereka pergi tanpa bekal, hanya membawa pelajaran: koreografi harus memasukkan mundur, atau ia berubah jadi teater yang membunuh."
+          }
+        },
+        {
+          "id": "what_if_5_the_map_is_traded_wrong",
+          "type": "what_if",
+          "title": {
+            "en": "They Bought a Lie with Food",
+            "id": "Mereka Membeli Kebohongan dengan Makanan"
+          },
+          "content": {
+            "en": "In this path, someone in the refuge offers a ‘better route’ than Mara’s—shorter, with fewer climbs. They want payment up front: boiled water and crackers.\n\nThe parent hesitates but agrees, thinking redundancy is safety. The family leaves with two plans, believing two plans means control.\n\nThe ‘better route’ leads them to a basement entrance marked as a shortcut. The air is damp, the smell of wet earth is thick, and the chalk marks are fresh—too fresh.\n\nThey escape before going deep, but they lose half a day and most of their water. The lesson is blunt: in collapse, misinformation is a predator that eats supplies first.\n\nIn this what if, Chapter 5 ends with the family returning to Mara’s real route—poorer, thirstier, and newly aware that trust is a resource others can steal.",
+            "id": "Dalam jalur ini, seseorang di tempat singgah menawarkan ‘rute lebih baik’ dari rute Mara—lebih pendek, lebih sedikit tanjakan. Ia minta bayaran di muka: air rebusan dan biskuit.\n\nSi orang tua ragu tapi setuju, mengira redundansi adalah keamanan. Keluarga itu pergi membawa dua rencana, percaya dua rencana berarti kendali.\n\n‘Rute lebih baik’ itu membawa mereka ke pintu basement yang disebut sebagai jalan pintas. Udaranya lembap, bau tanah basah pekat, dan tanda kapurnya baru—terlalu baru.\n\nMereka lolos sebelum masuk dalam, tetapi kehilangan setengah hari dan sebagian besar air. Pelajarannya gamblang: saat runtuh, misinformasi adalah predator yang memakan perbekalan duluan.\n\nDalam what if ini, Bab 5 berakhir dengan keluarga itu kembali ke rute asli Mara—lebih miskin, lebih haus, dan kini paham bahwa percaya adalah sumber daya yang bisa dicuri orang lain."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Hills Don’t Save You",
+        "id": "Bukit Tidak Menyelamatkanmu"
+      },
+      "preview": {
+        "en": "They escape the city’s funnels, only to learn the infection isn’t just urban. It’s patient, seasonal, and already ahead of them.",
+        "id": "Mereka lolos dari corong kota, hanya untuk belajar infeksi bukan cuma urusan kota. Ia sabar, musiman, dan sudah menunggu di depan."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Wind Corridor",
+            "id": "Koridor Angin"
+          },
+          "content": {
+            "en": "They leave at first light and follow Mara’s route like a spell: roofs, then a narrow bridge, then a run of upper floors where windows are broken just enough to let wind keep the air moving.\n\nThe city below tries to reclaim them with noise—sirens that come and go, distant shouting that swells then collapses. The parent keeps them moving whenever sound gathers, treating volume like weather.\n\nBy late morning, the buildings thin and the ground rises. Concrete gives way to cracked stone and weeds. Humidity breaks in patches, and breathing feels less like swallowing dust.\n\nThey reach a hillside access road and see something that makes the parent stop: a line of abandoned cars spaced too neatly, doors open like mouths. It isn’t a traffic jam. It’s a checkpoint that died.\n\nOn the asphalt, someone has painted a warning in thick strokes: NO MASKS, NO ENTRY. Below it, another hand has added: AIR IS THE TEST.\n\nThe teenager wants to take the road anyway. Roads mean direction. The parent chooses the slope beside it instead—harder, slower, less obvious.\n\nHalfway up, they find a small camp of survivors under tarps stretched between trees. Their fire is smokeless, fed by dry twigs and controlled airflow. Their faces are covered with layered cloth and charcoal smear.\n\nA man at the camp doesn’t greet them with words. He greets them with a question: \"How far from the city did you start coughing?\"\n\nThey answer honestly: they haven’t. Not yet.\n\nThe camp leader—an older woman named Sinta—lets them sit at the edge, not inside the circle. She explains the hill rule: high ground reduces spores, but it also reduces options. Water is scarcer. Shade is limited. And if you get sick up here, you can’t hide it in crowds.\n\nThat night, the wind shifts. A warm draft rises from the valley and carries a faint, earthy smell. Sinta orders everyone to mask tighter and move their sleeping mats upwind.\n\nThe family realizes the infection isn’t only in rooms and tunnels. It can travel on weather.\n\nBefore dawn, Sinta offers a trade similar to Mara’s, but harsher: she will show them a spring that still runs cold—if they help carry supplies and if they swear not to bring strangers back.\n\nThe parent recognizes the pattern of the new world: every safe thing survives by limiting who can know it.\n\nThey agree again.\n\nChapter 6 ends with the family walking uphill behind strangers, learning that escape is not a destination. It’s a maintenance routine—masks, wind, water, and the constant work of not becoming a beacon for others to follow.",
+            "id": "Mereka pergi saat cahaya pertama dan mengikuti rute Mara seperti mantra: atap, lalu jembatan sempit, lalu rangkaian lantai atas tempat jendela pecah secukupnya agar angin membuat udara tetap bergerak.\n\nKota di bawah mencoba merebut mereka kembali dengan kebisingan—sirene yang datang-pergi, teriakan jauh yang mengembang lalu runtuh. Si orang tua membuat mereka terus bergerak setiap kali suara berkumpul, memperlakukan volume seperti cuaca.\n\nMenjelang siang, bangunan menipis dan tanah meninggi. Beton berganti batu retak dan ilalang. Lembap pecah di beberapa bagian, dan bernapas terasa lebih ringan.\n\nMereka mencapai jalan akses bukit dan melihat sesuatu yang membuat si orang tua berhenti: deretan mobil kosong berjajar terlalu rapi, pintu terbuka seperti mulut. Itu bukan macet. Itu pos pemeriksaan yang mati.\n\nDi aspal, seseorang mengecat peringatan dengan sapuan tebal: TANPA MASKER, DILARANG MASUK. Di bawahnya, tangan lain menambah: UDARA ADALAH UJIAN.\n\nSi remaja ingin tetap lewat jalan. Jalan berarti arah. Si orang tua memilih lereng di sampingnya—lebih berat, lebih lambat, lebih tidak jelas.\n\nDi tengah tanjakan, mereka menemukan kamp kecil penyintas di bawah terpal yang ditautkan antar pohon. Api mereka tanpa asap, diberi ranting kering dan aliran udara yang dikendalikan. Wajah mereka tertutup kain berlapis dan olesan arang.\n\nSeorang pria di kamp tidak menyapa dengan kata. Ia menyapa dengan pertanyaan: \"Sejauh apa dari kota kalian mulai batuk?\"\n\nMereka menjawab jujur: belum. Belum.\n\nPemimpin kamp—perempuan tua bernama Sinta—membiarkan mereka duduk di tepi, bukan di dalam lingkar. Ia menjelaskan aturan bukit: dataran tinggi mengurangi spora, tapi juga mengurangi pilihan. Air lebih langka. Naungan terbatas. Dan kalau kamu sakit di sini, kamu tak bisa menyembunyikannya dalam kerumunan.\n\nMalamnya, angin bergeser. Arus hangat naik dari lembah membawa bau tanah samar. Sinta memerintahkan semua orang mengencangkan masker dan memindahkan alas tidur ke arah angin.\n\nKeluarga itu sadar infeksi bukan hanya di ruangan dan terowongan. Ia bisa menumpang cuaca.\n\nMenjelang fajar, Sinta menawarkan barter yang mirip Mara, tapi lebih keras: ia akan menunjukkan mata air yang masih mengalir dingin—jika mereka membantu mengangkut barang dan bersumpah tidak membawa orang asing kembali.\n\nSi orang tua mengenali pola dunia baru: setiap hal aman bertahan hidup dengan membatasi siapa yang boleh tahu.\n\nMereka setuju lagi.\n\nBab 6 berakhir saat keluarga itu berjalan menanjak di belakang orang asing, belajar bahwa lolos bukanlah tujuan. Ia rutinitas perawatan—masker, angin, air, dan kerja terus-menerus untuk tidak berubah jadi suar yang diikuti orang lain."
+          }
+        },
+        {
+          "id": "what_if_6_they_take_the_hill_road",
+          "type": "what_if",
+          "title": {
+            "en": "They Chose the Road Anyway",
+            "id": "Mereka Tetap Memilih Jalan"
+          },
+          "content": {
+            "en": "In this path, the family ignores the instinct to avoid obvious routes. The hillside road feels like progress, and progress feels like safety.\n\nThe abandoned cars aren’t just evidence of a dead checkpoint—they are cover for something that learned to wait. Between two doors left open like jaws, a shape shifts in the shade, drawn by breath and heat.\n\nThe parent tries to pull the children off the asphalt, but the road has shoulders that crumble, forcing them into a narrow line.\n\nThey escape up the slope, but they lose time, water, and the illusion that high ground is empty.\n\nIn this what if, Chapter 6 ends with a new rule: roads are promises made by other people, and other people can be wrong—or already gone.",
+            "id": "Dalam jalur ini, keluarga itu mengabaikan naluri untuk menghindari rute yang jelas. Jalan akses bukit terasa seperti kemajuan, dan kemajuan terasa seperti aman.\n\nDeretan mobil kosong bukan cuma bukti pos yang mati—ia juga jadi penutup bagi sesuatu yang belajar menunggu. Di antara dua pintu yang menganga seperti rahang, sebuah sosok bergerak di bayang, tertarik oleh napas dan panas.\n\nSi orang tua mencoba menarik anak-anak keluar dari aspal, tapi bahu jalan rapuh dan memaksa mereka bergerak dalam garis sempit.\n\nMereka lolos ke lereng, tapi kehilangan waktu, air, dan ilusi bahwa dataran tinggi itu kosong.\n\nDalam what if ini, Bab 6 berakhir dengan aturan baru: jalan adalah janji yang dibuat orang lain, dan orang lain bisa salah—atau sudah tiada."
+          }
+        },
+        {
+          "id": "what_if_6_sinta_rejects_them",
+          "type": "what_if",
+          "title": {
+            "en": "The Circle Stayed Closed",
+            "id": "Lingkar Itu Tetap Tertutup"
+          },
+          "content": {
+            "en": "In this path, Sinta sees something small that scares her more than hunger: the family’s masks are wet with city water, and wet cloth is a perfect carrier when you don’t know what’s in the bottle.\n\nShe refuses them calmly and points them upwind, away from the camp. No debate. No apology. Her camp survives by making refusals easy.\n\nThe parent tries to barter information from Mara’s refuge, but Sinta cuts it off: names of safe places are not currency—they are liabilities.\n\nForced to move on, the family climbs without guidance and learns how quickly hills punish mistakes. They find shade too late and water too slowly.\n\nIn this what if, Chapter 6 ends with the harshest version of the new world’s economics: you can have nothing contagious and still be turned away, because fear isn’t evidence-based. It’s survival-based.",
+            "id": "Dalam jalur ini, Sinta melihat sesuatu kecil yang lebih menakutkan daripada lapar: masker keluarga itu basah oleh air kota, dan kain basah bisa jadi pembawa sempurna ketika kamu tak tahu isi botol.\n\nIa menolak mereka dengan tenang dan menunjuk arah angin, menjauh dari kamp. Tanpa debat. Tanpa maaf. Kampnya bertahan hidup dengan membuat penolakan jadi mudah.\n\nSi orang tua mencoba menawar dengan informasi tentang tempat singgah Mara, tapi Sinta memotong: nama tempat aman bukan mata uang—itu beban.\n\nTerpaksa melanjutkan, keluarga itu mendaki tanpa panduan dan belajar betapa cepat bukit menghukum kesalahan. Mereka menemukan naungan terlambat dan air terlalu lambat.\n\nDalam what if ini, Bab 6 berakhir dengan versi paling keras ekonomi dunia baru: kamu bisa tak membawa apa-apa yang menular dan tetap ditolak, karena takut bukan berbasis bukti. Ia berbasis bertahan hidup."
+          }
+        },
+        {
+          "id": "what_if_6_the_wind_changes_early",
+          "type": "what_if",
+          "title": {
+            "en": "Weather Became a Clock",
+            "id": "Cuaca Menjadi Jam"
+          },
+          "content": {
+            "en": "In this path, the valley wind shifts hours earlier than expected. The earthy smell arrives at dusk, thick and confident, as if the lowlands are exhaling on purpose.\n\nThe camp scrambles. Tarps are re-angled, sleeping mats dragged uphill, and every conversation becomes hand signals.\n\nThe family watches Sinta’s people move like a practiced drill and understands something new: survival is not just rules—it’s timing.\n\nThey help relocate condensation sheets and discover that even water tech has a schedule. Wrong placement at the wrong hour can ruin the next day’s supply.\n\nIn this what if, Chapter 6 ends with the family adopting a stricter doctrine than Mara’s: not only ‘don’t be predictable’—don’t be late. The infection travels on the calendar of wind.",
+            "id": "Dalam jalur ini, angin lembah bergeser beberapa jam lebih cepat dari dugaan. Bau tanah datang saat senja, pekat dan yakin, seolah dataran rendah sedang mengembuskan napas dengan sengaja.\n\nKamp jadi kalang kabut. Terpal diubah sudutnya, alas tidur diseret menanjak, dan semua percakapan berubah jadi isyarat tangan.\n\nKeluarga itu melihat orang-orang Sinta bergerak seperti latihan yang terulang dan paham sesuatu baru: bertahan hidup bukan cuma aturan—tapi timing.\n\nMereka membantu memindahkan lembar penangkap embun dan menemukan bahwa teknologi air pun punya jadwal. Penempatan salah di jam salah bisa merusak suplai besok.\n\nDalam what if ini, Bab 6 berakhir dengan keluarga itu mengadopsi doktrin yang lebih ketat dari Mara: bukan hanya ‘jangan bisa ditebak’—jangan terlambat. Infeksi menumpang kalender angin."
+          }
+        },
+        {
+          "id": "what_if_6_the_spring_is_compromised",
+          "type": "what_if",
+          "title": {
+            "en": "Cold Water, Bad Source",
+            "id": "Air Dingin, Sumber Buruk"
+          },
+          "content": {
+            "en": "In this path, Sinta leads them to the spring—but the coldness is a trick of depth, not purity. The water runs clear, and that clarity becomes the bait.\n\nNear the spring, they find chalk marks different from the city’s: a triangle cut in bark, repeated up the trail. Someone else has indexed this place.\n\nThey arrive to see evidence of a recent crowd: crushed grass, discarded cloth, and a single wet mask left like a flag.\n\nSinta doesn’t argue. She turns them around immediately. A safe resource that becomes known stops being safe.\n\nIn this what if, Chapter 6 ends with a loss that feels like betrayal by nature: the hills had water, but humans made it dangerous by turning it into a destination.",
+            "id": "Dalam jalur ini, Sinta membawa mereka ke mata air—tapi dinginnya adalah tipu daya kedalaman, bukan kemurnian. Airnya jernih, dan kejernihan itu jadi umpan.\n\nDekat mata air, mereka menemukan tanda-tanda yang berbeda dari kapur kota: segitiga terukir di kulit pohon, berulang di jalur. Orang lain sudah mengindeks tempat ini.\n\nMereka tiba dan melihat jejak kerumunan baru-baru ini: rumput remuk, kain dibuang, dan satu masker basah tertinggal seperti bendera.\n\nSinta tidak berdebat. Ia langsung memutar balik. Sumber aman yang jadi pengetahuan umum berhenti jadi aman.\n\nDalam what if ini, Bab 6 berakhir dengan kehilangan yang terasa seperti dikhianati alam: bukit punya air, tapi manusia membuatnya berbahaya dengan menjadikannya tujuan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Settlement That Won’t Be Named",
+        "id": "Permukiman yang Tak Boleh Disebut"
+      },
+      "preview": {
+        "en": "To rebuild, people must gather. To survive, they must never look like a crowd. The only stable home is one that keeps moving.",
+        "id": "Untuk membangun ulang, orang harus berkumpul. Untuk selamat, mereka tak boleh terlihat seperti kerumunan. Rumah paling stabil adalah yang terus bergerak."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The Unmarked Village",
+            "id": "Desa Tanpa Tanda"
+          },
+          "content": {
+            "en": "They walk behind Sinta’s group for two days, never in a single file for long, never on the same ridge twice. The camp teaches them a hill discipline: footsteps are data, and repetition is a flare.\n\nAt each rest, someone checks wind by letting ash fall from their fingers. If it drifts downhill, they move. If it rises, they stay. Weather becomes a schedule, and the schedule becomes a law.\n\nOn the third day, Sinta points at a stand of trees that looks like any other. No flags. No smoke. No obvious path. She tells them the first rule before they see anyone: \"If you can describe where it is, you can kill it.\"\n\nThe ‘village’ is not one place. It’s three micro-camps spread across a slope: one for water, one for sleeping, one for cooking. Each is separated far enough that a single mistake doesn’t infect all of them—socially or biologically.\n\nNo one greets them with names. They’re greeted with tasks. The parent is handed a cracked pot and directed to a boil station where water is kept moving, never left to stagnate. The teenager is shown how to layer cloth and charcoal into a mask that can be dried and re-used. The younger child is given a quiet job: collecting dry twigs from upwind only.\n\nThat night, a new kind of test arrives—not infected, but people. A small group appears at the edge of the trees, exhausted and loud with relief at finding life.\n\nThe unmarked village does not open its arms. It opens its protocols. Sinta steps forward and speaks the hard rule: no newcomers inside the slope until they pass a day of ‘clean air’ observation.\n\nOne of the newcomers argues. Another begs. A third tries to push forward.\n\nSinta doesn’t threaten. She simply points to the wind and the spacing between camps. \"We survive because we are not a crowd,\" she says. \"If you make us a crowd, you turn us back into the city.\"\n\nThe standoff lasts until dawn. The newcomers either accept the boundary or leave.\n\nThe parent watches and finally understands the end of the first week’s arc: the outbreak has made hospitality expensive. Kindness is no longer a feeling; it is logistics.\n\nBefore they sleep again, Sinta gives the family a final gift—an empty notebook wrapped in plastic. It’s old, rain-stained, precious.\n\n\"Write only what you can afford to lose,\" she says. \"And never write the name of a place you want to exist tomorrow.\"\n\nChapter 7 ends with the teenager drawing their first careful diagram of wind direction and camp spacing on the first page, while the parent realizes that ‘home’ is now a technique—one that survives only if it stays undescribed.",
+            "id": "Mereka berjalan di belakang kelompok Sinta selama dua hari, tak pernah lama dalam satu barisan, tak pernah dua kali melewati punggung bukit yang sama. Kamp itu mengajarkan disiplin bukit: jejak adalah data, dan pengulangan adalah suar.\n\nSetiap istirahat, seseorang mengecek angin dengan membiarkan abu jatuh dari jari. Jika melayang turun, mereka pindah. Jika naik, mereka bertahan. Cuaca jadi jadwal, dan jadwal jadi hukum.\n\nHari ketiga, Sinta menunjuk sekumpulan pohon yang tampak biasa. Tak ada bendera. Tak ada asap. Tak ada jalur mencolok. Ia memberi aturan pertama sebelum mereka melihat siapa pun: \"Kalau kamu bisa menjelaskan lokasinya, kamu bisa membunuhnya.\"\n\n‘Desa’ itu bukan satu tempat. Ia tiga mikro-kemah tersebar di lereng: satu untuk air, satu untuk tidur, satu untuk memasak. Jaraknya dibuat cukup jauh agar satu kesalahan tidak menular ke semuanya—secara sosial maupun biologis.\n\nTak ada yang menyambut dengan nama. Mereka disambut dengan tugas. Si orang tua diberi panci retak dan diarahkan ke titik rebus tempat air dijaga terus bergerak, tak pernah dibiarkan tergenang. Si remaja diajari melapisi kain dan arang jadi masker yang bisa dikeringkan dan dipakai ulang. Si anak kecil diberi tugas sunyi: mengumpulkan ranting kering hanya dari arah angin.\n\nMalamnya, ujian baru datang—bukan yang terinfeksi, melainkan manusia. Kelompok kecil muncul di tepi pepohonan, kelelahan dan bising karena lega menemukan kehidupan.\n\nDesa tanpa tanda tidak membuka pelukan. Ia membuka protokol. Sinta maju dan menyampaikan aturan keras: tak ada pendatang masuk ke lereng sebelum melewati satu hari observasi ‘udara bersih’.\n\nSalah satu pendatang berdebat. Yang lain memohon. Yang ketiga mencoba menerobos.\n\nSinta tidak mengancam. Ia hanya menunjuk angin dan jarak antar kemah. \"Kami selamat karena kami bukan kerumunan,\" katanya. \"Kalau kalian membuat kami jadi kerumunan, kalian mengubah kami kembali jadi kota.\"\n\nKebuntuan bertahan sampai fajar. Para pendatang menerima batas itu atau pergi.\n\nSi orang tua menatap dan akhirnya paham akhir busur minggu pertama: wabah membuat keramahtamahan jadi mahal. Kebaikan bukan lagi perasaan; ia logistik.\n\nSebelum tidur lagi, Sinta memberi keluarga itu hadiah terakhir—buku catatan kosong dibungkus plastik. Tua, kena hujan, berharga.\n\n\"Tulis hanya yang sanggup kamu relakan hilang,\" katanya. \"Dan jangan pernah menulis nama tempat yang ingin kamu tetap ada besok.\"\n\nBab 7 berakhir saat si remaja menggambar diagram arah angin dan jarak kemah di halaman pertama, sementara si orang tua sadar bahwa ‘rumah’ kini adalah teknik—yang hanya bisa bertahan bila ia tetap tak terjelaskan."
+          }
+        },
+        {
+          "id": "what_if_7_they_write_the_name_anyway",
+          "type": "what_if",
+          "title": {
+            "en": "Ink Became a Map",
+            "id": "Tinta Menjadi Peta"
+          },
+          "content": {
+            "en": "In this path, the teenager can’t resist the comfort of naming things. They write the village’s name on the first page, then add a crude landmark: the bent pine, the white boulder, the spring line.\n\nThe notebook feels harmless—until it becomes tradable. A hungry visitor later offers salt for ‘any clue’ about safe hills, and the teenager, trying to help, shows the page for only a second.\n\nA second is enough. A name stabilizes a rumor. A landmark turns rumor into a route.\n\nWithin days, strangers begin arriving more frequently, not because they’re malicious, but because the map has given them permission to hope.\n\nIn this what if, Chapter 7 ends with the village forced to do the one thing it was designed to avoid: move. The family learns that writing can be louder than shouting.",
+            "id": "Dalam jalur ini, si remaja tak tahan pada rasa nyaman memberi nama. Ia menulis nama desa di halaman pertama, lalu menambah patokan kasar: pinus bengkok, batu putih, garis mata air.\n\nBuku itu terasa tak berbahaya—sampai ia jadi barang tukar. Seorang pendatang lapar kemudian menawarkan garam untuk ‘petunjuk apa pun’ soal bukit aman, dan si remaja, ingin menolong, menunjukkan halaman itu hanya sedetik.\n\nSedetik cukup. Nama menstabilkan rumor. Patokan mengubah rumor jadi rute.\n\nDalam hitungan hari, orang asing mulai datang lebih sering, bukan karena jahat, melainkan karena peta memberi mereka izin untuk berharap.\n\nDalam what if ini, Bab 7 berakhir dengan desa dipaksa melakukan satu hal yang memang dirancang untuk dihindari: pindah. Keluarga itu belajar bahwa menulis bisa lebih bising daripada berteriak."
+          }
+        },
+        {
+          "id": "what_if_7_the_newcomers_bring_a_child",
+          "type": "what_if",
+          "title": {
+            "en": "The Boundary Met a Cry",
+            "id": "Batas Bertemu Tangis"
+          },
+          "content": {
+            "en": "In this path, the newcomers arrive with a small child whose breathing is shallow and fast. The observation rule suddenly stops feeling like doctrine and starts feeling like cruelty.\n\nSome in the unmarked village argue for bending protocol ‘just once.’ Others insist that ‘just once’ is how the city came back—crowds, funnels, infection.\n\nSinta offers a compromise: the child can be brought to the boil station upwind, but the adults must remain outside the slope until morning.\n\nThe parent helps, and in doing so becomes responsible for an outcome nobody can control. If the child worsens, guilt spreads faster than spores.\n\nIn this what if, Chapter 7 ends with the village surviving but splitting into factions: those who treat rules as salvation, and those who treat rules as something that must answer to suffering.",
+            "id": "Dalam jalur ini, para pendatang datang membawa anak kecil yang napasnya dangkal dan cepat. Aturan observasi tiba-tiba berhenti terasa seperti doktrin dan mulai terasa seperti kejam.\n\nSebagian orang desa berargumen protokol harus dilonggarkan ‘sekali saja.’ Yang lain bersikeras ‘sekali saja’ adalah cara kota hidup lagi—kerumunan, corong, infeksi.\n\nSinta menawarkan kompromi: anak boleh dibawa ke titik rebus dari arah angin, tetapi orang dewasa tetap di luar lereng sampai pagi.\n\nSi orang tua membantu, dan dengan itu ia ikut bertanggung jawab atas hasil yang tak bisa dikendalikan siapa pun. Kalau si anak memburuk, rasa bersalah menyebar lebih cepat daripada spora.\n\nDalam what if ini, Bab 7 berakhir dengan desa tetap selamat tapi terbelah jadi faksi: yang menganggap aturan sebagai keselamatan, dan yang menganggap aturan harus menjawab penderitaan."
+          }
+        },
+        {
+          "id": "what_if_7_the_three_camps_fail",
+          "type": "what_if",
+          "title": {
+            "en": "Spacing Wasn’t Enough",
+            "id": "Jarak Saja Tidak Cukup"
+          },
+          "content": {
+            "en": "In this path, the three micro-camps work—until wind betrays spacing. A rare night inversion pushes warm air uphill and holds it there like a lid.\n\nThe cooking camp’s steam and breath stop dispersing. Cloth masks dampen. Condensation forms on leaves and tarps, and the smell of wet earth returns where it shouldn’t.\n\nSinta orders an immediate relocation of the sleep camp farther up the slope, but moving in the dark creates noise and confusion.\n\nThe family learns a brutal environmental truth: you can design for normal wind, but you cannot design away weather.\n\nIn this what if, Chapter 7 ends with the village still intact, but permanently nomadic. The ‘unmarked’ strategy survives only by accepting that stability is the most dangerous illusion.",
+            "id": "Dalam jalur ini, tiga mikro-kemah bekerja—sampai angin mengkhianati jarak. Inversi malam yang langka mendorong udara hangat naik dan menahannya di sana seperti tutup.\n\nUap masak dan napas berhenti terurai. Masker kain jadi lembap. Embun terbentuk di daun dan terpal, dan bau tanah basah kembali di tempat yang seharusnya tidak.\n\nSinta memerintahkan pemindahan kemah tidur segera lebih tinggi, tapi bergerak dalam gelap menciptakan suara dan kebingungan.\n\nKeluarga itu belajar kebenaran lingkungan yang brutal: kamu bisa merancang untuk angin normal, tapi kamu tak bisa menghapus cuaca.\n\nDalam what if ini, Bab 7 berakhir dengan desa tetap utuh, namun jadi nomaden permanen. Strategi ‘tanpa tanda’ bertahan hanya dengan menerima bahwa stabilitas adalah ilusi paling berbahaya."
+          }
+        },
+        {
+          "id": "what_if_7_the_parent_refuses_the_protocol",
+          "type": "what_if",
+          "title": {
+            "en": "They Wouldn’t Become Like the City",
+            "id": "Mereka Menolak Menjadi Seperti Kota"
+          },
+          "content": {
+            "en": "In this path, the parent watches the newcomers held at the tree line and can’t accept it. The memory of the chained community center hits too hard.\n\nThey argue with Sinta: if survival requires turning people away, then what exactly is being preserved?\n\nSinta answers without anger: a system. A rhythm. A way of living that doesn’t collapse into crowds. She offers the parent a choice—stay and follow protocol, or leave with the newcomers.\n\nThe parent chooses to leave, taking their family back into uncertainty to keep their idea of humanity intact.\n\nIn this what if, Chapter 7 ends with a painful divergence: one path builds survival as logistics, the other builds it as conscience—and both paths demand sacrifice.",
+            "id": "Dalam jalur ini, si orang tua melihat para pendatang ditahan di garis pepohonan dan tak sanggup menerima. Ingatan tentang balai warga yang dirantai menghantam terlalu keras.\n\nIa berdebat dengan Sinta: kalau selamat hidup menuntut menolak orang, maka apa sebenarnya yang sedang dipertahankan?\n\nSinta menjawab tanpa marah: sebuah sistem. Sebuah ritme. Cara hidup yang tidak runtuh jadi kerumunan. Ia memberi pilihan—tinggal dan patuh, atau pergi bersama para pendatang.\n\nSi orang tua memilih pergi, membawa keluarganya kembali ke ketidakpastian demi menjaga gagasan tentang kemanusiaan.\n\nDalam what if ini, Bab 7 berakhir dengan percabangan yang menyakitkan: satu jalur membangun selamat sebagai logistik, yang lain membangunnya sebagai nurani—dan keduanya menuntut pengorbanan."
+          }
+        }
+      ]
+    }
+  ]
+}

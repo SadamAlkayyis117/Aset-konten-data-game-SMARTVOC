@@ -1,0 +1,520 @@
+{
+  "book_id": "beowulf",
+  "title": {
+    "en": "Beowulf",
+    "id": "Beowulf"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "The Terror of Heorot",
+        "id": "Teror Heorot"
+      },
+      "preview": {
+        "en": "A golden mead-hall is cursed by a monster who hates the sound of joy. A young warrior sails across the sea to stop the slaughter.",
+        "id": "Aula madu emas dikutuk oleh monster yang membenci suara sukacita. Seorang prajurit muda berlayar menyeberangi laut untuk menghentikan pembantaian."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Coming of the Geat",
+            "id": "Kedatangan Sang Geat"
+          },
+          "content": {
+            "en": "Hrothgar, King of the Danes, built a magnificent mead-hall called Heorot to reward his warriors. It was a place of light, warmth, and song. But the noise angered Grendel, a demonic monster descended from the biblical Cain, who dwelt in the darkness of the fens. Unable to bear the happiness of men, Grendel attacked Heorot by night, slaughtering thirty warriors in their sleep and dragging their bodies back to his lair.\n\nFor twelve long years, Heorot stood empty at night. The Danes lived in terror, for no sword seemed to pierce Grendel's skin, and no deal could be made with him. Tales of this horror traveled across the sea to Geatland (modern Sweden).\n\nBeowulf, the mightiest warrior of the Geats, heard the story. Seeking glory and wishing to help the good King Hrothgar, he gathered fourteen of his bravest men and sailed to Denmark. Upon landing, he was stopped by the coast guard but declared his noble lineage and intent. At Heorot, he was welcomed, though a jealous courtier named Unferth mocked him, claiming Beowulf had lost a swimming contest in his youth. Beowulf silenced him with the truth: he hadn't lost; he had spent five nights fighting sea monsters in the freezing ocean.\n\nThat night, Hrothgar entrusted Heorot to Beowulf. While the Danes slept elsewhere, Beowulf and his men lay in the hall. Beowulf made a shocking vow: since Grendel used no weapons, he too would fight bare-handed. He stripped off his armor, laid down his sword, and waited in the darkness for the shadow-walker to arrive.",
+            "id": "Hrothgar, Raja orang Danes, membangun aula madu yang megah bernama Heorot untuk menghargai para prajuritnya. Itu adalah tempat yang penuh cahaya, kehangatan, dan nyanyian. Namun kebisingan itu memarahi Grendel, monster iblis keturunan Kain dari Alkitab, yang tinggal di kegelapan rawa-rawa. Tak sanggup menanggung kebahagiaan manusia, Grendel menyerang Heorot di malam hari, membantai tiga puluh prajurit saat mereka tidur dan menyeret mayat mereka kembali ke sarangnya.\n\nSelama dua belas tahun yang panjang, Heorot berdiri kosong di malam hari. Orang-orang Danes hidup dalam ketakutan, karena tak ada pedang yang tampak bisa menembus kulit Grendel, dan tak ada kesepakatan yang bisa dibuat dengannya. Kisah horor ini terdengar hingga ke seberang laut ke Geatland (Swedia modern).\n\nBeowulf, prajurit terkuat bangsa Geat, mendengar cerita itu. Mencari kemuliaan dan ingin membantu Raja Hrothgar yang baik, ia mengumpulkan empat belas orang paling beraninya dan berlayar ke Denmark. Saat mendarat, ia dihentikan oleh penjaga pantai tapi menyatakan garis keturunan dan niat mulianya. Di Heorot, ia disambut, meskipun seorang pejabat istana yang cemburu bernama Unferth mengejeknya, mengklaim Beowulf pernah kalah lomba renang di masa mudanya. Beowulf membungkamnya dengan kebenaran: ia tidak kalah; ia menghabiskan lima malam melawan monster laut di lautan beku.\n\nMalam itu, Hrothgar mempercayakan Heorot pada Beowulf. Sementara orang Danes tidur di tempat lain, Beowulf dan orang-orangnya berbaring di aula. Beowulf bersumpah mengejutkan: karena Grendel tidak menggunakan senjata, ia pun akan bertarung dengan tangan kosong. Ia menanggalkan baju zirahnya, meletakkan pedangnya, dan menunggu dalam kegelapan kedatangan sang pejalan bayangan."
+          }
+        },
+        {
+          "id": "what_if_1_unferth_betrayal",
+          "type": "what_if",
+          "title": {
+            "en": "The Jealous Blade",
+            "id": "Pedang Cemburu"
+          },
+          "content": {
+            "en": "Unferth's jealousy wasn't just words. He secretly worshipped Grendel as a god of strength. That night, as Beowulf waited, Unferth drugged the Geats' mead.\n\nWhen Grendel burst in, Beowulf couldn't rise. He was paralyzed. He watched helplessly as Grendel feasted not just on his men, but on him. The hero died without a fight, his legend ending before it began. Unferth became the new King, ruling a puppet kingdom under the shadow of the monster, proving that envy is deadlier than any beast.",
+            "id": "Kecemburuan Unferth bukan hanya kata-kata. Ia diam-diam memuja Grendel sebagai dewa kekuatan. Malam itu, saat Beowulf menunggu, Unferth membius minuman mead orang-orang Geat.\n\nSaat Grendel mendobrak masuk, Beowulf tak bisa bangkit. Ia lumpuh. Ia menyaksikan tanpa daya saat Grendel berpesta memakan bukan hanya anak buahnya, tapi juga dirinya. Sang pahlawan mati tanpa perlawanan, legendanya berakhir sebelum dimulai. Unferth menjadi Raja baru, memerintah kerajaan boneka di bawah bayang-bayang monster, membuktikan bahwa iri hati lebih mematikan daripada binatang buas mana pun."
+          }
+        },
+        {
+          "id": "what_if_1_grendel_misunderstood",
+          "type": "what_if",
+          "title": {
+            "en": "The Lonely Outcast",
+            "id": "Orang Buangan yang Kesepian"
+          },
+          "content": {
+            "en": "Grendel didn't hate the joy; he craved it. He attacked because he wanted to join the party but didn't know how, and his monstrous strength caused accidents.\n\nBeowulf, sensing this, didn't fight. He offered Grendel a seat and a cup of mead. The monster, confused by kindness, wept. He became the guardian of Heorot, sitting by the door like a giant watchdog. The Danes learned that their 'monster' was just a lonely soul in a scary body, and Beowulf's greatest victory was won with compassion, not strength.",
+            "id": "Grendel tidak membenci kegembiraan itu; ia mendambakannya. Ia menyerang karena ingin ikut pesta tapi tidak tahu caranya, dan kekuatan monsternya menyebabkan kecelakaan.\n\nBeowulf, merasakan hal ini, tidak bertarung. Ia menawari Grendel tempat duduk dan secangkir mead. Monster itu, bingung oleh kebaikan, menangis. Ia menjadi penjaga Heorot, duduk di dekat pintu seperti anjing penjaga raksasa. Orang Danes belajar bahwa 'monster' mereka hanyalah jiwa kesepian dalam tubuh yang menakutkan, dan kemenangan terbesar Beowulf dimenangkan dengan belas kasih, bukan kekuatan."
+          }
+        },
+        {
+          "id": "what_if_1_swimming_loss",
+          "type": "what_if",
+          "title": {
+            "en": "The Fraud",
+            "id": "Sang Penipu"
+          },
+          "content": {
+            "en": "Unferth was right. Beowulf had lost the swimming match. He was a braggart with no real skill, relying on paid poets to puff up his reputation.\n\nWhen he saw Grendel's true size, his courage evaporated. He tried to hide behind a pillar. His men were slaughtered while he cowered. Grendel sniffed him out, laughed at the trembling 'hero', and tossed him out of the hall like trash. Beowulf returned to Geatland in shame, his name becoming a synonym for cowardice, while Heorot burned to the ground.",
+            "id": "Unferth benar. Beowulf kalah dalam lomba renang itu. Ia seorang pembual tanpa kemampuan nyata, mengandalkan penyair bayaran untuk membesarkan reputasinya.\n\nSaat ia melihat ukuran asli Grendel, keberaniannya menguap. Ia mencoba bersembunyi di balik pilar. Anak buahnya dibantai saat ia meringkuk. Grendel mengendusnya, menertawakan 'pahlawan' yang gemetar itu, dan melemparnya keluar aula seperti sampah. Beowulf kembali ke Geatland dalam kehinaan, namanya menjadi sinonim untuk pengecut, sementara Heorot terbakar rata dengan tanah."
+          }
+        },
+        {
+          "id": "what_if_1_weapon_use",
+          "type": "what_if",
+          "title": {
+            "en": "The Broken Sword",
+            "id": "Pedang Patah"
+          },
+          "content": {
+            "en": "Beowulf ignored the advice to fight bare-handed. He trusted steel over flesh. He attacked Grendel with his ancestral sword.\n\nBut the blade shattered on Grendel's cursed hide. The shock left Beowulf defenseless. Grendel seized him. The fight was short and bloody. The lesson was grim: relying on technology (weapons) instead of raw spirit leads to ruin when facing primal forces. The Danes watched in horror as their savior became just another meal.",
+            "id": "Beowulf mengabaikan saran untuk bertarung tangan kosong. Ia lebih percaya baja daripada daging. Ia menyerang Grendel dengan pedang leluhurnya.\n\nTapi bilah itu hancur pada kulit terkutuk Grendel. Guncangan itu membuat Beowulf tak berdaya. Grendel menangkapnya. Pertarungan itu singkat dan berdarah. Pelajarannya suram: mengandalkan teknologi (senjata) alih-alih semangat murni membawa kehancuran saat menghadapi kekuatan purba. Orang Danes menyaksikan dengan ngeri saat penyelamat mereka menjadi sekadar santapan lain."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The Hand of Grendel",
+        "id": "Tangan Grendel"
+      },
+      "preview": {
+        "en": "Man vs Monster in a bare-knuckle brawl. Beowulf rips the enemy apart, but victory leaves a bloody trail.",
+        "id": "Manusia vs Monster dalam pertarungan tangan kosong. Beowulf merobek musuh, tapi kemenangan meninggalkan jejak berdarah."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The Grip of Strength",
+            "id": "Cengkeraman Kekuatan"
+          },
+          "content": {
+            "en": "Grendel burst the iron-bound doors of Heorot with a touch. His eyes burned with a gruesome light. He grabbed a sleeping Geat, tore him apart, bit into his bone-locks, and drank his blood in huge gulps. Then he reached for Beowulf.\n\nBut Beowulf was ready. He seized Grendel's claw in a grip stronger than any man's—the strength of thirty men in one hand. Grendel felt fear for the first time. He tried to pull away, but Beowulf held fast. The hall shook as they crashed into benches. The Danes woke in terror, listening to the monster's screams of pain.\n\nBeowulf's men tried to help, hacking with swords, but no blade could hurt the demon. Beowulf didn't need steel. He twisted Grendel's arm until the sinews snapped and the bone burst. With a sickening tear, Grendel's entire arm was ripped from his shoulder. The monster fled into the night, bleeding to death, seeking his swamp lair to die.\n\nBeowulf hung the bloody arm, claw, and shoulder high under the roof of Heorot as a trophy. The morning brought rejoicing. Hrothgar adopted Beowulf as a son in his heart and showered him with gifts: a golden banner, a breastplate, a helmet, and eight horses. The hall was repaired, a feast was held, and the poets sang of Beowulf's glory. But amidst the celebration, they forgot that Grendel had a mother.",
+            "id": "Grendel menjebol pintu besi Heorot dengan satu sentuhan. Matanya menyala dengan cahaya mengerikan. Ia menyambar seorang Geat yang tidur, mencabiknya, menggigit sendi tulangnya, dan meminum darahnya dalam tegukan besar. Lalu ia meraih Beowulf.\n\nTapi Beowulf sudah siap. Ia mencengkeram cakar Grendel dengan pegangan yang lebih kuat dari manusia mana pun—kekuatan tiga puluh pria dalam satu tangan. Grendel merasakan takut untuk pertama kalinya. Ia mencoba menarik diri, tapi Beowulf memegang erat. Aula berguncang saat mereka menabrak bangku-bangku. Orang Danes terbangun ketakutan, mendengarkan jeritan kesakitan monster itu.\n\nAnak buah Beowulf mencoba membantu, menebas dengan pedang, tapi tak ada bilah yang bisa melukai iblis itu. Beowulf tak butuh baja. Ia memelintir lengan Grendel hingga uratnya putus dan tulangnya meledak. Dengan robekan yang memualkan, seluruh lengan Grendel terlepas dari bahunya. Monster itu lari ke dalam malam, pendarahan hebat, mencari sarang rawanya untuk mati.\n\nBeowulf menggantung lengan, cakar, dan bahu berdarah itu tinggi di bawah atap Heorot sebagai trofi. Pagi membawa sukacita. Hrothgar mengangkat Beowulf sebagai anak dalam hatinya dan menghujaninya dengan hadiah: panji emas, baju dada, helm, dan delapan kuda. Aula diperbaiki, pesta diadakan, dan para penyair menyanyikan kemuliaan Beowulf. Tapi di tengah perayaan, mereka lupa bahwa Grendel punya ibu."
+          }
+        },
+        {
+          "id": "what_if_2_grendel_escapes",
+          "type": "what_if",
+          "title": {
+            "en": "The One That Got Away",
+            "id": "Yang Lolos"
+          },
+          "content": {
+            "en": "Grendel was slippery with blood and sweat. Just as Beowulf twisted, the monster's skin tore loose, but the bone didn't break. Grendel jerked free, leaving only a few claws behind.\n\nHe escaped, wounded but alive. The next night, he didn't come alone. He brought the swamp things—trolls, nixies, and drakes. Heorot was besieged. The single combat turned into a war of attrition. Beowulf realized that maiming a beast only makes it angrier, and now he faced an enemy that knew his tactics and refused to get close enough to be grabbed again.",
+            "id": "Grendel licin oleh darah dan keringat. Tepat saat Beowulf memelintir, kulit monster itu robek, tapi tulangnya tidak patah. Grendel menyentak bebas, hanya meninggalkan beberapa cakar.\n\nIa lolos, terluka tapi hidup. Malam berikutnya, ia tidak datang sendiri. Ia membawa makhluk-makhluk rawa—troll, nixie, dan naga air. Heorot dikepung. Pertarungan tunggal berubah menjadi perang yang melelahkan. Beowulf sadar bahwa melukai binatang buas hanya membuatnya makin marah, dan kini ia menghadapi musuh yang tahu taktiknya dan menolak mendekat cukup untuk ditangkap lagi."
+          }
+        },
+        {
+          "id": "what_if_2_infected_blood",
+          "type": "what_if",
+          "title": {
+            "en": "The Cursed Blood",
+            "id": "Darah Terkutuk"
+          },
+          "content": {
+            "en": "When Grendel's arm tore off, a fountain of black, acidic blood drenched Beowulf. He won, but the blood seeped into his skin.\n\nOver the next few days, Beowulf began to change. His skin grew scales. His temper shortened. He started craving raw meat. The hero of Heorot was slowly transforming into the very monster he defeated. Hrothgar watched in horror as his savior became the new Grendel, realizing the curse of Cain is contagious and violence only breeds more monsters.",
+            "id": "Saat lengan Grendel putus, air mancur darah hitam asam membasahi Beowulf. Ia menang, tapi darah itu meresap ke kulitnya.\n\nSelama beberapa hari berikutnya, Beowulf mulai berubah. Kulitnya menumbuhkan sisik. Emosinya memendek. Ia mulai mendambakan daging mentah. Pahlawan Heorot perlahan berubah menjadi monster yang ia kalahkan. Hrothgar menyaksikan dengan ngeri saat penyelamatnya menjadi Grendel baru, menyadari kutukan Kain itu menular dan kekerasan hanya melahirkan lebih banyak monster."
+          }
+        },
+        {
+          "id": "what_if_2_hall_collapse",
+          "type": "what_if",
+          "title": {
+            "en": "The Collapse",
+            "id": "Keruntuhan"
+          },
+          "content": {
+            "en": "The struggle was too violent for the building. As Beowulf slammed Grendel into the main support pillar, the timber cracked. The magnificent roof of Heorot groaned and collapsed, crushing both combatants and the sleeping Geats.\n\nMorning found only rubble. Grendel was dead, but so was Beowulf. Hrothgar stood over the ruins of his pride, realizing that his desire for a grand hall had essentially built a giant tomb for his greatest hero. The victory was absolute, but the cost was total annihilation.",
+            "id": "Pergulatan itu terlalu keras untuk bangunan tersebut. Saat Beowulf membanting Grendel ke pilar penyangga utama, kayunya retak. Atap megah Heorot mengerang dan runtuh, menimpa kedua petarung dan orang-orang Geat yang tidur.\n\nPagi hanya menyisakan reruntuhan. Grendel mati, tapi begitu juga Beowulf. Hrothgar berdiri di atas puing-puing kebanggaannya, menyadari bahwa hasratnya akan aula megah pada dasarnya telah membangun makam raksasa bagi pahlawan terhebatnya. Kemenangan itu mutlak, tapi harganya adalah kehancuran total."
+          }
+        },
+        {
+          "id": "what_if_2_grendel_surrenders",
+          "type": "what_if",
+          "title": {
+            "en": "The Surrender",
+            "id": "Menyerah"
+          },
+          "content": {
+            "en": "Feeling Beowulf's grip, Grendel didn't fight. He went limp. He whimpered like a beaten dog. 'Mercy!' he gurgled in a crude tongue.\n\nBeowulf was stunned. A monster begging? The code of warriors forbade killing a surrendering foe. Beowulf let him go. Grendel limped away, not to die, but to plot. He realized men had rules, and rules were weaknesses. He returned not as a savage beast, but as a guerilla fighter, using their honor against them, attacking only the weak and unarmed until the Danes begged Beowulf to kill him regardless of honor.",
+            "id": "Merasakan cengkeraman Beowulf, Grendel tidak melawan. Ia lemas. Ia merengek seperti anjing yang dipukuli. 'Ampun!' guraunya dalam bahasa kasar.\n\nBeowulf tertegun. Monster memohon? Kode etik prajurit melarang membunuh musuh yang menyerah. Beowulf melepaskannya. Grendel terpincang pergi, bukan untuk mati, tapi untuk merencanakan. Ia sadar manusia punya aturan, dan aturan adalah kelemahan. Ia kembali bukan sebagai binatang buas, tapi sebagai pejuang gerilya, menggunakan kehormatan mereka untuk melawan mereka, menyerang hanya yang lemah dan tak bersenjata sampai orang Danes memohon Beowulf membunuhnya tak peduli soal kehormatan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Mother's Revenge",
+        "id": "Pembalasan Sang Ibu"
+      },
+      "preview": {
+        "en": "Victory is short-lived. A grieving mother rises from the mere to claim a bloody price for her son's death.",
+        "id": "Kemenangan berumur pendek. Seorang ibu yang berduka bangkit dari danau untuk menuntut harga berdarah atas kematian putranya."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "Attack at Dawn",
+            "id": "Serangan Saat Fajar"
+          },
+          "content": {
+            "en": "The celebration at Heorot lasted late into the night. Beowulf and his men were given comfortable quarters elsewhere, while the Danish warriors slept in the hall, believing the nightmare was over. They hung their shields and helmets by their heads, ready for war but expecting peace.\n\nBut Grendel was not the only monster. His mother, a swamp-hag of terrible power, brooded in her underwater lair. Driven by grief and fury, she came to Heorot to avenge her son. She burst in, seizing Aeschere, Hrothgar's most beloved advisor and best friend. She also grabbed Grendel's severed arm from the rafters, reclaiming her son's dignity.\n\nThe warriors woke in panic, drawing swords, but she was too fast. She escaped back to the fens with her prize. When Hrothgar found Aeschere gone, he was heartbroken. 'Sorrow is renewed!' he cried to Beowulf the next morning. He described the mother's lair: a haunted mere (lake) where the water burns at night and even hunted deer refuse to enter.\n\nBeowulf comforted the King with stoic words: 'It is better to avenge a friend than to mourn him too much.' He promised to track the monster, whether she hid in the earth or the sea. The war party rode to the mere. There, they found a gruesome sight: Aeschere's head severed and placed on the cliff edge as a warning. The water below boiled with blood and sea-serpents. Beowulf donned his war-gear, including a helmet that no blade could bite, and prepared to dive into the abyss alone.",
+            "id": "Perayaan di Heorot berlangsung hingga larut malam. Beowulf dan orang-orangnya diberi tempat tidur nyaman di tempat lain, sementara prajurit Denmark tidur di aula, percaya mimpi buruk telah berakhir. Mereka menggantung perisai dan helm di dekat kepala, siap perang tapi mengharapkan damai.\n\nTapi Grendel bukan satu-satunya monster. Ibunya, wanita rawa berkekuatan mengerikan, merenung di sarang bawah airnya. Didorong oleh duka dan kemurkaan, ia datang ke Heorot untuk membalaskan dendam putranya. Ia mendobrak masuk, menyambar Aeschere, penasihat paling dicintai dan sahabat terbaik Hrothgar. Ia juga mengambil lengan Grendel yang putus dari langit-langit, merebut kembali martabat putranya.\n\nPara prajurit bangun panik, menghunus pedang, tapi ia terlalu cepat. Ia lolos kembali ke rawa dengan hadiahnya. Saat Hrothgar mendapati Aeschere hilang, hatinya hancur. 'Duka diperbarui!' serunya pada Beowulf pagi berikutnya. Ia menggambarkan sarang sang ibu: danau (mere) berhantu di mana airnya terbakar di malam hari dan bahkan rusa buruan menolak memasukinya.\n\nBeowulf menghibur Raja dengan kata-kata tabah: 'Lebih baik membalas dendam teman daripada meratapinya terlalu banyak.' Ia berjanji melacak monster itu, entah ia sembunyi di bumi atau laut. Rombongan perang berkuda ke danau itu. Di sana, mereka menemukan pemandangan mengerikan: kepala Aeschere dipenggal dan ditaruh di tepi tebing sebagai peringatan. Air di bawah mendidih dengan darah dan ular laut. Beowulf mengenakan perlengkapan perangnya, termasuk helm yang tak bisa ditembus pedang, dan bersiap menyelam ke dalam jurang sendirian."
+          }
+        },
+        {
+          "id": "what_if_3_beowulf_refuses",
+          "type": "what_if",
+          "title": {
+            "en": "Not My War",
+            "id": "Bukan Perangku"
+          },
+          "content": {
+            "en": "Beowulf looked at the boiling lake and Aeschere's head. He turned to Hrothgar. 'I killed your monster. I didn't sign up to fight his entire family tree.'\n\nHe argued that his debt was paid. The Geats packed up and left. Hrothgar, abandoned, had to face the Mother alone. He couldn't fight her, so he made a dark pact: he offered her a tribute of one warrior every month to keep the peace. Denmark became a land of ritual sacrifice, and Beowulf's name was remembered not as a hero, but as the mercenary who quit when the job got too hard.",
+            "id": "Beowulf menatap danau mendidih dan kepala Aeschere. Ia menoleh ke Hrothgar. 'Aku membunuh monstermu. Aku tidak mendaftar untuk melawan seluruh silsilah keluarganya.'\n\nIa berargumen bahwa utangnya sudah lunas. Orang-orang Geat berkemas dan pergi. Hrothgar, ditinggalkan, harus menghadapi Ibu Grendel sendirian. Ia tak bisa melawannya, jadi ia membuat pakta gelap: ia menawarkan upeti satu prajurit setiap bulan untuk menjaga perdamaian. Denmark menjadi tanah pengorbanan ritual, dan nama Beowulf dikenang bukan sebagai pahlawan, tapi sebagai tentara bayaran yang berhenti saat pekerjaan jadi terlalu berat."
+          }
+        },
+        {
+          "id": "what_if_3_mother_negotiates",
+          "type": "what_if",
+          "title": {
+            "en": "The Weregild",
+            "id": "Uang Darah"
+          },
+          "content": {
+            "en": "Grendel's Mother didn't attack; she stood at the hall door and demanded *Weregild* (man-price), a legal compensation for murder in Germanic law. 'You killed my son,' she spoke in a terrible voice. 'Pay the price or face the feud.'\n\nHrothgar, respecting the law, paid her in gold and treasure equal to Grendel's weight. She took the gold and left in peace. The Danes were poor but alive. It was an anticlimactic end, proving that even monsters can be bought, and sometimes justice is just a business transaction.",
+            "id": "Ibu Grendel tidak menyerang; ia berdiri di pintu aula dan menuntut *Weregild* (uang darah), kompensasi hukum untuk pembunuhan dalam hukum Jermanik. 'Kau membunuh putraku,' ucapnya dengan suara mengerikan. 'Bayar harganya atau hadapi dendam darah.'\n\nHrothgar, menghormati hukum, membayarnya dengan emas dan harta seberat Grendel. Ia mengambil emas itu dan pergi dengan damai. Orang Danes miskin tapi hidup. Itu adalah akhir yang antiklimaks, membuktikan bahwa bahkan monster bisa dibeli, dan terkadang keadilan hanyalah transaksi bisnis."
+          }
+        },
+        {
+          "id": "what_if_3_trap_at_mere",
+          "type": "what_if",
+          "title": {
+            "en": "The Ambush",
+            "id": "Penyergapan"
+          },
+          "content": {
+            "en": "The head on the cliff was bait. While Beowulf stared at it, the Mother wasn't in the water; she was in the trees above. She dropped a net of woven iron-roots on the war party.\n\nTrapped and tangled, the Geats and Danes were helpless. She dragged them one by one into the water to drown. Beowulf, caught in the mesh, watched his friends die before being pulled under himself. The hero died not in glory, but in a tactical error, outsmarted by a mother protecting her home turf.",
+            "id": "Kepala di tebing itu adalah umpan. Saat Beowulf menatapnya, Ibu Grendel tidak ada di air; ia ada di pepohonan di atas. Ia menjatuhkan jaring akar besi anyaman ke atas rombongan perang.\n\nTerjebak dan terbelit, orang Geat dan Danes tak berdaya. Ia menyeret mereka satu per satu ke air untuk ditenggelamkan. Beowulf, terperangkap dalam jaring, menyaksikan teman-temannya mati sebelum ditarik ke bawah juga. Sang pahlawan mati bukan dalam kemuliaan, tapi karena kesalahan taktis, dikalahkan kecerdasannya oleh seorang ibu yang melindungi wilayahnya."
+          }
+        },
+        {
+          "id": "what_if_3_hrothgar_secret",
+          "type": "what_if",
+          "title": {
+            "en": " The Father's Sin",
+            "id": "Dosa Sang Ayah"
+          },
+          "content": {
+            "en": "As Beowulf prepared to dive, Hrothgar stopped him, weeping. 'Don't kill her,' he confessed. 'She... she was once my lover.'\n\nGrendel was Hrothgar's bastard son, cursed because of a forbidden union with a spirit of the wild. The attacks were a family dispute gone wrong. Beowulf, disgusted by the secret, refused to intervene in a domestic tragedy. He left Hrothgar to face the consequences of his lust, and the Kingdom fell not to monsters, but to the King's own shame.",
+            "id": "Saat Beowulf bersiap menyelam, Hrothgar menghentikannya, menangis. 'Jangan bunuh dia,' akunya. 'Dia... dia dulu kekasihku.'\n\nGrendel adalah anak haram Hrothgar, dikutuk karena hubungan terlarang dengan roh alam liar. Serangan itu adalah perselisihan keluarga yang kacau. Beowulf, jijik dengan rahasia itu, menolak campur tangan dalam tragedi rumah tangga. Ia meninggalkan Hrothgar menghadapi konsekuensi nafsunya, dan Kerajaan jatuh bukan karena monster, tapi karena aib Raja sendiri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Underwater Lair",
+        "id": "Sarang Bawah Air"
+      },
+      "preview": {
+        "en": "Beowulf dives into the haunted lake. His sword fails him, but an ancient giant's blade saves the day.",
+        "id": "Beowulf menyelam ke danau berhantu. Pedangnya mengecewakannya, tapi bilah raksasa kuno menyelamatkan keadaan."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The Giant's Sword",
+            "id": "Pedang Raksasa"
+          },
+          "content": {
+            "en": "Beowulf accepted a sword named Hrunting from Unferth, who had repented his earlier jealousy. The hero then leaped into the churning water. It took him the better part of a day to reach the bottom. As soon as he touched the floor, Grendel's Mother seized him. Her claws couldn't pierce his chainmail, so she dragged him into her battle-hall, a dry cave protected from the water.\n\nBeowulf struck her with Hrunting, but the famous blade failed; it couldn't scratch her evil skin. He threw it aside and wrestled her. She was a match for his strength. She threw him down and sat on him, drawing a dagger to stab his heart. Again, his chainmail saved his life.\n\nScrambling up, Beowulf saw a massive sword hanging on the wall—an ancient weapon forged by giants before the great flood, too heavy for any normal man to lift. Desperate, he seized the hilt and swung it with all his fury. The magical blade sliced through her neck bone, beheading her instantly. Her body fell, and a mysterious light filled the cave.\n\nBeowulf found Grendel's corpse nearby. He cut off the monster's head as a final trophy. The giant's sword, having touched the toxic blood of the monsters, melted away like ice, leaving only the hilt. Beowulf swam back up, carrying Grendel's head and the hilt. The Danes had given up hope and left, but his loyal Geats were waiting. They marched back to Heorot in triumph, carrying the massive head on a spear.",
+            "id": "Beowulf menerima pedang bernama Hrunting dari Unferth, yang telah menyesali kecemburuannya sebelumnya. Sang pahlawan lalu melompat ke air yang bergolak. Butuh waktu hampir seharian baginya untuk mencapai dasar. Begitu ia menyentuh lantai, Ibu Grendel menangkapnya. Cakarnya tak bisa menembus baju rantai Beowulf, jadi ia menyeretnya ke aula pertempurannya, gua kering yang terlindung dari air.\n\nBeowulf menebasnya dengan Hrunting, tapi bilah terkenal itu gagal; tak bisa menggores kulit jahatnya. Ia membuangnya dan bergulat dengannya. Kekuatan wanita itu setara dengannya. Ia membanting Beowulf dan mendudukinya, menghunus belati untuk menikam jantungnya. Sekali lagi, baju rantainya menyelamatkan nyawanya.\n\nSambil merangkak bangun, Beowulf melihat pedang raksasa tergantung di dinding—senjata kuno yang ditempa para raksasa sebelum banjir besar, terlalu berat untuk diangkat manusia biasa. Putus asa, ia menyambar gagangnya dan mengayunkannya dengan segala kemurkaan. Bilah ajaib itu menebas tulang lehernya, memenggalnya seketika. Tubuhnya jatuh, dan cahaya misterius memenuhi gua.\n\nBeowulf menemukan mayat Grendel di dekatnya. Ia memotong kepala monster itu sebagai trofi terakhir. Pedang raksasa itu, setelah menyentuh darah beracun para monster, meleleh seperti es, hanya menyisakan gagangnya. Beowulf berenang kembali ke atas, membawa kepala Grendel dan gagang itu. Orang Danes sudah putus asa dan pergi, tapi orang Geat setianya masih menunggu. Mereka berbaris kembali ke Heorot dengan kemenangan, memanggul kepala raksasa itu di ujung tombak."
+          }
+        },
+        {
+          "id": "what_if_4_sword_too_heavy",
+          "type": "what_if",
+          "title": {
+            "en": "The Unliftable Blade",
+            "id": "Bilah Tak Terangkat"
+          },
+          "content": {
+            "en": "Beowulf saw the giant sword. He rushed to it. He grabbed the hilt. But the legend was true: it was forged for giants, not men. It was too heavy.\n\nHe strained and groaned, wasting precious seconds. Grendel's Mother didn't wait. She stabbed him in the gap of his armor, right under the arm. The hero died grasping a weapon he wasn't strong enough to wield, a tragic reminder that ambition sometimes exceeds ability.",
+            "id": "Beowulf melihat pedang raksasa itu. Ia berlari ke arahnya. Ia meraih gagangnya. Tapi legenda itu benar: pedang itu ditempa untuk raksasa, bukan manusia. Itu terlalu berat.\n\nIa mengejan dan mengerang, membuang detik-detik berharga. Ibu Grendel tidak menunggu. Ia menikamnya di celah baju zirahnya, tepat di bawah ketiak. Sang pahlawan mati sambil menggenggam senjata yang tak cukup kuat ia gunakan, pengingat tragis bahwa ambisi terkadang melampaui kemampuan."
+          }
+        },
+        {
+          "id": "what_if_4_seduction",
+          "type": "what_if",
+          "title": {
+            "en": "The Golden Curse",
+            "id": "Kutukan Emas"
+          },
+          "content": {
+            "en": "The Mother didn't fight. She transformed into a beautiful woman. She offered Beowulf power, wealth, and glory if he became her consort and gave her a new son.\n\nBeowulf, weary of war and tempted by immortality, accepted. He returned to Hrothgar with a fake story of victory. He became a great King, but his soul was sold. Years later, his own son—a dragon-man hybrid—would destroy the kingdom he swore to protect. The hero fell not by the sword, but by desire.",
+            "id": "Sang Ibu tidak melawan. Ia berubah menjadi wanita cantik. Ia menawari Beowulf kekuasaan, kekayaan, dan kemuliaan jika ia menjadi pasangannya dan memberinya putra baru.\n\nBeowulf, lelah berperang dan tergoda oleh keabadian, menerima. Ia kembali ke Hrothgar dengan cerita kemenangan palsu. Ia menjadi Raja hebat, tapi jiwanya telah tergadai. Bertahun-tahun kemudian, putranya sendiri—hibrida manusia-naga—akan menghancurkan kerajaan yang ia sumpah lindungi. Sang pahlawan jatuh bukan karena pedang, tapi karena hasrat."
+          }
+        },
+        {
+          "id": "what_if_4_time_dilation",
+          "type": "what_if",
+          "title": {
+            "en": "The Lost Time",
+            "id": "Waktu yang Hilang"
+          },
+          "content": {
+            "en": "The underwater lair existed in a fairy-realm where time moved differently. Beowulf fought the Mother for what felt like an hour. He won and swam up.\n\nBut when he broke the surface, centuries had passed. The Danes were gone. Heorot was dust. His men were long dead. Beowulf stood alone on a strange shore, a hero without a home, a relic of a forgotten age, realizing that his victory had cost him his entire world.",
+            "id": "Sarang bawah air itu ada di alam peri di mana waktu bergerak berbeda. Beowulf melawan sang Ibu selama yang terasa seperti satu jam. Ia menang dan berenang naik.\n\nTapi saat ia memecah permukaan, berabad-abad telah berlalu. Orang Danes sudah hilang. Heorot menjadi debu. Anak buahnya sudah lama mati. Beowulf berdiri sendirian di pantai asing, pahlawan tanpa rumah, relik dari zaman yang terlupakan, menyadari bahwa kemenangannya telah merenggut seluruh dunianya."
+          }
+        },
+        {
+          "id": "what_if_4_drowns",
+          "type": "what_if",
+          "title": {
+            "en": "The Deep Grave",
+            "id": "Makam Dalam"
+          },
+          "content": {
+            "en": "The swim to the bottom took 'the better part of a day'. That's physically impossible for a human. In this reality, Beowulf simply drowned.\n\nHe ran out of air halfway down. The water filled his lungs. He sank into the darkness, not as a warrior, but as a corpse. Grendel's Mother found him drifting and simply added him to her collection of bones. The Geats waited on the shore until sunset, then mourned a fool who thought he could breathe water.",
+            "id": "Berenang ke dasar butuh waktu 'hampir seharian'. Itu secara fisik mustahil bagi manusia. Dalam realitas ini, Beowulf mati tenggelam begitu saja.\n\nIa kehabisan napas di tengah jalan. Air memenuhi paru-parunya. Ia tenggelam ke dalam kegelapan, bukan sebagai prajurit, tapi sebagai mayat. Ibu Grendel menemukannya hanyut dan sekadar menambahkannya ke koleksi tulangnya. Orang Geat menunggu di pantai sampai matahari terbenam, lalu meratapi orang bodoh yang mengira bisa bernapas dalam air."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Dragon's Hoard",
+        "id": "Harta Naga"
+      },
+      "preview": {
+        "en": "Fifty years of peace are broken by a single stolen cup. A sleeping dragon wakes in fury, burning the land of the Geats.",
+        "id": "Lima puluh tahun kedamaian rusak oleh satu cangkir curian. Naga tidur bangun dalam kemurkaan, membakar tanah orang Geat."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The Thief in the Night",
+            "id": "Pencuri di Malam Hari"
+          },
+          "content": {
+            "en": "After returning from Denmark, Beowulf served his King, Hygelac, faithfully. When Hygelac died in battle and his son also fell, Beowulf ascended to the throne of the Geats. He ruled wisely and well for fifty winters, protecting his people and keeping the peace.\n\nBut in the rocky cliffs near the coast, an ancient Dragon guarded a vast hoard of treasure, left there by a forgotten race of men. For three hundred years, the Dragon slept on his gold in peace. Until one day, a runaway slave, fleeing his master's punishment, stumbled into the cave. Seeing the glitter of gold, he stole a single gem-encrusted goblet, hoping to buy his freedom.\n\nThe Dragon woke and sniffed the air. He found the footprint of a man. He counted his treasure and found the cup missing. In a rage, he waited for nightfall. As soon as the sun set, the Dragon flew out, breathing fire. He burned farms, villages, and even Beowulf's own throne-hall to the ground. The sky glowed red with his fury.\n\nBeowulf, now an old man, felt deep grief and responsibility. He believed he had offended God somehow. Despite his age, he ordered an iron shield to be made (since wood would burn) and prepared to face this new terror. He refused to send an army, insisting it was his fight alone. He gathered twelve warriors to accompany him, plus the thief to show the way, and marched to the Dragon's barrow, sensing that this would be his final battle.",
+            "id": "Setelah kembali dari Denmark, Beowulf melayani Rajanya, Hygelac, dengan setia. Saat Hygelac gugur dalam pertempuran dan putranya juga jatuh, Beowulf naik takhta orang Geat. Ia memerintah dengan bijaksana dan baik selama lima puluh musim dingin, melindungi rakyatnya dan menjaga perdamaian.\n\nTapi di tebing berbatu dekat pantai, seekor Naga kuno menjaga tumpukan harta karun besar, ditinggalkan di sana oleh ras manusia yang terlupakan. Selama tiga ratus tahun, Naga tidur di atas emasnya dalam damai. Sampai suatu hari, seorang budak pelarian, lari dari hukuman tuannya, tersandung masuk ke gua itu. Melihat kilauan emas, ia mencuri satu piala bertatahkan permata, berharap bisa membeli kebebasannya.\n\nNaga bangun dan mengendus udara. Ia menemukan jejak kaki manusia. Ia menghitung hartanya dan mendapati piala itu hilang. Dalam kemurkaan, ia menunggu malam tiba. Begitu matahari terbenam, Naga terbang keluar, menyemburkan api. Ia membakar ladang, desa, dan bahkan aula takhta Beowulf sendiri hingga rata dengan tanah. Langit membara merah karena amarahnya.\n\nBeowulf, kini pria tua, merasakan duka mendalam dan tanggung jawab. Ia percaya ia telah menyinggung Tuhan entah bagaimana. Meski sudah tua, ia memerintahkan perisai besi dibuat (karena kayu akan terbakar) dan bersiap menghadapi teror baru ini. Ia menolak mengirim pasukan, bersikeras ini pertarungannya sendiri. Ia mengumpulkan dua belas prajurit untuk menemaninya, ditambah si pencuri untuk menunjukkan jalan, dan berbaris ke gundukan Naga, merasakan bahwa ini akan menjadi pertempuran terakhirnya."
+          }
+        },
+        {
+          "id": "what_if_5_army_attack",
+          "type": "what_if",
+          "title": {
+            "en": "The Might of Geatland",
+            "id": "Kekuatan Geatland"
+          },
+          "content": {
+            "en": "Beowulf wasn't proud; he was practical. He realized one old man couldn't fight a dragon. He mobilized the entire Geatish army.\n\nArchers darkened the sky with arrows. Catapults launched boulders. The Dragon, overwhelmed by thousands of foes, couldn't focus his fire. He was brought down not by a hero, but by a military strategy. Beowulf survived, proving that a King's true strength lies in his ability to lead, not just to punch.",
+            "id": "Beowulf tidak sombong; ia pragmatis. Ia sadar satu orang tua tak bisa melawan naga. Ia memobilisasi seluruh pasukan Geat.\n\nPemanah menggelapkan langit dengan panah. Katapel meluncurkan batu besar. Naga, kewalahan oleh ribuan musuh, tak bisa memfokuskan apinya. Ia dijatuhkan bukan oleh pahlawan, tapi oleh strategi militer. Beowulf selamat, membuktikan bahwa kekuatan sejati Raja terletak pada kemampuannya memimpin, bukan hanya memukul."
+          }
+        },
+        {
+          "id": "what_if_5_dragon_diplomacy",
+          "type": "what_if",
+          "title": {
+            "en": "The Returned Cup",
+            "id": "Piala yang Dikembalikan"
+          },
+          "content": {
+            "en": "Beowulf took the stolen cup from the slave. Instead of drawing his sword, he walked alone to the cave entrance and placed the cup on the ground. He shouted an apology.\n\nThe Dragon, surprised by this respect, accepted the offering. He recognized Beowulf not as a threat, but as a fellow ancient guardian. They made a truce. The Dragon became the protector of Geatland's borders, and the Kingdom entered an age of untouchable power, guarded by fire and scale.",
+            "id": "Beowulf mengambil piala curian dari budak itu. Alih-alih menghunus pedang, ia berjalan sendirian ke mulut gua dan meletakkan piala itu di tanah. Ia meneriakkan permintaan maaf.\n\nNaga, terkejut oleh rasa hormat ini, menerima persembahan itu. Ia mengenali Beowulf bukan sebagai ancaman, tapi sebagai sesama penjaga kuno. Mereka membuat gencatan senjata. Naga menjadi pelindung perbatasan Geatland, dan Kerajaan memasuki zaman kekuasaan tak tersentuh, dijaga oleh api dan sisik."
+          }
+        },
+        {
+          "id": "what_if_5_thief_sacrificed",
+          "type": "what_if",
+          "title": {
+            "en": "The Scapegoat",
+            "id": "Kambing Hitam"
+          },
+          "content": {
+            "en": "Beowulf demanded justice. He dragged the slave to the cave and threw him inside. 'Here is the thief!' he yelled. 'Take him and leave us be.'\n\nThe Dragon ate the slave and went back to sleep. The kingdom was saved, but Beowulf lost the respect of his people. He had traded a life for peace, violating his oath to protect all subjects, rich or poor. His reign ended in quiet disgrace, remembered as the King who fed the weak to the wolves.",
+            "id": "Beowulf menuntut keadilan. Ia menyeret budak itu ke gua dan melemparnya ke dalam. 'Ini pencurinya!' teriaknya. 'Ambil dia dan biarkan kami tenang.'\n\nNaga memakan budak itu dan kembali tidur. Kerajaan selamat, tapi Beowulf kehilangan rasa hormat rakyatnya. Ia telah menukar nyawa demi kedamaian, melanggar sumpahnya untuk melindungi semua rakyat, kaya atau miskin. Pemerintahannya berakhir dalam aib yang sunyi, dikenang sebagai Raja yang mengumpankan si lemah pada serigala."
+          }
+        },
+        {
+          "id": "what_if_5_dragon_wins_early",
+          "type": "what_if",
+          "title": {
+            "en": " The Burning",
+            "id": "Pembakaran"
+          },
+          "content": {
+            "en": "The Dragon didn't wait for Beowulf to come to him. He attacked the King's procession on the road. Exposed and unprepared, Beowulf was incinerated instantly.\n\nWith the King dead and no heir, Geatland fell into chaos. The Swedes invaded from the north, and the Dragon burned the south. The Geats were wiped from history, leaving only the Dragon hoarding his gold over a land of ash and bones.",
+            "id": "Naga tidak menunggu Beowulf mendatanginya. Ia menyerang rombongan Raja di jalan. Terbuka dan tak siap, Beowulf hangus seketika.\n\nDengan Raja mati dan tanpa pewaris, Geatland jatuh dalam kekacauan. Orang Swedia menyerbu dari utara, dan Naga membakar selatan. Bangsa Geat terhapus dari sejarah, hanya menyisakan Naga yang menimbun emasnya di atas tanah abu dan tulang."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Final Battle",
+        "id": "Pertempuran Terakhir"
+      },
+      "preview": {
+        "en": "Abandoned by his men, an old King faces the dragon alone. Only one young warrior stays to fight by his side.",
+        "id": "Ditinggalkan oleh pasukannya, Raja tua menghadapi naga sendirian. Hanya satu prajurit muda yang tinggal untuk bertarung di sisinya."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "Wiglaf's Loyalty",
+            "id": "Kesetiaan Wiglaf"
+          },
+          "content": {
+            "en": "Beowulf stood before the Dragon's cave and shouted a challenge. The beast roared, spewing a wave of fire. Beowulf raised his iron shield, but the heat was so intense it began to melt. He struck the Dragon with his sword, Naegling, but the ancient blade snapped against the monster's stone-hard scales. For the first time in his life, Beowulf knew he was losing.\n\nSeeing their King surrounded by flames, his ten chosen warriors panicked. Instead of rushing to help, they fled into the woods to save their own lives. Only one remained: a young man named Wiglaf, son of Weohstan. Seeing his lord in distress, Wiglaf remembered the gifts and kindness Beowulf had shown him. 'I would rather burn with my gold-giver than return home with my shield safe!' he cried, shaming the cowards, though they did not turn back.\n\nWiglaf rushed through the smoke to Beowulf's side. 'Beloved Beowulf, do all that you promised in your youth! I shall help you!' Inspired by the boy's courage, Beowulf swung his broken sword again, but the Dragon caught him. The beast bit Beowulf in the neck, its fangs pumping poison into his blood.\n\nDespite the horrific wound, Beowulf did not fall. While the Dragon focused on the King, Wiglaf struck the beast lower down, piercing its soft underbelly. The fire in the Dragon's mouth began to fade. With his last strength, Beowulf drew a dagger from his belt and slashed the Dragon's flank open. Together, the old King and the young warrior killed the beast. The Dragon fell dead, its fire extinguished forever.",
+            "id": "Beowulf berdiri di depan gua Naga dan meneriakkan tantangan. Binatang itu mengaum, memuntahkan gelombang api. Beowulf mengangkat perisai besinya, tapi panasnya begitu hebat hingga mulai meleleh. Ia memukul Naga dengan pedangnya, Naegling, tapi bilah kuno itu patah pada sisik monster yang sekeras batu. Untuk pertama kalinya dalam hidupnya, Beowulf tahu ia kalah.\n\nMelihat Raja mereka dikepung api, sepuluh prajurit pilihannya panik. Alih-alih lari membantu, mereka kabur ke hutan menyelamatkan nyawa sendiri. Hanya satu yang tinggal: pemuda bernama Wiglaf, putra Weohstan. Melihat tuannya dalam kesulitan, Wiglaf teringat hadiah dan kebaikan yang ditunjukkan Beowulf padanya. 'Aku lebih baik terbakar bersama pemberi-emasku daripada pulang dengan perisai utuh!' serunya, mempermalukan para pengecut itu, meski mereka tak berbalik.\n\nWiglaf menerobos asap ke sisi Beowulf. 'Beowulf terkasih, lakukan semua yang kau janjikan di masa muda! Aku akan membantumu!' Terinspirasi keberanian bocah itu, Beowulf mengayunkan pedang patahnya lagi, tapi Naga menangkapnya. Binatang itu menggigit leher Beowulf, taringnya memompa racun ke dalam darahnya.\n\nMeski terluka parah, Beowulf tidak tumbang. Sementara Naga fokus pada Raja, Wiglaf menusuk binatang itu di bagian bawah yang lunak. Api di mulut Naga mulai meredup. Dengan kekuatan terakhirnya, Beowulf menarik belati dari ikat pinggangnya dan menyayat perut Naga hingga terbuka. Bersama-sama, Raja tua dan prajurit muda itu membunuh binatang buas tersebut. Naga jatuh mati, apinya padam selamanya."
+          }
+        },
+        {
+          "id": "what_if_6_wiglaf_flees",
+          "type": "what_if",
+          "title": {
+            "en": "The Lonely King",
+            "id": "Raja yang Kesepian"
+          },
+          "content": {
+            "en": "Wiglaf looked at the fire and his courage failed. He turned and ran with the others. Beowulf fought alone.\n\nWithout a distraction to pierce the underbelly, Beowulf couldn't land the killing blow. The Dragon incinerated him. Then, it turned its gaze to the forest where the cowards hid. It hunted them down one by one. The Geats died without a leader, their kingdom erased because one boy couldn't find his bravery.",
+            "id": "Wiglaf menatap api dan keberaniannya runtuh. Ia berbalik dan lari bersama yang lain. Beowulf bertarung sendirian.\n\nTanpa pengalihan untuk menusuk perut bawah, Beowulf tak bisa mendaratkan pukulan mematikan. Naga itu menghanguskannya. Lalu, ia mengalihkan pandangannya ke hutan tempat para pengecut bersembunyi. Ia memburu mereka satu per satu. Orang Geat mati tanpa pemimpin, kerajaan mereka terhapus karena satu bocah tak bisa menemukan keberaniannya."
+          }
+        },
+        {
+          "id": "what_if_6_wiglaf_dies",
+          "type": "what_if",
+          "title": {
+            "en": "The Sacrifice of Youth",
+            "id": "Pengorbanan Pemuda"
+          },
+          "content": {
+            "en": "Wiglaf charged, but he wasn't fast enough. The Dragon swatted him aside, breaking his back instantly. Beowulf watched his only loyal follower die.\n\nFueled by a berserker rage deeper than any before, Beowulf dropped his weapons and climbed the Dragon. He tore its eye out with his bare hands and ripped its throat open. He killed the beast, but the grief of losing Wiglaf broke his heart before the poison could. He died cursing the cowards who let a boy do a man's job.",
+            "id": "Wiglaf menyerang, tapi ia tak cukup cepat. Naga menepisnya, mematahkan punggungnya seketika. Beowulf menyaksikan satu-satunya pengikut setianya mati.\n\nDipicu oleh amarah berserker yang lebih dalam dari sebelumnya, Beowulf menjatuhkan senjatanya dan memanjat Naga. Ia mencungkil matanya dengan tangan kosong dan merobek tenggorokannya. Ia membunuh binatang itu, tapi duka kehilangan Wiglaf menghancurkan hatinya sebelum racun bisa membunuhnya. Ia mati mengutuk para pengecut yang membiarkan seorang bocah melakukan tugas pria dewasa."
+          }
+        },
+        {
+          "id": "what_if_6_dragon_immortal",
+          "type": "what_if",
+          "title": {
+            "en": "The Unkillable Beast",
+            "id": "Binatang Tak Terbunuh"
+          },
+          "content": {
+            "en": "The dagger struck, but the Dragon's belly wasn't soft. It was armored too. The blade broke.\n\nThe Dragon laughed, a sound like grinding stones. 'I am age,' it rumbled. 'I am time. You cannot kill me.' It swallowed Beowulf whole. Wiglaf, paralyzed by horror, was left alive to tell the tale: the age of heroes was over, and the age of monsters had begun.",
+            "id": "Belati menusuk, tapi perut Naga tidak lunak. Itu berlapis baja juga. Bilahnya patah.\n\nNaga tertawa, suara seperti batu beradu. 'Akulah usia,' gemuruhnya. 'Akulah waktu. Kau tak bisa membunuhku.' Ia menelan Beowulf bulat-bulat. Wiglaf, lumpuh oleh horor, dibiarkan hidup untuk menceritakan kisah itu: zaman pahlawan telah berakhir, dan zaman monster telah dimulai."
+          }
+        },
+        {
+          "id": "what_if_6_both_survive",
+          "type": "what_if",
+          "title": {
+            "en": " The Miracle",
+            "id": "Keajaiban"
+          },
+          "content": {
+            "en": "Beowulf's armor was better made. The bite didn't pierce the neck-guard. The poison didn't enter his blood.\n\nThey killed the Dragon, and Beowulf stood up, shaken but alive. He exiled the cowards and adopted Wiglaf as his heir. Beowulf lived another ten years, teaching Wiglaf how to rule, ensuring the kingdom was strong before he finally passed peacefully in his sleep, proving that sometimes, heroes *do* get to retire.",
+            "id": "Baju zirah Beowulf dibuat lebih baik. Gigitan itu tak menembus pelindung leher. Racun tak masuk ke darahnya.\n\nMereka membunuh Naga, dan Beowulf berdiri, terguncang tapi hidup. Ia mengasingkan para pengecut dan mengangkat Wiglaf sebagai pewarisnya. Beowulf hidup sepuluh tahun lagi, mengajari Wiglaf cara memerintah, memastikan kerajaan kuat sebelum ia akhirnya meninggal dengan damai dalam tidurnya, membuktikan bahwa terkadang, pahlawan *memang* bisa pensiun."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Death of Beowulf",
+        "id": "Kematian Beowulf"
+      },
+      "preview": {
+        "en": "The Dragon is dead, but the King is dying. A grand funeral pyre is built, and the Geats weep for their uncertain future.",
+        "id": "Naga mati, tapi Raja sekarat. Tumpukan kayu pemakaman agung dibangun, dan orang Geat menangisi masa depan mereka yang tak pasti."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The Last Request",
+            "id": "Permintaan Terakhir"
+          },
+          "content": {
+            "en": "The Dragon lay dead, but Beowulf's wound was fatal. The poison boiled in his veins. He sat down by the barrow wall, knowing his end was near. He asked Wiglaf to bring out some of the Dragon's treasure so he could see what he had won for his people.\n\nWiglaf entered the cave and returned with armfuls of gold cups, banners, and ancient armor. Beowulf gazed at the gold and thanked God for allowing him to win such wealth for his folk. He gave his golden necklace (torc), helmet, and rings to Wiglaf, naming him the last of the Waegmunding clan and the new leader of the Geats. 'Fate has swept our whole race away,' he whispered. 'I must follow them.' Then his soul fled from his breast.\n\nThe ten cowardly warriors returned from the woods, ashamed. Wiglaf rebuked them bitterly: 'Death is better for every earl than a life of shame!' He predicted that foreign enemies—Swedes and Franks—would attack as soon as they heard Beowulf was dead. The Geats would be enslaved or destroyed.\n\nThey built a massive funeral pyre on a headland called Hronesness, as Beowulf requested. They hung it with helmets, shields, and shining mail. They laid their beloved lord in the middle and lit the fire. As the smoke rose to heaven, a Geatish woman sang a dirge, dreading the days of slaughter and slavery to come. They buried the Dragon's gold with him—it was as useless to men now as it had been before. Then they built a mound so high that sailors could see it from the sea, a monument to the kindest, mildest, and most eager for fame of all worldly kings.",
+            "id": "Naga terbaring mati, tapi luka Beowulf fatal. Racun mendidih di nadinya. Ia duduk di dinding gundukan, tahu ajalnya sudah dekat. Ia meminta Wiglaf mengeluarkan sebagian harta Naga agar ia bisa melihat apa yang telah dimenangkannya untuk rakyatnya.\n\nWiglaf masuk ke gua dan kembali dengan pelukan penuh piala emas, panji, dan baju zirah kuno. Beowulf menatap emas itu dan bersyukur pada Tuhan yang mengizinkannya memenangkan kekayaan itu untuk rakyatnya. Ia memberikan kalung emas (torc), helm, dan cincinnya pada Wiglaf, menamainya yang terakhir dari klan Waegmunding dan pemimpin baru orang Geat. 'Takdir telah menyapu seluruh ras kita,' bisiknya. 'Aku harus mengikuti mereka.' Lalu jiwanya terbang dari dadanya.\n\nSepuluh prajurit pengecut kembali dari hutan, malu. Wiglaf memarahi mereka dengan pahit: 'Kematian lebih baik bagi setiap bangsawan daripada hidup dalam aib!' Ia meramalkan musuh asing—Swedia dan Frank—akan menyerang begitu mendengar Beowulf mati. Orang Geat akan diperbudak atau dimusnahkan.\n\nMereka membangun tumpukan kayu pemakaman besar di tanjung bernama Hronesness, sesuai permintaan Beowulf. Mereka menggantunginya dengan helm, perisai, dan baju rantai berkilau. Mereka membaringkan tuan tercinta di tengah dan menyalakan api. Saat asap membumbung ke surga, seorang wanita Geat menyanyikan lagu ratapan, menakuti hari-hari pembantaian dan perbudakan yang akan datang. Mereka mengubur emas Naga bersamanya—itu sama tak bergunanya bagi manusia sekarang seperti sebelumnya. Lalu mereka membangun gundukan begitu tinggi hingga pelaut bisa melihatnya dari laut, monumen bagi raja duniawi yang paling baik, paling lembut, dan paling haus akan kemasyhuran."
+          }
+        },
+        {
+          "id": "what_if_7_dragon_sickness",
+          "type": "what_if",
+          "title": {
+            "en": "The New Dragon",
+            "id": "Naga Baru"
+          },
+          "content": {
+            "en": "As Beowulf touched the gold, the curse took hold. The Dragon wasn't just a beast; it was a condition. Whoever kills the dragon and claims the hoard becomes the dragon.\n\nWiglaf watched in horror as his lord's skin hardened into scales and his dying gasps turned into smoke. Beowulf didn't die; he transformed. He drove Wiglaf away with a roar and curled around the treasure, destined to guard it for another three hundred years, a prisoner of his own victory.",
+            "id": "Saat Beowulf menyentuh emas itu, kutukan bekerja. Naga bukan sekadar binatang; itu adalah sebuah kondisi. Siapa pun yang membunuh naga dan mengklaim hartanya akan menjadi naga.\n\nWiglaf menyaksikan dengan ngeri saat kulit tuannya mengeras menjadi sisik dan napas sekaratnya berubah menjadi asap. Beowulf tidak mati; ia berubah. Ia mengusir Wiglaf dengan auman dan melingkar di sekitar harta karun, ditakdirkan untuk menjaganya selama tiga ratus tahun lagi, tawanan dari kemenangannya sendiri."
+          }
+        },
+        {
+          "id": "what_if_7_wiglaf_usurper",
+          "type": "what_if",
+          "title": {
+            "en": "The Usurper",
+            "id": "Sang Perebut Takhta"
+          },
+          "content": {
+            "en": "Wiglaf didn't mourn. He looked at the dying King and saw opportunity. When Beowulf asked to see the gold, Wiglaf returned with nothing. 'There is no gold,' he lied. 'It melted.'\n\nHe suffocated the helpless King with a pillow to speed things up. He took the necklace and the kingdom, ruling as a tyrant who claimed *he* killed the dragon alone while Beowulf hid. History was rewritten by the survivor, and the true hero was remembered as a coward.",
+            "id": "Wiglaf tidak berduka. Ia menatap Raja yang sekarat dan melihat peluang. Saat Beowulf meminta melihat emasnya, Wiglaf kembali dengan tangan kosong. 'Tidak ada emas,' bohongnya. 'Semuanya meleleh.'\n\nIa membekap Raja yang tak berdaya dengan bantal untuk mempercepat kematiannya. Ia mengambil kalung dan kerajaan, memerintah sebagai tiran yang mengklaim *dialah* yang membunuh naga sendirian sementara Beowulf bersembunyi. Sejarah ditulis ulang oleh yang selamat, dan pahlawan sejati dikenang sebagai pengecut."
+          }
+        },
+        {
+          "id": "what_if_7_gold_saves_kingdom",
+          "type": "what_if",
+          "title": {
+            "en": "The Golden Age",
+            "id": "Zaman Keemasan"
+          },
+          "content": {
+            "en": "The Geats didn't bury the gold. They used it. Wiglaf was a visionary economist. He used the Dragon's hoard to hire mercenaries, build stone walls, and forge alliances.\n\nWhen the Swedes attacked, they faced the best-equipped army in the north. Geatland didn't fall; it became an empire. Beowulf's death funded a golden age that lasted a thousand years, proving that while hoarders die, wealth—if spent wisely—is immortality.",
+            "id": "Orang Geat tidak mengubur emas itu. Mereka menggunakannya. Wiglaf adalah ekonom visioner. Ia menggunakan harta Naga untuk menyewa tentara bayaran, membangun tembok batu, dan menjalin aliansi.\n\nSaat orang Swedia menyerang, mereka menghadapi tentara dengan perlengkapan terbaik di utara. Geatland tidak jatuh; ia menjadi kekaisaran. Kematian Beowulf membiayai zaman keemasan yang berlangsung seribu tahun, membuktikan bahwa sementara penimbun mati, kekayaan—jika dibelanjakan dengan bijak—adalah keabadian."
+          }
+        },
+        {
+          "id": "what_if_7_resurrection",
+          "type": "what_if",
+          "title": {
+            "en": "The Undying King",
+            "id": "Raja Abadi"
+          },
+          "content": {
+            "en": "As the funeral pyre was lit, the smoke didn't rise; it swirled back into Beowulf's body. The dragon's blood had mixed with his own, granting him unnatural vitality.\n\nHe sat up in the flames, unburned. The Geats fell to their knees, worshipping him as a god. Beowulf ruled forever, an immortal lich-king on a throne of charred bone, feared by all nations. The hero had died, but something else had taken his place, something that would never let his people rest.",
+            "id": "Saat tumpukan kayu pemakaman dinyalakan, asap tidak membumbung; asap itu berputar kembali ke tubuh Beowulf. Darah naga telah bercampur dengan darahnya sendiri, memberinya vitalitas tak wajar.\n\nIa duduk di dalam api, tak terbakar. Orang Geat jatuh berlutut, memujanya sebagai dewa. Beowulf memerintah selamanya, raja-mayat abadi di atas takhta tulang hangus, ditakuti oleh semua bangsa. Sang pahlawan telah mati, tapi sesuatu yang lain telah menggantikan tempatnya, sesuatu yang tak akan pernah membiarkan rakyatnya beristirahat."
+          }
+        }
+      ]
+    }
+  ]
+}

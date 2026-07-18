@@ -1,0 +1,520 @@
+{
+  "book_id": "the_egyptian_book_of_the_dead",
+  "title": {
+    "en": "The Egyptian Book of the Dead",
+    "id": "Kitab Kematian Mesir"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Awakening in the Duat",
+        "id": "Terbangun di Duat"
+      },
+      "preview": {
+        "en": "A dead person becomes a traveler: the tomb is not an ending, but a threshold that must be crossed with knowledge, names, and courage.",
+        "id": "Orang mati menjadi pengembara: makam bukan akhir, melainkan ambang yang harus dilintasi dengan pengetahuan, nama-nama, dan keberanian."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "Death is not silence; it is a change of address.\n\nThe body lies still, but the self—named, remembered, spoken—rises into motion.\n\nThe world beyond is the Duat: not a single place, but a maze of gates, darkness, and shining dangers.\n\nThe traveler learns the first rule quickly: nothing opens for the unknown.\n\nTo pass, you must speak.\n\nNames matter.\n\nDirections matter.\n\nThe right words matter.\n\nSo the traveler begins with what the living prepared: spells, prayers, and formulas meant to keep the soul intact.\n\nThere are threats that do not look like monsters at first.\n\nConfusion.\n\nForgetting.\n\nA wrong turn that becomes a permanent exile.\n\nThe traveler steadies themself by claiming identity: not as a corpse, but as someone who can stand, see, and answer.\n\nThe journey has a destination, even if it cannot be reached by walking.\n\nBeyond the gates waits judgment.\n\nNot the judgment of strangers, but the judgment of cosmic order.\n\nAnd so Chapter 1 ends with the traveler moving forward—armed with words, guided by memory, and preparing for the moment when the heart will have to speak without a mouth.",
+            "id": "Kematian bukan sunyi; ia hanya pindah alamat.\n\nTubuh terbaring, tapi diri—yang bernama, diingat, disebut—bangkit menjadi gerak.\n\nDunia seberang adalah Duat: bukan satu tempat tunggal, melainkan labirin gerbang, gelap, dan bahaya yang berkilau.\n\nSang pengembara cepat belajar aturan pertama: tak ada yang terbuka bagi yang tak dikenal.\n\nUntuk lewat, kau harus berbicara.\n\nNama itu penting.\n\nArah itu penting.\n\nKata-kata yang tepat itu penting.\n\nMaka pengembara memulai dengan apa yang disiapkan orang hidup: mantra, doa, dan rumus yang menjaga jiwa tetap utuh.\n\nAda ancaman yang awalnya tidak tampak seperti monster.\n\nBingung.\n\nLupa.\n\nSalah belok yang berubah jadi pengasingan permanen.\n\nPengembara meneguhkan diri dengan menyatakan identitas: bukan sebagai mayat, tapi sebagai seseorang yang bisa berdiri, melihat, dan menjawab.\n\nPerjalanan ini punya tujuan, meski tak bisa dicapai hanya dengan berjalan.\n\nDi balik gerbang-gerbang menunggu pengadilan.\n\nBukan pengadilan orang asing, melainkan pengadilan tatanan kosmis.\n\nDan Chapter 1 berakhir saat pengembara melangkah maju—bersenjata kata-kata, dipandu ingatan, bersiap untuk momen ketika hati harus berbicara tanpa mulut."
+          }
+        },
+        {
+          "id": "what_if_1_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Forgets Their Name",
+            "id": "What If: Sang Pengembara Lupa Namanya"
+          },
+          "content": {
+            "en": "The traveler rises, but the first word will not come.\n\nThe name—once held by family mouths, carved on stone, written by priests—slips like sand through closed fingers.\n\nIn the Duat, forgetting is not a feeling.\n\nIt is a lock.\n\nGates wait without anger.\n\nThey simply do not open.\n\nGuardians ask what every threshold asks: “Who are you?”\n\nThe traveler answers with silence.\n\nA second question follows: “By what right do you pass?”\n\nNo spell forms.\n\nNo title holds.\n\nIdentity frays.\n\nThe traveler tries to borrow a name—any name—from the dark.\n\nBut borrowed names fit like чужой clothes: loose, suspicious, wrong.\n\nSo the journey becomes a search not for a road, but for the self.\n\nThe traveler listens for echoes: a mother calling, a friend laughing, a living voice saying the name with certainty.\n\nEach remembered syllable is a step.\n\nEach recovered fragment is armor.\n\nChapter end: the Duat does not defeat the traveler with claws, but with erasure; survival begins not by fighting, but by remembering.",
+            "id": "Sang pengembara bangkit, tapi kata pertama tak kunjung lahir.\n\nNama—yang dulu dipegang mulut keluarga, dipahat di batu, ditulis para imam—melorot seperti pasir dari genggaman.\n\nDi Duat, lupa bukan sekadar perasaan.\n\nIa adalah gembok.\n\nGerbang menunggu tanpa marah.\n\nIa hanya tidak terbuka.\n\nPara penjaga bertanya seperti semua ambang bertanya: “Siapa kamu?”\n\nSang pengembara menjawab dengan sunyi.\n\nPertanyaan kedua menyusul: “Dengan hak apa kamu melintas?”\n\nTak ada mantra terbentuk.\n\nTak ada gelar bertahan.\n\nIdentitas mulai rontok.\n\nPengembara mencoba meminjam nama—nama apa pun—dari gelap.\n\nTapi nama pinjaman menggantung aneh: longgar, mencurigakan, salah.\n\nMaka perjalanan berubah: bukan mencari jalan, melainkan mencari diri.\n\nIa mendengar gema: ibu memanggil, teman tertawa, suara orang hidup menyebut namanya dengan yakin.\n\nSetiap suku kata yang kembali adalah langkah.\n\nSetiap serpih yang pulih adalah zirah.\n\nAkhir bab: Duat tidak mengalahkan pengembara dengan cakar, melainkan dengan penghapusan; bertahan hidup dimulai bukan dengan bertarung, tapi dengan mengingat."
+          }
+        },
+        {
+          "id": "what_if_1_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Tomb Was Poorly Prepared",
+            "id": "What If: Makamnya Tidak Siap"
+          },
+          "content": {
+            "en": "The traveler awakens with no map.\n\nNo neat lines of ink.\n\nNo practiced formulas hidden in wrappings.\n\nNo trusted prayers packed like provisions.\n\nOnly the naked fact of death and the cold surprise of distance.\n\nIn the Duat, ignorance is expensive.\n\nThe traveler learns by making mistakes.\n\nA gate closes.\n\nA shadow laughs.\n\nA wrong answer turns the path into a loop.\n\nYet something else awakens too: improvisation.\n\nThe traveler watches the rules the world insists on.\n\nNames open things.\n\nConfidence matters.\n\nOrder prefers the disciplined.\n\nSo the traveler makes a new kind of spell, built from observation.\n\nThey speak plainly, but with authority.\n\nThey claim identity with no script to lean on.\n\nThe Duat tests them harder—because it can smell uncertainty.\n\nBut the traveler also becomes harder—because necessity is a brutal teacher.\n\nChapter end: without preparation, the journey becomes riskier and slower, but it also becomes more personal; survival is no longer inherited, it is earned.",
+            "id": "Pengembara terbangun tanpa peta.\n\nTanpa baris tinta yang rapi.\n\nTanpa rumus hafalan tersembunyi di balutan.\n\nTanpa doa tepercaya yang dibawa seperti bekal.\n\nHanya fakta telanjang kematian dan kejutan dingin tentang jarak.\n\nDi Duat, ketidaktahuan mahal.\n\nPengembara belajar lewat kesalahan.\n\nGerbang menutup.\n\nBayang tertawa.\n\nJawaban salah membuat jalan jadi putaran.\n\nNamun sesuatu lain ikut bangun: improvisasi.\n\nIa mengamati aturan yang dipaksakan dunia.\n\nNama membuka sesuatu.\n\nKeyakinan itu penting.\n\nTatanan menyukai yang disiplin.\n\nMaka pengembara menciptakan mantra jenis baru, dibangun dari pengamatan.\n\nIa bicara sederhana, tapi berwibawa.\n\nIa mengklaim identitas tanpa naskah untuk bersandar.\n\nDuat menguji lebih keras—karena ia bisa mencium ragu.\n\nTapi pengembara juga jadi lebih keras—karena kebutuhan adalah guru yang kejam.\n\nAkhir bab: tanpa persiapan, perjalanan lebih berisiko dan lebih lambat, tapi juga lebih personal; bertahan hidup bukan lagi warisan, melainkan hasil."
+          }
+        },
+        {
+          "id": "what_if_1_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: A Living Voice Answers Back",
+            "id": "What If: Suara Orang Hidup Menjawab Balik"
+          },
+          "content": {
+            "en": "The traveler speaks into the dark—and hears a voice answer.\n\nNot a god.\n\nNot a guardian.\n\nA living person, at the tomb, calling the name with fierce precision.\n\nThe Duat trembles.\n\nBecause the boundary is supposed to be one-way.\n\nThe traveler feels the name tighten around them like a belt.\n\nIdentity becomes anchored.\n\nWords come faster.\n\nThe gates listen.\n\nThe guardians hesitate.\n\nA strange possibility opens: the dead are not only remembered; they are assisted.\n\nBut the help has a cost.\n\nThe living voice risks being pulled into the same labyrinth.\n\nGrief becomes a rope, and ropes can be yanked from both sides.\n\nThe traveler must choose: accept the help and endanger the living, or cut the connection and walk alone.\n\nChapter end: the Duat is still a maze, but now it is shared; the afterlife becomes a relationship, not just a destination.",
+            "id": "Pengembara bicara ke gelap—dan mendengar jawaban.\n\nBukan dewa.\n\nBukan penjaga.\n\nOrang hidup, di makam, memanggil namanya dengan ketepatan yang garang.\n\nDuat bergetar.\n\nKarena batas seharusnya satu arah.\n\nPengembara merasakan nama itu mengencang di dirinya seperti sabuk.\n\nIdentitas jadi tertambat.\n\nKata-kata datang lebih cepat.\n\nGerbang mendengar.\n\nPara penjaga ragu.\n\nKemungkinan aneh terbuka: orang mati bukan hanya diingat; mereka dibantu.\n\nNamun bantuan punya harga.\n\nSuara orang hidup berisiko terseret ke labirin yang sama.\n\nDuka jadi tali, dan tali bisa ditarik dari dua sisi.\n\nPengembara harus memilih: menerima bantuan dan membahayakan yang hidup, atau memutus hubungan dan berjalan sendiri.\n\nAkhir bab: Duat tetap labirin, tapi kini labirin itu dibagi; alam baka menjadi relasi, bukan sekadar tujuan."
+          }
+        },
+        {
+          "id": "what_if_1_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Refuses the Rules",
+            "id": "What If: Sang Pengembara Menolak Aturan"
+          },
+          "content": {
+            "en": "The traveler wakes and understands the premise immediately: speak the right words, pass the right gates, prove the right self.\n\nAnd then the traveler refuses.\n\nNot out of ignorance.\n\nOut of pride.\n\nThey call the Duat what it is: a bureaucracy of eternity.\n\nThey say: “If truth is cosmic, it should not require passwords.”\n\nThe guardians do not argue.\n\nThey enforce.\n\nPaths narrow.\n\nSilences thicken.\n\nThe traveler discovers that rebellion in the afterlife is not romantic.\n\nIt is lonely.\n\nYet the refusal has a strange power: it clarifies motive.\n\nEvery step becomes a decision, not a recitation.\n\nIf the traveler reaches judgment, it will be with no borrowed authority—only the weight of the life they actually lived.\n\nChapter end: by rejecting the safe script, the traveler makes the Duat harsher, but also makes the journey honest; the next chapters would not be about mastering spells, but about daring to stand unedited before order.",
+            "id": "Pengembara bangun dan langsung paham premisnya: ucapkan kata yang tepat, lewati gerbang yang tepat, buktikan diri yang tepat.\n\nLalu ia menolak.\n\nBukan karena tak tahu.\n\nKarena gengsi.\n\nIa menyebut Duat apa adanya: birokrasi kekekalan.\n\nIa berkata: “Kalau kebenaran itu kosmis, ia tak seharusnya butuh kata sandi.”\n\nPara penjaga tidak berdebat.\n\nMereka menegakkan.\n\nJalan menyempit.\n\nSunyi menebal.\n\nPengembara belajar bahwa pembangkangan di alam baka tidak romantis.\n\nIa sepi.\n\nNamun penolakan itu punya daya aneh: ia menjernihkan motif.\n\nSetiap langkah jadi keputusan, bukan hafalan.\n\nJika pengembara mencapai pengadilan, ia datang tanpa otoritas pinjaman—hanya bobot hidup yang benar-benar ia jalani.\n\nAkhir bab: dengan menolak naskah aman, pengembara membuat Duat lebih keras, tapi juga membuat perjalanan lebih jujur; bab-bab berikutnya bukan soal menguasai mantra, melainkan berani berdiri tanpa edit di depan tatanan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Names, Gates, and Protection",
+        "id": "Nama, Gerbang, dan Perlindungan"
+      },
+      "preview": {
+        "en": "To cross the Duat, the traveler must keep the self intact: knowing names, resisting confusion, and securing passage through guarded thresholds.",
+        "id": "Untuk melintasi Duat, pengembara harus menjaga diri tetap utuh: tahu nama-nama, melawan kebingungan, dan mengamankan jalan lewat ambang yang dijaga."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The traveler learns the Duat is not crossed by strength, but by correctness.\n\nA gate is not just a door.\n\nIt is a question.\n\nEach threshold has a keeper, and each keeper has a nature that must be named.\n\nSo the traveler practices precision.\n\nThey speak their own identity clearly, then speak the identities of the beings who block the way.\n\nNot to flatter.\n\nTo align with order.\n\nSome dangers are physical—fangs, fire, knives.\n\nOthers are subtle: sleep that steals memory, fear that makes words slip, shame that makes the traveler doubt their right to continue.\n\nProtection is not armor.\n\nProtection is composure.\n\nThe traveler holds onto the living world by recalling titles, lineage, and the memory of being addressed with respect.\n\nStep by step, passage is earned.\n\nNot by winning.\n\nBy not unraveling.\n\nAnd as the traveler moves deeper, the signs of judgment become clearer: the road narrows toward a place where speech will no longer be enough.\n\nSoon the heart will be weighed, and truth will have weight.\n\nChapter end: after learning to open gates with names and to survive threats that attack memory and confidence, the traveler advances toward the hall where order itself will ask for proof.",
+            "id": "Pengembara belajar bahwa Duat tidak dilintasi dengan tenaga, melainkan dengan ketepatan.\n\nGerbang bukan sekadar pintu.\n\nIa adalah pertanyaan.\n\nSetiap ambang punya penjaga, dan setiap penjaga punya sifat yang harus disebut.\n\nMaka pengembara melatih presisi.\n\nIa menyebut identitasnya sendiri dengan jelas, lalu menyebut identitas makhluk-makhluk yang menghalangi jalan.\n\nBukan untuk menjilat.\n\nUntuk selaras dengan tatanan.\n\nSebagian bahaya itu fisik—taring, api, pisau.\n\nSebagian lagi halus: tidur yang mencuri ingatan, takut yang membuat kata terpeleset, malu yang membuat pengembara meragukan haknya untuk lanjut.\n\nPerlindungan bukan zirah.\n\nPerlindungan adalah ketenangan.\n\nPengembara menjaga ikatan dengan dunia hidup dengan mengingat gelar, garis keturunan, dan ingatan tentang dirinya yang pernah dipanggil dengan hormat.\n\nSelangkah demi selangkah, jalan dilewati.\n\nBukan dengan menang.\n\nDengan tidak terurai.\n\nDan ketika ia makin dalam, tanda-tanda pengadilan makin jelas: jalan mengerucut ke tempat di mana kata-kata tak lagi cukup.\n\nSebentar lagi hati akan ditimbang, dan kebenaran akan punya bobot.\n\nAkhir bab: setelah belajar membuka gerbang dengan nama dan bertahan dari ancaman yang menyerang ingatan serta keyakinan, pengembara maju menuju balairung tempat tatanan sendiri akan meminta bukti."
+          }
+        },
+        {
+          "id": "what_if_2_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Gatekeeper Demands a New Name",
+            "id": "What If: Penjaga Gerbang Meminta Nama Baru"
+          },
+          "content": {
+            "en": "The traveler arrives prepared, speaking names like keys.\n\nBut the gatekeeper interrupts.\n\n“You may pass,” it says, “only if you accept a new name.”\n\nNot a nickname.\n\nA replacement.\n\nA label that will follow the traveler through every hall beyond.\n\nThe traveler understands the trap: names open doors, but names also define what can be judged.\n\nA new name could make the traveler easier to file, easier to sort, easier to condemn.\n\nRefusing means the gate stays shut.\n\nAccepting means the traveler continues—changed.\n\nSo the traveler bargains.\n\nThey offer a title instead of a surrender.\n\nA name that honors what they truly were, not what a gate wants them to be.\n\nThe gatekeeper considers.\n\nThe threshold creaks.\n\nChapter end: passage is gained, but the traveler learns a deeper danger than monsters—administration of the soul, where identity can be rewritten by procedure.",
+            "id": "Pengembara datang siap, menyebut nama seperti kunci.\n\nTapi penjaga gerbang memotong.\n\n“Kau boleh lewat,” katanya, “hanya kalau kau menerima nama baru.”\n\nBukan julukan.\n\nPengganti.\n\nLabel yang akan menempel pada pengembara di setiap balairung setelahnya.\n\nPengembara menangkap jebaknya: nama membuka pintu, tapi nama juga menentukan apa yang bisa diadili.\n\nNama baru bisa membuatnya lebih mudah diklasifikasi, lebih mudah disortir, lebih mudah dihukum.\n\nMenolak berarti gerbang tetap tertutup.\n\nMenerima berarti jalan terbuka—tapi diri berubah.\n\nMaka pengembara menawar.\n\nIa menawarkan gelar alih-alih menyerah.\n\nNama yang menghormati siapa dirinya sungguh-sungguh, bukan siapa yang gerbang mau.\n\nPenjaga mempertimbangkan.\n\nAmbang berderit.\n\nAkhir bab: jalan didapat, tapi pengembara belajar bahaya yang lebih dalam dari monster—birokrasi jiwa, di mana identitas bisa ditulis ulang oleh prosedur."
+          }
+        },
+        {
+          "id": "what_if_2_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Uses the Wrong Name—And It Still Opens",
+            "id": "What If: Pengembara Menyebut Nama yang Salah—Tapi Gerbang Tetap Terbuka"
+          },
+          "content": {
+            "en": "The traveler speaks with confidence—and makes a mistake.\n\nA syllable slips.\n\nA name comes out wrong.\n\nYet the gate opens anyway.\n\nAt first it feels like mercy.\n\nThen it feels like hunger.\n\nBecause the Duat is a place of tests, and tests do not give free passes.\n\nIf the wrong name works, it means the gate is not verifying truth.\n\nIt is measuring attitude.\n\nObedience.\n\nFear.\n\nThe traveler realizes the system has loopholes.\n\nAnd loopholes have owners.\n\nSomething is letting them in for a reason.\n\nNot to help.\n\nTo track.\n\nTo collect.\n\nChapter end: the traveler advances faster than canon allows, but speed becomes suspicion; each ‘easy’ threshold hints that someone in the dark is investing in their failure later.",
+            "id": "Pengembara bicara dengan yakin—lalu salah.\n\nSatu suku kata terpeleset.\n\nNama keluar keliru.\n\nTapi gerbang tetap terbuka.\n\nAwalnya terasa seperti belas kasih.\n\nLalu terasa seperti lapar.\n\nKarena Duat adalah tempat ujian, dan ujian tidak memberi lolos gratis.\n\nKalau nama salah tetap berhasil, berarti gerbang tidak memverifikasi kebenaran.\n\nIa mengukur sikap.\n\nKepatuhan.\n\nTakut.\n\nPengembara sadar sistem punya celah.\n\nDan celah selalu punya pemilik.\n\nAda sesuatu yang membiarkannya masuk dengan alasan.\n\nBukan untuk menolong.\n\nUntuk menandai.\n\nUntuk mengumpulkan.\n\nAkhir bab: pengembara melaju lebih cepat dari yang ‘seharusnya,’ tapi kecepatan jadi kecurigaan; tiap ambang yang mudah memberi isyarat bahwa seseorang di gelap sedang menabung kegagalannya nanti."
+          }
+        },
+        {
+          "id": "what_if_2_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Protection Fails—Panic Becomes the Spell",
+            "id": "What If: Perlindungan Gagal—Panik yang Jadi Mantra"
+          },
+          "content": {
+            "en": "The traveler reaches a gate and feels the old fear rise.\n\nNot a fear of claws.\n\nA fear of being seen.\n\nWords scatter.\n\nNames that used to line up like soldiers now fall into noise.\n\nThe keeper waits.\n\nThe longer the silence, the heavier it gets.\n\nThe traveler tries to force the formula.\n\nBut force is not composure.\n\nAnd the Duat rewards composure.\n\nSo panic becomes a kind of spell—casting the traveler into loops of the same corridor, the same question, the same failure.\n\nThe traveler learns the humiliating truth: in the afterlife, the enemy can be the self, untrained.\n\nTo proceed, the traveler must master breath, pace, and attention.\n\nNot to impress a god.\n\nTo keep the mind from breaking.\n\nChapter end: the traveler survives without passing, learning that the first true gate is internal; the next attempt will require discipline more than knowledge.",
+            "id": "Pengembara sampai di gerbang dan rasa takut lama naik.\n\nBukan takut cakar.\n\nTakut dilihat.\n\nKata-kata tercerai.\n\nNama-nama yang dulu rapi seperti prajurit jatuh jadi bising.\n\nPenjaga menunggu.\n\nMakin lama sunyi, makin berat.\n\nPengembara mencoba memaksa rumus.\n\nTapi memaksa bukan ketenangan.\n\nDan Duat menghadiahi ketenangan.\n\nMaka panik menjadi mantra—melempar pengembara ke putaran: koridor yang sama, pertanyaan yang sama, gagal yang sama.\n\nPengembara belajar kebenaran yang memalukan: di alam baka, musuh bisa berupa diri sendiri yang tak terlatih.\n\nUntuk maju, ia harus menguasai napas, ritme, dan fokus.\n\nBukan untuk mengesankan dewa.\n\nUntuk mencegah pikirannya pecah.\n\nAkhir bab: pengembara bertahan tanpa benar-benar lolos, dan paham bahwa gerbang pertama ada di dalam; percobaan berikutnya butuh disiplin lebih dari hafalan."
+          }
+        },
+        {
+          "id": "what_if_2_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Helps Another Soul at the Gate",
+            "id": "What If: Pengembara Menolong Jiwa Lain di Gerbang"
+          },
+          "content": {
+            "en": "At the threshold, the traveler finds someone else.\n\nA soul without preparation.\n\nNo names ready.\n\nNo steady voice.\n\nJust trembling.\n\nCanon survival is solitary: pass your gates, keep your self intact.\n\nHere, the traveler shares.\n\nA name.\n\nA phrase.\n\nA rhythm of breath.\n\nThe gatekeeper allows it—but notes it.\n\nBecause help creates obligation.\n\nAnd obligation creates risk.\n\nNow the traveler is not only responsible for the self, but tethered to another’s fear.\n\nYet something changes: the Duat becomes less like a maze and more like a moral space.\n\nThe traveler’s ‘rightness’ starts to include how they treat the helpless.\n\nChapter end: by choosing solidarity over efficiency, the traveler slows down but gains a different kind of protection—one that may matter more when judgment finally arrives.",
+            "id": "Di ambang, pengembara menemukan orang lain.\n\nJiwa tanpa persiapan.\n\nTanpa nama siap.\n\nTanpa suara mantap.\n\nHanya gemetar.\n\nDalam jalur canon, bertahan itu soliter: lewati gerbangmu, jaga dirimu tetap utuh.\n\nDi sini, pengembara berbagi.\n\nSebuah nama.\n\nSebuah frasa.\n\nRitme napas.\n\nPenjaga mengizinkan—tapi mencatat.\n\nKarena bantuan menciptakan kewajiban.\n\nDan kewajiban menciptakan risiko.\n\nKini pengembara bukan hanya bertanggung jawab atas diri, tapi tertambat pada takut orang lain.\n\nNamun sesuatu berubah: Duat jadi kurang seperti labirin dan lebih seperti ruang moral.\n\n‘Kebenaran’ pengembara mulai mencakup cara ia memperlakukan yang lemah.\n\nAkhir bab: dengan memilih solidaritas daripada efisiensi, pengembara melambat tapi mendapat perlindungan jenis lain—yang mungkin lebih penting saat pengadilan akhirnya datang."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Weighing of the Heart",
+        "id": "Penimbangan Hati"
+      },
+      "preview": {
+        "en": "Words can open gates, but only truth can open the future: the traveler enters the hall where the heart is measured against order itself.",
+        "id": "Kata-kata bisa membuka gerbang, tapi hanya kebenaran yang membuka masa depan: pengembara memasuki balairung tempat hati diukur melawan tatanan itu sendiri."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The traveler reaches the hall that does not look like a battlefield, yet feels more dangerous than any gate.\n\nThis is a room of witnesses.\n\nA room of record.\n\nA room where the self cannot hide behind speed.\n\nThe traveler is brought forward to be measured against Ma’at—order, balance, the shape of what should be.\n\nHere the test is simple and impossible: let the heart speak.\n\nThe traveler offers the famous kind of defense that does not brag, but denies.\n\nNot a confession of sins.\n\nA declaration of what was not done.\n\nNot to trick the judges.\n\nTo present a life as a pattern.\n\nThe heart is placed on the scale.\n\nOn the other side waits the standard that does not bend.\n\nThe traveler feels every forgotten cruelty return as weight.\n\nEvery small mercy return as light.\n\nAnd in the corner of the hall, something waits that does not punish—only completes.\n\nIf the heart fails, the traveler is not tortured into improvement.\n\nThey are ended.\n\nErased.\n\nIf the heart balances, the traveler is declared true of voice.\n\nJustified.\n\nAble to pass.\n\nThe traveler learns what the Duat has been teaching all along: knowledge can guide you here, but it cannot replace what you were.\n\nChapter end: the scale settles, and the traveler steps into whatever comes after truth—either continuity, or disappearance.",
+            "id": "Pengembara mencapai balairung yang tidak tampak seperti medan tempur, tapi terasa lebih berbahaya dari gerbang mana pun.\n\nIni ruang para saksi.\n\nRuang catatan.\n\nRuang tempat diri tak bisa bersembunyi di balik kecepatan.\n\nPengembara dibawa maju untuk diukur melawan Ma’at—tatanan, keseimbangan, bentuk dari “yang seharusnya.”\n\nDi sini ujiannya sederhana sekaligus mustahil: biarkan hati berbicara.\n\nPengembara mengajukan pembelaan yang terkenal: bukan membanggakan diri, melainkan menolak.\n\nBukan pengakuan dosa.\n\nPernyataan tentang apa yang tidak dilakukan.\n\nBukan untuk menipu para penilai.\n\nUntuk menghadirkan hidup sebagai pola.\n\nHati diletakkan di timbangan.\n\nDi sisi lain menunggu standar yang tak mau melengkung.\n\nPengembara merasakan setiap kekejaman yang pernah dilupakan kembali sebagai bobot.\n\nSetiap belas kasih kecil kembali sebagai ringan.\n\nDan di sudut balairung, ada sesuatu yang menunggu—bukan untuk menghukum, melainkan untuk menyelesaikan.\n\nJika hati gagal, pengembara tidak disiksa agar membaik.\n\nIa diakhiri.\n\nDihapus.\n\nJika hati seimbang, pengembara dinyatakan ‘benar ucap.’\n\nDibenarkan.\n\nLayak lewat.\n\nPengembara paham pelajaran Duat sejak awal: pengetahuan bisa membawamu sampai sini, tapi ia tak bisa menggantikan siapa dirimu.\n\nAkhir bab: timbangan menetap, dan pengembara melangkah ke apa pun yang datang setelah kebenaran—entah keberlanjutan, atau lenyap."
+          }
+        },
+        {
+          "id": "what_if_3_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Feather Is Heavier Than It Should Be",
+            "id": "What If: Bulu Ma’at Lebih Berat dari Seharusnya"
+          },
+          "content": {
+            "en": "The hall is the same.\n\nThe witnesses are the same.\n\nThe scale is the same.\n\nBut the standard is not.\n\nThe feather feels heavier than order.\n\nHeavier than law.\n\nHeavier than any human life can reasonably balance.\n\nThe traveler watches the beam tilt and understands the horror: this is not judgment.\n\nThis is a rigged outcome.\n\nSomeone has weaponized purity.\n\nThe traveler tries the old defenses—clarity, names, composure.\n\nBut the scale does not care.\n\nThen the traveler does something dangerous.\n\nThey accuse the system.\n\nNot with anger.\n\nWith precision.\n\nThey argue that Ma’at is balance, and balance cannot be a trap.\n\nIf the measure demands impossibility, it is not order—it is tyranny wearing order’s mask.\n\nThe hall goes quiet.\n\nBecause even gods have reputations to maintain.\n\nChapter end: the traveler forces the judges to choose—admit corruption and restore balance, or proceed and reveal that the cosmos itself can be unjust.",
+            "id": "Balairungnya sama.\n\nPara saksinya sama.\n\nTimbangannya sama.\n\nTapi standarnya tidak.\n\nBulu Ma’at terasa lebih berat daripada tatanan.\n\nLebih berat daripada hukum.\n\nLebih berat daripada yang masuk akal untuk ditandingi hidup manusia mana pun.\n\nPengembara melihat palang miring dan paham horornya: ini bukan pengadilan.\n\nIni hasil yang sudah diatur.\n\nAda yang menjadikan ‘kemurnian’ sebagai senjata.\n\nPengembara mencoba pembelaan lama—jernih, nama, tenang.\n\nTapi timbangan tidak peduli.\n\nLalu pengembara melakukan hal berbahaya.\n\nIa menuduh sistemnya.\n\nBukan dengan marah.\n\nDengan presisi.\n\nIa berargumen: Ma’at itu keseimbangan, dan keseimbangan tak bisa jadi jebakan.\n\nJika ukurannya menuntut yang mustahil, itu bukan tatanan—itu tirani memakai topeng tatanan.\n\nBalairung mendadak sunyi.\n\nKarena bahkan dewa pun punya reputasi yang harus dijaga.\n\nAkhir bab: pengembara memaksa para penilai memilih—mengakui korupsi dan mengembalikan keseimbangan, atau lanjut dan membuka bahwa kosmos pun bisa tidak adil."
+          }
+        },
+        {
+          "id": "what_if_3_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Heart Speaks First",
+            "id": "What If: Hati Berbicara Duluan"
+          },
+          "content": {
+            "en": "In canon logic, the traveler speaks, and the heart is weighed. [conversation_history:1]\n\nHere, the heart interrupts.\n\nBefore any declaration.\n\nBefore any denial.\n\nIt speaks like a witness who has waited too long.\n\nNot in words the traveler controls.\n\nIn memories.\n\nIn images.\n\nIn exact moments.\n\nThe hall watches the traveler relive what they tried to summarize.\n\nThe traveler realizes what the spells were really for: not to deceive judges, but to keep the self from collapsing under full recollection.\n\nThe heart does not accuse.\n\nIt simply reports.\n\nAnd the traveler must stand inside the report without flinching.\n\nChapter end: judgment becomes less like a courtroom and more like exposure—truth not as statement, but as unavoidable replay.",
+            "id": "Dalam logika canon, pengembara bicara, lalu hati ditimbang. [conversation_history:1]\n\nDi sini, hati memotong.\n\nSebelum deklarasi apa pun.\n\nSebelum penyangkalan apa pun.\n\nIa berbicara seperti saksi yang terlalu lama menunggu.\n\nBukan dengan kata-kata yang bisa dikendalikan pengembara.\n\nMelainkan ingatan.\n\nGambar.\n\nMomen yang tepat.\n\nBalairung melihat pengembara mengulang hidup yang tadi coba ia rangkum.\n\nPengembara paham fungsi sejati mantra: bukan menipu hakim, tapi menjaga diri agar tidak runtuh saat mengingat total.\n\nHati tidak menuduh.\n\nIa hanya melapor.\n\nDan pengembara harus berdiri di dalam laporan itu tanpa gentar.\n\nAkhir bab: pengadilan jadi kurang seperti ruang sidang dan lebih seperti keterbukaan—kebenaran bukan pernyataan, melainkan putar ulang yang tak terelakkan."
+          }
+        },
+        {
+          "id": "what_if_3_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Fails—But Is Offered a Trade",
+            "id": "What If: Pengembara Gagal—Tapi Ditawari Tukar-Menukar"
+          },
+          "content": {
+            "en": "The beam tilts.\n\nNot by a little.\n\nBy enough to end a story.\n\nThe traveler expects erasure.\n\nCompletion.\n\nThe final mouth closing.\n\nInstead, a clerk of eternity offers a transaction.\n\nA correction.\n\nA bargain.\n\nSurrender a precious memory—one that shaped the traveler’s best self—and the weight will lessen.\n\nThe traveler understands the cruelty: salvation purchased by self-amputation.\n\nTo pass, they must become less themselves.\n\nRefuse, and they are ended.\n\nAccept, and they continue—but hollowed.\n\nChapter end: the traveler faces a new definition of morality: is ‘survival’ still righteous if it requires deleting the very part of you that learned kindness?",
+            "id": "Palang miring.\n\nBukan sedikit.\n\nCukup untuk mengakhiri sebuah kisah.\n\nPengembara menunggu penghapusan.\n\nPenyelesaian.\n\nMulut terakhir yang tertutup.\n\nTapi justru seorang juru catat kekekalan menawarkan transaksi.\n\nSebuah koreksi.\n\nSebuah tawar.\n\nSerahkan satu ingatan berharga—yang membentuk versi terbaik dari diri—maka bobotnya akan berkurang.\n\nPengembara menangkap kekejamannya: keselamatan dibeli dengan amputasi diri.\n\nUntuk lolos, ia harus jadi “kurang dirinya sendiri.”\n\nMenolak: ia berakhir.\n\nMenerima: ia lanjut—tapi berlubang.\n\nAkhir bab: pengembara menghadapi definisi moral baru: apakah ‘bertahan’ masih benar jika syaratnya menghapus bagian diri yang justru belajar berbelas kasih?"
+          }
+        },
+        {
+          "id": "what_if_3_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Balances—And Refuses to Pass",
+            "id": "What If: Pengembara Lulus—Tapi Menolak Lewat"
+          },
+          "content": {
+            "en": "The scale settles.\n\nBalance.\n\nThe hall prepares to proclaim the traveler justified, true of voice, fit to continue. [conversation_history:1]\n\nBut the traveler does not step forward.\n\nThey look back.\n\nThey remember the souls who never had the right words.\n\nThe ones with no preparation.\n\nThe ones whose names were not spoken enough times.\n\nThey ask the judges a question no spell contains:\n\n“If order is real, why is access unequal?”\n\nThe hall stiffens.\n\nBecause this is not a failure.\n\nIt is a challenge.\n\nThe traveler demands a new kind of Ma’at—one that measures systems, not just individuals.\n\nChapter end: the traveler passes the test of the heart, then opens a harder test for the cosmos: can justice remain justice if it only works for the well-equipped?",
+            "id": "Timbangan menetap.\n\nSeimbang.\n\nBalairung bersiap menyatakan pengembara dibenarkan, benar ucap, layak lanjut. [conversation_history:1]\n\nTapi pengembara tidak melangkah.\n\nIa menoleh.\n\nIa ingat jiwa-jiwa yang tak pernah punya kata-kata yang tepat.\n\nYang tak punya persiapan.\n\nYang namanya tidak cukup sering disebut.\n\nIa bertanya pada para penilai pertanyaan yang tidak ada dalam mantra mana pun:\n\n“Kalau tatanan itu nyata, kenapa aksesnya tidak setara?”\n\nBalairung menegang.\n\nKarena ini bukan kegagalan.\n\nIni tantangan.\n\nPengembara menuntut Ma’at jenis baru—yang menimbang sistem, bukan cuma individu.\n\nAkhir bab: pengembara lulus ujian hati, lalu membuka ujian yang lebih sulit bagi kosmos: bisakah keadilan tetap keadilan jika ia hanya bekerja untuk yang sudah ‘siap’?"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Declared True of Voice",
+        "id": "Dinyatakan Benar Ucap"
+      },
+      "preview": {
+        "en": "After judgment, the traveler is no longer merely surviving the Duat; they are admitted into order—learning how to live again beyond death.",
+        "id": "Setelah pengadilan, pengembara bukan lagi sekadar bertahan di Duat; ia diterima ke dalam tatanan—belajar bagaimana hidup lagi melampaui kematian."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The scale has settled.\n\nThe traveler is declared true of voice—no longer a suspect soul, but a recognized one.\n\nYet victory is not comfort.\n\nIt is permission.\n\nThe hall that judged the heart now releases the traveler into a new set of demands: how to exist without being consumed.\n\nThe Duat still contains dangers, but they change shape.\n\nNow the threats are not only beasts and gates.\n\nThey are hunger.\n\nThirst.\n\nThe slow fading that comes when a soul cannot renew itself.\n\nSo the traveler learns the next discipline: transformation.\n\nTo take forms that can move safely.\n\nTo become swift when speed is needed.\n\nTo become hidden when scrutiny is deadly.\n\nTo become radiant when darkness tries to claim ownership.\n\nAnd the traveler learns that nourishment in the beyond is partly ritual, partly relationship: offerings remembered, names spoken, order maintained.\n\nThe traveler does not simply ‘escape’ death.\n\nThey earn a second kind of life—one that must be continually upheld.\n\nChapter end: justified by the weighing, the traveler steps forward into the work of afterlife itself—staying whole, staying fed, staying aligned with Ma’at in a world where drifting is another kind of dying.",
+            "id": "Timbangan sudah menetap.\n\nPengembara dinyatakan benar ucap—bukan lagi jiwa yang dicurigai, tapi jiwa yang diakui.\n\nNamun kemenangan bukan kenyamanan.\n\nIa adalah izin.\n\nBalairung yang menimbang hati kini melepas pengembara ke tuntutan baru: bagaimana “ada” tanpa dilahap.\n\nDuat masih menyimpan bahaya, tapi bentuknya berubah.\n\nKini ancaman bukan hanya binatang dan gerbang.\n\nMelainkan lapar.\n\nHaus.\n\nPudar perlahan yang datang ketika jiwa tidak bisa memperbarui dirinya.\n\nMaka pengembara mempelajari disiplin berikutnya: bertransformasi.\n\nMengambil wujud yang bisa bergerak aman.\n\nMenjadi cepat saat kecepatan dibutuhkan.\n\nMenjadi tersembunyi saat tatapan mematikan.\n\nMenjadi bercahaya saat gelap mencoba mengklaim kepemilikan.\n\nPengembara juga belajar bahwa ‘makan’ di alam baka sebagian adalah ritual, sebagian adalah relasi: persembahan yang diingat, nama yang disebut, tatanan yang dijaga.\n\nPengembara tidak sekadar ‘lolos’ dari mati.\n\nIa meraih jenis hidup kedua—yang harus terus dipelihara.\n\nAkhir bab: setelah lulus penimbangan, pengembara melangkah ke pekerjaan alam baka itu sendiri—tetap utuh, tetap “kenyang,” tetap selaras dengan Ma’at di dunia di mana melenceng adalah bentuk lain dari mati."
+          }
+        },
+        {
+          "id": "what_if_4_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Verdict Is True—But No One Remembers You",
+            "id": "What If: Vonisnya Lulus—Tapi Tak Ada yang Mengingatmu"
+          },
+          "content": {
+            "en": "The traveler is declared true of voice.\n\nThe hall releases them.\n\nAnd then the first new hunger arrives: not for bread, but for recognition.\n\nNo offerings are spoken into the air.\n\nNo name is repeated with love.\n\nNo living mouth anchors the traveler to the world that made them.\n\nAt first, the traveler thinks this is unfair.\n\nThen they realize it is simply physics.\n\nIn the beyond, memory is nourishment.\n\nWithout it, the traveler must learn to sustain the self alone.\n\nThey practice transformation not for glory, but for survival: becoming small to slip past danger, becoming bright to ward off the pull of fading, becoming still to conserve what identity remains.\n\nThe traveler starts to do what the living once did for them: speak their own name, perform their own rites, keep their own order.\n\nChapter end: judgment opens the door, but remembrance keeps the body of the afterlife fed; the traveler must become their own household, or slowly thin into silence.",
+            "id": "Pengembara dinyatakan benar ucap.\n\nBalairung melepasnya.\n\nLalu lapar baru datang: bukan roti, melainkan pengakuan.\n\nTak ada persembahan yang diucapkan ke udara.\n\nTak ada nama yang diulang dengan kasih.\n\nTak ada mulut orang hidup yang menambatkan pengembara pada dunia yang dulu membentuknya.\n\nAwalnya pengembara mengira ini tidak adil.\n\nLalu ia sadar ini sekadar fisika.\n\nDi seberang, ingatan adalah makanan.\n\nTanpanya, pengembara harus belajar menopang diri sendirian.\n\nIa melatih transformasi bukan demi kemuliaan, tapi demi bertahan: menjadi kecil untuk menyelinap dari bahaya, menjadi terang untuk menahan tarikan pudar, menjadi diam untuk menghemat identitas yang tersisa.\n\nPengembara mulai melakukan apa yang dulu dilakukan orang hidup: menyebut namanya sendiri, menjalankan ritusnya sendiri, menjaga tatanannya sendiri.\n\nAkhir bab: pengadilan membuka pintu, tapi ingatan yang memberi makan tubuh alam baka; pengembara harus jadi “rumah” bagi dirinya sendiri, atau perlahan menipis jadi sunyi."
+          }
+        },
+        {
+          "id": "what_if_4_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Transformation Works—But Each Form Costs a Memory",
+            "id": "What If: Transformasi Berhasil—Tapi Tiap Wujud Menukar Satu Ingatan"
+          },
+          "content": {
+            "en": "The traveler steps into the afterlife with permission, and learns the art of becoming.\n\nA bird to cross distance.\n\nA serpent to pass narrow places.\n\nA flame to resist the cold ownership of dark.\n\nIt works.\n\nThe traveler survives.\n\nThen the price reveals itself.\n\nEach change shaves off a memory.\n\nNot the dramatic ones.\n\nThe small ones.\n\nA hand held.\n\nA joke shared.\n\nThe smell of home at dusk.\n\nThe traveler realizes that staying safe is slowly deleting the reasons they wanted safety.\n\nThey hesitate at every new threat.\n\nIs escape worth becoming a stranger to the life that earned them judgment?\n\nSo the traveler begins to ration transformation.\n\nThey choose risk when the risk preserves the self.\n\nThey choose form only when form prevents annihilation.\n\nChapter end: the afterlife becomes a new moral economy—survival versus continuity—where the traveler must decide what to spend to keep moving, and what to protect to remain real.",
+            "id": "Pengembara melangkah ke alam baka dengan izin, lalu belajar seni menjadi.\n\nMenjadi burung untuk menyeberang jarak.\n\nMenjadi ular untuk melewati celah sempit.\n\nMenjadi nyala untuk menolak kepemilikan dingin dari gelap.\n\nItu berhasil.\n\nPengembara bertahan.\n\nLalu harga itu menampakkan diri.\n\nSetiap perubahan mengikis satu ingatan.\n\nBukan yang dramatis.\n\nYang kecil.\n\nPegangan tangan.\n\nLelucon.\n\nAroma rumah saat senja.\n\nPengembara sadar: bertahan aman berarti perlahan menghapus alasan ia ingin aman.\n\nIa ragu setiap kali ancaman datang.\n\nApakah lolos layak jika akhirnya jadi asing bagi hidup yang membawanya ke pengadilan?\n\nMaka pengembara mulai “menghemat” transformasi.\n\nIa memilih risiko saat risiko menjaga diri.\n\nIa memilih wujud hanya saat wujud mencegah lenyap.\n\nAkhir bab: alam baka jadi ekonomi moral baru—bertahan versus berlanjut—dan pengembara harus memutuskan apa yang ia belanjakan untuk terus bergerak, dan apa yang ia lindungi agar tetap nyata."
+          }
+        },
+        {
+          "id": "what_if_4_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: A Justified Soul Is Recruited as a Gatekeeper",
+            "id": "What If: Jiwa Lulus Direkrut Jadi Penjaga Gerbang"
+          },
+          "content": {
+            "en": "The traveler is declared true of voice.\n\nThey expect reward: fields, light, reunion, rest.\n\nInstead, they are offered a role.\n\nA position.\n\nA duty.\n\nThe hall’s order is understaffed, and the Duat is crowded with the newly dead.\n\nA justified soul is valuable because it can be trusted to enforce without corruption.\n\nAt first, the traveler refuses.\n\nThey did not endure judgment to become another obstacle.\n\nBut the offer comes with a sharp truth: the afterlife is not a holiday.\n\nIt is a system.\n\nAnd systems need hands.\n\nSo the traveler accepts on one condition: they will be a gatekeeper who explains, not one who merely blocks.\n\nThey will demand names, but they will also teach names.\n\nThey will test composure, but they will also model it.\n\nChapter end: the traveler crosses from participant to steward, learning that Ma’at is not only a verdict—it is maintenance, repeated forever by those who choose to uphold it.",
+            "id": "Pengembara dinyatakan benar ucap.\n\nIa mengira akan mendapat hadiah: ladang, cahaya, pertemuan, istirahat.\n\nTapi yang ditawarkan justru peran.\n\nJabatan.\n\nTugas.\n\nTatanan balairung kekurangan ‘tangan,’ sementara Duat penuh oleh arus orang mati baru.\n\nJiwa yang lulus bernilai karena dianggap bisa menegakkan aturan tanpa korup.\n\nAwalnya pengembara menolak.\n\nIa tidak menanggung pengadilan untuk jadi penghalang baru.\n\nNamun tawaran itu membawa kebenaran tajam: alam baka bukan liburan.\n\nIa sebuah sistem.\n\nDan sistem butuh pelaksana.\n\nMaka pengembara menerima dengan satu syarat: ia akan jadi penjaga yang menjelaskan, bukan sekadar menutup.\n\nIa menuntut nama, tapi juga mengajarkan nama.\n\nIa menguji ketenangan, tapi juga memberi contoh.\n\nAkhir bab: pengembara bergeser dari peserta menjadi penjaga tatanan, paham bahwa Ma’at bukan cuma vonis—melainkan pemeliharaan yang diulang selamanya oleh mereka yang memilih menegakkannya."
+          }
+        },
+        {
+          "id": "what_if_4_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Is Allowed to Return—But Only at Night",
+            "id": "What If: Pengembara Boleh Kembali—Tapi Hanya Saat Malam"
+          },
+          "content": {
+            "en": "The traveler is justified.\n\nAnd a door appears that the canon path rarely admits: a return.\n\nNot a resurrection.\n\nA visitation.\n\nA permission to cross back to the living world.\n\nBut the permission has a boundary: only at night, only in shadow, only when the living are closest to dreaming.\n\nThe traveler returns to the old home and finds it smaller.\n\nFamiliar and wrong.\n\nThe living do not see clearly; they feel a chill, a pressure, a sudden thought of the dead.\n\nThe traveler realizes the cruelty and the gift are the same.\n\nThey can protect the living from afar—nudging a warning, steering a step away from danger.\n\nBut they cannot be held.\n\nCannot be greeted openly.\n\nCannot be named without fear.\n\nSo the traveler becomes a hidden guardian.\n\nA presence that keeps order by absence.\n\nChapter end: justified by Ma’at, the traveler gains a new kind of purpose—serving the living from the edge of their sight—yet learns that returning is not the same as belonging.",
+            "id": "Pengembara dinyatakan benar.\n\nDan sebuah pintu muncul yang jarang diakui jalur canon: kembali.\n\nBukan kebangkitan.\n\nKunjungan.\n\nIzin melintas balik ke dunia hidup.\n\nTapi izinnya punya batas: hanya malam, hanya bayang, hanya saat orang hidup paling dekat pada mimpi.\n\nPengembara pulang ke rumah lama dan mendapati semuanya lebih kecil.\n\nAkrab tapi salah.\n\nOrang hidup tak melihat jelas; mereka cuma merasakan dingin, tekanan, atau pikiran mendadak tentang yang mati.\n\nPengembara sadar: kekejaman dan anugerahnya satu.\n\nIa bisa melindungi orang hidup dari jauh—mendorong firasat, menggeser langkah menjauh dari bahaya.\n\nTapi ia tak bisa dipeluk.\n\nTak bisa disapa terang-terangan.\n\nTak bisa disebut tanpa takut.\n\nMaka pengembara jadi penjaga tersembunyi.\n\nHadir yang menjaga tatanan lewat ketiadaan.\n\nAkhir bab: setelah dibenarkan oleh Ma’at, pengembara mendapat tujuan baru—melayani orang hidup dari pinggir penglihatan mereka—namun belajar bahwa kembali tidak sama dengan memiliki tempat."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Fields of Reeds",
+        "id": "Ladang Iaru (Fields of Reeds)"
+      },
+      "preview": {
+        "en": "Beyond judgment lies not a paradise of laziness, but a perfected version of life—where the justified soul must still work, eat, and remain aligned with order.",
+        "id": "Sesudah pengadilan, yang menanti bukan surga kemalasan, melainkan versi hidup yang disempurnakan—di mana jiwa yang dibenarkan tetap harus bekerja, makan, dan selaras dengan tatanan."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "With the verdict behind them, the traveler is no longer fighting for permission to exist.\n\nNow they must learn how to exist well.\n\nThey are guided toward the place the living imagine when they hear ‘afterlife’—a country of ordered abundance, where the river runs correctly and the harvest does not betray the hand that sows.\n\nBut it is not a vacation.\n\nIt is continuity.\n\nThe traveler enters a landscape that resembles Egypt made ideal: fields, canals, clear boundaries, familiar labor without the old corruption.\n\nHere the traveler’s new rights matter.\n\nThey can eat without being stolen from.\n\nThey can drink without fear.\n\nThey can rest without dread of the next gate.\n\nYet the traveler also discovers a final practical anxiety: work.\n\nNot punishment-work, but the necessity of participation.\n\nTo belong in an ordered world, one must contribute to order.\n\nSo the traveler learns the last kind of protection: ensuring that duties do not crush them.\n\nThey secure helpers—figures prepared by the living—to answer when labor is demanded.\n\nThey speak the formulas that make service possible without losing the self.\n\nAnd the traveler understands the afterlife’s hidden lesson: eternity is not granted once.\n\nIt is maintained.\n\nChapter end: the traveler reaches the Fields of Reeds, gains stable nourishment and safety, and discovers that the reward for righteousness is not escape from life’s structure, but entry into a life where structure finally makes sense.",
+            "id": "Sesudah vonis, pengembara tidak lagi bertarung demi izin untuk “ada.”\n\nKini ia harus belajar bagaimana “ada” dengan baik.\n\nIa dituntun menuju tempat yang sering dibayangkan orang hidup saat mendengar ‘alam baka’—negeri kelimpahan yang tertata, di mana aliran sungai berjalan benar dan panen tidak mengkhianati tangan yang menanam.\n\nTapi ini bukan liburan.\n\nIni kelanjutan.\n\nPengembara memasuki lanskap yang mirip Mesir versi ideal: ladang, kanal, batas yang jelas, kerja yang terasa akrab namun tanpa korupsi lama.\n\nDi sini hak-hak barunya terasa nyata.\n\nIa bisa makan tanpa dirampas.\n\nIa bisa minum tanpa takut.\n\nIa bisa istirahat tanpa ngeri pada gerbang berikutnya.\n\nNamun pengembara juga menemukan kegelisahan praktis terakhir: kerja.\n\nBukan kerja sebagai hukuman, melainkan kebutuhan untuk berpartisipasi.\n\nUntuk menjadi bagian dari dunia yang tertib, seseorang harus ikut menjaga tertib.\n\nMaka pengembara mempelajari perlindungan jenis terakhir: memastikan kewajiban tidak menghancurkannya.\n\nIa mengamankan para pembantu—sosok-sosok yang disiapkan orang hidup—untuk menjawab saat kerja dituntut.\n\nIa mengucapkan rumus yang membuat pelayanan mungkin tanpa kehilangan diri.\n\nDan pengembara menangkap pelajaran tersembunyi alam baka: kekekalan tidak diberikan sekali.\n\nIa dipelihara.\n\nAkhir bab: pengembara mencapai Ladang Iaru, mendapatkan makanan dan aman yang stabil, lalu sadar bahwa ganjaran kebenaran bukan kabur dari struktur hidup, melainkan masuk ke hidup di mana struktur akhirnya masuk akal."
+          }
+        },
+        {
+          "id": "what_if_5_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Fields Reject the Unfamiliar",
+            "id": "What If: Ladang Menolak yang Tak Dikenal"
+          },
+          "content": {
+            "en": "The traveler arrives expecting rest.\n\nInstead, the Fields feel like a perfectly ordered village that does not recognize a newcomer.\n\nThe canals run straight.\n\nThe boundaries are clean.\n\nThe harvest is ready.\n\nYet every path quietly redirects the traveler back to the edge.\n\nNo monster attacks.\n\nNo gate slams.\n\nOnly polite refusal.\n\nOrder has a new face here: bureaucracy without violence.\n\nThe traveler realizes the truth: passing judgment was only admission to the afterlife.\n\nBelonging requires integration.\n\nSo the traveler begins to do what they avoided in the Duat’s corridors: they ask for instruction.\n\nThey learn local rhythms.\n\nThey offer labor not as payment, but as introduction.\n\nThey practice being known.\n\nChapter end: the Fields are not denied, but earned; the traveler discovers that paradise is not a place you enter—it is a community you must be accepted by.",
+            "id": "Pengembara tiba dengan harapan istirahat.\n\nYang menyambut justru Ladang yang tertata sempurna seperti kampung yang tidak mengenal pendatang.\n\nKanal mengalir lurus.\n\nBatas-batas bersih.\n\nPanen siap.\n\nTapi setiap jalur pelan-pelan mengembalikan pengembara ke tepi.\n\nTak ada monster menyerang.\n\nTak ada gerbang membanting.\n\nHanya penolakan sopan.\n\nTatanan punya wajah baru di sini: birokrasi tanpa kekerasan.\n\nPengembara paham: lulus pengadilan baru berarti boleh “ada” di alam baka.\n\nUntuk benar-benar “punya tempat”, ia harus menyatu.\n\nMaka pengembara mulai melakukan hal yang dulu ia hindari di koridor Duat: meminta diajari.\n\nIa mempelajari ritme setempat.\n\nIa menawarkan kerja bukan sebagai bayar, melainkan perkenalan.\n\nIa berlatih untuk dikenal.\n\nAkhir bab: Ladang bukan ditolak, tapi harus diraih; pengembara sadar bahwa ‘surga’ bukan tempat yang dimasuki—melainkan komunitas yang harus menerimamu."
+          }
+        },
+        {
+          "id": "what_if_5_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Helper Figures Refuse to Work",
+            "id": "What If: Para Pembantu Menolak Bekerja"
+          },
+          "content": {
+            "en": "The traveler reaches the Fields with stable safety at last.\n\nThen the first labor-call comes.\n\nThe traveler turns to the prepared helpers—those meant to answer in their place.\n\nBut the helpers do not move.\n\nThey stare like carved wood.\n\nOr worse: they speak.\n\nThey say they are tired of being commanded for someone else’s eternity.\n\nThe traveler is forced into a new trial.\n\nNot moral judgment.\n\nManagement.\n\nIf order is the prize, then order must be practiced.\n\nSo the traveler negotiates.\n\nThey offer the helpers dignity: rotations, rest, shared reward.\n\nThey learn that even in an ideal world, exploitation rots the edges.\n\nChapter end: the Fields remain abundant, but the traveler discovers that ‘eternal life’ can still reproduce old injustices unless someone actively prevents it.",
+            "id": "Pengembara sampai di Ladang dengan rasa aman yang stabil.\n\nLalu panggilan kerja pertama datang.\n\nPengembara menoleh ke para pembantu—yang seharusnya menjawab menggantikannya.\n\nTapi para pembantu tidak bergerak.\n\nMereka menatap seperti kayu pahatan.\n\nAtau lebih buruk: mereka bicara.\n\nMereka berkata lelah jadi yang diperintah demi kekekalan orang lain.\n\nPengembara dipaksa masuk ujian baru.\n\nBukan pengadilan moral.\n\nTapi cara mengatur.\n\nKalau tatanan adalah hadiah, tatanan harus dipraktikkan.\n\nMaka pengembara menawar.\n\nIa menawarkan martabat: giliran, jeda, ganjaran bersama.\n\nIa belajar bahwa bahkan di dunia ideal, pemerasan tetap bisa membusukkan tepi.\n\nAkhir bab: Ladang tetap melimpah, tapi pengembara paham bahwa ‘hidup kekal’ masih bisa menyalin ketidakadilan lama kalau tidak ada yang mencegahnya."
+          }
+        },
+        {
+          "id": "what_if_5_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Misses the Struggle",
+            "id": "What If: Pengembara Merindukan Pergulatan"
+          },
+          "content": {
+            "en": "The Fields offer what the Duat never did: stability.\n\nNo ambush.\n\nNo sudden tests.\n\nNo looming erasure.\n\nThe traveler eats.\n\nDrinks.\n\nSleeps.\n\nAnd then feels something shameful: emptiness.\n\nThe traveler realizes that for so long, identity was sharpened by threat.\n\nNow, without danger, the self feels blunt.\n\nThe traveler begins seeking tasks.\n\nHard tasks.\n\nNot to suffer.\n\nTo feel real.\n\nThey volunteer to maintain canals, settle disputes, teach the newly arrived how to keep their balance.\n\nChapter end: the traveler learns that peace is also work—because a life with no struggle still requires meaning, and meaning does not automatically come with safety.",
+            "id": "Ladang memberi apa yang Duat tidak pernah beri: stabil.\n\nTak ada penyergapan.\n\nTak ada ujian mendadak.\n\nTak ada ancaman penghapusan.\n\nPengembara makan.\n\nMinum.\n\nTidur.\n\nLalu merasakan sesuatu yang memalukan: kosong.\n\nPengembara sadar: selama ini identitas ditajamkan oleh ancaman.\n\nSekarang, tanpa bahaya, diri terasa tumpul.\n\nPengembara mulai mencari tugas.\n\nTugas yang berat.\n\nBukan untuk menderita.\n\nUntuk merasa nyata.\n\nIa menawarkan diri merawat kanal, menyelesaikan sengketa, mengajari jiwa-jiwa baru cara menjaga keseimbangan.\n\nAkhir bab: pengembara belajar bahwa damai juga pekerjaan—karena hidup tanpa pergulatan tetap butuh makna, dan makna tidak otomatis datang bersama aman."
+          }
+        },
+        {
+          "id": "what_if_5_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Chooses to End Eternity",
+            "id": "What If: Pengembara Memilih Mengakhiri Kekekalan"
+          },
+          "content": {
+            "en": "The traveler reaches the Fields and understands the offer: continue.\n\nMaintain.\n\nRepeat.\n\nForever.\n\nAt first it sounds like reward.\n\nThen it sounds like a sentence.\n\nNot because the Fields are cruel.\n\nBecause ‘forever’ is heavy.\n\nThe traveler asks a forbidden question: is rest still rest if it never ends?\n\nThey seek an exit—an honorable one.\n\nA way to dissolve without shame, returning to order as water returns to a river.\n\nThe caretakers of the Fields hesitate.\n\nBecause a system built on continuation fears voluntary endings.\n\nChapter end: the traveler stands at the edge of the ultimate choice—prove devotion by persisting, or prove freedom by releasing the self—revealing that even paradise contains a final philosophical gate.",
+            "id": "Pengembara tiba di Ladang dan paham tawarannya: lanjut.\n\nPelihara.\n\nUlang.\n\nSelamanya.\n\nAwalnya terdengar seperti ganjaran.\n\nLalu terdengar seperti hukuman.\n\nBukan karena Ladang kejam.\n\nKarena ‘selamanya’ itu berat.\n\nPengembara bertanya hal terlarang: apakah istirahat masih istirahat kalau tidak pernah selesai?\n\nIa mencari jalan keluar—yang terhormat.\n\nCara melarut tanpa malu, kembali ke tatanan seperti air kembali ke sungai.\n\nPara penjaga Ladang ragu.\n\nKarena sistem yang dibangun dari keberlanjutan takut pada akhir yang dipilih sendiri.\n\nAkhir bab: pengembara berdiri di pinggir pilihan pamungkas—membuktikan bakti dengan bertahan, atau membuktikan kebebasan dengan melepas diri—menunjukkan bahwa bahkan ‘surga’ punya gerbang filosofis terakhir."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Sailing with the Sun",
+        "id": "Berlayar bersama Matahari"
+      },
+      "preview": {
+        "en": "Having earned a stable afterlife, the justified soul seeks a higher belonging: joining the solar journey that renews order each day and resists the return of chaos.",
+        "id": "Setelah meraih alam baka yang stabil, jiwa yang dibenarkan mengejar keterikatan yang lebih tinggi: ikut perjalanan matahari yang memperbarui tatanan tiap hari dan menahan kembalinya chaos."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The Fields are generous, but they are not the peak.\n\nThe traveler learns that even abundance can be local.\n\nTrue permanence belongs to what renews the world.\n\nSo the traveler turns toward the grandest rhythm of all: the sun’s passage.\n\nTo join it is to accept a different kind of eternity—one measured in cycles, not in stillness.\n\nThe traveler is admitted among the companions who travel with the sun, where order is not assumed but actively defended.\n\nNight is not simply dark.\n\nNight is a corridor where chaos presses closer.\n\nThe traveler understands why the Duat was filled with gates and questions: the cosmos itself is gated.\n\nEach cycle demands vigilance.\n\nEach passage demands alignment.\n\nThe traveler offers what they have learned—names, composure, refusal to unravel—now as service, not merely survival.\n\nThey stand with those who keep the route from collapsing.\n\nThey watch the horizon return.\n\nThey learn that ‘rebirth’ is not a single reward after judgment.\n\nIt is an ongoing act.\n\nChapter end: the traveler moves beyond private salvation and joins a communal maintenance of Ma’at, discovering that the afterlife’s highest honor is participation in the work that keeps the world from sliding back into disorder.",
+            "id": "Ladang melimpah, tapi itu bukan puncak.\n\nPengembara belajar bahwa bahkan kelimpahan bisa bersifat lokal.\n\nKebertahanan yang sejati milik sesuatu yang memperbarui dunia.\n\nMaka pengembara menoleh pada ritme paling agung: lintasan matahari.\n\nMengikutinya berarti menerima kekekalan jenis lain—diukur dalam siklus, bukan diam.\n\nPengembara diterima di antara para pendamping yang berlayar bersama matahari, tempat tatanan tidak dianggap ‘otomatis’ melainkan harus dijaga.\n\nMalam bukan sekadar gelap.\n\nMalam adalah koridor tempat chaos menekan lebih dekat.\n\nPengembara paham kenapa Duat penuh gerbang dan pertanyaan: kosmos sendiri bergated.\n\nSetiap siklus menuntut kewaspadaan.\n\nSetiap lintasan menuntut keselarasan.\n\nPengembara menawarkan apa yang telah ia pelajari—nama, ketenangan, kemampuan tidak terurai—kini sebagai pelayanan, bukan sekadar bertahan.\n\nIa berdiri bersama mereka yang menjaga jalur agar tidak runtuh.\n\nIa menunggu cakrawala kembali.\n\nIa belajar bahwa ‘lahir kembali’ bukan hadiah sekali jadi setelah pengadilan.\n\nIa tindakan yang terus diulang.\n\nAkhir bab: pengembara melampaui keselamatan pribadi dan masuk pemeliharaan Ma’at secara komunal, menyadari bahwa kehormatan tertinggi alam baka adalah ikut bekerja agar dunia tidak meluncur kembali ke ketidakteraturan."
+          }
+        },
+        {
+          "id": "what_if_6_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Refuses to Board the Solar Barque",
+            "id": "What If: Pengembara Menolak Naik Perahu Matahari"
+          },
+          "content": {
+            "en": "The invitation is offered like an honor.\n\nJoin the sun.\n\nRenew the world.\n\nKeep order alive.\n\nThe traveler understands the prestige—and refuses.\n\nNot out of laziness.\n\nOut of weariness.\n\nThey have crossed gates, survived questions, stood before scales.\n\nThey do not want a new duty.\n\nThey want quiet.\n\nThe attendants do not threaten.\n\nThey simply step aside.\n\nAnd the traveler learns the first consequence: the highest order is communal.\n\nTo decline is to choose a smaller eternity.\n\nThe Fields remain.\n\nThe food remains.\n\nBut the horizon stops feeling like a promise.\n\nIt becomes a wall.\n\nThe traveler watches the sun’s work from a distance and realizes that even paradise can become a room if one never participates in what keeps it lit.\n\nChapter end: refusing the solar journey does not damn the traveler, but it limits them; the afterlife becomes safe and still, and the traveler must decide whether safety without renewal is truly rest.",
+            "id": "Undangan itu datang seperti kehormatan.\n\nIkut matahari.\n\nPerbarui dunia.\n\nJaga tatanan tetap hidup.\n\nPengembara paham prestisenya—dan menolak.\n\nBukan karena malas.\n\nKarena lelah.\n\nIa sudah melewati gerbang, selamat dari pertanyaan, berdiri di depan timbangan.\n\nIa tak mau tugas baru.\n\nIa mau sunyi.\n\nPara pendamping tak mengancam.\n\nMereka hanya menyingkir.\n\nDan pengembara belajar konsekuensi pertama: tatanan tertinggi itu komunal.\n\nMenolak berarti memilih kekekalan yang lebih kecil.\n\nLadang tetap ada.\n\nMakanan tetap ada.\n\nTapi cakrawala berhenti terasa seperti janji.\n\nIa jadi tembok.\n\nPengembara menonton kerja matahari dari jauh dan sadar: bahkan ‘surga’ bisa jadi kamar bila seseorang tidak ikut menjaga apa yang membuatnya terang.\n\nAkhir bab: menolak perjalanan matahari tidak otomatis mengutuk pengembara, tapi membatasinya; alam baka jadi aman dan diam, dan pengembara harus memutuskan apakah aman tanpa pembaruan benar-benar istirahat."
+          }
+        },
+        {
+          "id": "what_if_6_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Boards—But Brings Doubt",
+            "id": "What If: Pengembara Naik—Tapi Membawa Keraguan"
+          },
+          "content": {
+            "en": "The traveler boards the solar barque.\n\nThe oars bite the dark.\n\nThe companions stand ready.\n\nThen the traveler feels it: doubt, thin as smoke, sharp as a needle.\n\nNot doubt about gods.\n\nDoubt about worth.\n\n“Am I truly justified,” the traveler thinks, “or merely lucky?”\n\nThe barque reacts.\n\nBecause in this place, inner weather is outer weather.\n\nA small hesitation becomes drag.\n\nA private tremor becomes a wobble in the route.\n\nThe traveler realizes the brutal demand of cosmic service: your interior must be maintained as carefully as the hull.\n\nSo they do the only work that can be done mid-night.\n\nThey steady the mind.\n\nThey repeat identity.\n\nThey practice Ma’at as discipline, not as doctrine.\n\nChapter end: the traveler learns that joining the sun is not about being perfect once; it is about refusing collapse every time the dark asks, quietly, whether you belong.",
+            "id": "Pengembara naik perahu matahari.\n\nDayung menggigit gelap.\n\nPara pendamping bersiap.\n\nLalu pengembara merasakannya: ragu, setipis asap, setajam jarum.\n\nBukan ragu soal dewa.\n\nRagu soal kelayakan.\n\n“Benarkah aku dibenarkan,” pikirnya, “atau cuma beruntung?”\n\nPerahu bereaksi.\n\nKarena di tempat ini, cuaca batin jadi cuaca luar.\n\nRagu kecil jadi hambatan.\n\nGetar privat jadi goyangan di jalur.\n\nPengembara paham tuntutan kejam pelayanan kosmis: bagian dalam harus dipelihara seteliti lambung.\n\nMaka ia melakukan satu-satunya kerja yang bisa dilakukan di tengah malam.\n\nMenegakkan pikiran.\n\nMengulang identitas.\n\nMempraktikkan Ma’at sebagai disiplin, bukan dogma.\n\nAkhir bab: pengembara belajar bahwa ikut matahari bukan soal sempurna sekali jadi; ini soal menolak runtuh setiap kali gelap bertanya pelan, apakah kamu pantas."
+          }
+        },
+        {
+          "id": "what_if_6_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: A Companion on the Barque Is the Traveler’s Old Enemy",
+            "id": "What If: Salah Satu Pendamping Perahu Adalah Musuh Lama Pengembara"
+          },
+          "content": {
+            "en": "The traveler boards ready to defend the world from chaos.\n\nThen they see a familiar face among the companions.\n\nAn enemy from life.\n\nSomeone who caused harm and never apologized.\n\nThe traveler’s first instinct is outrage.\n\nHow can the judged sit beside the unjust?\n\nBut the barque does not sort by the traveler’s grudges.\n\nIt sorts by function.\n\nThe enemy’s presence forces a second, harder question than any gate asked:\n\nIs Ma’at a weapon to punish, or an order that can include reconciliation?\n\nThe traveler cannot throw the enemy overboard.\n\nNot without damaging the voyage.\n\nSo they attempt the most dangerous spell of all: speaking to the person, not the crime.\n\nThey demand truth.\n\nThey demand acknowledgement.\n\nNot for revenge, but for stability.\n\nChapter end: the traveler discovers that cosmic order is not maintained only by fighting monsters; it is also maintained by confronting unresolved human violence without letting it become the engine of the night.",
+            "id": "Pengembara naik siap melawan chaos.\n\nLalu ia melihat wajah yang dikenalnya di antara para pendamping.\n\nMusuh dari masa hidup.\n\nOrang yang pernah melukai dan tak pernah meminta maaf.\n\nNaluri pertama pengembara adalah murka.\n\nBagaimana yang diadili bisa duduk di samping yang tak adil?\n\nTapi perahu tidak menyortir berdasar dendam pengembara.\n\nIa menyortir berdasar fungsi.\n\nKehadiran musuh itu memaksa pertanyaan kedua yang lebih keras dari gerbang mana pun:\n\nApakah Ma’at itu senjata untuk menghukum, atau tatanan yang bisa memuat rekonsiliasi?\n\nPengembara tak bisa melempar musuhnya ke laut.\n\nTidak tanpa merusak pelayaran.\n\nMaka ia mencoba mantra paling berbahaya: berbicara pada orangnya, bukan semata pada dosanya.\n\nIa menuntut kebenaran.\n\nIa menuntut pengakuan.\n\nBukan demi balas dendam, tapi demi stabilitas.\n\nAkhir bab: pengembara sadar tatanan kosmis tidak hanya dijaga dengan melawan monster; ia juga dijaga dengan menghadapi kekerasan manusia yang belum selesai tanpa membiarkannya jadi mesin malam."
+          }
+        },
+        {
+          "id": "what_if_6_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Saves Chaos to Save Order",
+            "id": "What If: Pengembara Menyelamatkan Chaos demi Menyelamatkan Tatanan"
+          },
+          "content": {
+            "en": "Night tightens around the barque.\n\nThe companions brace for the familiar confrontation: keep the route, repel the devouring dark.\n\nThen the traveler notices something the others ignore.\n\nA small piece of chaos—lost, weak, not attacking.\n\nA fragment that looks less like an enemy and more like a starving thing.\n\nThe traveler understands a dangerous possibility: if order only knows how to destroy, it becomes brittle.\n\nSo the traveler does the unthinkable.\n\nThey offer the fragment a boundary instead of a blade.\n\nA place where it cannot grow large enough to consume, but cannot be crushed into revenge either.\n\nThe companions protest.\n\nCompromise feels like betrayal.\n\nBut the route steadies.\n\nBecause not all chaos is an invader; some is pressure released safely.\n\nChapter end: the traveler learns a paradox of Ma’at—sometimes the strongest order is the one that can contain a little disorder without collapsing into fear.",
+            "id": "Malam menegang di sekitar perahu.\n\nPara pendamping bersiap untuk konfrontasi yang biasa: jaga jalur, halau gelap pemangsa.\n\nLalu pengembara melihat sesuatu yang luput dari yang lain.\n\nSepotong kecil chaos—tersesat, lemah, tidak menyerang.\n\nFragmen yang tampak kurang sebagai musuh dan lebih sebagai sesuatu yang kelaparan.\n\nPengembara menangkap kemungkinan berbahaya: jika tatanan hanya tahu cara menghancurkan, ia jadi rapuh.\n\nMaka pengembara melakukan hal yang tampak tak masuk akal.\n\nIa memberi batas alih-alih pedang.\n\nSatu tempat di mana fragmen itu tidak bisa tumbuh cukup besar untuk melahap, tapi juga tidak dihancurkan sampai berubah jadi dendam.\n\nPara pendamping protes.\n\nKompromi terasa seperti pengkhianatan.\n\nTapi jalur justru stabil.\n\nKarena tidak semua chaos adalah penyerbu; sebagian adalah tekanan yang dilepas dengan aman.\n\nAkhir bab: pengembara belajar paradoks Ma’at—kadang tatanan terkuat adalah yang mampu menampung sedikit ketidakteraturan tanpa runtuh oleh takut."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Becoming an Osiris",
+        "id": "Menjadi ‘Osiris’"
+      },
+      "preview": {
+        "en": "The journey ends where it began: not with escape, but with identity—joining the cycle of death and renewal as a stable, named, enduring being.",
+        "id": "Perjalanan berakhir di tempat ia bermula: bukan dengan kabur, melainkan dengan identitas—masuk ke siklus mati dan pembaruan sebagai sosok yang stabil, bernama, dan bertahan."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "After judgment, after nourishment, after learning to move with the sun’s daily labor, the traveler reaches the last lesson.\n\nThe afterlife is not a place you simply arrive at.\n\nIt is a state you become.\n\nThe traveler is no longer defined by fear of gates.\n\nNo longer defined by the scale.\n\nNo longer defined even by the Fields.\n\nThey are defined by alignment.\n\nBy permanence through practice.\n\nThe traveler is welcomed into the identity the tradition offers as completion: to be ‘an Osiris’—one of the justified dead who participates in renewal rather than resisting death.\n\nThis does not mean becoming a god.\n\nIt means becoming stable.\n\nName secured.\n\nForm secured.\n\nPurpose secured.\n\nThe traveler understands the paradox at the center of the whole journey: to live forever, one must accept death as a component of order, not a mistake.\n\nAnd so the traveler takes their place.\n\nNot as a conqueror of the Duat.\n\nAs a citizen of it.\n\nChapter end: the traveler’s story closes without a final battle—only a final settling, where identity stops scrambling for passage and starts enduring as part of Ma’at.",
+            "id": "Sesudah pengadilan, sesudah belajar ‘kenyang’, sesudah belajar bergerak bersama kerja harian matahari, pengembara sampai pada pelajaran terakhir.\n\nAlam baka bukan tempat yang sekadar kau datangi.\n\nIa keadaan yang kau jadi.\n\nPengembara tidak lagi didefinisikan oleh takut pada gerbang.\n\nTidak lagi didefinisikan oleh timbangan.\n\nBahkan tidak lagi didefinisikan oleh Ladang.\n\nIa didefinisikan oleh keselarasan.\n\nOleh kebertahanan lewat praktik.\n\nPengembara diterima ke identitas yang tradisi tawarkan sebagai penyelesaian: menjadi ‘Osiris’—bagian dari para mati yang dibenarkan, yang ikut dalam pembaruan alih-alih melawan kematian.\n\nIni bukan berarti jadi dewa.\n\nIni berarti jadi stabil.\n\nNama terjaga.\n\nWujud terjaga.\n\nTujuan terjaga.\n\nPengembara menangkap paradoks inti perjalanan: untuk hidup selamanya, kematian harus diterima sebagai komponen tatanan, bukan sebagai kesalahan.\n\nMaka pengembara mengambil tempatnya.\n\nBukan sebagai penakluk Duat.\n\nMelainkan sebagai warga di dalamnya.\n\nAkhir bab: kisah pengembara menutup tanpa pertempuran terakhir—hanya ‘mengendap’ terakhir, ketika identitas berhenti berlari mencari jalan dan mulai bertahan sebagai bagian dari Ma’at."
+          }
+        },
+        {
+          "id": "what_if_7_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Rejects the Osiris-Identity",
+            "id": "What If: Pengembara Menolak Identitas ‘Osiris’"
+          },
+          "content": {
+            "en": "The final offer is presented as completion: become ‘an Osiris,’ join the justified dead, settle into order. [conversation_history:1]\n\nThe traveler refuses.\n\nNot because order is evil.\n\nBecause the traveler fears becoming a category.\n\nThey remember how gates demanded names as keys—and how keys can become collars.\n\nSo they step away from the title and keep only the work: maintaining balance without wearing the uniform of balance.\n\nThe caretakers warn that this is unstable.\n\nIdentity is shelter.\n\nRefusing shelter means living exposed.\n\nBut the traveler accepts exposure as the price of freedom.\n\nChapter end: the traveler becomes a wandering, self-authored afterlife—less protected, more fragile, yet determined to remain singular rather than finalized. [conversation_history:1]",
+            "id": "Tawaran terakhir datang sebagai penyelesaian: menjadi ‘Osiris,’ bergabung dengan para mati yang dibenarkan, menetap dalam tatanan. [conversation_history:1]\n\nPengembara menolak.\n\nBukan karena tatanan itu jahat.\n\nKarena pengembara takut menjadi kategori.\n\nIa ingat bagaimana gerbang menuntut nama sebagai kunci—dan bagaimana kunci bisa berubah jadi kerah.\n\nMaka ia menjauh dari gelar, dan hanya menyimpan kerja: memelihara keseimbangan tanpa memakai seragam keseimbangan.\n\nPara penjaga memperingatkan ini tidak stabil.\n\nIdentitas adalah naungan.\n\nMenolak naungan berarti hidup terbuka.\n\nTapi pengembara menerima keterbukaan sebagai harga kebebasan.\n\nAkhir bab: pengembara menjadi alam baka yang ditulis sendiri—lebih sedikit pelindung, lebih rapuh, namun bersikeras tetap tunggal alih-alih ‘diselesaikan.’ [conversation_history:1]"
+          }
+        },
+        {
+          "id": "what_if_7_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Becomes an ‘Osiris’—Then Tries to Rewrite Ma’at",
+            "id": "What If: Pengembara Menjadi ‘Osiris’—Lalu Mencoba Menulis Ulang Ma’at"
+          },
+          "content": {
+            "en": "The traveler accepts the Osiris-identity and is welcomed into stability. [conversation_history:1]\n\nThen the traveler notices the quiet cruelty hidden inside perfect order: those who arrive unprepared drift at the margins, safe but diminished.\n\nSo the traveler starts a reform.\n\nNot rebellion.\n\nA revision.\n\nThey propose that Ma’at should measure not only hearts, but access—how much help the living gave, how much the dead were equipped, how uneven the starting line was.\n\nOlder guardians resist: order survives by simplicity.\n\nThe traveler counters: order survives by justice.\n\nChapter end: the traveler keeps their place in the system while pushing the system to become less gate-like and more teaching-like, risking backlash but expanding what ‘balance’ could mean.",
+            "id": "Pengembara menerima identitas ‘Osiris’ dan disambut ke dalam kestabilan. [conversation_history:1]\n\nLalu ia melihat kekejaman sunyi di dalam tatanan yang sempurna: yang datang tanpa persiapan melayang di pinggir—aman, tapi mengecil.\n\nMaka pengembara memulai reformasi.\n\nBukan pemberontakan.\n\nSebuah revisi.\n\nIa mengusulkan Ma’at menimbang bukan hanya hati, tapi akses—seberapa banyak bantuan dari yang hidup, seberapa siap yang mati, seberapa timpang garis awalnya.\n\nPara penjaga lama menolak: tatanan bertahan karena sederhana.\n\nPengembara membalas: tatanan bertahan karena adil.\n\nAkhir bab: pengembara tetap berada di dalam sistem sambil mendorong sistem jadi kurang ‘gerbang’ dan lebih ‘pengajaran,’ menanggung risiko perlawanan tapi memperluas arti ‘keseimbangan.’"
+          }
+        },
+        {
+          "id": "what_if_7_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Is Offered True Rest (An Ending)",
+            "id": "What If: Pengembara Ditawari Istirahat Sejati (Akhir)"
+          },
+          "content": {
+            "en": "At the moment of completion, a quieter offer appears.\n\nNot Fields.\n\nNot service.\n\nNot even identity.\n\nAn ending.\n\nA dignified dissolution into the order the traveler spent chapters learning to respect.\n\nNo punishment.\n\nNo erasure in shame.\n\nJust release.\n\nThe traveler understands the temptation: a final peace beyond cycles.\n\nBut they also understand the cost: leaving means no longer helping hold the world together.\n\nThe choice is not moral.\n\nIt is existential.\n\nStay and maintain.\n\nOr end and be maintained by others.\n\nChapter end: the traveler chooses—either to persist as part of the living structure of Ma’at, or to step out of story entirely, proving that even the highest afterlife contains one last gate: consent.",
+            "id": "Di momen penyelesaian, tawaran yang lebih sunyi muncul.\n\nBukan Ladang.\n\nBukan pelayanan.\n\nBahkan bukan identitas.\n\nSebuah akhir.\n\nPelarutan terhormat ke dalam tatanan yang sejak awal dipelajari pengembara untuk dihormati.\n\nTanpa hukuman.\n\nTanpa penghapusan yang memalukan.\n\nHanya pelepasan.\n\nPengembara paham godaannya: damai final melampaui siklus.\n\nTapi ia juga paham biayanya: pergi berarti berhenti membantu menahan dunia tetap menyala.\n\nPilihan ini bukan soal moral.\n\nIa soal keberadaan.\n\nTinggal dan memelihara.\n\nAtau berakhir dan dipelihara orang lain.\n\nAkhir bab: pengembara memilih—entah bertahan sebagai bagian dari struktur Ma’at yang ‘hidup,’ atau keluar dari cerita sepenuhnya, membuktikan bahwa bahkan alam baka tertinggi punya gerbang terakhir: persetujuan."
+          }
+        },
+        {
+          "id": "what_if_7_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Traveler Fails Upward—Becoming a Warning",
+            "id": "What If: Pengembara ‘Gagal ke Atas’—Menjadi Peringatan"
+          },
+          "content": {
+            "en": "The traveler reaches the final threshold and is granted the Osiris-name.\n\nBut something in them remains unsettled.\n\nA residue of fear.\n\nA residue of pride.\n\nA residue of wanting credit.\n\nInstead of settling into quiet alignment, the traveler becomes a lesson told to new arrivals.\n\nA justified soul who still suffers because they keep measuring themselves.\n\nThe guardians point and say: “See? Even after you pass, you must stop clinging.”\n\nThe traveler hears this and finally understands: the last monster is not in the Duat.\n\nIt is the habit of self-trial.\n\nSo the traveler releases the need to be ‘right’ all the time.\n\nThey become stable at last—not because the system completes them, but because they stop arguing with completion.\n\nChapter end: the traveler doesn’t end as a hero or a rebel, but as a cautionary tale that turns into healing: the afterlife’s final victory is not recognition, but ease.",
+            "id": "Pengembara mencapai ambang terakhir dan diberi nama ‘Osiris.’\n\nTapi sesuatu dalam dirinya tetap tidak mengendap.\n\nSisa takut.\n\nSisa gengsi.\n\nSisa ingin diakui.\n\nAlih-alih menetap dalam keselarasan yang sunyi, pengembara jadi pelajaran yang diceritakan kepada para pendatang baru.\n\nJiwa yang lulus tapi masih menderita karena terus menimbang dirinya sendiri.\n\nPara penjaga menunjuk dan berkata: “Lihat? Bahkan setelah lolos, kau harus berhenti melekat.”\n\nPengembara mendengar dan akhirnya paham: monster terakhir bukan di Duat.\n\nIa kebiasaan mengadili diri.\n\nMaka pengembara melepas kebutuhan untuk selalu ‘benar.’\n\nIa jadi stabil pada akhirnya—bukan karena sistem menyelesaikannya, melainkan karena ia berhenti berdebat dengan penyelesaian.\n\nAkhir bab: pengembara tidak berakhir sebagai pahlawan atau pemberontak, tapi sebagai kisah peringatan yang berubah jadi pemulihan: kemenangan terakhir alam baka bukan pengakuan, melainkan kelapangan."
+          }
+        }
+      ]
+    }
+  ]
+}

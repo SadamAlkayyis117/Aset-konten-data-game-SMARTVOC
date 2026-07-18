@@ -1,0 +1,222 @@
+{
+  "dialogs": [
+    {
+      "id": "cat_intro",
+      "turns": [
+        {
+          "npc_lines": [
+            "Oh no... my cat ran into that maze!",
+            "I tried to follow but I got lost immediately."
+          ],
+          "accept_keywords": ["help", "cat", "find", "search"],
+          "fail_responses": ["What? I'm talking about my cat!", "Please focus, my cat is lost!"]
+        },
+        {
+          "npc_lines": [
+            "His name is Mittens. He's small and very fast.",
+            "If you see a white cat inside the maze, that's him!"
+          ],
+          "accept_keywords": ["mittens", "cat", "find", "okay"],
+          "fail_responses": ["Did you hear me? My cat!", "Please listen carefully."]
+        },
+        {
+          "npc_lines": [
+            "Could you go inside the maze and find him for me?",
+            "I would really appreciate the help."
+          ],
+          "accept_keywords": ["yes", "help", "sure", "okay"],
+          "fail_responses": ["So... will you help or not?", "Please say yes if you can help."]
+        },
+        {
+          "npc_lines": [
+            "Great! Please bring Mittens back safely.",
+            "I'll wait here. Good luck!"
+          ],
+          "accept_keywords": ["okay", "start", "got it", "ready"],
+          "fail_responses": ["Just say you're ready."]
+        }
+      ]
+    },
+
+    {
+      "id": "archery_intro",
+      "turns": [
+        {
+          "npc_lines": [
+            "Welcome to the archery arena.",
+            "This is not a normal shooting practice."
+          ],
+          "accept_keywords": ["archery", "shoot", "practice"],
+          "fail_responses": ["Focus. This is archery."]
+        },
+        {
+          "npc_lines": [
+            "You must complete words by shooting the correct letters.",
+            "Like a moving puzzle."
+          ],
+          "accept_keywords": ["word", "letter", "shoot"],
+          "fail_responses": ["Listen carefully."]
+        },
+        {
+          "npc_lines": [
+            "Go inside the arena and press the start button.",
+            "Let's see your accuracy."
+          ],
+          "accept_keywords": ["ready", "start", "okay"],
+          "fail_responses": ["Say you're ready."]
+        }
+      ]
+    },
+
+    {
+      "id": "archery_intro_2",
+      "turns": [
+        {
+          "npc_lines": [
+            "Watch the screen carefully.",
+            "The clues will guide you."
+          ],
+          "accept_keywords": ["clue", "ready", "okay"],
+          "fail_responses": ["Focus on the screen."]
+        },
+        {
+          "npc_lines": [
+            "Shoot the correct letters before time runs out.",
+            "The speed will increase every wave."
+          ],
+          "accept_keywords": ["yes", "ready"],
+          "fail_responses": ["Say ready."]
+        }
+      ]
+    },
+
+    {
+      "id": "archery_final",
+      "turns": [
+        {
+          "npc_lines": [
+            "Nice shooting!",
+            "You completed {score} points."
+          ],
+          "accept_keywords": ["thanks", "nice"],
+          "fail_responses": ["Say something."]
+        },
+        {
+          "npc_lines": [
+            "Keep training your vocabulary and aim.",
+            "See you next time."
+          ],
+          "accept_keywords": ["bye", "thanks"],
+          "fail_responses": ["Just say thanks."]
+        }
+      ]
+    },
+
+    {
+      "id": "concert_intro",
+      "turns": [
+        {
+          "npc_lines": ["The concert starts soon and the stage is still a mess."],
+          "accept_keywords": ["concert", "stage", "help"],
+          "fail_responses": ["Look around, the stage needs help."]
+        },
+        {
+          "npc_lines": ["We need speakers, lights, and microphones set up."],
+          "accept_keywords": ["setup", "stage", "equipment"],
+          "fail_responses": ["Speakers, lights, microphones."]
+        },
+        {
+          "npc_lines": ["Can you help prepare the stage before the show starts?"],
+          "accept_keywords": ["yes", "help", "sure", "okay"],
+          "fail_responses": ["Please answer yes."]
+        },
+        {
+          "npc_lines": ["Perfect! Head to the stage area!"],
+          "accept_keywords": ["okay", "start", "ready"],
+          "fail_responses": ["Say you're ready."]
+        }
+      ]
+    },
+
+    {
+      "id": "kart_intro",
+      "turns": [
+        {
+          "npc_lines": [
+            "Hey! Want to try the go-kart track?",
+            "I need someone to race with."
+          ],
+          "accept_keywords": ["race", "kart", "try"],
+          "fail_responses": ["We're talking about racing."]
+        },
+        {
+          "npc_lines": [
+            "Finish the track as fast as you can.",
+            "The kart is easy to control."
+          ],
+          "accept_keywords": ["fast", "race", "okay"],
+          "fail_responses": ["Focus on the race."]
+        },
+        {
+          "npc_lines": ["Think you can beat my best time?"],
+          "accept_keywords": ["yes", "sure"],
+          "fail_responses": ["Come on, try!"]
+        },
+        {
+          "npc_lines": ["Head to the track and show me your skills."],
+          "accept_keywords": ["ready", "start"],
+          "fail_responses": ["Say ready."]
+        }
+      ]
+    },
+
+    {
+      "id": "kart_intro_2",
+      "turns": [
+        {
+          "npc_lines": [
+            "You can race here anytime.",
+            "It's fun, trust me."
+          ],
+          "accept_keywords": ["race", "kart"],
+          "fail_responses": ["Are you listening?"]
+        },
+        {
+          "npc_lines": [
+            "Your kart is ready.",
+            "Go ahead and try it."
+          ],
+          "accept_keywords": ["okay", "ready"],
+          "fail_responses": ["Look over there."]
+        },
+        {
+          "npc_lines": ["Just drive and see how fast it goes."],
+          "accept_keywords": ["yes", "try"],
+          "fail_responses": ["Come on, try!"]
+        }
+      ]
+    },
+
+    {
+      "id": "kart_final",
+      "turns": [
+        {
+          "npc_lines": [
+            "Wow! You finished in {time} seconds with score {score}!",
+            "That was impressive!"
+          ],
+          "accept_keywords": ["thanks", "nice"],
+          "fail_responses": ["Say something!"]
+        },
+        {
+          "npc_lines": [
+            "Here is your reward.",
+            "See you next time!"
+          ],
+          "accept_keywords": ["thanks", "bye"],
+          "fail_responses": ["Just say thanks."]
+        }
+      ]
+    }
+  ]
+}

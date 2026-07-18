@@ -1,0 +1,630 @@
+{
+  "npc_encounters": [
+    {
+      "id": "delivery_start",
+      "topic": "delivery",
+      "formality_level": 0.3,
+      "npc_profile": {
+        "roles": ["courier"],
+        "personality": ["impatient", "stressed"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "Damn... why does this always happen to me?", "emotion": "angry" },
+            { "text": "Ugh... not today...", "emotion": "frustrated" }
+          ],
+          "accept_topics": ["help", "problem", "accident"],
+          "accept_keywords": ["help", "okay", "wrong", "problem"],
+          "fail_responses": {
+            "confused": [
+              "Huh?",
+              "What are you talking about?",
+              "No—wait. Start over. What do you mean?"
+            ],
+            "annoyed": [
+              "Seriously?",
+              "That makes no sense.",
+              "Look, I don't have time for riddles.",
+              "Can you not? I'm already having a day."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Yeah, as you can see I got a problem here. Bike chain snapped again!", "emotion": "frustrated" },
+            { "text": "Third time this month. These packages are due in 30 minutes!", "emotion": "stressed" }
+          ],
+          "accept_topics": ["bike", "chain", "fix", "deliver", "packages"],
+          "accept_keywords": ["fix", "bike", "help", "deliver", "carry", "packages"],
+          "fail_responses": {
+            "confused": [
+              "Wait, what? Focus here man!",
+              "I'm not following. Bike. Broken. Packages late."
+            ],
+            "annoyed": [
+              "Dude I'm dying here and you're talking about WHAT?",
+              "Not now. Not the time."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Wait... are you serious? You wanna help with the delivery?", "emotion": "surprised" },
+            { "text": "You're not trying to take my job are you?", "emotion": "suspicious" }
+          ],
+          "accept_topics": ["help", "deliver", "packages", "carry"],
+          "accept_keywords": ["yes", "sure", "help", "deliver", "okay", "fine"],
+          "fail_responses": {
+            "confused": [
+              "Hold up. Say that again?",
+              "You're messing with me right?"
+            ],
+            "annoyed": [
+              "Make up your mind already!",
+              "Yes or no? I got deliveries burning!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Ah okay okay! Here, take this task!", "emotion": "relieved" },
+            { "text": "You need to deliver ALL these packages to every address on the list.", "emotion": "urgent" },
+            { "text": "Start with the red labels - those are priority. Don't lose any!", "emotion": "serious" }
+          ],
+          "accept_topics": ["ready", "task", "packages", "deliver"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "You in or what?",
+              "Just say yes or no already!"
+            ],
+            "annoyed": [
+              "Come on man, clock's ticking!",
+              "Are we doing this or not?"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Okay thank you mate! I'll wait here for your update.", "emotion": "grateful" },
+            { "text": "Scan the QR code on each package when delivered. I'll track it live.", "emotion": "hopeful" },
+            { "text": "Don't let me down - tips are good if you're fast!", "emotion": "motivating" }
+          ],
+          "accept_topics": ["thank", "done", "update"],
+          "accept_keywords": ["okay", "got it", "thanks", "start", "going"],
+          "fail_responses": {
+            "confused": [
+              "Just go already!",
+              "You understand right?"
+            ],
+            "annoyed": [
+              "Fine whatever, just GO!",
+              "Time's wasting!"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "police_poster",
+      "topic": "poster",
+      "formality_level": 0.6,
+      "npc_profile": {
+        "roles": ["police"],
+        "personality": ["exhausted", "dutiful", "fearful"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "Ugh... these posters won't stick right...", "emotion": "exhausted" },
+            { "text": "Keep going... can't stop now...", "emotion": "weary" }
+          ],
+          "accept_topics": ["help", "poster", "tired"],
+          "accept_keywords": ["help", "okay", "tired", "poster"],
+          "fail_responses": {
+            "confused": [
+              "Huh? Sorry, my head's spinning...",
+              "What? I didn't catch that."
+            ],
+            "annoyed": [
+              "Not now, please. Duty calls.",
+              "I need to focus here."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Captain will kill me if these aren't up by inspection...", "emotion": "fearful" },
+            { "text": "Fever's bad but worse is getting written up...", "emotion": "stressed" }
+          ],
+          "accept_topics": ["captain", "boss", "sick", "tired"],
+          "accept_keywords": ["boss", "captain", "sick", "help", "rest"],
+          "fail_responses": {
+            "confused": [
+              "Sorry... brain fog. What was that?",
+              "I'm not following..."
+            ],
+            "annoyed": [
+              "Please, not while I'm like this.",
+              "Focus with me here."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You... you'd really help finish posting these?", "emotion": "hopeful" },
+            { "text": "But what if captain sees me sitting down?", "emotion": "worried" }
+          ],
+          "accept_topics": ["help", "poster", "finish"],
+          "accept_keywords": ["yes", "help", "poster", "okay", "finish"],
+          "fail_responses": {
+            "confused": [
+              "Wait... you mean it?",
+              "Are you serious right now?"
+            ],
+            "annoyed": [
+              "Make it quick then!",
+              "Don't joke about duty!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Here... these last ten lampposts need 'Don't Litter' posters.", "emotion": "relieved" },
+            { "text": "Use the wheat paste bucket. Smooth out bubbles.", "emotion": "instructing" },
+            { "text": "I'll watch from here... pretend I'm supervising.", "emotion": "grateful" }
+          ],
+          "accept_topics": ["ready", "task", "poster"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "Just the posters, okay?",
+              "Simple task. You got this?"
+            ],
+            "annoyed": [
+              "Captain's watching! Hurry!",
+              "No time for questions!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Thank you... really. I owe you one.", "emotion": "grateful" },
+            { "text": "Captain drove by - he thinks YOU'RE the new recruit!", "emotion": "relieved" },
+            { "text": "Rest now feels possible. Good citizen award coming your way.", "emotion": "warm" }
+          ],
+          "accept_topics": ["thank", "done", "finish"],
+          "accept_keywords": ["done", "finished", "okay", "thanks"],
+          "fail_responses": {
+            "confused": [
+              "Posters up? All done?",
+              "Task complete?"
+            ],
+            "annoyed": [
+              "Are they up yet?",
+              "Captain's circling back!"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "bakery_overload",
+      "topic": "bakery_delivery",
+      "formality_level": 0.4,
+      "npc_profile": {
+        "roles": ["bakery_owner"],
+        "personality": ["overwhelmed", "resigned", "grateful"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "Oh dear... orders everywhere and no hands to deliver...", "emotion": "overwhelmed" },
+            { "text": "Should've hired help months ago...", "emotion": "resigned" }
+          ],
+          "accept_topics": ["help", "orders", "delivery", "busy"],
+          "accept_keywords": ["help", "orders", "busy", "delivery"],
+          "fail_responses": {
+            "confused": [
+              "Sorry dear, my mind's all over...",
+              "What was that again?"
+            ],
+            "annoyed": [
+              "Not now sweetheart, I'm drowning here.",
+              "Please, one crisis at a time."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Yesterday's wedding cake still sitting in back. Bride's furious.", "emotion": "worried" },
+            { "text": "Lost three regulars already. They'll never come back...", "emotion": "hopeless" }
+          ],
+          "accept_topics": ["orders", "cake", "customers", "deliver"],
+          "accept_keywords": ["cake", "orders", "customers", "deliver", "help"],
+          "fail_responses": {
+            "confused": [
+              "Pardon? Cakes? Deliveries?",
+              "I'm losing track of everything..."
+            ],
+            "annoyed": [
+              "Sweetie, the shop's collapsing!",
+              "Can't think straight right now."
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You... you'd deliver for me? A stranger?", "emotion": "surprised" },
+            { "text": "But what if they don't accept from someone else?", "emotion": "uncertain" }
+          ],
+          "accept_topics": ["help", "deliver", "orders"],
+          "accept_keywords": ["yes", "help", "deliver", "okay", "sure"],
+          "fail_responses": {
+            "confused": [
+              "Wait, really? You'd help?",
+              "Are you pulling my leg?"
+            ],
+            "annoyed": [
+              "Don't tease an old lady!",
+              "Make it quick please!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Bless you! Here's the wedding cake box - handle gently!", "emotion": "relieved" },
+            { "text": "Address on tag: 142 Oak Street. Bride expects pink roses intact.", "emotion": "urgent" },
+            { "text": "Two loaves to bakery pickup too. Priority is the bride!", "emotion": "pleading" }
+          ],
+          "accept_topics": ["ready", "cake", "delivery"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "Wedding cake first, dear!",
+              "Just take the big pink box?"
+            ],
+            "annoyed": [
+              "Bride's waiting! Move please!",
+              "No time for confusion!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You're a lifesaver! Look at those happy faces coming back!", "emotion": "joyful" },
+            { "text": "Free cinnamon roll daily for a month - my treat!", "emotion": "grateful" },
+            { "text": "Should've met you sooner. Shop's saved!", "emotion": "warm" }
+          ],
+          "accept_topics": ["done", "delivered", "finish"],
+          "accept_keywords": ["done", "finished", "okay", "delivered"],
+          "fail_responses": {
+            "confused": [
+              "All delivered safe?",
+              "Bride happy now?"
+            ],
+            "annoyed": [
+              "Did they get the cake?",
+              "Please say it's done!"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "cat_chaos",
+      "topic": "cats",
+      "formality_level": 0.5,
+      "npc_profile": {
+        "roles": ["cat_keeper"],
+        "personality": ["panicked", "sad", "desperate"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "No no no! Mittens! Whiskers! Come back!", "emotion": "panicked" },
+            { "text": "They're everywhere... I'm done for...", "emotion": "desperate" }
+          ],
+          "accept_topics": ["cats", "help", "chase", "find"],
+          "accept_keywords": ["help", "cats", "catch", "find"],
+          "fail_responses": {
+            "confused": [
+              "What? CATS! They're escaping!",
+              "Help me please, not questions!"
+            ],
+            "annoyed": [
+              "They're GONE! Focus!",
+              "No time for chat!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Let them out for fresh air... thought it'd help stress...", "emotion": "regretful" },
+            { "text": "Now they're client orders running wild. I'll be fired!", "emotion": "sad" }
+          ],
+          "accept_topics": ["cats", "escape", "clients", "fired"],
+          "accept_keywords": ["cats", "help", "catch", "find", "okay"],
+          "fail_responses": {
+            "confused": [
+              "Eight cats! All different directions!",
+              "They're valuable! Help!"
+            ],
+            "annoyed": [
+              "Please just HELP!",
+              "They're slipping away!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You'd... catch them for me? Really?", "emotion": "hopeful" },
+            { "text": "Boss checks inventory at 6 PM. We got 4 hours!", "emotion": "urgent" }
+          ],
+          "accept_topics": ["help", "catch", "cats"],
+          "accept_keywords": ["yes", "help", "catch", "okay", "find"],
+          "fail_responses": {
+            "confused": [
+              "You mean it? All eight?",
+              "Not joking right?"
+            ],
+            "annoyed": [
+              "Hurry! They're getting away!",
+              "Boss will KILL me!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Okay! Black cat's Shadow - alley left. White's Snowball - fence!", "emotion": "directing" },
+            { "text": "Red collar's Spice - dumpster. Use treats from my pocket!", "emotion": "instructing" },
+            { "text": "Bring each back here. Count them in!", "emotion": "pleading" }
+          ],
+          "accept_topics": ["ready", "cats", "catch"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "Black left! White fence! GO!",
+              "Shadow first - alley cat!"
+            ],
+            "annoyed": [
+              "Just pick one and CHASE!",
+              "They're scattering!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You got them ALL back! Unbelievable!", "emotion": "joyful" },
+            { "text": "Clients never knew. Boss thinks I'm miracle worker!", "emotion": "relieved" },
+            { "text": "Catnip treats forever - you saved my job!", "emotion": "grateful" }
+          ],
+          "accept_topics": ["done", "all", "cats"],
+          "accept_keywords": ["done", "finished", "all", "caught"],
+          "fail_responses": {
+            "confused": [
+              "Eight back? All here?",
+              "Count again quick!"
+            ],
+            "annoyed": [
+              "Still missing any?",
+              "Boss comes soon!"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "script_lost",
+      "topic": "script",
+      "formality_level": 0.4,
+      "npc_profile": {
+        "roles": ["scriptwriter"],
+        "personality": ["panicked", "frantic", "desperate"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "No no NO! Where's the damn script?!", "emotion": "panicked" },
+            { "text": "Meeting in 45 minutes... actors will KILL me...", "emotion": "frantic" }
+          ],
+          "accept_topics": ["help", "script", "lost", "find"],
+          "accept_keywords": ["help", "script", "lost", "find"],
+          "fail_responses": {
+            "confused": [
+              "SCRIPT! It's GONE! Help!",
+              "Focus! Career ending here!"
+            ],
+            "annoyed": [
+              "Not NOW! Pages everywhere!",
+              "Meeting! Actors! DEADLINE!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Wind caught them coming from coffee shop! Pages everywhere!", "emotion": "desperate" },
+            { "text": "Episode 7 finale... whole plot on 40 loose sheets...", "emotion": "horrified" }
+          ],
+          "accept_topics": ["script", "pages", "wind", "coffee"],
+          "accept_keywords": ["pages", "wind", "help", "find", "script"],
+          "fail_responses": {
+            "confused": [
+              "Yellow pages! Episode 7! SCATTERED!",
+              "Studio route! Help search!"
+            ],
+            "annoyed": [
+              "Actors waiting! No time!",
+              "Career OVER without script!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You'd... search for my pages? A stranger?", "emotion": "incredulous" },
+            { "text": "Studio's that way - pages blew along sidewalk, bushes, parked cars!", "emotion": "pointing" }
+          ],
+          "accept_topics": ["help", "find", "pages", "search"],
+          "accept_keywords": ["yes", "help", "find", "pages", "okay"],
+          "fail_responses": {
+            "confused": [
+              "You serious? 40 yellow pages?",
+              "Studio PATH! Follow my route!"
+            ],
+            "annoyed": [
+              "HURRY! Director's calling!",
+              "Pages have MY NAME on top!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Perfect! Look for yellow paper - 'EPISODE 7' stamped top!", "emotion": "urgent" },
+            { "text": "Check bushes by Starbucks, under blue sedan, newsstand gutter!", "emotion": "directing" },
+            { "text": "Bring ALL pages back here. No missing scenes!", "emotion": "pleading" }
+          ],
+          "accept_topics": ["ready", "pages", "search"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "YELLOW paper! Episode 7 header!",
+              "Studio sidewalk route - GO!"
+            ],
+            "annoyed": [
+              "Actors rehearsing lines NOW!",
+              "No script = no paycheck!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "You FOUND them ALL! Hero status confirmed!", "emotion": "ecstatic" },
+            { "text": "Director thinks I rewrote overnight. Cast loves cliffhanger!", "emotion": "relieved" },
+            { "text": "Front row tickets next premiere - you EARNED it!", "emotion": "grateful" }
+          ],
+          "accept_topics": ["done", "found", "pages"],
+          "accept_keywords": ["done", "found", "all", "complete"],
+          "fail_responses": {
+            "confused": [
+              "Full 40 pages? No missing?",
+              "Check page numbers quick!"
+            ],
+            "annoyed": [
+              "Director's on set! HURRY!",
+              "Any pages still out there?"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "birthday_setup",
+      "topic": "birthday",
+      "formality_level": 0.7,
+      "npc_profile": {
+        "roles": ["teenager"],
+        "personality": ["calm", "fearful", "relieved"]
+      },
+      "turns": [
+        {
+          "npc_lines": [
+            { "text": "Everything's fine... totally under control...", "emotion": "forced_calm" },
+            { "text": "Just need a few more balloons. No big deal...", "emotion": "shaky" }
+          ],
+          "accept_topics": ["help", "birthday", "balloons", "decor"],
+          "accept_keywords": ["help", "birthday", "balloons", "party"],
+          "fail_responses": {
+            "confused": [
+              "Huh? Oh yeah, I'm good...",
+              "What? Everything's perfect..."
+            ],
+            "annoyed": [
+              "Please don't make this weird...",
+              "I said it's fine, okay?"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Forgot streamers and tablecloth... friends coming in 2 hours...", "emotion": "worried" },
+            { "text": "Can't buy more. Mom gave exact party budget already spent...", "emotion": "resigned" }
+          ],
+          "accept_topics": ["friends", "budget", "decor", "party"],
+          "accept_keywords": ["friends", "budget", "help", "party", "decor"],
+          "fail_responses": {
+            "confused": [
+              "It's just... my party. No worries...",
+              "Budget thing. Totally handled..."
+            ],
+            "annoyed": [
+              "Stop asking! I'll figure it out!",
+              "Don't need pity okay?"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Wait—you'd help set up? For real?", "emotion": "hopeful" },
+            { "text": "But what if it looks lame anyway? They'll laugh...", "emotion": "fearful" }
+          ],
+          "accept_topics": ["help", "setup", "party", "decor"],
+          "accept_keywords": ["yes", "help", "setup", "okay", "sure"],
+          "fail_responses": {
+            "confused": [
+              "You serious? Why though?",
+              "Nobody helps with this stuff..."
+            ],
+            "annoyed": [
+              "Don't say you'll help then bail!",
+              "I don't need fake promises!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "Okay! Need blue streamers across ceiling, 3 tables...", "emotion": "focused" },
+            { "text": "White tablecloth from storage. Balloons at entrance only.", "emotion": "directing" },
+            { "text": "Friends like photo booth corner most. Make it pop!", "emotion": "excited" }
+          ],
+          "accept_topics": ["ready", "streamers", "setup"],
+          "accept_keywords": ["ready", "got it", "okay", "yes", "start"],
+          "fail_responses": {
+            "confused": [
+              "Streamers first! Blue ones!",
+              "Photo booth corner priority!"
+            ],
+            "annoyed": [
+              "Friends arriving soon! Hurry!",
+              "Don't mess up photo booth!"
+            ]
+          }
+        },
+        {
+          "npc_lines": [
+            { "text": "It looks AMAZING! They're gonna flip!", "emotion": "joyful" },
+            { "text": "You saved my birthday. First good stranger ever!", "emotion": "grateful" },
+            { "text": "Slice of cake when they sing? You're invited!", "emotion": "warm" }
+          ],
+          "accept_topics": ["done", "finished", "party"],
+          "accept_keywords": ["done", "finished", "ready", "complete"],
+          "fail_responses": {
+            "confused": [
+              "All set? Streamers up?",
+              "Photo booth good?"
+            ],
+            "annoyed": [
+              "Friends pulling up! Check everything!",
+              "One hour left max!"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

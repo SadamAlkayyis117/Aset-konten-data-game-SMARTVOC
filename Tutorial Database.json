@@ -1,0 +1,101 @@
+{
+  "kontrol_dasar": {
+    "title": "Kontrol Dasar",
+    "description": "Gunakan tombol WASD untuk berjalan. Gerakkan kamera menggunakan Mouse. Tekan Shift untuk berlari, Space untuk melompat, Ctrl untuk berjongkok dan E untuk berinteraksi dengan objek maupun NPC, klik kiri untuk Aksi dan Klik kanan untuk Aksi, Scroll untuk ZoomIn/ZoomOut Tekan Esc untuk membuka Pause Menu."
+  },
+
+  "smartphone": {
+    "title": "Smartphone",
+    "description": "Smartphone digunakan untuk mengakses berbagai fitur seperti informasi pemain, jadwal, cuaca, tabungan, aplikasi pendukung, dan layanan lainnya. Smartphone dapat dibuka kapan saja selama tidak berada dalam aktivitas tertentu, tekan Q untuk membukannya lalu arahkan cursor ke aplikasi yang di tuju untuk membuka aplikasi nya."
+  },
+
+  "inventory": {
+    "title": "Inventory",
+    "description": "Inventory digunakan untuk menyimpan seluruh item yang dimiliki. Setiap item memiliki fungsi yang berbeda seperti bahan makanan, perlengkapan, senjata, maupun item misi. Inventory memiliki kapasitas tertentu yang dapat ditingkatkan dengan menggunakan Backpack, cara membukannya dengan tekan I tapi perlu di ingat Inventory/I tidak bisa dibuka jika karakter tidak menggunakan Tas apapun."
+  },
+
+  "quick_use_bar": {
+    "title": "Quick Use Bar",
+    "description": "Quick Use Bar memungkinkan pemain menggunakan item dengan cepat tanpa harus membuka Inventory. Pilih slot menggunakan tombol angka pada keyboard lalu gunakan item sesuai fungsinya, cara agar item bisa masuk ke QuickUseBar dengan cara ambil item dengan tekan E lalu pilih Store agar item masuk Inventory setelah masuk pilih item di Inventoy lalu klik Slot berapa yang kalian inginkan untuk menggunakan nya bisa Tekan 1, 2, 3, atau 4 tergantung slot berapa yang kalian set."
+  },
+
+  "needs": {
+    "title": "Needs",
+    "description": "Karakter memiliki beberapa kebutuhan seperti Hunger, Thirst, Energy, Hygiene, Mood, Social, Bladder, dan Health. Penuhi kebutuhan tersebut agar karakter tetap sehat dan dapat beraktivitas dengan baik, dan untuk memeriksanya kalian bisa menekan N."
+  },
+
+  "vocabulary": {
+    "title": "Vocabulary",
+    "description": "Vocabulary berisi seluruh kosakata Bahasa Inggris yang telah ditemukan selama bermain. Semakin banyak minigame yang diselesaikan, semakin level naik semakin banyak kosakata baru yang akan terbuka."
+  },
+
+  "writing": {
+    "title": "Writing / Typing",
+    "description": "Beberapa aktivitas mengharuskan pemain mengetik jawaban atau laporan menggunakan Bahasa Inggris. Perhatikan ejaan dan kosakata dengan baik, untuk memulai misi kalian bisa mencari NPC yang kesusahan begitu kalian membantu mereka maka misi akan dimulai."
+  },
+
+  "reading": {
+    "title": "Reading",
+    "description": "Beberapa misi mengharuskan pemain membaca dialog, petunjuk, maupun informasi lainnya. Bacalah dengan teliti karena informasi tersebut dapat membantu menyelesaikan misi nantinya (Belum tersedia dalam Early Access) kalian bisa ke rak buku di kamar karakter lalu tekan E untuk membuka rak dan arahkan kursor untuk membaca buku yang kalian mau lalu pilih chapternya karena ada canon dan what if didalam setiap bukunya."
+  },
+
+  "dictionary": {
+    "title": "Dictionary",
+    "description": "Dictionary digunakan untuk melihat arti kata, contoh penggunaan, serta informasi kosakata yang telah berhasil dikumpulkan selama minigame vocabulary berhasil dilewati di beberapa level khusus."
+  },
+
+  "makan": {
+    "title": "Makan",
+    "description": "Makan akan menambah Hunger di needs dan membantu memulihkan energi. Kalian bisa makan dengan membeli snack ke minimarket atau memakan senack yang sudah ada di inventory, dan juga bisa makan masakan NPC Ibu di rumah atau memesan makanan di kantin kantin yang ada di Map."
+  },
+
+  "minum": {
+    "title": "Minum",
+    "description": "Minum akan mengurangi rasa haus. Beberapa minuman juga dapat memberikan efek tambahan seperti meningkatkan energi, namun konsumsi berlebihan dapat memberikan efek negatif."
+  },
+
+  "mandi": {
+    "title": "Mandi",
+    "description": "Mandi akan meningkatkan Hygiene. Hygiene yang rendah dapat memengaruhi kondisi Health sehingga disarankan mandi secara rutin."
+  },
+
+  "bab_bak": {
+    "title": "BAB dan BAK",
+    "description": "Gunakan toilet ketika indikator Bladder hampir habis. Mengabaikan kebutuhan ini dapat memengaruhi kondisi karakter dan menurunkan Health."
+  },
+
+  "minimarket": {
+    "title": "Minimarket",
+    "description": "Minimarket menyediakan berbagai kebutuhan seperti bahan makanan, minuman, dan lainnya. Pastikan membawa uang yang cukup sebelum berbelanja."
+  },
+
+  "berenang": {
+    "title": "Berenang",
+    "description": "Kolam renang dapat digunakan untuk berenang sebagai aktivitas rekreasi. Beberapa area mungkin memerlukan tiket masuk sebelum pemain dapat menggunakan fasilitas tersebut."
+  },
+
+  "npc": {
+    "title": "NPC",
+    "description": "NPC memiliki aktivitas harian masing-masing. Berinteraksilah dengan NPC untuk mendapatkan informasi, misi, atau sekadar berbincang sesuai jadwal mereka."
+  },
+
+  "gokart": {
+    "title": "GoKart",
+    "description": "GoKart merupakan fun mini game balapan. Selesaikan lintasan secepat mungkin untuk memperoleh peringkat terbaik dan hadiah yang lebih besar."
+  },
+
+  "archery": {
+    "title": "Archery",
+    "description": "Archery merupakan fun mini game menembak. Tembak huruf yang benar untuk menyusun kosakata sesuai clue yang diberikan sebelum waktu habis."
+  },
+
+  "item": {
+    "title": "Item",
+    "description": "Setiap item memiliki fungsi yang berbeda. Beberapa item dapat digunakan, dipasang, dilempar, disimpan, dijual, atau digunakan sebagai bahan memasak maupun perlengkapan."
+  },
+
+  "keybind": {
+    "title": "Keybind",
+    "description": "Seluruh tombol kontrol permainan dapat dilihat pada menu Keybind. Pelajari setiap tombol agar lebih mudah mengoperasikan karakter selama bermain, keybind juga bisa di atur di setting agar di sesuaikan dengan kenyamanan saat bermain."
+  }
+}

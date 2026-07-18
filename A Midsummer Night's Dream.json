@@ -1,0 +1,374 @@
+{
+  "book_id": "a_midsummer_nights_dream",
+  "title": {
+    "en": "A Midsummer Night's Dream",
+    "id": "Mimpi Malam Pertengahan Musim Panas"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "The Law of Athens",
+        "id": "Hukum Athena"
+      },
+      "preview": {
+        "en": "In Athens, a father demands his daughter's obedience. Hermia faces a cruel choice: marry a man she doesn't love, or face death.",
+        "id": "Di Athena, seorang ayah menuntut kepatuhan putrinya. Hermia menghadapi pilihan kejam: menikahi pria yang tak dicintainya, atau menghadapi kematian."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Escape Plan",
+            "id": "Rencana Pelarian"
+          },
+          "content": {
+            "en": "Theseus, Duke of Athens, was preparing for his wedding to Hippolyta, Queen of the Amazons. But the festivities were interrupted by Egeus, a nobleman who dragged his daughter Hermia to the court. Egeus was furious. He wanted Hermia to marry Demetrius, a wealthy young man. But Hermia refused, for she was deeply in love with Lysander.\n\n'Full of vexation come I!' cried Egeus. He invoked the ancient law of Athens: a daughter must obey her father or die. Theseus, though sympathetic, upheld the law. He gave Hermia a deadline: by the day of the royal wedding (in four days), she must choose to marry Demetrius, become a nun of Diana forever, or be executed.\n\nLeft alone, Lysander tried to comfort weeping Hermia. 'The course of true love never did run smooth,' he famously said. He proposed a plan: they would flee Athens that very night to his aunt's house in the woods, seven leagues away, where the cruel law could not reach them.\n\nHermia agreed. But they made a mistake. They told their plan to Helena, Hermia's best friend. Helena was madly in love with Demetrius (who used to love her but now ignored her for Hermia). Hoping to win a scrap of Demetrius's favor, Helena decided to tell him about the escape. She thought he would thank her, but instead, Demetrius chased after the lovers into the dark woods, with Helena trailing pitifully behind him. The stage was set for chaos.",
+            "id": "Theseus, Adipati Athena, sedang mempersiapkan pernikahannya dengan Hippolyta, Ratu Amazon. Tapi perayaan itu diinterupsi oleh Egeus, seorang bangsawan yang menyeret putrinya Hermia ke pengadilan. Egeus murka. Dia ingin Hermia menikahi Demetrius, pemuda kaya. Tapi Hermia menolak, karena dia sangat mencintai Lysander.\n\n'Penuh kejengkelan aku datang!' seru Egeus. Dia menuntut hukum kuno Athena: seorang putri harus mematuhi ayahnya atau mati. Theseus, meski bersimpati, menegakkan hukum. Dia memberi Hermia tenggat waktu: pada hari pernikahan kerajaan (dalam empat hari), dia harus memilih menikahi Demetrius, menjadi biarawati Diana selamanya, atau dieksekusi.\n\nDitinggal berdua, Lysander mencoba menghibur Hermia yang menangis. 'Jalan cinta sejati tidak pernah mulus,' katanya yang terkenal. Dia mengusulkan rencana: mereka akan lari dari Athena malam itu juga ke rumah bibinya di hutan, tujuh liga jauhnya, di mana hukum kejam itu tidak bisa menjangkau mereka.\n\nHermia setuju. Tapi mereka membuat kesalahan. Mereka menceritakan rencana itu pada Helena, sahabat Hermia. Helena tergila-gila pada Demetrius (yang dulunya mencintainya tapi sekarang mengabaikannya demi Hermia). Berharap mendapat sedikit perhatian Demetrius, Helena memutuskan memberitahunya soal pelarian itu. Dia pikir Demetrius akan berterima kasih, tapi sebaliknya, Demetrius mengejar sepasang kekasih itu ke hutan gelap, dengan Helena membuntuti dengan menyedihkan di belakangnya. Panggung telah siap untuk kekacauan."
+          }
+        },
+        {
+          "id": "what_if_1_defiance",
+          "type": "what_if",
+          "title": {
+            "en": "The Last Stand",
+            "id": "Perlawanan Terakhir"
+          },
+          "content": {
+            "en": "When Theseus gave Hermia the three choices—marry Demetrius, become a nun, or die—Hermia shocked the court. She knelt, not to beg, but to look her Duke in the eye. 'If those are my only paths,' she said, 'then I choose death before a loveless life.'\n\nThe court gasped. Even Demetrius was shaken. Theseus hesitated, feeling the weight of the law against the weight of a young woman's courage. Athens began to whisper that perhaps the law itself was unjust. Egeus, furious, demanded the sentence be carried out. That night, crowds gathered outside the palace, torches in hand, unwilling to let Hermia be executed.\n\nFaced with a possible uprising, Theseus quietly delayed the execution and began to question whether tradition was worth blood. Hermia's refusal didn't just save her love; it planted the first seed of rebellion against the old laws of Athens.",
+            "id": "Saat Theseus memberikan tiga pilihan—menikahi Demetrius, menjadi biarawati, atau mati—Hermia mengejutkan istana. Ia berlutut, bukan untuk memohon, tapi untuk menatap mata Sang Adipati. 'Jika itu satu-satunya jalan,' katanya, 'maka aku memilih mati daripada hidup tanpa cinta.'\n\nPara bangsawan terperangah. Bahkan Demetrius terguncang. Theseus ragu, merasakan beratnya hukum melawan keberanian seorang gadis muda. Athena mulai berbisik bahwa mungkin hukumnya sendiri yang tidak adil. Egeus, murka, menuntut hukuman dilaksanakan. Malam itu, kerumunan berkumpul di depan istana, membawa obor, menolak Hermia dieksekusi.\n\nMenghadapi kemungkinan pemberontakan, Theseus diam-diam menunda eksekusi dan mulai mempertanyakan apakah tradisi layak dibayar dengan darah. Penolakan Hermia bukan hanya menyelamatkan cintanya; itu menanam benih pertama pemberontakan terhadap hukum lama Athena."
+          }
+        },
+        {
+          "id": "what_if_1_coward_lysander",
+          "type": "what_if",
+          "title": {
+            "en": "The Coward's Love",
+            "id": "Cinta Seorang Pengecut"
+          },
+          "content": {
+            "en": "In the quiet corner of the palace, when Hermia begged Lysander to flee with her, he looked toward the city gates and imagined the headsman’s axe. His courage shrank.\n\n'I… I cannot,' he whispered. 'They will hunt us, and I am no hero from stories. Perhaps, in time, your father will relent.' Hermia stared at him as if seeing him for the first time—not as the brave lover she believed in, but as a frightened boy.\n\nLysander left Hermia alone with her impossible choice and soothed his guilt by calling it 'prudence'. But as preparations for Hermia’s forced wedding began, rumours spread that the once-bold Lysander had abandoned her. His name became a warning among the young of Athens: love without bravery is just another word for fear.",
+            "id": "Di sudut sunyi istana, ketika Hermia memohon Lysander untuk lari bersamanya, ia menatap ke arah gerbang kota dan membayangkan kapak algojo. Nyali Lysander menciut.\n\n'Aku… aku tidak bisa,' bisiknya. 'Mereka akan memburu kita, dan aku bukan pahlawan dalam dongeng. Mungkin, seiring waktu, ayahmu akan luluh.' Hermia menatapnya seolah baru pertama kali melihatnya—bukan sebagai kekasih pemberani yang ia percayai, tapi sebagai bocah ketakutan.\n\nLysander meninggalkan Hermia sendirian dengan pilihan mustahilnya dan menenangkan rasa bersalahnya dengan menyebut itu 'kehati-hatian'. Namun saat persiapan pernikahan paksa Hermia dimulai, desas-desus menyebar bahwa Lysander yang dulu gagah telah meninggalkannya. Namanya menjadi peringatan di kalangan muda Athena: cinta tanpa keberanian hanyalah kata lain untuk ketakutan."
+          }
+        },
+        {
+          "id": "what_if_1_loyal_helena",
+          "type": "what_if",
+          "title": {
+            "en": "The Loyal Friend",
+            "id": "Sahabat yang Setia"
+          },
+          "content": {
+            "en": "When Hermia revealed the escape plan, Helena’s heart cracked. Every word about running away with Lysander stabbed the part of her that still loved Demetrius. For a moment, she almost ran to tell him.\n\nBut standing alone in the empty street, Helena realized something: Demetrius had thrown her away without a thought, while Hermia had trusted her with everything. She wiped her tears and whispered, 'I will not sell my friend for a man who already sold me.'\n\nSo Helena kept the secret. Demetrius searched for Hermia the next day and found her gone without a trace. With no one to chase into the forest, the lovers reached Lysander’s aunt safely. The magic, mischief, and chaos of the woods never happened. Athens kept its harsh law, but in a small house far away, true love quietly won.",
+            "id": "Saat Hermia mengungkap rencana pelarian, hati Helena retak. Setiap kata tentang lari bersama Lysander menusuk bagian dirinya yang masih mencintai Demetrius. Sesaat, ia hampir berlari untuk memberi tahu Demetrius.\n\nNamun berdiri sendirian di jalan kosong, Helena menyadari sesuatu: Demetrius sudah membuangnya tanpa pikir, sementara Hermia mempercayakan segalanya padanya. Ia mengusap air matanya dan berbisik, 'Aku tidak akan menjual sahabatku demi pria yang sudah menjualku.'\n\nMaka Helena menyimpan rahasia itu. Demetrius mencari Hermia keesokan harinya dan mendapati dia telah hilang tanpa jejak. Tanpa ada yang dikejar ke dalam hutan, sepasang kekasih itu tiba dengan selamat di rumah bibi Lysander. Keajaiban, keisengan, dan kekacauan hutan tidak pernah terjadi. Athena tetap memegang hukum kerasnya, tapi di sebuah rumah kecil jauh dari sana, cinta sejati menang dengan tenang."
+          }
+        },
+        {
+          "id": "what_if_1_theseus_reforms",
+          "type": "what_if",
+          "title": {
+            "en": "The Duke's Mercy",
+            "id": "Belas Kasih Sang Adipati"
+          },
+          "content": {
+            "en": "As Egeus raged and demanded the old law, Theseus looked at Hermia’s shaking hands and remembered the wars he fought to win Hippolyta’s heart. He, too, had once ignored another kingdom’s laws for love.\n\nIn front of the court, Theseus sighed. 'The law of Athens is old, and perhaps too cruel for this new age. I will not kill a maiden for loving too strongly.' He overruled Egeus. 'Hermia shall have time. Let us see if Demetrius’s heart stays constant, or if love’s wind will change again.'\n\nThe decision shocked the nobles. Some saw it as weakness; others as the first dawn of a gentler Athens. Hermia was spared the deadline of death. The story still moved into the forest later for other reasons—but the fear of execution no longer hung over her, changing every choice she made from that day on.",
+            "id": "Saat Egeus mengamuk menuntut hukum lama, Theseus memandangi tangan Hermia yang gemetar dan teringat pada perang yang ia lalui untuk mendapatkan hati Hippolyta. Ia pun pernah mengabaikan hukum kerajaan lain demi cinta.\n\nDi depan istana, Theseus menghela napas. 'Hukum Athena sudah tua, dan mungkin terlalu kejam untuk zaman baru. Aku tidak akan membunuh seorang gadis karena terlalu kuat mencinta.' Ia membatalkan tuntutan Egeus. 'Hermia akan diberi waktu. Mari lihat apakah hati Demetrius tetap teguh, atau angin cinta akan berubah lagi.'\n\nKeputusan itu mengejutkan para bangsawan. Ada yang melihatnya sebagai kelemahan; yang lain sebagai fajar pertama Athena yang lebih lembut. Hermia terbebas dari tenggat hukuman mati. Cerita tetap bergerak ke hutan nanti karena alasan lain—tapi bayang-bayang eksekusi tak lagi menggantung di atasnya, mengubah setiap pilihan yang ia buat sejak hari itu."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Into the Woods",
+        "id": "Masuk ke Hutan"
+      },
+      "preview": {
+        "en": "The lovers flee into a magical forest, unaware that the King and Queen of Fairies are at war.",
+        "id": "Para kekasih lari ke hutan ajaib, tak sadar bahwa Raja dan Ratu Peri sedang berperang."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "Ill Met by Moonlight",
+            "id": "Pertemuan Buruk di Bawah Bulan"
+          },
+          "content": {
+            "en": "The woods outside Athens were ruled by Oberon, King of Shadows, and Titania, the Fairy Queen. But peace had left the forest. They met in a clearing, moonlight glinting off their anger. 'Ill met by moonlight, proud Titania!' Oberon challenged. Titania countered, accusing him of jealousy. The cause of their strife was a changeling boy—a child of an Indian king whom Titania raised and loved, but whom Oberon demanded for his knight train.\n\nBecause of their quarrel, the winds had sucked up fogs from the sea, rivers had overflown, and the seasons were altered; winter frost fell on summer roses. 'The human mortals want their winter here,' Titania lamented, 'and this same progeny of evils comes from our debate.' Yet, she refused to yield the boy. 'Not for thy fairy kingdom!' she vowed, and swept away with her train.\n\nLeft alone, Oberon swore revenge. He called his jester, the mischievous Puck. 'Fetch me that flower,' Oberon whispered, 'the herb I showed thee once. Cupid's arrow fell upon it. It is now purple with love's wound. The juice of it on sleeping eyelids laid will make or man or woman madly dote upon the next live creature that it sees.' He planned to shame Titania by making her fall in love with a vile beast until she gave up the boy.\n\nWhile waiting for Puck, Oberon saw Demetrius running through the woods, followed by a weeping Helena. 'I love thee not, therefore pursue me not!' Demetrius shouted, leaving Helena alone in the dark. Oberon, though a king of shadows, felt pity. When Puck returned with the flower, Oberon gave him a part of it. 'Take thou some of it, and seek through this grove. A sweet Athenian lady is in love with a disdainful youth. Anoint his eyes, but do it when the next thing he espies may be the lady.'\n\nPuck bowed, 'Fear not, my lord, your servant shall do so,' and flew off into the night. But in the darkness, Puck did not know there were *two* couples in the wood. He found Lysander sleeping near Hermia (they slept apart for propriety). Seeing a man in Athenian clothes, Puck thought, 'This is he, my master said.' He squeezed the love juice onto Lysander's eyes. When Lysander woke, the first thing he saw was not Hermia, but Helena, who had stumbled upon him. The magic took hold instantly. 'Not Hermia but Helena I love!' Lysander cried, abandoning his true love to chase the confused girl. The chaos had begun.",
+            "id": "Hutan di luar Athena dikuasai oleh Oberon, Raja Bayangan, dan Titania, Ratu Peri. Tapi kedamaian telah meninggalkan hutan itu. Mereka bertemu di sebuah tanah lapang, sinar bulan memantulkan kemarahan mereka. 'Pertemuan buruk di bawah sinar bulan, Titania yang sombong!' tantang Oberon. Titania membalas, menuduhnya cemburu. Penyebab pertikaian mereka adalah seorang anak changeling—anak raja India yang dibesarkan dan dicintai Titania, namun diminta Oberon untuk barisan ksatrianya.\n\nKarena pertengkaran mereka, angin menyedot kabut dari laut, sungai meluap, dan musim-musim berubah; embun beku musim dingin jatuh di mawar musim panas. 'Manusia fana merindukan musim dingin mereka,' keluh Titania, 'dan keturunan kejahatan ini berasal dari perdebatan kita.' Namun, ia menolak menyerahkan anak itu. 'Tidak demi kerajaan perimu sekalipun!' sumpahnya, lalu pergi bersama rombongannya.\n\nDitinggal sendiri, Oberon bersumpah akan membalas dendam. Ia memanggil pelawaknya, Puck yang iseng. 'Ambilkan aku bunga itu,' bisik Oberon, 'ramuan yang pernah kutunjukkan padamu. Panah Cupid jatuh di atasnya. Kini warnanya ungu karena luka cinta. Jus bunga itu jika diteteskan di kelopak mata yang tidur akan membuat pria atau wanita jatuh cinta gila-gilaan pada makhluk hidup pertama yang dilihatnya.' Ia berencana mempermalukan Titania dengan membuatnya jatuh cinta pada binatang buas yang hina sampai ia menyerahkan anak itu.\n\nSambil menunggu Puck, Oberon melihat Demetrius berlari menembus hutan, diikuti Helena yang menangis. 'Aku tidak mencintaimu, maka jangan kejar aku!' teriak Demetrius, meninggalkan Helena sendirian dalam kegelapan. Oberon, meski raja bayangan, merasa kasihan. Saat Puck kembali dengan bunga itu, Oberon memberinya sebagian. 'Ambil sebagian, dan carilah di hutan ini. Seorang wanita Athena yang manis jatuh cinta pada pemuda yang meremehkannya. Olesi matanya, tapi lakukan saat hal berikutnya yang ia lihat adalah wanita itu.'\n\nPuck membungkuk, 'Jangan khawatir, tuanku, pelayanmu akan melakukannya,' dan terbang ke dalam malam. Tapi dalam kegelapan, Puck tidak tahu ada *dua* pasangan di hutan itu. Ia menemukan Lysander tidur di dekat Hermia (mereka tidur terpisah demi kesopanan). Melihat pria berbaju Athena, Puck berpikir, 'Ini dia yang dimaksud tuanku.' Ia meneteskan jus cinta ke mata Lysander. Saat Lysander bangun, hal pertama yang dilihatnya bukan Hermia, tapi Helena, yang kebetulan lewat. Sihir itu langsung bekerja. 'Bukan Hermia tapi Helena yang kucinta!' seru Lysander, meninggalkan cinta sejatinya untuk mengejar gadis yang bingung itu. Kekacauan pun dimulai."
+          }
+        },
+        {
+          "id": "what_if_2_dark_forest",
+          "type": "what_if",
+          "title": {
+            "en": "The Hunger of the Woods",
+            "id": "Kelaparan Hutan"
+          },
+          "content": {
+            "en": "The feud between Oberon and Titania had gone on too long. The magic that sustained the forest turned sour. The trees didn't just whisper; they hungered. When Lysander and Hermia entered, the paths shifted behind them, trapping them in an endless labyrinth.\n\nOberon wasn't a mischievous king here, but a desperate tyrant draining life from intruders to sustain his fading realm. Titania hunted humans to turn them into wooden statues for her garden. The lovers didn't face a love triangle; they faced a survival horror. They had to stop bickering and work together to escape a forest that viewed them not as guests, but as food.",
+            "id": "Pertengkaran antara Oberon dan Titania sudah berlangsung terlalu lama. Sihir yang menopang hutan menjadi busuk. Pohon-pohon tidak hanya berbisik; mereka lapar. Ketika Lysander dan Hermia masuk, jalan setapak bergeser di belakang mereka, menjebak mereka dalam labirin tanpa akhir.\n\nOberon bukanlah raja iseng di sini, melainkan tiran putus asa yang menyerap kehidupan dari penyusup untuk mempertahankan kerajaannya yang memudar. Titania memburu manusia untuk mengubah mereka menjadi patung kayu bagi tamannya. Para kekasih tidak menghadapi cinta segitiga; mereka menghadapi horor bertahan hidup. Mereka harus berhenti bertengkar dan bekerja sama untuk meloloskan diri dari hutan yang melihat mereka bukan sebagai tamu, melainkan sebagai makanan."
+          }
+        },
+        {
+          "id": "what_if_2_titania_wins",
+          "type": "what_if",
+          "title": {
+            "en": "Titania's Triumph",
+            "id": "Kemenangan Titania"
+          },
+          "content": {
+            "en": "Oberon tried to trick Titania, but she was older and wiser than he knew. She sensed Puck's approach and caught the jester mid-flight. Taking the love flower from him, she turned the tables.\n\nInstead of being the victim, Titania used the juice on Oberon while he slept. When the King awoke, he fell madly in love with a passing bear. Titania laughed, seizing control of the court. She invited the human lovers in, not to toy with them, but to bless them, showing that the Queen's rule was one of harmony, unlike the King's rule of tricks. The forest bloomed instantly, but Oberon was left wandering the woods, chasing honey and growling love songs.",
+            "id": "Oberon mencoba menipu Titania, tapi Ratu itu lebih tua dan lebih bijak dari yang diketahuinya. Ia merasakan kedatangan Puck dan menangkap si pelawak di udara. Mengambil bunga cinta darinya, ia membalikkan keadaan.\n\nAlih-alih menjadi korban, Titania menggunakan jus itu pada Oberon saat ia tidur. Ketika Sang Raja bangun, ia jatuh cinta gila-gilaan pada beruang yang lewat. Titania tertawa, mengambil alih kendali istana. Ia mengundang para kekasih manusia masuk, bukan untuk mempermainkan mereka, tapi untuk memberkati mereka, menunjukkan bahwa pemerintahan Ratu adalah harmoni, tidak seperti pemerintahan Raja yang penuh tipu daya. Hutan mekar seketika, tapi Oberon ditinggalkan berkeliaran di hutan, mengejar madu dan menggeramkan lagu cinta."
+          }
+        },
+        {
+          "id": "what_if_2_no_magic",
+          "type": "what_if",
+          "title": {
+            "en": "The Rational Night",
+            "id": "Malam Rasional"
+          },
+          "content": {
+            "en": "The lovers entered the woods, terrified of sprites and goblins. But the truth was simpler: there were no fairies. Oberon and Titania were just metaphors for the wind and the moon. The 'magic' was just exhaustion and moonlight playing tricks on tired eyes.\n\nLysander and Hermia argued not because of spells, but because they were lost, hungry, and stressed. Demetrius chased them because of his ego. The drama unfolded as a gritty psychological conflict. Without a magical flower to fix things, they had to confront their true feelings. Lysander realized he might not be ready for exile, and Helena realized Demetrius was a jerk, magic or not.",
+            "id": "Para kekasih memasuki hutan, ketakutan akan roh dan goblin. Tapi kebenarannya lebih sederhana: tidak ada peri. Oberon dan Titania hanyalah metafora bagi angin dan bulan. 'Sihir' itu hanyalah kelelahan dan cahaya bulan yang mempermainkan mata yang lelah.\n\nLysander dan Hermia bertengkar bukan karena mantra, tapi karena mereka tersesat, lapar, dan stres. Demetrius mengejar mereka karena egonya. Drama itu terungkap sebagai konflik psikologis yang nyata. Tanpa bunga ajaib untuk memperbaiki keadaan, mereka harus menghadapi perasaan mereka yang sebenarnya. Lysander sadar ia mungkin tidak siap untuk pengasingan, dan Helena sadar Demetrius adalah bajingan, dengan atau tanpa sihir."
+          }
+        },
+        {
+          "id": "what_if_2_puck_rebels",
+          "type": "what_if",
+          "title": {
+            "en": "Puck's Game",
+            "id": "Permainan Puck"
+          },
+          "content": {
+            "en": "Puck was tired of serving Oberon. 'I am that merry wanderer of the night,' he said, 'not a servant.' When Oberon gave him the flower, Puck decided to create maximum chaos for his own amusement.\n\nHe didn't just anoint the lovers; he anointed everyone. He put the juice on Oberon's eyes, on Titania's eyes, and even on his own reflection in a stream. The forest descended into an orgy of confused affection. Wolves loved sheep, owls loved mice, and the King of Shadows fell in love with a confused Helena. The hierarchy of nature collapsed, and Puck sat on a branch, laughing until he cried, ruling a kingdom of absolute madness.",
+            "id": "Puck lelah melayani Oberon. 'Akulah pengembara malam yang riang itu,' katanya, 'bukan pelayan.' Ketika Oberon memberinya bunga itu, Puck memutuskan untuk menciptakan kekacauan maksimal demi hiburannya sendiri.\n\nDia tidak hanya mengolesi para kekasih; dia mengolesi semua orang. Dia menaruh jus itu di mata Oberon, di mata Titania, dan bahkan pada bayangannya sendiri di sungai. Hutan jatuh ke dalam pesta pora kasih sayang yang membingungkan. Serigala mencintai domba, burung hantu mencintai tikus, dan Raja Bayangan jatuh cinta pada Helena yang bingung. Hirarki alam runtuh, dan Puck duduk di dahan, tertawa sampai menangis, memerintah kerajaan kegilaan mutlak."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Magic Flower",
+        "id": "Bunga Ajaib"
+      },
+      "preview": {
+        "en": "Puck's mistakes multiply. A weaver gets a donkey's head, a Queen falls in love with a beast, and the four lovers turn on each other.",
+        "id": "Kesalahan Puck bertambah. Seorang penenun mendapat kepala keledai, Ratu jatuh cinta pada binatang, dan keempat kekasih saling serang."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "A Midsummer Night's Nightmare",
+            "id": "Mimpi Buruk Musim Panas"
+          },
+          "content": {
+            "en": "In another part of the wood, six workmen were rehearsing their play. The star, Nick Bottom, stepped into a brake for a costume change. Puck, watching with amusement, decided to play a prank. When Bottom emerged, he wore the head of a donkey. His friends screamed, 'We are haunted!' and fled in terror. Unaware of his transformation, Bottom sang loudly to show he wasn't afraid.\n\nHis singing woke Titania. The flower juice on her eyes took effect instantly. She saw the donkey-headed weaver and swooned, 'I pray thee, gentle mortal, sing again!' She commanded her fairies to feed him apricots and dew, and curled up with him in her bower, madly in love with a monster.\n\nMeanwhile, Oberon discovered Puck's mistake with the humans. He saw Hermia accusing Demetrius of murdering Lysander, while Lysander was still chasing Helena. 'What hast thou done?' Oberon scolded Puck. 'Thou hast mistaken quite, and laid the love-juice on some true-love's sight.'\n\nTo fix it, Oberon anointed Demetrius's eyes while he slept and brought Helena near. When Demetrius woke, he too fell for Helena. Now, *both* men loved Helena and hated Hermia. The confusion turned into chaos. Helena thought they were all mocking her. Hermia, heartbroken and betrayed, accused Helena of stealing her love by using her height (since Helena was tall and Hermia short). 'How low am I, thou painted maypole?' Hermia shrieked, trying to scratch Helena's eyes out.\n\nThe men drew swords to duel for Helena. Oberon, seeing the potential for bloodshed, ordered Puck to overcast the night with fog, mimic their voices to lead them astray until they collapsed from exhaustion, and apply an antidote to Lysander's eyes.",
+            "id": "Di bagian lain hutan, enam pekerja sedang berlatih drama. Bintang utamanya, Nick Bottom, masuk ke semak-semak untuk ganti kostum. Puck, yang menonton dengan geli, memutuskan untuk menjahili mereka. Saat Bottom keluar, ia berkepala keledai. Teman-temannya menjerit, 'Kita dihantui!' dan lari ketakutan. Tak sadar akan perubahannya, Bottom bernyanyi keras untuk menunjukkan ia tidak takut.\n\nNyanyiannya membangunkan Titania. Jus bunga di matanya langsung bereaksi. Ia melihat penenun berkepala keledai itu dan terpesona, 'Kumohon, manusia lembut, bernyanyilah lagi!' Ia memerintahkan peri-perinya memberinya aprikot dan embun, lalu memeluknya di peraduannya, jatuh cinta setengah mati pada monster itu.\n\nSementara itu, Oberon mengetahui kesalahan Puck pada manusia. Ia melihat Hermia menuduh Demetrius membunuh Lysander, sementara Lysander masih mengejar Helena. 'Apa yang kau lakukan?' Oberon memarahi Puck. 'Kau salah besar, dan menaruh jus cinta di mata cinta sejati.'\n\nUntuk memperbaikinya, Oberon mengolesi mata Demetrius saat ia tidur dan memancing Helena mendekat. Saat Demetrius bangun, ia pun jatuh cinta pada Helena. Sekarang, *kedua* pria mencintai Helena dan membenci Hermia. Kebingungan berubah menjadi kekacauan. Helena mengira mereka semua mengejeknya. Hermia, patah hati dan dikhianati, menuduh Helena mencuri kekasihnya dengan mengandalkan tinggi badannya. 'Seberapa pendek aku, tiang maypole bergincu?' pekik Hermia, mencoba mencakar mata Helena.\n\nPara pria menghunus pedang untuk berduel demi Helena. Oberon, melihat potensi pertumpahan darah, memerintahkan Puck menyelimuti malam dengan kabut, meniru suara mereka untuk menyesatkan mereka sampai mereka pingsan kelelahan, dan memberikan penawar pada mata Lysander."
+          }
+        },
+        {
+          "id": "what_if_3_fatal_duel",
+          "type": "what_if",
+          "title": {
+            "en": "The Fatal Duel",
+            "id": "Duel Mematikan"
+          },
+          "content": {
+            "en": "Oberon was too slow to order the fog. The rivalry between Lysander and Demetrius, fueled by magic and adrenaline, turned deadly real. Swords clashed in the moonlight, not as a performance, but with intent to kill.\n\nLysander, normally gentle, struck with the fury of a man possessed. Demetrius fell. The silence that followed was deafening. The magic flower could create love, but it could not bring back the dead. Helena's scream shattered the night, and Puck stopped laughing. The comedy ended abruptly; the tragedy of Athens had begun.",
+            "id": "Oberon terlambat memerintahkan turunnya kabut. Persaingan antara Lysander dan Demetrius, yang dipicu sihir dan adrenalin, menjadi nyata dan mematikan. Pedang beradu di bawah sinar bulan, bukan sebagai pertunjukan, tapi dengan niat membunuh.\n\nLysander, yang biasanya lembut, menyerang dengan kemurkaan orang yang kerasukan. Demetrius tumbang. Kesunyian yang menyusul memekakkan telinga. Bunga ajaib bisa menciptakan cinta, tapi tak bisa menghidupkan orang mati. Teriakan Helena memecah malam, dan Puck berhenti tertawa. Komedi berakhir tiba-tiba; tragedi Athena telah dimulai."
+          }
+        },
+        {
+          "id": "what_if_3_wolf_bottom",
+          "type": "what_if",
+          "title": {
+            "en": "The Wolf King",
+            "id": "Raja Serigala"
+          },
+          "content": {
+            "en": "Puck, feeling particularly cruel, didn't turn Bottom into a donkey. He turned him into a wolf. When Titania woke, the spell made her love the beast, but the spell did not change the beast's nature.\n\nBottom, now a predator, did not sing. He snarled. As Titania stroked his fur, the wolf acted on instinct. The fairy court turned from a bower of romance into a scene of carnage. Oberon realized his prank had gone too far—he hadn't just humiliated his wife; he had endangered the entire fairy kingdom by inviting a monster into its heart.",
+            "id": "Puck, yang sedang merasa sangat kejam, tidak mengubah Bottom menjadi keledai. Ia mengubahnya menjadi serigala. Saat Titania bangun, mantra itu membuatnya mencintai binatang itu, tapi mantra itu tidak mengubah sifat si binatang.\n\nBottom, kini seekor pemangsa, tidak bernyanyi. Ia menggeram. Saat Titania membelai bulunya, serigala itu bertindak sesuai naluri. Istana peri berubah dari peraduan romantis menjadi tempat pembantaian. Oberon sadar leluconnya sudah keterlaluan—ia tak hanya mempermalukan istrinya; ia membahayakan seluruh kerajaan peri dengan mengundang monster ke jantungnya."
+          }
+        },
+        {
+          "id": "what_if_3_helena_revenge",
+          "type": "what_if",
+          "title": {
+            "en": "Helena's Revenge",
+            "id": "Pembalasan Helena"
+          },
+          "content": {
+            "en": "Helena didn't think they were mocking her. She realized she held all the power. Seeing both men begging at her feet, years of rejection hardened her heart. She didn't choose either.\n\n'You love me?' she laughed. 'Then prove it. Destroy each other.' She watched with cold satisfaction as the two men fought, treating their devotion as a game. When Hermia arrived, Helena didn't argue; she simply ordered her new 'servants' to chase her former friend away. Helena became the tyrant of the woods, using the magic-induced love to build an army of suitors she despised.",
+            "id": "Helena tidak mengira mereka sedang mengejeknya. Ia sadar ia memegang semua kekuasaan. Melihat kedua pria memohon di kakinya, penolakan bertahun-tahun mengeraskan hatinya. Ia tidak memilih keduanya.\n\n'Kalian mencintaiku?' tawanya. 'Buktikan. Hancurkan satu sama lain.' Ia menonton dengan kepuasan dingin saat kedua pria itu bertarung, memperlakukan pengabdian mereka sebagai permainan. Saat Hermia tiba, Helena tidak berdebat; ia hanya memerintahkan 'pelayan' barunya untuk mengusir mantan sahabatnya. Helena menjadi tiran hutan, menggunakan cinta hasil sihir untuk membangun pasukan pelamar yang ia benci."
+          }
+        },
+        {
+          "id": "what_if_3_fairy_revolt",
+          "type": "what_if",
+          "title": {
+            "en": "The Fairy Revolt",
+            "id": "Pemberontakan Peri"
+          },
+          "content": {
+            "en": "Titania's loyal fairies—Peaseblossom, Cobweb, Moth, and Mustardseed—were not under the spell. Seeing their Queen fondling a grotesque donkey-monster, they didn't serve him; they attacked him.\n\nThey swarmed Bottom with thorns and stinging nettles to protect their mistress's dignity. Titania, blinded by love, fought her own subjects to save the donkey. The prank sparked a civil war within the fairy court, with Oberon watching from the shadows, realizing he had turned the Queen against her own people, breaking the trust of the natural world forever.",
+            "id": "Peri-peri setia Titania—Peaseblossom, Cobweb, Moth, dan Mustardseed—tidak terkena mantra. Melihat Ratu mereka membelai monster keledai yang mengerikan, mereka tidak melayaninya; mereka menyerangnya.\n\nMereka mengerubungi Bottom dengan duri dan jelatang untuk melindungi martabat nyonya mereka. Titania, buta oleh cinta, memerangi rakyatnya sendiri demi menyelamatkan si keledai. Lelucon itu memicu perang saudara di istana peri, dengan Oberon menonton dari bayangan, menyadari ia telah membuat Ratu melawan rakyatnya sendiri, merusak kepercayaan dunia alam selamanya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Awakening",
+        "id": "Kebangkitan"
+      },
+      "preview": {
+        "en": "Morning comes to the forest. Spells are lifted, lovers are found, and a triple wedding is announced.",
+        "id": "Pagi tiba di hutan. Mantra diangkat, para kekasih ditemukan, dan pernikahan tiga pasangan diumumkan."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Dream No More",
+            "id": "Tak Lagi Bermimpi"
+          },
+          "content": {
+            "en": "Oberon, having successfully teased Titania into giving him the changeling boy, felt his anger melt. Seeing her sleeping on the ground with the donkey-man, he felt pity. 'Be as thou wast wont to be; see as thou wast wont to see,' he chanted, squeezing the antidote flower on her eyes. Titania woke with a start. 'My Oberon! what visions have I seen! Methought I was enamoured of an ass.' Oberon pointed to Bottom, and Titania recoiled in disgust. They danced together, reunited, and blessed the sleeping lovers before flying off as the morning lark sang.\n\nPuck removed the donkey head from Bottom, leaving him sleeping as a man again. As dawn broke, Theseus, Hippolyta, and Egeus entered the woods for a royal hunt. They found the four lovers asleep on the ground. The horns blew, waking them.\n\nLysander, blinked, his love for Hermia restored by the antidote. But Demetrius, whose eyes were still enchanted by the flower, looked at Hermia and felt nothing but friendship. He turned to Helena and declared, 'My love to Hermia, melted as the snow... The object and the pleasure of mine eye, is only Helena.'\n\nEgeus demanded justice, but Theseus saw that the problem had solved itself. 'Egeus, I will overbear your will,' the Duke proclaimed. 'These couples shall eternally be knit.' The hunting party returned to Athens for a triple wedding. \n\nBottom woke up last, alone. He felt his head, finding no donkey ears. 'I have had a most rare vision,' he muttered, 'a dream, past the wit of man to say what dream it was.' He ran back to Athens, eager to tell his friends that their play was saved.",
+            "id": "Oberon, setelah berhasil menggoda Titania hingga menyerahkan anak changeling itu, merasa amarahnya reda. Melihat istrinya tidur di tanah bersama manusia-keledai, ia merasa kasihan. 'Jadilah seperti sedia kala; melihatlah seperti sedia kala,' rapannya, meneteskan bunga penawar di mata Titania. Titania terbangun kaget. 'Oberon-ku! Penglihatan apa yang kulihat! Rasanya aku jatuh cinta pada seekor keledai.' Oberon menunjuk Bottom, dan Titania mundur dengan jijik. Mereka menari bersama, bersatu kembali, dan memberkati para kekasih yang tidur sebelum terbang pergi saat burung lark pagi bernyanyi.\n\nPuck melepas kepala keledai dari Bottom, membiarkannya tidur sebagai manusia lagi. Saat fajar menyingsing, Theseus, Hippolyta, dan Egeus masuk ke hutan untuk berburu kerajaan. Mereka menemukan keempat kekasih tidur di tanah. Terompet berbunyi, membangunkan mereka.\n\nLysander mengerjap, cintanya pada Hermia pulih berkat penawar. Namun Demetrius, yang matanya masih disihir bunga cinta, menatap Hermia dan tak merasakan apa-apa selain persahabatan. Ia beralih ke Helena dan menyatakan, 'Cintaku pada Hermia, meleleh seperti salju... Objek dan kesenangan mataku, hanyalah Helena.'\n\nEgeus menuntut keadilan, tapi Theseus melihat masalah itu selesai dengan sendirinya. 'Egeus, aku akan membatalkan kehendakmu,' proklamasi Sang Adipati. 'Pasangan-pasangan ini akan bersatu selamanya.' Rombongan berburu kembali ke Athena untuk pernikahan tiga pasangan.\n\nBottom bangun paling akhir, sendirian. Ia meraba kepalanya, tak menemukan telinga keledai. 'Aku mendapat penglihatan yang sangat langka,' gumamnya, 'mimpi yang melampaui akal manusia untuk menjelaskannya.' Ia berlari kembali ke Athena, tak sabar memberi tahu teman-temannya bahwa drama mereka selamat."
+          }
+        },
+        {
+          "id": "what_if_4_unforgiving_egeus",
+          "type": "what_if",
+          "title": {
+            "en": " The Law is Stone",
+            "id": "Hukum adalah Batu"
+          },
+          "content": {
+            "en": "When Theseus tried to overrule Egeus, the old man did not bow. He drew a dagger, not to strike, but to point at the tablet of Athenian Law. 'The Duke is the voice of the law,' Egeus spat, 'not above it.'\n\nHe demanded Hermia's execution right there in the forest. Demetrius pleaded, but Egeus called him a traitor. Theseus, bound by the strict constitution of Athens, had his hands tied. The triple wedding was cancelled. Hermia was dragged back to Athens in chains, proving that ancient traditions do not bend for young love, no matter how magical the night was.",
+            "id": "Saat Theseus mencoba membatalkan tuntutan Egeus, orang tua itu tidak tunduk. Ia menghunus belati, bukan untuk menyerang, tapi untuk menunjuk pada loh Hukum Athena. 'Adipati adalah suara hukum,' ludah Egeus, 'bukan di atasnya.'\n\nIa menuntut eksekusi Hermia saat itu juga di hutan. Demetrius memohon, tapi Egeus menyebutnya pengkhianat. Theseus, terikat oleh konstitusi ketat Athena, tak berdaya. Pernikahan tiga pasangan dibatalkan. Hermia diseret kembali ke Athena dengan rantai, membuktikan bahwa tradisi kuno tidak akan bengkok demi cinta anak muda, tak peduli seberapa ajaib malam itu."
+          }
+        },
+        {
+          "id": "what_if_4_magic_fades",
+          "type": "what_if",
+          "title": {
+            "en": "The Morning After",
+            "id": "Pagi Setelahnya"
+          },
+          "content": {
+            "en": "In the original story, Demetrius stays under the spell forever. But here, the magic wore off with the morning dew. As the hunting horns blew, Demetrius blinked and looked at Helena—not with love, but with confusion and disgust.\n\n'Why are you holding my hand?' he asked coldly. The truce shattered instantly. He shoved Helena away and went back to demanding Hermia. The night's journey solved nothing. They returned to Athens exactly as they left: broken, angry, and mismatched. The 'happy ending' was revealed to be a drug-induced hallucination that couldn't survive the harsh light of day.",
+            "id": "Dalam cerita asli, Demetrius tetap berada di bawah pengaruh mantra selamanya. Tapi di sini, sihir itu luntur bersama embun pagi. Saat terompet berburu berbunyi, Demetrius mengerjap dan menatap Helena—bukan dengan cinta, tapi dengan kebingungan dan rasa jijik.\n\n'Kenapa kau memegang tanganku?' tanyanya dingin. Gencatan senjata hancur seketika. Ia mendorong Helena menjauh dan kembali menuntut Hermia. Perjalanan malam itu tidak menyelesaikan apa pun. Mereka kembali ke Athena persis seperti saat mereka pergi: hancur, marah, dan tidak serasi. 'Akhir bahagia' itu terungkap hanyalah halusinasi akibat obat yang tak bisa bertahan di bawah cahaya siang yang keras."
+          }
+        },
+        {
+          "id": "what_if_4_titania_remembers",
+          "type": "what_if",
+          "title": {
+            "en": "Titania's Fury",
+            "id": "Kemurkaan Titania"
+          },
+          "content": {
+            "en": "Oberon's antidote worked too well. Titania didn't just wake up; she remembered *everything*. She remembered Oberon drugging her. She remembered him humiliating her with a donkey. She realized it wasn't a dream, but spousal abuse.\n\nInstead of dancing with him, she summoned the roots of the forest to bind him. 'You think to shame a Queen and walk away smiling?' she roared. Titania banished Oberon from the forest forever, taking sole control of the fairy realm. The seasons stabilized, but under a cold, matriarchal rule where no male spirit was ever trusted again.",
+            "id": "Penawar Oberon bekerja terlalu baik. Titania tidak hanya bangun; ia ingat *semuanya*. Ia ingat Oberon membiusnya. Ia ingat suaminya mempermalukannya dengan keledai. Ia sadar itu bukan mimpi, tapi kekerasan rumah tangga.\n\nAlih-alih menari dengannya, ia memanggil akar-akar hutan untuk mengikat Oberon. 'Kau pikir bisa mempermalukan Ratu dan pergi sambil tersenyum?' aumnya. Titania mengusir Oberon dari hutan selamanya, mengambil kendali penuh alam peri. Musim-musim stabil kembali, tapi di bawah pemerintahan matriarki yang dingin di mana tidak ada roh laki-laki yang dipercaya lagi."
+          }
+        },
+        {
+          "id": "what_if_4_monster_found",
+          "type": "what_if",
+          "title": {
+            "en": "The Beast of Athens",
+            "id": "Binatang Athena"
+          },
+          "content": {
+            "en": "Puck forgot to take the donkey head off Bottom. When Theseus and his hunting party arrived, they didn't find sleeping lovers; they found a monster sleeping among them. The hounds attacked instantly.\n\nBottom panic and flailed, terrifying the horses. The soldiers, thinking it was a minotaur or demon, riddled poor Bottom with arrows. The lovers woke up to a massacre. The play was never performed, and the woods became known as a cursed place where men turn into beasts and are hunted for sport.",
+            "id": "Puck lupa melepas kepala keledai dari Bottom. Saat Theseus dan rombongan berburunya tiba, mereka tidak menemukan kekasih yang tidur; mereka menemukan monster tidur di antara mereka. Anjing-anjing pemburu langsung menyerang.\n\nBottom panik dan meronta, menakuti kuda-kuda. Para prajurit, mengira itu minotaur atau iblis, menghujani Bottom yang malang dengan panah. Para kekasih terbangun menyaksikan pembantaian. Drama tidak pernah dipentaskan, dan hutan itu dikenal sebagai tempat terkutuk di mana manusia berubah menjadi binatang dan diburu sebagai olahraga."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Play",
+        "id": "Pertunjukan"
+      },
+      "preview": {
+        "en": "The triple wedding is celebrated with a play so bad it's good. The fairies bless the house, and Puck bids us farewell.",
+        "id": "Pernikahan tiga pasangan dirayakan dengan drama yang saking jeleknya jadi bagus. Para peri memberkati rumah, dan Puck mengucapkan selamat tinggal."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "Pyramus and Thisbe",
+            "id": "Pyramus dan Thisbe"
+          },
+          "content": {
+            "en": "Back in Athens, the triple wedding of Theseus-Hippolyta, Lysander-Hermia, and Demetrius-Helena was held with great pomp. After the feast, Theseus asked for entertainment to pass the 'lazy time' before bed. He chose the workmen's play: 'The Most Lamentable Comedy and Most Cruel Death of Pyramus and Thisbe.'\n\nThe performance was a disaster. Quince, the prologue, messed up his lines. Bottom (as Pyramus) overacted wildly. Flute (as Thisbe) spoke in a high, squeaky voice. Snout played a Wall by holding up two fingers for a chink, and Starveling played Moonshine by holding a lantern and a dog. The nobles mocked them gently—Hippolyta said, 'This is the silliest stuff that ever I heard,' but Theseus replied kindly, 'The best in this kind are but shadows.'\n\nThe tragedy ended with Pyramus dying a very long, loud death, followed by Thisbe stabbing herself. The audience laughed instead of crying. Bottom popped up from being 'dead' to offer an epilogue, but Theseus declined, sending everyone to bed as the 'iron tongue of midnight' tolled twelve.\n\nWhen the palace was quiet, the fairies emerged. Oberon and Titania led their train through the house, singing blessings upon the couples so their children would be perfect and lucky. They swept the dust behind the door and danced in the firelight.\n\nFinally, Puck remained alone on stage. He addressed the audience directly: 'If we shadows have offended, think but this, and all is mended: That you have but slumbered here, while these visions did appear.' He asked for applause to mend the bond, promising to restore amends, and vanished into the night.",
+            "id": "Kembali di Athena, pernikahan tiga pasangan Theseus-Hippolyta, Lysander-Hermia, dan Demetrius-Helena digelar dengan megah. Setelah pesta, Theseus meminta hiburan untuk mengisi 'waktu malas' sebelum tidur. Ia memilih drama para pekerja: 'Komedi Paling Menyedihkan dan Kematian Paling Kejam Pyramus dan Thisbe.'\n\nPertunjukannya berantakan. Quince, pembaca prolog, salah mengucapkan dialognya. Bottom (sebagai Pyramus) berakting berlebihan. Flute (sebagai Thisbe) berbicara dengan suara cempreng. Snout berperan sebagai Tembok dengan mengangkat dua jari sebagai celah, dan Starveling berperan sebagai Cahaya Bulan dengan membawa lampion dan seekor anjing. Para bangsawan mengejek mereka dengan halus—Hippolyta berkata, 'Ini hal terbodoh yang pernah kudengar,' tapi Theseus menjawab ramah, 'Yang terbaik dalam jenis ini hanyalah bayangan.'\n\nTragedi itu berakhir dengan Pyramus mati sangat lama dan berisik, diikuti Thisbe yang menikam dirinya sendiri. Penonton tertawa bukannya menangis. Bottom bangun dari 'kematian' untuk menawarkan epilog, tapi Theseus menolak, menyuruh semua orang tidur saat 'lidah besi tengah malam' berdentang dua belas kali.\n\nSaat istana sunyi, para peri muncul. Oberon dan Titania memimpin rombongan mereka menyusuri rumah, menyanyikan berkat bagi pasangan-pasangan itu agar anak-anak mereka sempurna dan beruntung. Mereka menyapu debu di balik pintu dan menari dalam cahaya api.\n\nAkhirnya, Puck tinggal sendirian di panggung. Ia bicara langsung pada penonton: 'Jika kami bayangan telah menyinggung, anggaplah saja begini, dan semua akan pulih: Bahwa kalian hanya tertidur di sini, sementara visi ini muncul.' Ia meminta tepuk tangan untuk memperbaiki hubungan, berjanji akan membalas kebaikan, lalu lenyap ke dalam malam."
+          }
+        },
+        {
+          "id": "what_if_5_masterpiece",
+          "type": "what_if",
+          "title": {
+            "en": "The Accidental Masterpiece",
+            "id": "Mahakarya Tak Sengaja"
+          },
+          "content": {
+            "en": "Bottom didn't overact. The magic of the forest had changed him. When he stood up to play Pyramus, he didn't shout; he wept. He channelled the raw, primal emotion of the wolf/donkey he had been. His performance was so hauntingly real that the mocking nobles fell silent.\n\nHippolyta cried openly. Theseus was shaken to his core. Instead of laughing, the court was moved to a profound catharsis. The workmen weren't dismissed as clowns but hailed as tragic geniuses. They were invited to become the Royal Theatre Troupe, elevating them from poverty to stardom. Art, born from the absurd, transcended class boundaries that night.",
+            "id": "Bottom tidak berakting berlebihan. Sihir hutan telah mengubahnya. Saat ia berdiri memerankan Pyramus, ia tidak berteriak; ia menangis. Ia menyalurkan emosi primal dan mentah dari serigala/keledai yang pernah ia rasakan. Penampilannya begitu nyata dan menghantui hingga para bangsawan yang mengejek pun terdiam.\n\nHippolyta menangis tersedu. Theseus terguncang jiwanya. Bukannya tertawa, istana terbawa dalam katarsis yang mendalam. Para pekerja itu tidak diusir sebagai badut, tapi dipuja sebagai jenius tragedi. Mereka diundang menjadi Rombongan Teater Kerajaan, mengangkat derajat mereka dari kemiskinan menjadi bintang. Seni, yang lahir dari hal absurd, melampaui batas kelas malam itu."
+          }
+        },
+        {
+          "id": "what_if_5_real_death",
+          "type": "what_if",
+          "title": {
+            "en": "The Method Actor",
+            "id": "Aktor Metode"
+          },
+          "content": {
+            "en": "Bottom took his role too seriously. In his eagerness to impress the Duke, he swapped the prop dagger for a real one without checking. During the death scene, he plunged the blade into his chest.\n\nThe audience applauded the 'realistic blood' and the 'convincing gasp'. It was only when Thisbe (Flute) slipped in the pool of red that the laughter died. The wedding feast turned into a crime scene. The play became a legend not for its comedy, but as the cursed performance where a man died for applause, reminding Athens that the line between entertainment and tragedy is razor-thin.",
+            "id": "Bottom menganggap perannya terlalu serius. Karena ingin sekali membuat Sang Adipati terkesan, ia menukar belati properti dengan belati asli tanpa mengecek. Saat adegan kematian, ia menghujamkan bilah itu ke dadanya.\n\nPenonton bertepuk tangan memuji 'darah yang realistis' dan 'engahan napas yang meyakinkan'. Baru ketika Thisbe (Flute) terpeleset di genangan merah itu, tawa pun mati. Pesta pernikahan berubah menjadi TKP. Drama itu menjadi legenda bukan karena komedinya, tapi sebagai pertunjukan terkutuk di mana seseorang mati demi tepuk tangan, mengingatkan Athena bahwa batas antara hiburan dan tragedi setipis silet."
+          }
+        },
+        {
+          "id": "what_if_5_puck_stays",
+          "type": "what_if",
+          "title": {
+            "en": "Puck's New Toy",
+            "id": "Mainan Baru Puck"
+          },
+          "content": {
+            "en": "Instead of apologizing and leaving, Puck decided he liked the palace. It was warm, full of food, and full of gullible humans. When Oberon left, Puck stayed behind.\n\nHe became the invisible poltergeist of Athens. He tied Theseus's shoelaces together during speeches. He put salt in the wedding cake. He whispered doubts into the lovers' ears. The 'happily ever after' didn't last a week. The couples slowly went mad, paranoid that their house was haunted, eventually fleeing the city. Puck sat on the empty throne, wearing Theseus's crown, grinning. 'Lord, what fools these mortals be,' he chuckled, now the eternal King of an abandoned city.",
+            "id": "Alih-alih meminta maaf dan pergi, Puck memutuskan ia suka istana. Tempat itu hangat, penuh makanan, dan penuh manusia yang mudah ditipu. Saat Oberon pergi, Puck tetap tinggal.\n\nIa menjadi hantu poltergeist tak terlihat di Athena. Ia mengikat tali sepatu Theseus saat pidato. Ia menaruh garam di kue pernikahan. Ia membisikkan keraguan ke telinga para kekasih. 'Bahagia selamanya' itu tidak bertahan seminggu. Pasangan-pasangan itu perlahan menjadi gila, paranoid bahwa rumah mereka berhantu, dan akhirnya melarikan diri dari kota. Puck duduk di takhta kosong, memakai mahkota Theseus, menyeringai. 'Tuhan, betapa bodohnya manusia-manusia ini,' kekehnya, kini menjadi Raja abadi dari kota yang ditinggalkan."
+          }
+        },
+        {
+          "id": "what_if_5_fourth_wall_break",
+          "type": "what_if",
+          "title": {
+            "en": "The Simulation Glitch",
+            "id": "Kerusakan Simulasi"
+          },
+          "content": {
+            "en": "When Puck said, 'If we shadows have offended...', he didn't look at the audience; he looked *through* the screen. He stopped rhyming. His face dropped its mischievous grin and became terrifyingly serious.\n\n'You think you are watching a play?' he asked. 'You are the play.' He began to describe the room the reader was sitting in. He described the device they were holding. He revealed that their entire reality was just another dream of Oberon's. The story didn't end; it dissolved. The text on the screen scrambled into code, then darkness, leaving the reader with the unsettling feeling that when they wake up, they might still be in the forest.",
+            "id": "Saat Puck berkata, 'Jika kami bayangan telah menyinggung...', ia tidak menatap penonton; ia menatap *menembus* layar. Ia berhenti berima. Wajahnya menanggalkan seringai iseng dan menjadi serius yang mengerikan.\n\n'Kau pikir kau sedang menonton drama?' tanyanya. 'Kaulah dramanya.' Ia mulai mendeskripsikan ruangan tempat pembaca duduk. Ia mendeskripsikan perangkat yang mereka pegang. Ia mengungkapkan bahwa seluruh realitas mereka hanyalah mimpi lain dari Oberon. Cerita tidak berakhir; ia melarut. Teks di layar teracak menjadi kode, lalu kegelapan, meninggalkan pembaca dengan perasaan meresahkan bahwa saat mereka bangun, mereka mungkin masih ada di dalam hutan."
+          }
+        }
+      ]
+    }
+  ]
+}

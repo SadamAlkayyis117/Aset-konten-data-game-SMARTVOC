@@ -1,0 +1,88 @@
+{
+  "mission_reports": [
+    {
+      "id": "delivery_basic",
+      "min_words": 50,
+      "required_keywords": ["deliver", "package", "address", "courier"],
+      "optional_keywords": ["bike", "chain", "priority", "red label", "QR code"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Report too brief. Describe the courier's bike issue and delivery process in detail.",
+        "missing_keywords": "Must mention packages, addresses delivered to, and courier's situation.",
+        "grammar_error": "Multiple grammar issues detected. Please proofread carefully.",
+        "accepted": "Delivery report approved. Good detail on courier assistance and task completion."
+      }
+    },
+    {
+      "id": "poster_campaign",
+      "min_words": 60,
+      "required_keywords": ["poster", "lamppost", "police", "captain"],
+      "optional_keywords": ["wheat paste", "inspection", "fever", "litter"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Need more detail about poster placement process and officer's condition.",
+        "missing_keywords": "Report must mention posters, lampposts, police officer, and captain concerns.",
+        "grammar_error": "Grammar/spelling errors found. Professional reports require clarity.",
+        "accepted": "Poster campaign report approved. Excellent observation of officer's health concerns."
+      }
+    },
+    {
+      "id": "bakery_rescue",
+      "min_words": 60,
+      "required_keywords": ["cake", "wedding", "address", "bride", "bakery"],
+      "optional_keywords": ["roses", "Oak Street", "loaves", "regulars"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Describe wedding cake delivery details and bakery owner's business challenges.",
+        "missing_keywords": "Must include cake, wedding, bride, address, and bakery context.",
+        "grammar_error": "Several grammatical errors. Revise for formal report standards.",
+        "accepted": "Bakery delivery report approved. Strong business impact analysis included."
+      }
+    },
+    {
+      "id": "cat_chaos_control",
+      "min_words": 65,
+      "required_keywords": ["cat", "escape", "client", "inventory"],
+      "optional_keywords": ["Shadow", "Snowball", "Spice", "treats", "boss"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Elaborate on cat escape locations and keeper's employment risk.",
+        "missing_keywords": "Must mention cats escaping, client orders, and inventory check.",
+        "grammar_error": "Grammar issues reduce report professionalism. Please revise.",
+        "accepted": "Cat rescue operation report approved. Detailed location tracking noted."
+      }
+    },
+    {
+      "id": "script_salvage",
+      "min_words": 75,
+      "required_keywords": ["script", "pages", "episode", "studio", "actors"],
+      "optional_keywords": ["Episode 7", "yellow", "wind", "coffee shop", "director"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Need specifics on script recovery locations and production timeline pressure.",
+        "missing_keywords": "Report requires script pages, episode details, studio context, actors waiting.",
+        "grammar_error": "Multiple errors found. Professional proofreading needed.",
+        "accepted": "Script recovery report approved. Excellent documentation of production crisis."
+      }
+    },
+    {
+      "id": "birthday_setup",
+      "min_words": 55,
+      "required_keywords": ["birthday", "streamers", "photo booth", "friends"],
+      "optional_keywords": ["balloons", "tablecloth", "budget", "Mom"],
+      "tone": "neutral_academic",
+      "status_flow": ["Draft", "Submitted", "Reviewed", "Approved"],
+      "feedback": {
+        "too_short": "Describe party decorations and teenager's budget constraints in more detail.",
+        "missing_keywords": "Must mention birthday setup, streamers, photo booth, friends arriving.",
+        "grammar_error": "Grammar corrections needed for formal submission.",
+        "accepted": "Birthday event setup report approved. Good analysis of teen's preparation stress."
+      }
+    }
+  ]
+}

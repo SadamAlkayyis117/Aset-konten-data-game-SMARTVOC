@@ -1,0 +1,520 @@
+{
+  "book_id": "the_ghost_way_of_the_samurai",
+  "title": {
+    "en": "The Ghost: Way of the Samurai",
+    "id": "Sang Hantu: Jalan Samurai"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Ash on the Road",
+        "id": "Abu di Jalan"
+      },
+      "preview": {
+        "en": "A warrior without a banner learns that survival is a kind of stealth—and honor is a blade that can cut its owner.",
+        "id": "Seorang pejuang tanpa panji belajar bahwa bertahan hidup adalah sejenis kesenyapan—dan kehormatan adalah bilah yang bisa melukai pemiliknya."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Ghost’s First Rule",
+            "id": "Aturan Pertama Sang Hantu"
+          },
+          "content": {
+            "en": "The road is wet from night rain, and the pine needles cling to my sandals like reminders. I walk alone, not because solitude is noble, but because attachments are loud.\n\nA village bell rings somewhere behind the hills—one of the last sounds that still believes it can summon help. The ring fades, then returns, then stops. Silence is the most honest messenger.\n\nOn the roadside, I find a cart overturned and a line of footprints pressed deep into mud. Too many boots, too few bare feet. The sign of men who take what they need and call it law.\n\nI do not follow the tracks immediately. I step off the road and watch the wind move grass. A samurai learns to read posture; a ghost must learn to read absence.\n\nAt the edge of the trees, a farmer kneels beside a body wrapped in straw matting. His hands shake, but his eyes are dry—the dryness of someone who has already cried everything away.\n\nHe sees my swords and does not beg. Begging invites disappointment.\n\n\"They took the rice,\" he says. \"They took the boy.\" He speaks as if listing stolen objects, because grief must be packed into words small enough to carry.\n\nHe points toward the river. Smoke rises there in thin, disciplined lines—cooking smoke, not burning smoke. Occupation, not chaos.\n\nA part of me wants to walk down the riverbank with steel in hand and become the story people tell to survive the night. That part is simple. It is also predictable.\n\nI remember a lesson my teacher hated: an honorable duel is a conversation with witnesses. Without witnesses, it is only noise.\n\nSo I choose the quiet approach. I move through reeds and wet stones, keeping the river between me and the camp’s eyes. I count sentries by the pauses in their laughter.\n\nTwo men guard the food. One guards the prisoners. None guard the dark.\n\nI find the boy in a shed with three others. Their mouths are tied not to keep them silent, but to keep them from speaking each other’s names—because names make people harder to abandon.\n\nThe lock is cheap. The idea behind it is expensive.\n\nI do not cut throats. I cut ropes. I do not seek victory. I seek subtraction.\n\nWhen the boy stumbles into my arms, he whispers one word: \"Samurai?\"\n\nI answer with the only truth that matters tonight: \"Walk.\" \n\nWe leave without a clash, slipping into the tree line while the camp still believes itself safe.\n\nAt dawn, the farmer finds his boy returned and asks what he owes.\n\n\"Nothing,\" I say, and it surprises us both.\n\nChapter 1 ends with me watching the village from a ridge as smoke rises again—this time from cooking that belongs to the people who grew it. I understand the first rule of becoming a ghost: save what you can without teaching the enemy where to look for you next.",
+            "id": "Jalan masih basah oleh hujan malam, dan jarum pinus menempel di sandal seperti pengingat. Aku berjalan sendiri, bukan karena kesendirian itu mulia, melainkan karena keterikatan itu bising.\n\nSebuah lonceng desa berbunyi entah di balik perbukitan—salah satu suara terakhir yang masih percaya ia bisa memanggil pertolongan. Dentangnya memudar, kembali, lalu berhenti. Sunyi adalah utusan paling jujur.\n\nDi tepi jalan, aku menemukan gerobak terguling dan jejak kaki menekan dalam di lumpur. Terlalu banyak sepatu, terlalu sedikit telapak telanjang. Tanda orang-orang yang mengambil yang mereka butuh lalu menyebutnya hukum.\n\nAku tidak langsung mengikuti jejak. Aku menepi dan mengamati angin menggerakkan rumput. Samurai belajar membaca postur; hantu harus belajar membaca ketiadaan.\n\nDi tepi pepohonan, seorang petani berlutut di samping tubuh yang dibungkus tikar jerami. Tangannya gemetar, tapi matanya kering—kekeringan seseorang yang sudah menghabiskan seluruh tangis.\n\nIa melihat pedangku dan tidak memohon. Memohon mengundang kecewa.\n\n\"Berasnya diambil,\" katanya. \"Anaknya dibawa.\" Ia berbicara seperti menyebut daftar barang hilang, sebab duka harus dipadatkan jadi kata-kata kecil agar bisa dipikul.\n\nIa menunjuk ke arah sungai. Asap naik di sana dalam garis tipis yang disiplin—asap masak, bukan asap bakar. Pendudukan, bukan kekacauan.\n\nSebagian diriku ingin berjalan menyusuri tepi sungai dengan baja di tangan dan menjadi cerita yang orang pegang untuk bertahan semalam. Bagian itu sederhana. Juga mudah ditebak.\n\nAku ingat pelajaran yang dibenci guruku: duel terhormat adalah percakapan dengan saksi. Tanpa saksi, itu cuma kebisingan.\n\nMaka aku memilih jalur sunyi. Aku bergerak lewat ilalang dan batu basah, membiarkan sungai jadi pemisah dari mata kamp. Aku menghitung penjaga lewat jeda tawa mereka.\n\nDua orang menjaga makanan. Satu menjaga tahanan. Tak ada yang menjaga gelap.\n\nAku menemukan si anak di gudang bersama tiga orang lain. Mulut mereka diikat bukan agar diam, melainkan agar tak sempat menyebut nama satu sama lain—karena nama membuat orang lebih sulit ditinggalkan.\n\nGemboknya murahan. Ide di baliknya mahal.\n\nAku tidak memotong leher. Aku memotong tali. Aku tidak mengejar kemenangan. Aku mengejar pengurangan.\n\nSaat anak itu limbung jatuh ke lenganku, ia berbisik satu kata: \"Samurai?\"\n\nAku menjawab dengan satu-satunya kebenaran yang penting malam ini: \"Jalan.\" \n\nKami pergi tanpa bentrokan, menyelinap ke garis pohon saat kamp masih percaya dirinya aman.\n\nSaat fajar, petani itu menemukan anaknya kembali dan bertanya apa yang harus dibayar.\n\n\"Tidak ada,\" kataku, dan itu mengejutkan kami berdua.\n\nBab 1 berakhir saat aku memandang desa dari punggung bukit ketika asap kembali naik—kali ini dari masakan yang kembali milik orang yang menanamnya. Aku paham aturan pertama untuk menjadi hantu: selamatkan yang bisa tanpa mengajari musuh ke mana harus menoleh lain kali."
+          }
+        },
+        {
+          "id": "what_if_1_he_chooses_the_honorable_duel",
+          "type": "what_if",
+          "title": {
+            "en": "He Announced Himself",
+            "id": "Ia Mengumumkan Dirinya"
+          },
+          "content": {
+            "en": "In this path, the warrior rejects the quiet approach. He walks straight to the riverside camp with swords visible, demanding the boy’s return under the old rules.\n\nThe camp answers with laughter first, then steel. The duel becomes a spectacle, and a spectacle becomes a signal.\n\nHe wins the first fight, but the victory teaches the raiders exactly what kind of threat has entered their territory. They stop being careless and start being organized.\n\nThe boy is freed, yet the village inherits a new danger: revenge that travels with a name.\n\nIn this what if, Chapter 1 ends with honor intact and stealth broken—the Ghost is born too loudly to stay unseen.",
+            "id": "Dalam jalur ini, sang pejuang menolak jalur sunyi. Ia berjalan langsung ke kamp tepi sungai dengan pedang terlihat, menuntut anak itu dikembalikan menurut aturan lama.\n\nKamp menjawab dengan tawa dulu, lalu baja. Duel berubah jadi tontonan, dan tontonan berubah jadi sinyal.\n\nIa menang dalam pertarungan pertama, tapi kemenangan itu mengajari para perampok tepat seperti apa ancaman yang masuk wilayah mereka. Mereka berhenti ceroboh dan mulai terorganisir.\n\nAnak itu bebas, namun desa mewarisi bahaya baru: balas dendam yang berjalan bersama sebuah nama.\n\nDalam what if ini, Bab 1 berakhir dengan kehormatan utuh dan kesenyapan pecah—Sang Hantu lahir terlalu bising untuk tetap tak terlihat."
+          }
+        },
+        {
+          "id": "what_if_1_the_boy_refuses_to_run",
+          "type": "what_if",
+          "title": {
+            "en": "The Child Clung to Names",
+            "id": "Anak Itu Berpegang pada Nama"
+          },
+          "content": {
+            "en": "In this path, when the ropes are cut, the boy does not move. He tries to wake the other prisoners, whispering their names as if names can keep them alive.\n\nThe delay turns seconds into danger. A sentry hears the faint scrape of straw and starts toward the shed.\n\nThe warrior must choose between saving one boy cleanly or attempting to save all and risking a fight that will echo across the river.\n\nHe grabs the boy and leaves the others behind—not out of cruelty, but out of arithmetic.\n\nIn this what if, Chapter 1 ends with the Ghost learning the first moral wound of stealth: subtraction saves lives, but it also leaves people to be counted later.",
+            "id": "Dalam jalur ini, ketika talinya dipotong, si anak tidak bergerak. Ia mencoba membangunkan tahanan lain, membisikkan nama mereka seolah nama bisa menjaga mereka hidup.\n\nKeterlambatan mengubah detik jadi bahaya. Seorang penjaga mendengar seretan jerami pelan dan mulai menuju gudang.\n\nSang pejuang harus memilih: menyelamatkan satu anak dengan bersih atau mencoba menyelamatkan semua dengan risiko bentrokan yang akan menggema melintasi sungai.\n\nIa meraih si anak dan pergi, meninggalkan yang lain—bukan karena kejam, melainkan karena aritmetika.\n\nDalam what if ini, Bab 1 berakhir dengan Sang Hantu belajar luka moral pertama dari kesenyapan: pengurangan menyelamatkan, tapi juga meninggalkan orang untuk dihitung belakangan."
+          }
+        },
+        {
+          "id": "what_if_1_the_farmer_is_the_bait",
+          "type": "what_if",
+          "title": {
+            "en": "The Kneeling Man Was a Hook",
+            "id": "Petani Berlutut Itu Umpan"
+          },
+          "content": {
+            "en": "In this path, the grieving farmer is not a victim. He is coerced—or complicit—used to draw a swordsman close enough to be studied.\n\nWhen the warrior slips toward the camp, a second group moves quietly behind him, mirroring his path through reeds.\n\nThe rescue succeeds, but the withdrawal becomes a chase without shouting: silhouettes in tree lines, footsteps timed to his pauses.\n\nThe warrior realizes the enemy is learning his method, not just hunting his body.\n\nIn this what if, Chapter 1 ends with the Ghost saving the boy but losing something more valuable—anonymity. The enemy now knows what silence looks like when it walks.",
+            "id": "Dalam jalur ini, petani yang berduka bukan korban. Ia dipaksa—atau ikut serta—dipakai untuk menarik pendekar cukup dekat agar bisa dipelajari.\n\nSaat sang pejuang menyelinap ke kamp, kelompok kedua bergerak sunyi di belakangnya, meniru jalurnya di ilalang.\n\nPenyelamatan berhasil, tapi mundurnya berubah jadi pengejaran tanpa teriakan: siluet di garis pohon, langkah yang disetel pada jedanya.\n\nSang pejuang sadar musuh sedang mempelajari metodenya, bukan sekadar memburu tubuhnya.\n\nDalam what if ini, Bab 1 berakhir dengan Sang Hantu menyelamatkan anak itu namun kehilangan sesuatu yang lebih berharga—anonimitas. Musuh kini tahu seperti apa rupa kesenyapan ketika ia berjalan."
+          }
+        },
+        {
+          "id": "what_if_1_they_set_fire_to_cover_the_escape",
+          "type": "what_if",
+          "title": {
+            "en": "Smoke for the Living",
+            "id": "Asap untuk yang Hidup"
+          },
+          "content": {
+            "en": "In this path, the camp begins to stir as the prisoners are freed. The warrior chooses a crude tool to protect a quiet exit: fire.\n\nHe tips a cooking pot and ignites dry reed bundles near the food stores, creating smoke that blinds sight lines and scrambles commands.\n\nThe boy escapes, but the village pays later. The raiders return angry and hungry, convinced the locals aided the attack.\n\nThe Ghost learns a second rule: when you use chaos, you inherit its consequences.\n\nIn this what if, Chapter 1 ends with a rescue that succeeds tactically but poisons the ground it stands on.",
+            "id": "Dalam jalur ini, kamp mulai bergerak saat para tahanan dibebaskan. Sang pejuang memilih alat kasar untuk melindungi jalan keluar sunyi: api.\n\nIa menumpahkan panci masak dan menyulut ikatan ilalang kering dekat simpanan makanan, menciptakan asap yang membutakan garis pandang dan mengacaukan komando.\n\nSi anak lolos, tapi desa membayar belakangan. Para perampok kembali dalam keadaan marah dan lapar, yakin penduduk membantu serangan.\n\nSang Hantu belajar aturan kedua: saat kamu memakai kekacauan, kamu mewarisi konsekuensinya.\n\nDalam what if ini, Bab 1 berakhir dengan penyelamatan yang berhasil secara taktis namun meracuni tanah tempat ia berdiri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "A Name in the Trees",
+        "id": "Nama di Antara Pohon"
+      },
+      "preview": {
+        "en": "Saving one life is easy to hide. Saving many turns you into a pattern—and patterns are how enemies learn to hunt.",
+        "id": "Menyelamatkan satu nyawa mudah disembunyikan. Menyelamatkan banyak mengubahmu jadi pola—dan pola adalah cara musuh belajar memburu."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The Debt of Witnesses",
+            "id": "Utang Para Saksi"
+          },
+          "content": {
+            "en": "The boy returns home, and the village exhales as if breath can undo what happened. Rice is measured, fires are lit again, and people look at their own hands like they have been given back.\n\nBut safety is loud. By noon, three strangers arrive at the edge of the village pretending to be travelers. Their sandals are too clean, their questions too specific.\n\n\"A swordsman passed through,\" one says. \"A quiet one.\"\n\nThe farmer who owed nothing owes something now: silence. He tries to offer it, but fear makes people speak to fill gaps.\n\nThe Ghost does not stay to be thanked. He watches from the tree line and sees the new danger forming—not raiders, but inquiry. Not violence, but indexing.\n\nThat night, the village elder invites him to the shrine as if a shrine can hide a man better than trees. The elder offers food, a bed, and a name to use in prayers.\n\nThe Ghost refuses the bed and refuses the name. Names are hooks.\n\nHe asks for something else: a map of paths that do not appear on official roads, and a list of households with missing sons.\n\nThe elder hesitates. Lists create responsibility. Responsibility creates targets.\n\nStill, the elder agrees, because the raiders have taught the village that doing nothing is also a choice.\n\nBefore dawn, the Ghost moves alone to a bamboo grove that overlooks the river road. He sets no traps made of metal or fire. He sets a trap made of expectation.\n\nWhen the three strangers return with two more men, the Ghost does not strike first. He lets them step into the place where the wind is loudest and their own whispers cannot coordinate.\n\nHe takes one down without killing—an arm pinned to a tree with the flat of a blade and a twist that breaks intent. The others scatter, startled not by blood but by the feeling of being watched by something they cannot see.\n\nHe leaves them a message cut into bamboo, shallow enough to be missed by the careless and obvious enough to be found by the deliberate: \"Go around.\"\n\nBy sunrise, the village hears rumors of a spirit in the trees. The elder worries the rumors will grow.\n\nThe Ghost answers with the second rule of his path: you cannot stop stories, but you can shape their direction.\n\nChapter 2 ends with him leaving the village anyway, carrying no banner, no thanks, and no written list—only a few memorized names of the missing. Behind him, the villagers begin to copy his habit: fewer words, more watching, and an understanding that secrecy is not cowardice. It is survival.",
+          "id": "Anak itu pulang, dan desa mengembuskan napas seolah napas bisa membatalkan yang terjadi. Beras kembali ditakar, api dinyalakan lagi, dan orang menatap tangan sendiri seperti baru dikembalikan.\n\nNamun aman itu bising. Menjelang siang, tiga orang asing datang ke tepi desa berpura-pura pelancong. Sandal mereka terlalu bersih, pertanyaan mereka terlalu spesifik.\n\n\"Ada pendekar lewat,\" kata salah satu. \"Yang sunyi.\"\n\nPetani yang tadi tak berutang apa-apa kini berutang sesuatu: diam. Ia mencoba membayar, tapi takut membuat orang bicara untuk menutup lubang.\n\nSang Hantu tidak tinggal untuk dipuji. Ia mengintip dari garis pohon dan melihat bahaya baru terbentuk—bukan perampok, melainkan penyelidikan. Bukan kekerasan, melainkan pengindeksan.\n\nMalamnya, tetua desa mengundangnya ke kuil seolah kuil bisa menyembunyikan orang lebih baik daripada pepohonan. Tetua menawarkan makan, tempat tidur, dan nama untuk dipakai dalam doa.\n\nSang Hantu menolak tempat tidur dan menolak nama. Nama adalah kail.\n\nIa meminta hal lain: peta jalur yang tak muncul di jalan resmi, dan daftar rumah yang kehilangan anak lelaki.\n\nTetua ragu. Daftar menciptakan tanggung jawab. Tanggung jawab menciptakan sasaran.\n\nNamun tetua setuju juga, karena perampok sudah mengajari desa bahwa tidak melakukan apa-apa pun adalah pilihan.\n\nSebelum fajar, Sang Hantu bergerak sendiri ke rumpun bambu yang menghadap jalan sungai. Ia tak memasang jerat dari metal atau api. Ia memasang jerat dari ekspektasi.\n\nSaat tiga orang asing itu kembali membawa dua orang lagi, Sang Hantu tidak menyerang duluan. Ia membiarkan mereka melangkah ke titik tempat angin paling bising dan bisik mereka tak bisa berkoordinasi.\n\nIa menjatuhkan satu tanpa membunuh—lengan dipaku ke batang bambu dengan sisi datar bilah dan puntiran yang mematahkan niat. Yang lain tercerai, terkejut bukan oleh darah, melainkan oleh rasa diawasi oleh sesuatu yang tak terlihat.\n\nIa meninggalkan pesan tergores di bambu, cukup dangkal untuk terlewat oleh ceroboh dan cukup jelas untuk ditemukan yang teliti: \"Lewati.\"\n\nMenjelang matahari naik, desa mendengar rumor tentang roh di pepohonan. Tetua khawatir rumor itu membesar.\n\nSang Hantu menjawab dengan aturan kedua jalannya: kamu tak bisa menghentikan cerita, tapi kamu bisa membelokkan arahnya.\n\nBab 2 berakhir saat ia tetap meninggalkan desa, tanpa panji, tanpa terima kasih, dan tanpa daftar tertulis—hanya beberapa nama yang ia hafal: anak-anak yang hilang. Di belakangnya, penduduk mulai meniru kebiasaannya: lebih sedikit kata, lebih banyak mengamati, dan paham bahwa rahasia bukan pengecut. Ia bertahan hidup."
+          }
+        },
+        {
+          "id": "what_if_2_he_accepts_a_name",
+          "type": "what_if",
+          "title": {
+            "en": "He Took the Hook",
+            "id": "Ia Mengambil Kail"
+          },
+          "content": {
+            "en": "In this path, the Ghost accepts the elder’s offer of a name for the shrine—thinking a borrowed name is harmless if it is only spoken in prayer.\n\nBut names do not stay in shrines. A child repeats it while playing, a gossip repeats it while trading, and soon the name becomes a handle strangers can grab.\n\nWhen the five ‘travelers’ return, they do not ask about a quiet swordsman. They ask about the name.\n\nThe Ghost is forced to flee earlier than planned, abandoning the bamboo ambush and leaving the village with a trail of questions it cannot answer.\n\nIn this what if, Chapter 2 ends with a sharp lesson: anonymity is not only about hiding your face; it is about refusing to give people a word they can carry.",
+            "id": "Dalam jalur ini, Sang Hantu menerima tawaran nama dari tetua untuk dipakai di kuil—mengira nama pinjaman tak berbahaya jika hanya diucap dalam doa.\n\nTapi nama tidak tinggal di kuil. Seorang anak mengulangnya saat bermain, seorang penggosip mengulangnya saat barter, dan nama itu jadi pegangan yang bisa diraih orang asing.\n\nSaat lima ‘pelancong’ kembali, mereka tidak lagi bertanya tentang pendekar sunyi. Mereka bertanya tentang nama itu.\n\nSang Hantu terpaksa pergi lebih cepat dari rencana, membatalkan jebakan bambu dan meninggalkan desa dengan jejak pertanyaan yang tak bisa mereka jawab.\n\nDalam what if ini, Bab 2 berakhir dengan pelajaran tajam: anonimitas bukan cuma menyembunyikan wajah; ia menolak memberi orang satu kata yang bisa mereka bawa."
+          }
+        },
+        {
+          "id": "what_if_2_the_villagers_give_him_up",
+          "type": "what_if",
+          "title": {
+            "en": "Fear Paid in Directions",
+            "id": "Takut Dibayar dengan Petunjuk"
+          },
+          "content": {
+            "en": "In this path, the strangers’ questions land on a village already exhausted. One family worries their rice will be taken again if they lie.\n\nThey do not betray the Ghost out of malice. They do it out of bargaining: a direction offered in exchange for being left alone.\n\nThe Ghost senses the shift too late. The bamboo grove becomes a corridor, not a trap—because the men arrive already looking in the right place.\n\nHe still escapes, but he has to spill blood to do it, and blood turns a rumor into a certainty.\n\nIn this what if, Chapter 2 ends with the Ghost learning the most bitter economy: people will sell what they can’t protect, and secrecy cannot be asked of those who are starving.",
+            "id": "Dalam jalur ini, pertanyaan orang asing jatuh ke desa yang sudah lelah. Satu keluarga takut beras mereka akan diambil lagi jika mereka berbohong.\n\nMereka tidak mengkhianati Sang Hantu karena jahat. Mereka melakukannya sebagai tawar-menawar: petunjuk arah ditukar dengan harapan dibiarkan.\n\nSang Hantu terlambat menangkap pergeseran itu. Rumpun bambu berubah jadi koridor, bukan jebakan—karena para lelaki datang sudah menoleh ke tempat yang benar.\n\nIa tetap lolos, tetapi harus menumpahkan darah untuk melakukannya, dan darah mengubah rumor menjadi kepastian.\n\nDalam what if ini, Bab 2 berakhir dengan ekonomi paling pahit: orang akan menjual apa yang tak bisa mereka lindungi, dan rahasia tidak bisa diminta dari yang kelaparan."
+          }
+        },
+        {
+          "id": "what_if_2_he_writes_the_list",
+          "type": "what_if",
+          "title": {
+            "en": "The List Became a Target",
+            "id": "Daftar Itu Menjadi Sasaran"
+          },
+          "content": {
+            "en": "In this path, the elder insists the Ghost take a written list of missing sons. Memory feels fragile; ink feels reliable.\n\nThe Ghost accepts, hiding the paper inside his clothing. It helps at first—names sharpen intention.\n\nBut paper is a betrayal waiting for wet weather. When he crosses the river, he slips, and the list soaks through. The ink smears, leaving partial names and a cluster of villages.\n\nLater, the same strangers find the ruined sheet caught on reeds downstream. They don’t need full names. They need a pattern.\n\nIn this what if, Chapter 2 ends with the Ghost realizing that writing can preserve knowledge, but it can also preserve your enemy’s map.",
+            "id": "Dalam jalur ini, tetua bersikeras Sang Hantu membawa daftar tertulis anak-anak yang hilang. Ingatan terasa rapuh; tinta terasa pasti.\n\nSang Hantu menerima, menyembunyikan kertas di balik pakaian. Awalnya membantu—nama menajamkan niat.\n\nNamun kertas adalah pengkhianatan yang menunggu cuaca. Saat menyeberang sungai, ia terpeleset, dan daftar itu basah. Tinta meleber, menyisakan nama-nama setengah dan gugus desa.\n\nBelakangan, orang asing yang sama menemukan lembar rusak itu tersangkut di ilalang hilir. Mereka tak butuh nama lengkap. Mereka butuh pola.\n\nDalam what if ini, Bab 2 berakhir dengan Sang Hantu menyadari: tulisan bisa menjaga pengetahuan, tapi juga bisa menjaga peta musuh."
+          }
+        },
+        {
+          "id": "what_if_2_the_bamboo_message_invites_more_hunters",
+          "type": "what_if",
+          "title": {
+            "en": "The Warning Was Read as a Challenge",
+            "id": "Peringatan Itu Dibaca sebagai Tantangan"
+          },
+          "content": {
+            "en": "In this path, the carved message—\"Go around\"—does exactly what it was meant to do for careful men. It redirects.\n\nBut it also does something else for proud men: it insults.\n\nA local gang leader hears of a ‘spirit’ ordering people off a road and treats it as an attack on his authority. He sends more scouts, not to capture the Ghost, but to prove the grove belongs to him.\n\nThe Ghost realizes he has created a stable landmark in other people’s minds: the bamboo grove becomes the place where the Ghost ‘always’ is.\n\nIn this what if, Chapter 2 ends with a correction to the Ghost’s method: intimidation that repeats becomes geography, and geography can be surrounded.",
+            "id": "Dalam jalur ini, pesan terukir—\"Lewati\"—melakukan fungsi aslinya untuk orang yang berhati-hati: membelokkan.\n\nNamun ia juga melakukan hal lain untuk orang yang congkak: menghina.\n\nSeorang pemimpin gerombolan lokal mendengar ada ‘roh’ yang mengusir orang dari jalur dan menganggapnya serangan terhadap wibawanya. Ia mengirim pengintai lebih banyak, bukan untuk menangkap Sang Hantu, tetapi untuk membuktikan rumpun itu miliknya.\n\nSang Hantu sadar ia telah menciptakan patokan yang stabil di kepala orang lain: rumpun bambu jadi tempat Sang Hantu ‘pasti’ berada.\n\nDalam what if ini, Bab 2 berakhir dengan koreksi metode: intimidasi yang berulang berubah jadi geografi, dan geografi bisa dikepung."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Road of Missing Sons",
+        "id": "Jalan Anak-Anak yang Hilang"
+      },
+      "preview": {
+        "en": "The Ghost leaves no banner, but his choices leave echoes. Every rescue teaches the enemy what to fear—and teaches the villages what to copy.",
+        "id": "Sang Hantu tak membawa panji, tapi pilihannya meninggalkan gema. Tiap penyelamatan mengajari musuh apa yang harus ditakuti—dan mengajari desa apa yang harus ditiru."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Pattern of Absence",
+            "id": "Pola dari Ketiadaan"
+          },
+          "content": {
+            "en": "He leaves the village before sunrise, carrying only memorized names and a map that exists in his head. The elder wanted lists. The Ghost chooses memory because memory cannot be stolen from a pocket.\n\nBy midday he reaches a hamlet where doors are barred from the inside and fields are left half-harvested. Fear has interrupted routine, and interrupted routine is a signpost.\n\nA widow meets him at the well. She does not ask if he is the Ghost. She asks what he costs.\n\nHe answers the same way he always answers: nothing. Then he asks his price anyway—information. Who went missing, when, and from where.\n\nShe tells him of a band calling themselves the River Tax. They do not burn villages. They do not massacre. They take sons and return them later—changed, obedient, trained to collect the tax from their own.\n\nThe Ghost understands the method immediately. It is not theft. It is recruitment.\n\nThat night, he follows the hamlet’s footpaths to a riverside granary used as a holding pen. He does not go alone. Two local women insist on guiding him through irrigation ditches that outsiders miss.\n\nHe lets them, but he makes a rule: they do not see his face. They do not hear his name. They only see his hands.\n\nAt the granary, he watches first. The captors are not soldiers; they are men practicing being soldiers. Their discipline is borrowed, uneven, and therefore vulnerable.\n\nHe waits until their routines overlap: when the cook steps out, when the sentry scratches his neck, when the river wind rises and covers small sounds.\n\nHe enters without killing.\n\nA guard is struck with the scabbard and left breathing. Another is locked inside his own storeroom. The Ghost moves as if he is editing the scene rather than fighting in it.\n\nHe frees four boys, not all. Two are too deep in fear to move quickly. Saving them would require noise.\n\nHe makes the hardest choice and takes the four who can walk.\n\nOutside, one boy asks why they are leaving others.\n\n\"Because silence is a blade,\" the Ghost says. \"And blades have limits.\"\n\nHe returns the boys to the hamlet before dawn and tells the widow one thing that sounds like cruelty but is really warning: do not celebrate loudly. Celebration teaches the River Tax where to come back.\n\nThe widow nods and does what villages must learn to do: she hides joy behind routine.\n\nAt first light, the Ghost goes to the riverbank and finds a marker carved into driftwood: a simple symbol repeated twice. A sign that the River Tax is not one band, but a network.\n\nHe realizes the war is changing. It is no longer raiders taking rice. It is organizations taking futures.\n\nChapter 3 ends with the Ghost washing bloodless dirt from his hands in the river and looking upstream. If the enemy is learning to recruit, then the Ghost must learn to unmake recruitment—quietly, repeatedly, and without becoming the center of the story.",
+            "id": "Sang Hantu meninggalkan desa sebelum matahari naik, membawa hanya nama-nama yang dihafal dan peta yang hidup di kepalanya. Tetua menginginkan daftar. Sang Hantu memilih ingatan karena ingatan tak bisa dicuri dari saku.\n\nMenjelang siang ia mencapai dusun tempat pintu-pintu diganjal dari dalam dan ladang dibiarkan setengah dipanen. Takut telah memutus rutinitas, dan rutinitas yang putus adalah penunjuk arah.\n\nSeorang janda menemuinya di sumur. Ia tidak bertanya apakah ia Sang Hantu. Ia bertanya apa harga bantuannya.\n\nIa menjawab seperti biasa: tidak ada. Lalu ia tetap meminta bayarannya: informasi. Siapa yang hilang, kapan, dan dari mana.\n\nJanda itu bercerita tentang kelompok yang menyebut diri Pajak Sungai. Mereka tidak membakar desa. Mereka tidak membantai. Mereka mengambil anak lelaki dan mengembalikannya nanti—berubah, patuh, dilatih untuk memungut pajak dari kampung mereka sendiri.\n\nSang Hantu langsung paham metodenya. Itu bukan pencurian. Itu perekrutan.\n\nMalamnya, ia mengikuti jalan setapak dusun menuju lumbung tepi sungai yang dipakai sebagai kandang tahanan. Ia tidak pergi sendirian. Dua perempuan lokal memaksa ikut membimbing lewat parit irigasi yang tak terlihat orang luar.\n\nIa mengizinkan, tapi menetapkan satu aturan: mereka tidak melihat wajahnya. Mereka tidak mendengar namanya. Mereka hanya melihat tangannya.\n\nDi lumbung, ia menonton dulu. Para penyekap bukan tentara; mereka orang yang sedang berlatih menjadi tentara. Disiplin mereka pinjaman, tidak rata, dan karena itu rapuh.\n\nIa menunggu sampai rutinitas mereka saling tumpang tindih: saat juru masak keluar, saat penjaga menggaruk leher, saat angin sungai naik dan menutupi bunyi kecil.\n\nIa masuk tanpa membunuh.\n\nSeorang penjaga dipukul dengan punggung sarung pedang dan dibiarkan bernapas. Yang lain dikunci di gudangnya sendiri. Sang Hantu bergerak seolah ia sedang mengedit adegan, bukan bertarung di dalamnya.\n\nIa membebaskan empat anak, bukan semuanya. Dua terlalu tenggelam dalam takut untuk bergerak cepat. Menyelamatkan mereka akan menuntut kebisingan.\n\nIa membuat pilihan paling keras dan membawa empat yang bisa berjalan.\n\nDi luar, satu anak bertanya kenapa mereka meninggalkan yang lain.\n\n\"Karena sunyi adalah bilah,\" kata Sang Hantu. \"Dan bilah punya batas.\"\n\nIa mengembalikan anak-anak itu ke dusun sebelum fajar dan memberi janda satu kalimat yang terdengar kejam tapi sebenarnya peringatan: jangan merayakan dengan bising. Perayaan mengajari Pajak Sungai ke mana harus kembali.\n\nJanda itu mengangguk dan melakukan yang harus dipelajari desa: menyembunyikan gembira di balik rutinitas.\n\nSaat cahaya pertama, Sang Hantu menuju tepian sungai dan menemukan penanda terukir di kayu hanyut: simbol sederhana yang diulang dua kali. Tanda bahwa Pajak Sungai bukan satu kelompok, melainkan jaringan.\n\nIa sadar perang berubah. Ini bukan lagi perampok mengambil beras. Ini organisasi mengambil masa depan.\n\nBab 3 berakhir saat Sang Hantu mencuci debu tanpa darah dari tangannya di sungai dan menatap ke hulu. Jika musuh belajar merekrut, maka Sang Hantu harus belajar membatalkan perekrutan—sunyi, berulang, dan tanpa menjadi pusat cerita."
+          }
+        },
+        {
+          "id": "what_if_3_he_tries_to_save_all_six",
+          "type": "what_if",
+          "title": {
+            "en": "He Refused Subtraction",
+            "id": "Ia Menolak Pengurangan"
+          },
+          "content": {
+            "en": "In this path, the Ghost cannot leave two boys behind. He waits longer, trying to calm their panic and time a cleaner exit for all six.\n\nBut waiting turns vigilance into coincidence. A guard’s routine breaks, footsteps double back, and a lantern is lifted at the wrong moment.\n\nThe Ghost is forced into the first loud fight since becoming a ‘ghost.’ He wins, but the granary becomes a story with bodies in it.\n\nThe hamlet gets its sons back, yet the River Tax learns a valuable lesson: where the Ghost appears, prisoners disappear.\n\nIn this what if, Chapter 3 ends with a victory that costs the future—because the enemy now has a clearer pattern to hunt.",
+            "id": "Dalam jalur ini, Sang Hantu tak sanggup meninggalkan dua anak. Ia menunggu lebih lama, mencoba menenangkan kepanikan mereka dan menata waktu keluar agar semua berenam bisa lolos.\n\nNamun menunggu mengubah kewaspadaan jadi kebetulan. Rutinitas penjaga pecah, langkah berbalik, dan lampu diangkat pada saat yang salah.\n\nSang Hantu terpaksa bertarung bising untuk pertama kalinya sejak menjadi ‘hantu.’ Ia menang, tapi lumbung berubah jadi kisah yang berisi tubuh.\n\nDusun mendapatkan anak-anaknya kembali, namun Pajak Sungai mempelajari pelajaran berharga: di mana Sang Hantu muncul, tahanan menghilang.\n\nDalam what if ini, Bab 3 berakhir dengan kemenangan yang mengorbankan masa depan—karena musuh kini punya pola yang lebih jelas untuk diburu."
+          }
+        },
+        {
+          "id": "what_if_3_the_guides_see_his_face",
+          "type": "what_if",
+          "title": {
+            "en": "Witnesses Became a Leak",
+            "id": "Saksi Menjadi Kebocoran"
+          },
+          "content": {
+            "en": "In this path, the two local women who guide the Ghost through irrigation ditches accidentally see him in a flash of moonlight—just a profile, just enough.\n\nThey keep the secret at first, but secrets behave like water in a village: they find cracks.\n\nA week later, a River Tax recruiter arrives offering ‘protection’ and casually describes the Ghost’s posture and height. Not a guess—confirmation.\n\nThe Ghost realizes his rule was right but incomplete. Hiding a name is not always enough if your body becomes identifiable.\n\nIn this what if, Chapter 3 ends with the Ghost changing method: he must stop being memorable even in silhouette, or the network will catalog him like a toll.",
+            "id": "Dalam jalur ini, dua perempuan lokal yang membimbing Sang Hantu lewat parit irigasi tanpa sengaja melihatnya dalam kilat cahaya bulan—sekilas profil, cukup.\n\nMereka menyimpan rahasia itu pada awalnya, tapi rahasia berperilaku seperti air di desa: ia mencari retak.\n\nSeminggu kemudian, perekrut Pajak Sungai datang menawarkan ‘perlindungan’ dan dengan santai menggambarkan postur dan tinggi Sang Hantu. Bukan tebak-tebakan—konfirmasi.\n\nSang Hantu sadar aturannya benar tapi belum lengkap. Menyembunyikan nama saja tidak selalu cukup jika tubuhmu jadi ciri.\n\nDalam what if ini, Bab 3 berakhir dengan Sang Hantu mengubah metode: ia harus berhenti jadi sosok yang mudah diingat bahkan sebagai siluet, atau jaringan akan mengkatalogkannya seperti bea."
+          }
+        },
+        {
+          "id": "what_if_3_one_boy_returns_as_a_collector",
+          "type": "what_if",
+          "title": {
+            "en": "The River Tax Kept One Seed",
+            "id": "Pajak Sungai Menyisakan Satu Benih"
+          },
+          "content": {
+            "en": "In this path, the four rescued boys are not all truly free. One has already been conditioned—taught not loyalty, but compliance.\n\nHe returns to the hamlet quiet and obedient, and that obedience is mistaken for gratitude.\n\nDays later, he slips away at dawn and leaves a carved symbol on driftwood downstream: a confirmation that the hamlet is worth revisiting.\n\nThe Ghost realizes recruitment is not a cage; it’s a program that can survive release.\n\nIn this what if, Chapter 3 ends with a new war requirement: freeing bodies is not enough. The Ghost must learn how to unmake the invisible training that lives inside a boy’s silence.",
+            "id": "Dalam jalur ini, empat anak yang diselamatkan tidak semuanya benar-benar bebas. Satu sudah keburu dibentuk—diajari bukan loyalitas, melainkan kepatuhan.\n\nIa pulang ke dusun dengan sikap sunyi dan patuh, dan kepatuhan itu disangka sebagai syukur.\n\nBeberapa hari kemudian, ia menyelinap pergi saat fajar dan meninggalkan simbol terukir di kayu hanyut hilir: konfirmasi bahwa dusun itu layak didatangi lagi.\n\nSang Hantu sadar perekrutan bukan kandang; ia program yang bisa bertahan bahkan setelah dilepas.\n\nDalam what if ini, Bab 3 berakhir dengan syarat perang baru: membebaskan tubuh saja tidak cukup. Sang Hantu harus belajar membatalkan latihan tak terlihat yang hidup di dalam kesunyapan seorang anak."
+          }
+        },
+        {
+          "id": "what_if_3_the_widow_sells_the_rumor",
+          "type": "what_if",
+          "title": {
+            "en": "Joy Needed Witnesses",
+            "id": "Gembira Butuh Saksi"
+          },
+          "content": {
+            "en": "In this path, the widow cannot hide her relief behind routine. She tells a trader at the well that a spirit saved the boys, because she needs someone outside the hamlet to know her pain mattered.\n\nThe trader carries the story the way traders carry salt: carefully, profitably.\n\nWithin days, neighboring villages begin leaving offerings at river stones—rice, cloth, even coins—turning the riverbank into a predictable meeting point.\n\nThe River Tax notices. Not because they fear spirits, but because they recognize patterns.\n\nIn this what if, Chapter 3 ends with the Ghost learning that gratitude can be a beacon. People don’t mean to betray you; they mean to make meaning, and meaning attracts attention.",
+            "id": "Dalam jalur ini, sang janda tak sanggup menyembunyikan lega di balik rutinitas. Ia bercerita pada seorang pedagang di sumur bahwa roh di pepohonan menyelamatkan anak-anak itu, karena ia butuh orang luar tahu dukanya berarti.\n\nPedagang membawa cerita itu seperti pedagang membawa garam: hati-hati, menguntungkan.\n\nDalam hitungan hari, desa-desa tetangga mulai meninggalkan persembahan di batu-batu tepi sungai—beras, kain, bahkan koin—mengubah tepian sungai jadi titik temu yang bisa ditebak.\n\nPajak Sungai memperhatikan. Bukan karena takut roh, melainkan karena mereka mengenali pola.\n\nDalam what if ini, Bab 3 berakhir dengan Sang Hantu belajar bahwa rasa terima kasih bisa jadi suar. Orang tidak bermaksud mengkhianatimu; mereka bermaksud membuat makna, dan makna menarik perhatian."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Taxman’s Net",
+        "id": "Jaring Sang Pemungut"
+      },
+      "preview": {
+        "en": "The enemy stops raiding villages and starts shaping them. The Ghost learns that stealth is not hiding—it is breaking the logic that recruits.",
+        "id": "Musuh berhenti merampok desa dan mulai membentuknya. Sang Hantu belajar bahwa kesenyapan bukan bersembunyi—melainkan mematahkan logika yang merekrut."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Unmaking the Program",
+            "id": "Membongkar Program"
+          },
+          "content": {
+            "en": "The river carries more than water now. It carries signs—carved marks on driftwood, chalk on stones, knots on reeds. The River Tax has learned to write without paper.\n\nThe Ghost follows the river upstream, but not on its banks. He moves on the ridgeline where footprints scatter on rock and wind erases breath. He refuses to become a trail.\n\nAt a bend where three villages share the same water, he watches a new ritual. A man arrives with a ledger board—wooden slats scored with notches—and reads names aloud like prayers. People step forward, place rice, and receive a token: a strip of dyed cloth.\n\nIt is not robbery. It is administration.\n\nThe Ghost sees the genius in it. If a village pays, it feels responsible for its own safety. If it receives a token, it feels included. Recruitment becomes belonging.\n\nHe does not strike the man with the ledger. Killing him would make a martyr and turn the system into a story of revenge.\n\nInstead, the Ghost targets the mechanism.\n\nThat night, he slips into the River Tax storehouse—a raised hut above damp ground where tokens are kept in bundles. He does not burn it. Smoke would summon attention and simplify the narrative.\n\nHe replaces the dyed strips with identical strips dyed in a different pattern—subtle, almost invisible unless you know what to look for. Then he cuts the ledger board’s notches slightly deeper, changing the count by just enough to create doubt.\n\nIn the morning, the ritual continues and collapses from within. Two families claim the same token color. A collector insists they are lying. The crowd stiffens—not with fear of violence, but fear of unfairness.\n\nThe Ghost watches from the trees as the River Tax loses what it relies on most: the appearance of order.\n\nBut doubt is a dangerous fire. If it spreads uncontrolled, it can burn the villages too.\n\nSo the Ghost leaves a second intervention. In the shrine of the nearest village, he scratches a simple instruction behind a beam where only caretakers clean: \"Pay no one with sons. Pay with rice, or pay nothing.\"\n\nIt is not a command. It is a suggestion designed to travel quietly.\n\nBy dusk, the River Tax collectors withdraw to regroup. They do not rage. They adapt.\n\nThe Ghost learns the chapter’s truth: he is no longer rescuing prisoners. He is competing with a system.\n\nChapter 4 ends with him standing above the river at night, hearing distant arguments where there used to be resignation. He has disrupted recruitment, but he has also introduced uncertainty. The Ghost’s path grows sharper: to save people, he must sabotage gently—breaking the net without tearing the water it floats on.",
+            "id": "Sungai kini membawa lebih dari air. Ia membawa tanda—ukiran di kayu hanyut, kapur di batu, simpul di ilalang. Pajak Sungai belajar menulis tanpa kertas.\n\nSang Hantu mengikuti sungai ke hulu, tapi bukan lewat tepinya. Ia bergerak di punggung bukit tempat jejak tercerai di batu dan angin menghapus napas. Ia menolak menjadi jejak.\n\nDi satu belokan tempat tiga desa berbagi air, ia menyaksikan ritual baru. Seorang pria datang membawa papan buku besar—bilah kayu bergores takik—dan membaca nama-nama keras seperti doa. Orang maju, meletakkan beras, lalu menerima tanda: sehelai kain dicelup warna.\n\nIni bukan perampokan. Ini administrasi.\n\nSang Hantu melihat kejeniusannya. Jika desa membayar, ia merasa bertanggung jawab atas keselamatannya sendiri. Jika menerima tanda, ia merasa termasuk. Perekrutan berubah jadi rasa memiliki.\n\nIa tidak memukul mati pria pemegang buku besar. Membunuhnya akan menciptakan martir dan mengubah sistem jadi kisah balas dendam.\n\nSebagai gantinya, Sang Hantu menarget mekanismenya.\n\nMalam itu, ia menyelinap ke gudang Pajak Sungai—gubuk panggung di atas tanah lembap tempat tanda-tanda kain disimpan berikat. Ia tidak membakarnya. Asap akan memanggil perhatian dan menyederhanakan narasi.\n\nIa mengganti kain-kain celup itu dengan kain serupa yang dicelup pola lain—halus, nyaris tak terlihat kecuali kamu tahu cara membaca. Lalu ia mengukir takik papan buku besar sedikit lebih dalam, menggeser hitungan secukupnya untuk menanam ragu.\n\nPagi hari, ritual berlanjut dan runtuh dari dalam. Dua keluarga mengklaim warna tanda yang sama. Pemungut menuduh mereka bohong. Kerumunan menegang—bukan karena takut kekerasan, melainkan takut ketidakadilan.\n\nSang Hantu mengintip dari pepohonan saat Pajak Sungai kehilangan hal yang paling mereka andalkan: tampilan keteraturan.\n\nNamun ragu adalah api berbahaya. Jika menyebar tanpa kendali, ia bisa membakar desa juga.\n\nMaka Sang Hantu meninggalkan satu intervensi kedua. Di kuil desa terdekat, ia menggores instruksi sederhana di balik balok, di tempat yang hanya terlihat oleh orang yang rutin membersihkan: \"Jangan bayar dengan anak. Bayar dengan beras, atau jangan bayar sama sekali.\"\n\nItu bukan perintah. Itu saran yang dirancang untuk bergerak diam-diam.\n\nMenjelang senja, para pemungut Pajak Sungai mundur untuk menyusun ulang. Mereka tidak mengamuk. Mereka beradaptasi.\n\nSang Hantu mempelajari kebenaran bab ini: ia bukan lagi menyelamatkan tahanan. Ia sedang bertanding dengan sistem.\n\nBab 4 berakhir saat ia berdiri di atas sungai pada malam hari, mendengar perdebatan jauh di tempat yang dulu hanya ada pasrah. Ia telah mengacaukan perekrutan, tapi juga menanam ketidakpastian. Jalan Sang Hantu makin tajam: untuk menyelamatkan orang, ia harus menyabotase dengan lembut—mematahkan jaring tanpa merobek air tempat jaring itu mengapung."
+          }
+        },
+        {
+          "id": "what_if_4_he_kills_the_ledger_man",
+          "type": "what_if",
+          "title": {
+            "en": "He Cut the Head, Not the Net",
+            "id": "Ia Memotong Kepala, Bukan Jaring"
+          },
+          "content": {
+            "en": "In this path, the Ghost cannot tolerate the ritual. He strikes the ledger man in the moment—clean, fast, and public enough that the villages finally see a ‘hero.’\n\nThe crowd exhales, but the River Tax does not collapse. It simply replaces the man and hardens the rules: no more open readings, no more daylight collection, and every village must provide a hostage to ‘prove loyalty.’\n\nThe Ghost learns too late that killing a symbol can strengthen a system. Martyrs are recruitment tools.\n\nNow the villages have a story with a body in it, and stories spread faster than warnings.\n\nIn this what if, Chapter 4 ends with the Ghost forced to fight the consequence of spectacle: the River Tax becomes quieter, crueler, and harder to sabotage.",
+            "id": "Dalam jalur ini, Sang Hantu tak tahan melihat ritual itu. Ia menebas si pemegang buku besar saat itu juga—bersih, cepat, dan cukup terlihat sehingga desa akhirnya melihat ‘pahlawan.’\n\nKerumunan mengembuskan napas, tetapi Pajak Sungai tidak runtuh. Mereka hanya mengganti orangnya dan mengeraskan aturan: tak ada lagi pembacaan terbuka, tak ada lagi pungutan siang, dan tiap desa wajib memberi sandera untuk ‘membuktikan kesetiaan.’\n\nSang Hantu terlambat belajar bahwa membunuh simbol bisa menguatkan sistem. Martir adalah alat perekrutan.\n\nKini desa punya kisah yang berisi tubuh, dan kisah menyebar lebih cepat daripada peringatan.\n\nDalam what if ini, Bab 4 berakhir saat Sang Hantu dipaksa melawan konsekuensi tontonan: Pajak Sungai menjadi lebih sunyi, lebih kejam, dan lebih sulit disabotase."
+          }
+        },
+        {
+          "id": "what_if_4_the_token_swap_is_discovered",
+          "type": "what_if",
+          "title": {
+            "en": "They Learned to Read the Subtle Dye",
+            "id": "Mereka Belajar Membaca Celup Halus"
+          },
+          "content": {
+            "en": "In this path, the Ghost’s token swap works for one morning—then fails. A veteran collector notices the dye’s edge is too clean, the weave too new, the pattern too deliberate.\n\nInstead of arguing in public, the River Tax turns the mistake into a trap. They let the villages fight over fairness while quietly watching who resists paying.\n\nThat night, they raid only the households that hesitated. Not for rice—for sons.\n\nThe Ghost realizes sabotage can become a marking system if the enemy is patient.\n\nIn this what if, Chapter 4 ends with the Ghost forced to upgrade: disruption must be paired with escape routes for the people it exposes, or doubt becomes a spotlight.",
+            "id": "Dalam jalur ini, pertukaran kain tanda oleh Sang Hantu berhasil satu pagi—lalu gagal. Seorang pemungut veteran menyadari tepi celup terlalu bersih, anyaman terlalu baru, pola terlalu disengaja.\n\nAlih-alih berdebat di depan umum, Pajak Sungai mengubah kesalahan itu jadi jerat. Mereka membiarkan desa bertengkar soal adil, sambil diam-diam mengamati siapa yang mulai ragu membayar.\n\nMalamnya, mereka merazia hanya rumah yang ragu. Bukan untuk beras—untuk anak lelaki.\n\nSang Hantu sadar sabotase bisa berubah jadi sistem penandaan bila musuh sabar.\n\nDalam what if ini, Bab 4 berakhir dengan Sang Hantu dipaksa naik tingkat: gangguan harus dibarengi jalur keluar bagi orang yang terekspos, atau ragu berubah jadi sorot lampu."
+          }
+        },
+        {
+          "id": "what_if_4_the_shrine_message_backfires",
+          "type": "what_if",
+          "title": {
+            "en": "The Advice Became a Slogan",
+            "id": "Saran Itu Menjadi Semboyan"
+          },
+          "content": {
+            "en": "In this path, the shrine message spreads too well. Caretakers repeat it, then priests, then traders, until the phrase becomes a public slogan.\n\nVillagers begin refusing openly: no sons, only rice. The stance is brave—and predictable.\n\nThe River Tax responds with a simple counter: they stop collecting rice entirely and collect only sons, framing it as punishment for ‘rebellion.’\n\nThe villages learn that slogans create fronts, and fronts create battle lines.\n\nIn this what if, Chapter 4 ends with the Ghost realizing that the safest instruction is one that moves quietly and unevenly; once it becomes chantable, it becomes targetable.",
+            "id": "Dalam jalur ini, pesan di kuil menyebar terlalu baik. Para perawat kuil mengulangnya, lalu pendeta, lalu pedagang, sampai frasa itu jadi semboyan publik.\n\nPenduduk mulai menolak terang-terangan: bukan anak, hanya beras. Sikap itu berani—dan mudah ditebak.\n\nPajak Sungai membalas dengan cara sederhana: mereka berhenti memungut beras sama sekali dan memungut anak saja, membingkainya sebagai hukuman atas ‘pembangkangan.’\n\nDesa belajar bahwa semboyan menciptakan front, dan front menciptakan garis perang.\n\nDalam what if ini, Bab 4 berakhir saat Sang Hantu sadar instruksi paling aman adalah yang bergerak diam dan tak merata; begitu ia bisa diteriakkan, ia bisa dijadikan sasaran."
+          }
+        },
+        {
+          "id": "what_if_4_the_villages_create_a_counter_ledger",
+          "type": "what_if",
+          "title": {
+            "en": "They Built Their Own Accounting",
+            "id": "Mereka Membuat Pembukuan Sendiri"
+          },
+          "content": {
+            "en": "In this path, the Ghost’s sabotage sparks something unexpected: villagers begin tracking the River Tax instead of merely paying it. They mark collectors’ routes, token colors, and timing—quietly, in household memory.\n\nThe River Tax loses the monopoly on ‘order.’ Their administration is met with counter-administration.\n\nBut the counter-ledger creates risk: someone must remember enough to connect patterns, and that person becomes valuable.\n\nThe Ghost starts acting less like a rescuer and more like a teacher, showing how to distribute information so no single house can be coerced into revealing everything.\n\nIn this what if, Chapter 4 ends with a shift in warfare: the Ghost is no longer the only ghost. The villages learn to become unreadable together.",
+            "id": "Dalam jalur ini, sabotase Sang Hantu memantik sesuatu yang tak diduga: penduduk mulai melacak Pajak Sungai alih-alih sekadar membayar. Mereka menandai rute pemungut, warna kain, dan timing—diam-diam, dalam ingatan rumah tangga.\n\nPajak Sungai kehilangan monopoli atas ‘keteraturan.’ Administrasi mereka ditandingi kontra-administrasi.\n\nNamun kontra-buku-besar menciptakan risiko: seseorang harus mengingat cukup banyak untuk menghubungkan pola, dan orang itu jadi berharga.\n\nSang Hantu mulai bertindak bukan hanya sebagai penyelamat, tetapi juga pengajar, menunjukkan cara menyebar informasi agar tak ada satu rumah pun yang bisa dipaksa membocorkan semuanya.\n\nDalam what if ini, Bab 4 berakhir dengan pergeseran perang: Sang Hantu bukan lagi satu-satunya hantu. Desa-desa belajar menjadi tak terbaca bersama-sama."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Boy Who Came Back Quiet",
+        "id": "Anak yang Pulang Terlalu Sunyi"
+      },
+      "preview": {
+        "en": "The Ghost learns the River Tax doesn’t only take bodies. It returns them changed—so the real battlefield becomes memory, loyalty, and shame.",
+        "id": "Sang Hantu belajar Pajak Sungai tak hanya mengambil tubuh. Mereka mengembalikannya dalam keadaan berubah—maka medan tempur sesungguhnya menjadi ingatan, loyalitas, dan malu."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "Undoing the Indoctrination",
+            "id": "Membatalkan Indoktrinasi"
+          },
+          "content": {
+            "en": "The Ghost does not hunt collectors first. He hunts outcomes.\n\nIn a village upriver, a boy returns after three weeks missing. He walks straight, bows too quickly, speaks only when spoken to. The mothers call it gratitude. The fathers call it discipline. The Ghost calls it programming.\n\nThe boy begins collecting rice at dusk, visiting homes in an order that looks polite until you see its logic: he starts with the poorest. Compliance is easiest where choice is smallest.\n\nThe Ghost watches from a roof beam as the boy repeats the River Tax’s phrases without understanding them: \"Order keeps you safe.\" \"Payment proves loyalty.\" The words are clean. Their purpose is not.\n\nKilling the boy would be simple. It would also be the River Tax’s victory—turning the village into a place that fears its own children.\n\nInstead, the Ghost targets the chain of commands.\n\nHe follows the boy’s route backward, not through roads but through the pauses—where the boy hesitates before turning, where his eyes flick to the river as if waiting for permission.\n\nNear midnight, the boy meets a handler under a willow tree. No uniforms, no banners—just a man with a dyed strip of cloth wrapped around his wrist and a small slate of notches.\n\nThe handler does not threaten. He praises. Praise is cheaper than rope.\n\nThe Ghost waits until the river wind rises and the willow leaves clatter like rain. Then he steps from shadow and strikes the handler’s wrist with the blunt of his blade, breaking bone and dropping the slate into mud.\n\nHe does not kill the handler. He drags him to the edge of the village and leaves him tied where dawn will find him. A message without blood.\n\nThen the Ghost does the harder work.\n\nHe returns to the boy’s home and sits with the parents without announcing himself. He tells them the truth they don’t want: the River Tax taught their son to survive by obeying strangers.\n\nHe gives them a counter-ritual. Not a speech—routine.\n\nFor seven nights, the boy must sleep near the hearth with family voices around him. He must be given small choices that cannot be punished: which cup, which blanket, which path to the well. The parents must never ask him to confess. Confession belongs to captors.\n\nOn the fifth night, the boy cries in his sleep. The sound is ugly and human. The mother covers her mouth to keep from celebrating it.\n\nOn the seventh morning, the boy refuses to go to the river. He shakes, but he refuses.\n\nThe Ghost watches from the ridge and feels no triumph. Only relief mixed with fear: if one boy can be programmed, a hundred can.\n\nBefore leaving, he carves a final instruction into the underside of a bridge plank where only those who cross daily might see: \"Bring them back. Don’t call them traitor. Teach them choice.\"\n\nChapter 5 ends with the River Tax adapting as it always does. New collectors appear, older, harder to sway. The Ghost understands the war has entered a new phase: not rescuing the taken, but rescuing the returned.",
+            "id": "Sang Hantu tidak memburu pemungut lebih dulu. Ia memburu akibat.\n\nDi sebuah desa di hulu, seorang anak pulang setelah tiga minggu hilang. Jalannya terlalu lurus, membungkuk terlalu cepat, hanya bicara saat diajak bicara. Para ibu menyebutnya syukur. Para ayah menyebutnya disiplin. Sang Hantu menyebutnya pemrograman.\n\nAnak itu mulai memungut beras saat senja, mendatangi rumah-rumah dalam urutan yang tampak sopan sampai kamu melihat logikanya: ia memulai dari yang paling miskin. Kepatuhan paling mudah di tempat pilihan paling sempit.\n\nSang Hantu mengintip dari balok atap saat anak itu mengulang frasa Pajak Sungai tanpa paham: \"Keteraturan membuatmu aman.\" \"Bayar membuktikan setia.\" Kata-katanya bersih. Tujuannya tidak.\n\nMembunuh anak itu akan mudah. Itu juga kemenangan Pajak Sungai—mengubah desa jadi tempat yang takut pada anaknya sendiri.\n\nMaka Sang Hantu menarget rantai perintah.\n\nIa mengikuti rute si anak secara terbalik, bukan lewat jalan, melainkan lewat jeda—tempat anak itu ragu sebelum belok, tempat matanya melirik sungai seolah menunggu izin.\n\nMenjelang tengah malam, si anak bertemu pengawas di bawah pohon willow. Tanpa seragam, tanpa panji—hanya seorang pria dengan kain celup melilit pergelangan dan papan takik kecil.\n\nPengawas itu tidak mengancam. Ia memuji. Pujian lebih murah daripada tali.\n\nSang Hantu menunggu sampai angin sungai naik dan daun willow berderak seperti hujan. Lalu ia melangkah dari bayang dan menghantam pergelangan si pengawas dengan punggung bilah, mematahkan tulang dan menjatuhkan papan takik ke lumpur.\n\nIa tidak membunuh pengawas itu. Ia menyeretnya ke tepi desa dan meninggalkannya terikat agar fajar menemukannya. Pesan tanpa darah.\n\nLalu Sang Hantu melakukan pekerjaan yang lebih sulit.\n\nIa kembali ke rumah si anak dan duduk bersama orang tuanya tanpa mengumumkan diri. Ia mengatakan kebenaran yang tak ingin mereka dengar: Pajak Sungai mengajari anak mereka bertahan hidup dengan patuh pada orang asing.\n\nIa memberi mereka ritual tandingan. Bukan pidato—rutinitas.\n\nSelama tujuh malam, si anak harus tidur dekat perapian dengan suara keluarga di sekitarnya. Ia harus diberi pilihan kecil yang tak bisa dihukum: gelas mana, selimut mana, jalur mana ke sumur. Orang tua tidak boleh memaksa pengakuan. Pengakuan milik penyekap.\n\nPada malam kelima, si anak menangis dalam tidur. Suaranya jelek dan manusia. Ibunya menutup mulut agar tidak merayakannya.\n\nPagi hari ketujuh, si anak menolak pergi ke sungai. Ia gemetar, tapi ia menolak.\n\nSang Hantu mengintip dari punggung bukit dan tak merasakan kemenangan. Hanya lega bercampur takut: jika satu anak bisa diprogram, seratus juga bisa.\n\nSebelum pergi, ia mengukir instruksi terakhir di bawah papan jembatan—tempat yang mungkin hanya dilihat orang yang melintas tiap hari: \"Bawa mereka pulang. Jangan panggil pengkhianat. Ajari memilih.\"\n\nBab 5 berakhir saat Pajak Sungai beradaptasi seperti biasa. Pemungut baru muncul, lebih tua, lebih sulit dipengaruhi. Sang Hantu paham perang masuk fase baru: bukan menyelamatkan yang diambil, melainkan menyelamatkan yang dikembalikan."
+          }
+        },
+        {
+          "id": "what_if_5_the_parents_call_him_traitor",
+          "type": "what_if",
+          "title": {
+            "en": "They Named Him Enemy",
+            "id": "Mereka Menamai Dia Musuh"
+          },
+          "content": {
+            "en": "In this path, the parents cannot bear the shame of the boy’s obedience. They call him traitor in front of neighbors, trying to prove the village is still ‘clean.’\n\nThe River Tax doesn’t need to take him again. The village pushes him out on its own.\n\nThe boy leaves at night, not to meet a handler, but to find any structure that will accept him. He returns to the River Tax because the River Tax offers what home refused: a role.\n\nThe Ghost arrives too late with his counter-ritual. Choice can’t grow in a house that has already sentenced you.\n\nIn this what if, Chapter 5 ends with the Ghost learning the cruelest rule of rescue: sometimes the captor wins by teaching communities to do the punishment for free.",
+            "id": "Dalam jalur ini, orang tua tak sanggup menahan malu atas kepatuhan si anak. Mereka menyebutnya pengkhianat di depan tetangga, ingin membuktikan desa masih ‘bersih.’\n\nPajak Sungai tak perlu mengambilnya lagi. Desa mengusirnya sendiri.\n\nSi anak pergi malam-malam, bukan untuk bertemu pengawas, melainkan untuk mencari struktur apa pun yang mau menerimanya. Ia kembali pada Pajak Sungai karena Pajak Sungai memberi yang rumah tolak: peran.\n\nSang Hantu datang terlambat dengan ritual tandingan. Pilihan tak bisa tumbuh di rumah yang sudah menjatuhkan vonis.\n\nDalam what if ini, Bab 5 berakhir dengan Sang Hantu belajar aturan penyelamatan paling kejam: kadang penyekap menang dengan mengajari komunitas menghukum dengan gratis."
+          }
+        },
+        {
+          "id": "what_if_5_the_handler_is_the_father",
+          "type": "what_if",
+          "title": {
+            "en": "The Chain Was Inside the House",
+            "id": "Rantai Itu Ada di Dalam Rumah"
+          },
+          "content": {
+            "en": "In this path, the Ghost follows the pauses and discovers a truth that breaks the easy story: the handler is not an outsider. It is the boy’s uncle—or his father’s closest friend.\n\nThe River Tax has already turned the village into its own collection system. The dyed cloth on the wrist is not a mark of invasion; it is a mark of complicity.\n\nIf the Ghost strikes the handler, he ignites a civil feud. If he does nothing, the program continues.\n\nHe chooses a third cut: he exposes the handler’s ledger slate to the village without naming the Ghost, letting shame and proof do the work steel would usually do.\n\nIn this what if, Chapter 5 ends with a new kind of battle: not against raiders, but against betrayal that wears a familiar face.",
+            "id": "Dalam jalur ini, Sang Hantu mengikuti jeda-jeda dan menemukan kebenaran yang mematahkan kisah sederhana: pengawas itu bukan orang luar. Ia paman si anak—atau sahabat terdekat ayahnya.\n\nPajak Sungai sudah mengubah desa jadi sistem pungutannya sendiri. Kain celup di pergelangan bukan tanda invasi; ia tanda keterlibatan.\n\nJika Sang Hantu menghantam pengawas, ia menyalakan perang saudara. Jika ia diam, program berlanjut.\n\nIa memilih sayatan ketiga: ia mengekspos papan takik si pengawas pada desa tanpa menamai Sang Hantu, membiarkan malu dan bukti mengerjakan apa yang biasanya dikerjakan baja.\n\nDalam what if ini, Bab 5 berakhir dengan jenis pertempuran baru: bukan melawan perampok, melainkan melawan pengkhianatan yang memakai wajah akrab."
+          }
+        },
+        {
+          "id": "what_if_5_the_counter_ritual_fails",
+          "type": "what_if",
+          "title": {
+            "en": "Seven Nights Wasn’t Enough",
+            "id": "Tujuh Malam Tidak Cukup"
+          },
+          "content": {
+            "en": "In this path, the Ghost’s seven-night routine begins well—small choices, warm voices, no forced confession.\n\nBut the boy’s conditioning is deeper than obedience. It is fear tied to triggers: certain river sounds, certain phrases, the smell of dyed cloth.\n\nOn the sixth night, the boy hears a willow branch scrape in wind and bolts toward the river as if pulled by a rope only he can feel.\n\nThe Ghost catches him before he reaches the water, but the incident reveals the program’s design: it installs reflexes that survive kindness.\n\nIn this what if, Chapter 5 ends with the Ghost rewriting his doctrine: rescue is not an event. It is long care—and long care requires a community willing to carry what one swordsman cannot.",
+            "id": "Dalam jalur ini, rutinitas tujuh malam Sang Hantu berjalan baik—pilihan kecil, suara hangat, tanpa pengakuan paksa.\n\nNamun pembentukan si anak lebih dalam dari patuh. Ia takut yang terikat pada pemicu: bunyi sungai tertentu, frasa tertentu, bau kain celup.\n\nMalam keenam, si anak mendengar ranting willow bergesek tertiup angin dan langsung lari ke arah sungai seolah ditarik tali yang hanya ia rasakan.\n\nSang Hantu menangkapnya sebelum sampai air, tapi insiden itu membongkar desain program: ia menanam refleks yang bertahan meski diberi kebaikan.\n\nDalam what if ini, Bab 5 berakhir dengan Sang Hantu menulis ulang doktrinnya: penyelamatan bukan peristiwa. Ia perawatan panjang—dan perawatan panjang butuh komunitas yang mau memikul beban yang tak bisa dipikul satu pendekar."
+          }
+        },
+        {
+          "id": "what_if_5_the_ghost_kills_the_handler",
+          "type": "what_if",
+          "title": {
+            "en": "Blood as a Shortcut",
+            "id": "Darah sebagai Jalan Pintas"
+          },
+          "content": {
+            "en": "In this path, the Ghost breaks his own restraint and kills the handler under the willow. The act is clean and final.\n\nThe boy sees the body at dawn. He does not feel freed; he feels responsible. The River Tax’s lesson completes itself: obedience prevents death, disobedience causes it.\n\nThe village celebrates the Ghost’s efficiency, and celebration turns the willow tree into a landmark—an altar of rumor.\n\nNew handlers stop meeting in open air. They move inside homes, behind barns, under bridges. The program adapts.\n\nIn this what if, Chapter 5 ends with a tactical win that hardens the enemy and scars the child—the Ghost learns that shortcuts carve wounds that last longer than hunger.",
+            "id": "Dalam jalur ini, Sang Hantu melanggar pengekangannya sendiri dan membunuh pengawas di bawah willow. Tindakannya bersih dan final.\n\nSi anak melihat tubuh itu saat fajar. Ia tidak merasa bebas; ia merasa bersalah. Pelajaran Pajak Sungai pun lengkap: patuh mencegah kematian, tidak patuh menyebabkannya.\n\nDesa merayakan efisiensi Sang Hantu, dan perayaan mengubah pohon willow jadi patokan—altar rumor.\n\nPengawas baru berhenti bertemu di ruang terbuka. Mereka pindah ke dalam rumah, belakang lumbung, bawah jembatan. Program beradaptasi.\n\nDalam what if ini, Bab 5 berakhir dengan kemenangan taktis yang mengeraskan musuh dan melukai anak—Sang Hantu belajar bahwa jalan pintas menoreh luka yang lebih lama dari lapar."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Village That Heals",
+        "id": "Desa yang Menyembuhkan"
+      },
+      "preview": {
+        "en": "The Ghost can break chains, but he can’t replace what captivity rewires. To rescue the returned, he must build something he has avoided: a place that holds.",
+        "id": "Sang Hantu bisa memutus rantai, tapi ia tak bisa mengganti apa yang disusun ulang oleh penyekapan. Untuk menyelamatkan yang kembali, ia harus membangun sesuatu yang selama ini ia hindari: tempat yang bertahan."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "A Shelter Without a Name",
+            "id": "Perlindungan Tanpa Nama"
+          },
+          "content": {
+            "en": "The Ghost leaves the river villages for higher ground where wind keeps air clean and paths break into stone. He chooses a place that cannot become a rumor easily.\n\nHe finds it in a ruined waystation between two ridges—a roof half-collapsed, a well that still draws cold water, and a courtyard hidden from the road by cedar.\n\nHe does not call it a refuge. Refuges attract.\n\nHe calls it a pause.\n\nHe brings no banner, but he brings rules. No loud prayers. No fires at dusk. No gathering at the same hour twice. Anyone who arrives leaves in pairs, not crowds.\n\nA woman arrives first with a teenage girl who flinches at every command word. The girl has returned from the River Tax with a smile that is too polite and eyes that never rest.\n\nThe Ghost does not interrogate her. He does not ask what she did. He does not ask who trained her.\n\nHe assigns her work that requires choice: split wood by size, not speed; choose which herbs to dry; decide which bucket goes to the well.\n\nChoice is medicine. It is also dangerous—because it can be used against you if someone is watching.\n\nOn the fourth day, the River Tax tests the pause without touching it. A collector appears on the road below, paying a farmer for directions with a small pouch of rice. The farmer points the wrong way, but the collector smiles as if he has already learned enough.\n\nThe Ghost understands the new phase: the enemy is not only taking people. It is learning who can be turned into informants by hunger.\n\nHe responds by changing the refuge’s geometry. He shifts the water-drawing schedule. He moves the sleeping mats. He makes the place feel temporary even to those inside it.\n\nA boy who had returned obedient begins to speak at night, not about the River Tax, but about dreams where someone praises him and the praise feels like a chain. He wakes shaking. No one celebrates. They sit with him until his breathing slows.\n\nThe Ghost watches this and admits a truth he has been avoiding: swords can free bodies, but only community can free nights.\n\nBefore sunrise, he teaches the caretakers a final discipline: never keep a single ledger. Keep knowledge in fragments—who needs what, who is healing, who is risky—spread across many hands so capture cannot collapse the system.\n\nChapter 6 ends with the pause still unnamed and still standing, but already moving in spirit. The Ghost remains a shadow at its edge, learning to lead without becoming the center—because the safest shelter is one that can’t be pointed at, even by the people it saves.",
+            "id": "Sang Hantu meninggalkan desa-desa sungai menuju dataran lebih tinggi tempat angin menjaga udara bersih dan jalur pecah menjadi batu. Ia memilih tempat yang tak mudah berubah jadi rumor.\n\nIa menemukannya pada pos singgah runtuh di antara dua punggung bukit—atap setengah ambruk, sumur yang masih menarik air dingin, dan halaman yang tersembunyi dari jalan oleh cemara.\n\nIa tidak menyebutnya tempat aman. Tempat aman menarik orang.\n\nIa menyebutnya jeda.\n\nIa tidak membawa panji, tapi membawa aturan. Tak ada doa keras. Tak ada api saat senja. Tak ada berkumpul di jam yang sama dua kali. Siapa pun yang datang pergi berpasangan, bukan berkerumun.\n\nSeorang perempuan datang pertama membawa gadis remaja yang tersentak tiap mendengar kata-kata perintah. Gadis itu kembali dari Pajak Sungai dengan senyum yang terlalu sopan dan mata yang tak pernah diam.\n\nSang Hantu tidak menginterogasinya. Ia tidak bertanya apa yang ia lakukan. Ia tidak bertanya siapa yang melatihnya.\n\nIa memberinya kerja yang menuntut pilihan: membelah kayu berdasarkan ukuran, bukan cepat; memilih herbal mana yang dijemur; memutuskan ember mana yang ke sumur.\n\nPilihan adalah obat. Ia juga berbahaya—karena bisa dipakai melawanmu jika ada yang mengintip.\n\nPada hari keempat, Pajak Sungai menguji jeda tanpa menyentuhnya. Seorang pemungut muncul di jalan bawah, membayar seorang petani untuk arah dengan kantong beras kecil. Petani menunjuk arah salah, tapi pemungut itu tersenyum seolah ia sudah belajar cukup.\n\nSang Hantu paham fase baru: musuh bukan hanya mengambil orang. Mereka belajar siapa yang bisa diubah jadi informan lewat lapar.\n\nIa membalas dengan mengubah geometri tempat itu. Ia mengacak jadwal menimba. Ia memindahkan alas tidur. Ia membuat tempat itu terasa sementara bahkan bagi yang berada di dalam.\n\nSeorang anak yang pulang patuh mulai berbicara di malam hari, bukan tentang Pajak Sungai, melainkan tentang mimpi di mana seseorang memujinya dan pujian itu terasa seperti rantai. Ia terbangun gemetar. Tak ada yang merayakan. Mereka duduk bersamanya sampai napasnya pelan.\n\nSang Hantu menatap dan mengakui kebenaran yang selama ini ia hindari: pedang bisa membebaskan tubuh, tapi hanya komunitas yang bisa membebaskan malam.\n\nSebelum matahari naik, ia mengajarkan disiplin terakhir pada para pengurus: jangan pernah menyimpan satu buku besar. Simpan pengetahuan dalam pecahan—siapa butuh apa, siapa sedang pulih, siapa berisiko—disebar ke banyak tangan agar penangkapan tak meruntuhkan sistem.\n\nBab 6 berakhir dengan jeda itu tetap tanpa nama dan tetap berdiri, namun sudah bergerak dalam roh. Sang Hantu tetap bayang di pinggirnya, belajar memimpin tanpa jadi pusat—karena perlindungan paling aman adalah yang tak bisa ditunjuk, bahkan oleh orang yang diselamatkannya."
+          }
+        },
+        {
+          "id": "what_if_6_the_pause_becomes_a_destination",
+          "type": "what_if",
+          "title": {
+            "en": "The Pause Turned into a Place",
+            "id": "Jeda Itu Menjadi Tempat"
+          },
+          "content": {
+            "en": "In this path, the unnamed shelter succeeds too well. People start describing it anyway: the cedar screen, the cold well, the half-roof.\n\nA trickle of arrivals becomes a pattern. Even if they come in pairs, the road below begins to see more feet than it should.\n\nThe River Tax doesn’t raid it. It watches it. Watching is cheaper than fighting.\n\nWhen the collectors finally move, they do it by starving the approach routes—pressuring nearby hamlets until hunger forces someone to trade directions.\n\nIn this what if, Chapter 6 ends with the Ghost ordering the pause to dissolve before it can be besieged. The shelter survives by refusing to become a landmark.",
+            "id": "Dalam jalur ini, perlindungan tanpa nama itu terlalu berhasil. Orang tetap mulai mendeskripsikannya: tirai cemara, sumur dingin, atap setengah.\n\nAliran kedatangan kecil berubah jadi pola. Meski mereka datang berpasangan, jalan di bawah mulai melihat lebih banyak tapak dari semestinya.\n\nPajak Sungai tidak merazia. Mereka mengawasi. Mengawasi lebih murah daripada bertarung.\n\nSaat pemungut akhirnya bergerak, mereka melakukannya dengan membuat jalur menuju tempat itu kelaparan—menekan dusun sekitar sampai lapar memaksa seseorang menjual arah.\n\nDalam what if ini, Bab 6 berakhir saat Sang Hantu memerintahkan jeda itu bubar sebelum sempat dikepung. Perlindungan bertahan dengan menolak jadi patokan."
+          }
+        },
+        {
+          "id": "what_if_6_the_informant_is_a_healing_child",
+          "type": "what_if",
+          "title": {
+            "en": "The Spy Needed Praise",
+            "id": "Mata-Mata Itu Membutuhkan Pujian"
+          },
+          "content": {
+            "en": "In this path, the River Tax doesn’t rely on hungry farmers. It relies on the returned.\n\nOne of the healing youths learns the shelter’s rhythms by pretending to recover. Their old conditioning recognizes rules and converts them into a report.\n\nThey don’t betray out of cruelty; they betray out of reflex—the reflex that praise and safety come from obedience.\n\nThe Ghost discovers it not through confession, but through a mismatch: the youth always asks about the well schedule, always watches departures, always remembers too precisely.\n\nIn this what if, Chapter 6 ends with a painful correction: the pause must treat recovery as security work. Healing cannot be separated from counter-intelligence.",
+            "id": "Dalam jalur ini, Pajak Sungai tidak mengandalkan petani lapar. Mereka mengandalkan yang dikembalikan.\n\nSalah satu remaja yang sedang dipulihkan mempelajari ritme perlindungan dengan pura-pura sembuh. Pembentukan lama mengenali aturan dan mengubahnya jadi laporan.\n\nIa tidak mengkhianat karena kejam; ia mengkhianat karena refleks—refleks bahwa pujian dan aman datang dari patuh.\n\nSang Hantu menyadarinya bukan lewat pengakuan, melainkan lewat ketidakselarasan: remaja itu selalu bertanya jadwal sumur, selalu menatap keberangkatan, selalu mengingat terlalu presisi.\n\nDalam what if ini, Bab 6 berakhir dengan koreksi yang menyakitkan: jeda harus memperlakukan pemulihan sebagai kerja keamanan. Penyembuhan tak bisa dipisahkan dari kontra-intelijen."
+          }
+        },
+        {
+          "id": "what_if_6_the_no_ledger_rule_breaks_care",
+          "type": "what_if",
+          "title": {
+            "en": "Fragments Failed the Sick",
+            "id": "Pecahan Gagal Menolong yang Sakit"
+          },
+          "content": {
+            "en": "In this path, the doctrine of fragmented knowledge works against pursuit—but breaks under caregiving.\n\nA fevered child needs a specific herb and a specific measure of water, but the information is split across three caretakers who are not awake at the same hour.\n\nConfusion grows. Someone makes the wrong tea. Someone repeats a dose. The shelter stays hidden, but it becomes less competent.\n\nThe Ghost realizes secrecy has a cost curve: past a point, protection begins to consume the very lives it’s protecting.\n\nIn this what if, Chapter 6 ends with a new compromise: the shelter keeps one ‘living ledger’—not written, but sung in coded fragments—so care can stay coordinated without becoming capture-proof paper.",
+            "id": "Dalam jalur ini, doktrin pengetahuan terpecah bekerja melawan pengejaran—tapi rapuh untuk perawatan.\n\nSeorang anak demam butuh herbal tertentu dan takaran air tertentu, tapi informasinya terbelah di tiga pengurus yang tidak bangun di jam sama.\n\nKebingungan tumbuh. Seseorang membuat seduhan salah. Seseorang mengulang dosis. Perlindungan tetap tersembunyi, tapi jadi kurang cakap.\n\nSang Hantu sadar rahasia punya kurva ongkos: melewati titik tertentu, perlindungan mulai memakan nyawa yang ia lindungi.\n\nDalam what if ini, Bab 6 berakhir dengan kompromi baru: perlindungan menyimpan satu ‘buku besar hidup’—bukan ditulis, melainkan dinyanyikan dalam potongan kode—agar perawatan tetap selaras tanpa menjadi kertas yang bisa ditangkap."
+          }
+        },
+        {
+          "id": "what_if_6_the_pause_is_betrayed_by_water",
+          "type": "what_if",
+          "title": {
+            "en": "The Well Marked Them",
+            "id": "Sumur Menandai Mereka"
+          },
+          "content": {
+            "en": "In this path, the cold well is both blessing and fingerprint. Buckets wear a path into stone, rope fibers collect in one corner, and the ground near the draw point stays darker than it should.\n\nA River Tax scout doesn’t need a witness. He reads the environment like a ledger: repeated friction, repeated moisture, repeated human presence.\n\nThe Ghost sees the scout’s posture from the ridge and understands the danger: the place is being located by physics, not rumor.\n\nTo survive, the shelter must stop using the well like a home and start using it like a raid—fast, irregular, and never twice in the same way.\n\nIn this what if, Chapter 6 ends with the pause becoming truly nomadic: not moving its walls, but moving its habits.",
+            "id": "Dalam jalur ini, sumur dingin adalah berkah sekaligus sidik jari. Ember mengikis jalur pada batu, serat tali menumpuk di satu sudut, dan tanah dekat titik timba tetap lebih gelap dari semestinya.\n\nPengintai Pajak Sungai tak butuh saksi. Ia membaca lingkungan seperti buku besar: gesekan berulang, lembap berulang, jejak manusia berulang.\n\nSang Hantu melihat postur pengintai itu dari punggung bukit dan paham bahayanya: tempat itu sedang ditemukan lewat fisika, bukan rumor.\n\nAgar selamat, perlindungan harus berhenti memakai sumur seperti rumah dan mulai memakainya seperti serbuan—cepat, tak teratur, dan tak pernah dua kali dengan cara yang sama.\n\nDalam what if ini, Bab 6 berakhir dengan jeda yang benar-benar nomaden: bukan memindahkan dindingnya, melainkan memindahkan kebiasaannya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Ghost Becomes a Method",
+        "id": "Sang Hantu Menjadi Metode"
+      },
+      "preview": {
+        "en": "A single swordsman can vanish. A shelter can be found. The only thing that survives a net is a practice that spreads without a center.",
+        "id": "Satu pendekar bisa lenyap. Satu perlindungan bisa ditemukan. Satu-satunya yang bisa bertahan dari jaring adalah praktik yang menyebar tanpa pusat."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "No Banner, Many Hands",
+            "id": "Tanpa Panji, Banyak Tangan"
+          },
+          "content": {
+            "en": "The pause cannot stay a place. Even stone learns footsteps.\n\nSo the Ghost does what he once refused: he teaches.\n\nNot speeches. Not proclamations. Methods that can be carried in silence.\n\nHe gathers the caretakers before dawn, when fear is sleepy and pride is quiet. He shows them three disciplines.\n\nFirst: split the truth. Never let one person hold all routes, all names, all supplies. Knowledge must travel like water through many channels.\n\nSecond: rotate kindness. The returned must not be treated as suspects, but neither can they be treated as saints. Give them work that creates choice, and never let one person become their only anchor.\n\nThird: move the ritual, not the people. If a well becomes a fingerprint, draw water elsewhere for a week. If a road becomes familiar, stop using it before it becomes yours.\n\nThat evening, the River Tax comes close—not to attack, but to measure. A pair of collectors appear on a distant ridge line with a hawk perched on a glove, watching the valley like owners.\n\nThe caretakers want the Ghost to strike.\n\nHe refuses.\n\nKilling scouts is an argument with the enemy’s ego. It proves you are there.\n\nInstead, he makes the shelter disappear without moving it.\n\nFires are extinguished early. Mats are stacked and aired in a different courtyard. Water is drawn at noon, then not for two days. The returned are sent out in pairs on harmless errands that create false trails: gathering cedar bark, checking snares, repairing a footbridge.\n\nWhen the collectors finally descend to test the area, they find nothing they can count—no routine, no crowd, no single point that behaves like home.\n\nThe hawk circles and finds only wind.\n\nTwo nights later, a boy who once returned too quiet takes a bowl of rice to an older man who trembles in sleep. No one orders him. He chooses.\n\nThe Ghost watches from the cedar shadows and understands the real victory: the River Tax’s program is being overwritten, not by a blade, but by repeated small freedoms.\n\nBefore leaving, he writes nothing. He carves nothing. He gives no name.\n\nHe simply walks the ridge line until the waystation is a shape among other shapes, and the people inside it are no longer waiting for him to decide their lives.\n\nChapter 7 ends with a truth that feels like loss and relief at once: the Ghost was never meant to be a person forever. He was meant to be a method—one that survives by being shared, imperfectly, across many hands.",
+            "id": "Jeda itu tak bisa tetap jadi tempat. Bahkan batu belajar dari tapak.\n\nMaka Sang Hantu melakukan hal yang dulu ia tolak: ia mengajar.\n\nBukan pidato. Bukan proklamasi. Metode yang bisa dibawa dalam sunyi.\n\nIa mengumpulkan para pengurus sebelum fajar, saat takut masih mengantuk dan harga diri masih diam. Ia menunjukkan tiga disiplin.\n\nPertama: pecah kebenaran. Jangan biarkan satu orang memegang semua rute, semua nama, semua perbekalan. Pengetahuan harus mengalir seperti air lewat banyak saluran.\n\nKedua: rotasi kebaikan. Mereka yang dikembalikan tidak boleh diperlakukan sebagai tersangka, tapi juga tak boleh diperlakukan sebagai santo. Beri mereka kerja yang menciptakan pilihan, dan jangan biarkan satu orang jadi jangkar satu-satunya.\n\nKetiga: pindahkan ritual, bukan orangnya. Jika sumur jadi sidik jari, timba di tempat lain selama seminggu. Jika jalan jadi akrab, berhenti memakainya sebelum ia jadi milikmu.\n\nMalam itu, Pajak Sungai mendekat—bukan untuk menyerang, melainkan mengukur. Sepasang pemungut muncul di punggung bukit jauh dengan elang bertengger di sarung tangan, menatap lembah seperti pemilik.\n\nPara pengurus ingin Sang Hantu menyerang.\n\nIa menolak.\n\nMembunuh pengintai adalah berdebat dengan ego musuh. Itu membuktikan kamu ada.\n\nSebagai gantinya, ia membuat perlindungan itu lenyap tanpa memindahkannya.\n\nApi dipadamkan lebih awal. Alas tidur ditumpuk dan diangin-anginkan di halaman berbeda. Air ditimba saat siang, lalu tidak selama dua hari. Mereka yang dikembalikan dikirim berpasangan untuk urusan tak berbahaya yang menciptakan jejak palsu: mengumpulkan kulit cemara, mengecek jerat, memperbaiki jembatan kecil.\n\nSaat para pemungut akhirnya turun untuk menguji area, mereka menemukan tak ada yang bisa dihitung—tak ada rutinitas, tak ada kerumunan, tak ada satu titik yang berperilaku seperti rumah.\n\nElang berputar dan hanya menemukan angin.\n\nDua malam kemudian, seorang anak yang dulu pulang terlalu sunyi membawa semangkuk nasi untuk lelaki tua yang gemetar dalam tidur. Tak ada yang menyuruh. Ia memilih.\n\nSang Hantu mengintip dari bayang cemara dan paham kemenangan sesungguhnya: program Pajak Sungai sedang ditimpa, bukan oleh bilah, melainkan oleh kebebasan kecil yang diulang.\n\nSebelum pergi, ia tidak menulis apa-apa. Tidak mengukir apa-apa. Tidak memberi nama.\n\nIa hanya berjalan di punggung bukit sampai pos singgah itu jadi satu bentuk di antara bentuk lain, dan orang-orang di dalamnya tak lagi menunggu ia memutuskan hidup mereka.\n\nBab 7 berakhir dengan kebenaran yang terasa seperti kehilangan sekaligus lega: Sang Hantu tak pernah dimaksudkan jadi satu orang selamanya. Ia dimaksudkan jadi metode—yang bertahan karena dibagi, dengan tidak sempurna, ke banyak tangan."
+          }
+        },
+        {
+          "id": "what_if_7_the_caretakers_choose_to_kill_the_scouts",
+          "type": "what_if",
+          "title": {
+            "en": "They Wanted Proof",
+            "id": "Mereka Menginginkan Bukti"
+          },
+          "content": {
+            "en": "In this path, the caretakers reject the Ghost’s refusal. When the collectors and hawk appear on the ridge, the caretakers ambush them at night, believing a clean kill will end the measuring.\n\nThe River Tax does not mourn. It logs.\n\nWithin days, new collectors arrive with a different tactic: they stop coming close. They stop showing faces. They begin paying hungry intermediaries to count footsteps and watch smoke from afar.\n\nThe shelter becomes safer for one night and far more exposed afterward, because the enemy now has certainty that a ‘Ghost school’ exists.\n\nIn this what if, Chapter 7 ends with a harsh lesson: violence can protect a place once, but it also confirms the place is worth surrounding.",
+            "id": "Dalam jalur ini, para pengurus menolak penolakan Sang Hantu. Saat pemungut dan elang muncul di punggung bukit, para pengurus menyergap mereka malam hari, yakin pembunuhan bersih akan menghentikan pengukuran.\n\nPajak Sungai tidak berkabung. Mereka mencatat.\n\nDalam hitungan hari, pemungut baru datang dengan taktik lain: mereka berhenti mendekat. Mereka berhenti menampakkan wajah. Mereka mulai membayar perantara lapar untuk menghitung tapak dan mengamati asap dari jauh.\n\nPerlindungan itu lebih aman satu malam dan jauh lebih terekspos setelahnya, karena musuh kini punya kepastian bahwa ‘sekolah Sang Hantu’ memang ada.\n\nDalam what if ini, Bab 7 berakhir dengan pelajaran keras: kekerasan bisa melindungi satu tempat sekali, tapi juga mengonfirmasi tempat itu layak dikepung."
+          }
+        },
+        {
+          "id": "what_if_7_the_method_becomes_a_creed",
+          "type": "what_if",
+          "title": {
+            "en": "A Method Turned into Religion",
+            "id": "Metode Berubah Jadi Agama"
+          },
+          "content": {
+            "en": "In this path, the three disciplines spread too well. Villagers begin repeating them like scripture—quotable, chantable, uniform.\n\nUniformity creates identity. Identity creates a symbol. A symbol creates a target.\n\nThe River Tax adapts by hunting not the Ghost, but the phrase. Anyone heard teaching the ‘three rules’ is marked for exemplary punishment.\n\nFear does what steel cannot: it makes people stop teaching.\n\nIn this what if, Chapter 7 ends with the Ghost realizing that a method survives best when it mutates—when each village learns the principle but invents its own version, so no one slogan can be cut out.",
+            "id": "Dalam jalur ini, tiga disiplin itu menyebar terlalu baik. Penduduk mulai mengulangnya seperti kitab—mudah dikutip, mudah diteriakkan, seragam.\n\nKeseragaman menciptakan identitas. Identitas menciptakan simbol. Simbol menciptakan sasaran.\n\nPajak Sungai beradaptasi dengan memburu bukan Sang Hantu, melainkan frasanya. Siapa pun yang terdengar mengajarkan ‘tiga aturan’ ditandai untuk hukuman contoh.\n\nTakut melakukan hal yang tak bisa dilakukan baja: membuat orang berhenti mengajar.\n\nDalam what if ini, Bab 7 berakhir saat Sang Hantu sadar metode paling tahan hidup adalah yang bermutasi—tiap desa memegang prinsipnya tapi mencipta versinya sendiri, sehingga tak ada satu semboyan pun yang bisa dipotong."
+          }
+        },
+        {
+          "id": "what_if_7_the_returned_form_their_own_circle",
+          "type": "what_if",
+          "title": {
+            "en": "The Returned Made a Fourth Rule",
+            "id": "Yang Kembali Membuat Aturan Keempat"
+          },
+          "content": {
+            "en": "In this path, the returned youths begin meeting privately at night, not to conspire, but to stabilize each other. They invent a practice the Ghost never taught: each person must teach one small choice to someone else.\n\nThe practice spreads like a quiet apprenticeship—choice taught person to person, not issued from caretakers.\n\nThe caretakers worry it could become a faction. The Ghost worries it could become a center.\n\nHe chooses to let it live, but he fractures it intentionally: meetings rotate, pairs change, and no ‘leader’ is allowed to be consistent.\n\nIn this what if, Chapter 7 ends with the Ghost accepting an uncomfortable truth: if he wants the method to survive, he must tolerate forms he does not control.",
+            "id": "Dalam jalur ini, para remaja yang dikembalikan mulai bertemu diam-diam di malam hari, bukan untuk bersekongkol, melainkan untuk menstabilkan satu sama lain. Mereka menciptakan praktik yang tak pernah diajarkan Sang Hantu: tiap orang harus mengajarkan satu pilihan kecil pada orang lain.\n\nPraktik itu menyebar seperti magang sunyi—pilihan diajarkan dari orang ke orang, bukan dikeluarkan oleh pengurus.\n\nPara pengurus khawatir itu bisa jadi faksi. Sang Hantu khawatir itu bisa jadi pusat.\n\nIa memilih membiarkannya hidup, namun memecahnya dengan sengaja: pertemuan diputar, pasangan berubah, dan tak ada ‘pemimpin’ yang boleh konsisten.\n\nDalam what if ini, Bab 7 berakhir saat Sang Hantu menerima kebenaran yang tidak nyaman: jika ia ingin metode bertahan, ia harus menoleransi bentuk-bentuk yang tidak ia kendalikan."
+          }
+        },
+        {
+          "id": "what_if_7_the_hawk_finds_the_pattern_anyway",
+          "type": "what_if",
+          "title": {
+            "en": "Wind Wasn’t Enough",
+            "id": "Angin Tidak Cukup"
+          },
+          "content": {
+            "en": "In this path, the shelter’s disappearing act works on human eyes—but not on trained animals and patient arithmetic.\n\nThe hawk does not find smoke. It finds movement: repeated trips to the same clearing, repeated glints of water carried in buckets, repeated shadows at the well line.\n\nThe collectors don’t attack. They place watchers at three distant points and wait for the shelter to reveal itself by living.\n\nThe Ghost realizes the enemy has adopted his philosophy: do not fight the body, fight the habit.\n\nIn this what if, Chapter 7 ends with the Ghost dismantling the pause completely—scattering caretakers, relocating the returned, and leaving the waystation truly empty—because the only way to beat a net that waits is to stop being something that can be waited for.",
+            "id": "Dalam jalur ini, trik ‘menghilang’ perlindungan berhasil untuk mata manusia—tapi tidak untuk hewan terlatih dan aritmetika yang sabar.\n\nElang itu tidak menemukan asap. Ia menemukan gerak: perjalanan berulang ke tanah lapang yang sama, kilat air yang berulang dari ember, bayangan berulang di jalur sumur.\n\nPara pemungut tidak menyerang. Mereka menaruh pengintai di tiga titik jauh dan menunggu tempat itu membocorkan dirinya lewat kebiasaan hidup.\n\nSang Hantu sadar musuh telah mengadopsi filsafatnya: jangan lawan tubuh, lawan kebiasaan.\n\nDalam what if ini, Bab 7 berakhir dengan Sang Hantu membongkar jeda sepenuhnya—mencerai-beraikan pengurus, memindahkan yang dikembalikan, dan meninggalkan pos singgah benar-benar kosong—karena satu-satunya cara mengalahkan jaring yang menunggu adalah berhenti jadi sesuatu yang bisa ditunggu."
+          }
+        }
+      ]
+    }
+  ]
+}

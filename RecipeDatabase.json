@@ -1,0 +1,599 @@
+[
+  {
+    "fried_rice": {
+      "name": "Nasi Goreng",
+      "required_skill": 1,
+      "cook_time": 120,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/NasiGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 20000,
+      "hunger_restore": 35,
+      "thirst_restore": -3,
+      "mood_restore": 5,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "rice": 1,
+        "egg": 1,
+        "oil": 1
+      }
+    },
+    "fried_noodle": {
+      "name": "Mie Goreng",
+      "required_skill": 1,
+      "cook_time": 90,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/MieGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 10000,
+      "hunger_restore": 30,
+      "thirst_restore": -2,
+      "mood_restore": 4,
+	  "bladder_restore": -15,
+      "ingredients": {
+        "noodle": 1,
+        "egg": 1,
+        "oil": 1
+      }
+    },
+    "boiled_noodle": {
+      "name": "Mie Rebus",
+      "required_skill": 1,
+      "cook_time": 100,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/MieRebus.png",
+      "sell_in_cafe": true,
+      "cafe_price": 10000,
+      "hunger_restore": 28,
+      "thirst_restore": 2,
+      "mood_restore": 4,
+	  "bladder_restore": -15,
+      "ingredients": {
+        "noodle": 1,
+        "egg": 1
+      }
+    },
+    "omelette": {
+      "name": "Telur Dadar",
+      "required_skill": 1,
+      "cook_time": 45,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/TelurDadar.png",
+      "sell_in_cafe": true,
+      "cafe_price": 5000,
+      "hunger_restore": 15,
+      "thirst_restore": 0,
+      "mood_restore": 2,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "egg": 2,
+        "oil": 1
+      }
+    },
+    "fried_egg": {
+      "name": "Telur Ceplok",
+      "required_skill": 1,
+      "cook_time": 30,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/TelurCeplok.png",
+      "sell_in_cafe": true,
+      "cafe_price": 5000,
+      "hunger_restore": 12,
+      "thirst_restore": 0,
+      "mood_restore": 1,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "egg": 1,
+        "oil": 1
+      }
+    },
+    "chicken_porridge": {
+      "name": "Bubur Ayam",
+      "required_skill": 2,
+      "cook_time": 180,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/BuburAyam.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 32,
+      "thirst_restore": 4,
+      "mood_restore": 6,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "rice": 1,
+        "chicken": 1
+      }
+    },
+    "fried_chicken": {
+      "name": "Ayam Goreng",
+      "required_skill": 2,
+      "cook_time": 150,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/AyamGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 40,
+      "thirst_restore": -5,
+      "mood_restore": 8,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "chicken": 1,
+        "oil": 1
+      }
+    },
+    "grilled_chicken": {
+      "name": "Ayam Bakar",
+      "required_skill": 3,
+      "cook_time": 210,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/AyamBakar.png",
+      "sell_in_cafe": true,
+      "cafe_price": 18000,
+      "hunger_restore": 42,
+      "thirst_restore": -5,
+      "mood_restore": 9,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "chicken": 1,
+        "chili": 1
+      }
+    },
+    "vegetable_soup": {
+      "name": "Sayur Sop",
+      "required_skill": 2,
+      "cook_time": 120,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/SayurSop.png",
+      "sell_in_cafe": true,
+      "cafe_price": 11000,
+      "hunger_restore": 20,
+      "thirst_restore": 6,
+      "mood_restore": 4,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "vegetable": 2
+      }
+    },
+    "capcay": {
+      "name": "Capcay",
+      "required_skill": 3,
+      "cook_time": 140,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Capcay.png",
+      "sell_in_cafe": true,
+      "cafe_price": 12000,
+      "hunger_restore": 25,
+      "thirst_restore": 2,
+      "mood_restore": 5,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "vegetable": 2,
+        "egg": 1
+      }
+    },
+    "chicken_soto": {
+      "name": "Soto Ayam",
+      "required_skill": 4,
+      "cook_time": 240,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/SotoAyam.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 38,
+      "thirst_restore": 8,
+      "mood_restore": 8,
+	  "bladder_restore": -15,
+      "ingredients": {
+        "chicken": 1,
+        "vegetable": 1
+      }
+    },
+    "beef_rawon": {
+      "name": "Rawon",
+      "required_skill": 6,
+      "cook_time": 360,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/Rawon.png",
+      "sell_in_cafe": true,
+      "cafe_price": 30000,
+      "hunger_restore": 50,
+      "thirst_restore": 5,
+      "mood_restore": 12,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "beef": 2,
+        "vegetable": 1
+      }
+    },
+    "rendang": {
+      "name": "Rendang",
+      "required_skill": 8,
+      "cook_time": 480,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Rendang.png",
+      "sell_in_cafe": true,
+      "cafe_price": 30000,
+      "hunger_restore": 60,
+      "thirst_restore": -5,
+      "mood_restore": 15,
+	  "bladder_restore": -30,
+      "ingredients": {
+        "beef": 2,
+        "coconut_milk": 1,
+        "chili": 1
+      }
+    },
+    "chicken_curry": {
+      "name": "Gulai Ayam",
+      "required_skill": 6,
+      "cook_time": 300,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/GulaiAyam.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 48,
+      "thirst_restore": 3,
+      "mood_restore": 10,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "chicken": 1,
+        "coconut_milk": 1,
+        "chili": 1
+      }
+    },
+    "opor_chicken": {
+      "name": "Opor Ayam",
+      "required_skill": 6,
+      "cook_time": 300,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/OporAyam.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 45,
+      "thirst_restore": 4,
+      "mood_restore": 10,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "chicken": 1,
+        "coconut_milk": 1
+      }
+    },
+    "fried_fish": {
+      "name": "Ikan Goreng",
+      "required_skill": 3,
+      "cook_time": 120,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/IkanGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 30000,
+      "hunger_restore": 35,
+      "thirst_restore": -2,
+      "mood_restore": 6,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "fish": 1,
+        "oil": 1
+      }
+    },
+    "grilled_fish": {
+      "name": "Ikan Bakar",
+      "required_skill": 4,
+      "cook_time": 180,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/IkanBakar.png",
+      "sell_in_cafe": true,
+      "cafe_price": 32000,
+      "hunger_restore": 38,
+      "thirst_restore": -2,
+      "mood_restore": 7,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "fish": 1,
+        "chili": 1
+      }
+    },
+    "meatball_soup": {
+      "name": "Bakso",
+      "required_skill": 4,
+      "cook_time": 180,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/Bakso.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 45,
+      "thirst_restore": 5,
+      "mood_restore": 8,
+	  "bladder_restore": -15,
+      "ingredients": {
+        "beef": 1,
+        "flour": 1
+      }
+    },
+    "beef_soto": {
+      "name": "Soto Daging",
+      "required_skill": 5,
+      "cook_time": 240,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/SotoDaging.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 48,
+      "thirst_restore": 6,
+      "mood_restore": 10,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "beef": 1,
+        "vegetable": 1
+      }
+    },
+    "pecel": {
+      "name": "Pecel",
+      "required_skill": 3,
+      "cook_time": 120,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Pecel.png",
+      "sell_in_cafe": true,
+      "cafe_price": 20000,
+      "hunger_restore": 28,
+      "thirst_restore": 3,
+      "mood_restore": 5,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "vegetable": 2
+      }
+    },
+    "gado_gado": {
+      "name": "Gado-Gado",
+      "required_skill": 4,
+      "cook_time": 150,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Gadogado.png",
+      "sell_in_cafe": true,
+      "cafe_price": 20000,
+      "hunger_restore": 32,
+      "thirst_restore": 4,
+      "mood_restore": 6,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "vegetable": 2,
+        "egg": 1
+      }
+    },
+    "ketoprak": {
+      "name": "Ketoprak",
+      "required_skill": 4,
+      "cook_time": 180,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Ketoprak.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 35,
+      "thirst_restore": 3,
+      "mood_restore": 6,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "noodle": 1,
+        "egg": 1,
+        "vegetable": 1
+      }
+    },
+    "lontong_sayur": {
+      "name": "Lontong Sayur",
+      "required_skill": 5,
+      "cook_time": 240,
+      "plate_type": "bowl",
+      "food_texture": "res://Resep/LontongSayur.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 40,
+      "thirst_restore": 5,
+      "mood_restore": 8,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "rice": 1,
+        "vegetable": 2,
+        "coconut_milk": 1
+      }
+    },
+    "martabak_telur": {
+      "name": "Martabak Telur",
+      "required_skill": 6,
+      "cook_time": 210,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/MartabakAsin.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 45,
+      "thirst_restore": -2,
+      "mood_restore": 9,
+	  "bladder_restore": -40,
+      "ingredients": {
+        "egg": 2,
+        "flour": 1,
+        "oil": 1
+      }
+    },
+    "stuffed_tofu": {
+      "name": "Tahu Isi",
+      "required_skill": 3,
+      "cook_time": 120,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/TahuIsi.png",
+      "sell_in_cafe": true,
+      "cafe_price": 10000,
+      "hunger_restore": 18,
+      "thirst_restore": 0,
+      "mood_restore": 3,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "tofu": 1,
+        "flour": 1,
+        "vegetable": 1
+      }
+    },
+    "fried_tempe": {
+      "name": "Tempe Goreng",
+      "required_skill": 2,
+      "cook_time": 60,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/TempeGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 8000,
+      "hunger_restore": 15,
+      "thirst_restore": 0,
+      "mood_restore": 2,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "tempe": 1,
+        "oil": 1
+      }
+    },
+    "fried_banana": {
+      "name": "Pisang Goreng",
+      "required_skill": 2,
+      "cook_time": 90,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/PisangGoreng.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 12,
+      "thirst_restore": 0,
+      "mood_restore": 4,
+	  "bladder_restore": -10,
+      "ingredients": {
+        "banana": 1,
+        "flour": 1,
+        "oil": 1
+      }
+    },
+    "chicken_satay": {
+      "name": "Sate Ayam",
+      "required_skill": 7,
+      "cook_time": 300,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/SateAyam.png",
+      "sell_in_cafe": true,
+      "cafe_price": 25000,
+      "hunger_restore": 52,
+      "thirst_restore": -3,
+      "mood_restore": 12,
+	  "bladder_restore": -20,
+      "ingredients": {
+        "chicken": 2,
+        "chili": 1
+      }
+    },
+    "nasi_padang": {
+      "name": "Nasi Padang",
+      "required_skill": 10,
+      "cook_time": 420,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/NasiPadang.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 70,
+      "thirst_restore": -5,
+      "mood_restore": 18,
+	  "bladder_restore": -25,
+      "ingredients": {
+        "rice": 1,
+        "beef": 1,
+        "vegetable": 1
+      }
+    },
+    "steak": {
+      "name": "Steak Sapi",
+      "required_skill": 10,
+      "cook_time": 360,
+      "plate_type": "plate",
+      "food_texture": "res://Resep/Steak.png",
+      "sell_in_cafe": true,
+      "cafe_price": 55000,
+      "hunger_restore": 65,
+      "thirst_restore": -4,
+      "mood_restore": 16,
+	  "bladder_restore": -30,
+      "ingredients": {
+        "beef": 2
+      }
+    },
+    "mineral_water": {
+      "name": "Air Mineral",
+      "required_skill": 0,
+      "cook_time": 0,
+      "plate_type": "cup",
+      "food_texture": "res://Resep/AirMineral.png",
+      "sell_in_cafe": true,
+      "cafe_price": 5000,
+      "hunger_restore": 0,
+      "thirst_restore": 25,
+      "mood_restore": 1,
+	  "bladder_restore": -5,
+      "ingredients": {}
+    },
+    "iced_tea": {
+      "name": "Es Teh",
+      "required_skill": 1,
+      "cook_time": 15,
+      "plate_type": "cup",
+      "food_texture": "res://Resep/Esteh.png",
+      "sell_in_cafe": true,
+      "cafe_price": 10000,
+      "hunger_restore": 0,
+      "thirst_restore": 35,
+      "mood_restore": 2,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "tea": 1
+      }
+    },
+    "orange_juice": {
+      "name": "Jus Jeruk",
+      "required_skill": 1,
+      "cook_time": 20,
+      "plate_type": "cup",
+      "food_texture": "res://Resep/EsJeruk.png",
+      "sell_in_cafe": true,
+      "cafe_price": 10000,
+      "hunger_restore": 2,
+      "thirst_restore": 40,
+      "mood_restore": 4,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "orange": 2
+      }
+    },
+    "coffee": {
+      "name": "Kopi",
+      "required_skill": 1,
+      "cook_time": 20,
+      "plate_type": "cup",
+      "food_texture": "res://Resep/Kopi.png",
+      "sell_in_cafe": true,
+      "cafe_price": 15000,
+      "hunger_restore": 0,
+      "thirst_restore": 15,
+      "mood_restore": 5,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "coffee_beans": 1
+      }
+    },
+    "milkshake": {
+      "name": "Milkshake",
+      "required_skill": 2,
+      "cook_time": 30,
+      "plate_type": "cup",
+      "food_texture": "res://Resep/MilkShake.png",
+      "sell_in_cafe": true,
+      "cafe_price": 18000,
+      "hunger_restore": 5,
+      "thirst_restore": 45,
+      "mood_restore": 6,
+	  "bladder_restore": -5,
+      "ingredients": {
+        "milk": 1
+      }
+    }
+  }
+]

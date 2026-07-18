@@ -1,0 +1,519 @@
+{
+  "book_id": "the_iliad",
+  "title": {
+    "en": "The Iliad",
+    "id": "Iliad"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Rage by the Ships",
+        "id": "Amarah di Dekat Kapal"
+      },
+      "preview": {
+        "en": "A plague falls on the Achaean camp, and a quarrel over honor breaks the alliance from inside.",
+        "id": "Wabah menimpa perkemahan Akhaia, dan pertengkaran soal kehormatan meretakkan persekutuan dari dalam."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The poem opens on anger—Achilles’ anger—and asks the Muse to sing of how it brought suffering to the Achaeans. [web:114]\n\nThe cause appears immediately in the human world: Chryses, a priest of Apollo, comes to the Greek ships offering ransom to retrieve his daughter Chryseis, who has been taken as Agamemnon’s prize. [web:114]\n\nMost of the Achaeans favor accepting the ransom, but Agamemnon refuses and dismisses the old man harshly, driving him away in humiliation. [web:114]\n\nChryses prays to Apollo, and Apollo answers by sending a plague through the Greek camp, killing men and animals and forcing the army to confront its own offense. [web:103]\n\nAfter days of suffering, Achilles calls an assembly and demands to know why Apollo is angry, pushing the leaders to seek the cause rather than deny it. [web:103]\n\nThe seer Calchas explains that the plague will not end unless Chryseis is returned without ransom and proper offerings are made to Apollo. [web:103]\n\nAgamemnon agrees to give Chryseis back, but insists on compensation so he will not be the only king without a “prize,” and he demands Briseis, the woman awarded to Achilles. [web:103]\n\nAchilles sees this as public dishonor, and the dispute escalates into an open quarrel that threatens to split the Achaean coalition. [web:103]\n\nAchilles is on the verge of killing Agamemnon, but Athena intervenes and restrains him, turning violence into a verbal break instead of immediate civil bloodshed. [web:103]\n\nNestor attempts to mediate, urging Agamemnon to yield and Achilles to control his rage, but neither truly relents, and the breach becomes official. [web:103]\n\nAgamemnon sends heralds to take Briseis from Achilles’ tent, and Achilles withdraws from battle, choosing absence as his weapon against the commander who shamed him. [web:103]\n\nMeanwhile, Odysseus escorts Chryseis back to her father and performs sacrifices, and Apollo lifts the plague, but the cure only clears space for the greater conflict Achilles has triggered. [web:103]\n\nAchilles appeals to his mother Thetis, asking her to persuade Zeus to favor the Trojans until the Achaeans feel how much they depend on him, and Zeus ultimately agrees, setting the war’s balance to shift. [web:103]\n\nChapter end: the plague exposes Agamemnon’s arrogance, the seizure of Briseis ignites Achilles’ wrath, and Thetis’ plea to Zeus turns a personal insult into a cosmic tilt of the war. [web:103]"
+          }
+        },
+        {
+          "id": "what_if_1_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Agamemnon Accepts the Ransom",
+            "id": "What If: Agamemnon Menerima Tebusan"
+          },
+          "content": {
+            "en": "Chryses arrives at the ships with ransom and prayers.\n\nIn canon, Agamemnon refuses and the plague begins.\n\nHere, Agamemnon accepts.\n\nNot out of mercy.\n\nOut of calculation.\n\nHe sees the morale fraying and chooses to look generous before anyone can demand it.\n\nChryseis is returned with ceremony.\n\nApollo is satisfied.\n\nNo plague spreads through the camp.\n\nAchilles never calls an assembly to hunt for a cause.\n\nCalchas never risks speaking truth against a king.\n\nAnd without the crisis, Agamemnon never needs compensation.\n\nBriseis stays with Achilles.\n\nThe fuse is never lit.\n\nYet the war does not become easier.\n\nIt becomes slower.\n\nWithout the moral shock of divine punishment, the Achaeans keep functioning—but their rot stays hidden.\n\nAgamemnon’s pride is not corrected.\n\nIt is rewarded.\n\nHe learns that he can avoid consequences by performing generosity at the right moment.\n\nAchilles remains in the army, but he watches.\n\nHe begins to suspect that the true danger is not Trojans outside the walls.\n\nIt is a leadership that can buy peace without becoming just.\n\nChapter end: by accepting the ransom, Agamemnon prevents immediate disaster and keeps Achilles fighting, but he also postpones the reckoning; the coalition holds—until a later insult lands harder because everyone believed the crisis had been solved.",
+            "id": "Chryses datang ke kapal membawa tebusan dan doa.\n\nDi canon, Agamemnon menolak dan wabah dimulai.\n\nDi sini, Agamemnon menerima.\n\nBukan karena iba.\n\nKarena perhitungan.\n\nIa melihat moral pasukan mulai rapuh dan memilih tampak murah hati sebelum ada yang menuntutnya.\n\nChryseis dipulangkan dengan upacara.\n\nApollo puas.\n\nTak ada wabah menyebar di perkemahan.\n\nAchilles tidak pernah memanggil sidang untuk mencari sebab.\n\nCalchas tidak pernah mempertaruhkan nyawa dengan berkata benar di depan raja.\n\nDan tanpa krisis, Agamemnon tidak butuh “ganti rugi.”\n\nBriseis tetap bersama Achilles.\n\nSumbu tidak pernah menyala.\n\nNamun perang tidak jadi mudah.\n\nPerang jadi lambat.\n\nTanpa guncangan hukuman ilahi, Akhaia tetap berjalan—tapi busuknya tersembunyi.\n\nKesombongan Agamemnon tidak terkoreksi.\n\nKesombongan itu justru terasa “berhasil.”\n\nIa belajar bahwa konsekuensi bisa dihindari dengan performa kedermawanan di saat tepat.\n\nAchilles tetap bertarung, tapi ia mengamati.\n\nIa mulai curiga bahaya terbesar bukan Troya di balik tembok.\n\nBahaya terbesar adalah kepemimpinan yang bisa membeli damai tanpa pernah menjadi adil.\n\nAkhir bab: dengan menerima tebusan, Agamemnon mencegah bencana cepat dan membuat Achilles tetap turun perang, tetapi ia juga menunda perhitungan; koalisi bertahan—sampai penghinaan berikutnya jatuh lebih keras karena semua orang sudah percaya krisisnya selesai."
+          }
+        },
+        {
+          "id": "what_if_1_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Achilles Kills Agamemnon",
+            "id": "What If: Achilles Membunuh Agamemnon"
+          },
+          "content": {
+            "en": "Agamemnon demands Briseis.\n\nAchilles’ rage rises like a tide.\n\nIn canon, Athena restrains him.\n\nHere, she doesn’t.\n\nOr she arrives a heartbeat too late.\n\nAchilles draws.\n\nOne motion.\n\nOne strike.\n\nThe king of men falls in front of the assembly.\n\nSilence takes the camp.\n\nNot relief.\n\nNot triumph.\n\nOnly the terrifying realization that the war has just become two wars.\n\nThe Achaeans can no longer pretend they are a united expedition.\n\nNow they must decide whether Achilles is a savior or a murderer.\n\nSome chiefs reach for their swords.\n\nOthers reach for compromise.\n\nOdysseus tries to hold the line of order, but order has lost its symbol.\n\nMenelaus, whose cause began the war, is forced into a crown he did not plan to wear.\n\nThe Trojans, watching from the walls, see the Greek camp fracture and realize the siege can be broken by waiting.\n\nMeanwhile, the gods react.\n\nNot with moral judgment, but with alignment.\n\nSome favor Achilles’ strength.\n\nOthers favor the stability Agamemnon represented.\n\nDivine quarrels mirror human ones.\n\nChapter end: Achilles’ single act ends the immediate insult but destroys the expedition’s legitimacy, turning the Iliad into a civil war epic where Troy becomes the prize for whoever can hold the Achaeans together long enough to win it.",
+            "id": "Agamemnon menuntut Briseis.\n\nMurka Achilles naik seperti pasang.\n\nDi canon, Athena menahannya.\n\nDi sini, Athena tidak menahannya.\n\nAtau ia datang terlambat satu detak.\n\nAchilles mencabut senjata.\n\nSatu gerak.\n\nSatu tebas.\n\nRaja para manusia tumbang di depan sidang.\n\nPerkemahan membeku.\n\nBukan lega.\n\nBukan menang.\n\nHanya kesadaran mengerikan: perang barusan berubah jadi dua perang.\n\nAkhaia tak bisa lagi pura-pura ekspedisi bersatu.\n\nKini mereka harus memilih: Achilles penyelamat atau pembunuh.\n\nSebagian kepala suku meraih pedang.\n\nSebagian meraih kompromi.\n\nOdysseus mencoba menahan garis keteraturan, tapi keteraturan kehilangan simbolnya.\n\nMenelaus—yang jadi alasan perang—dipaksa menanggung mahkota yang tak ia rencanakan.\n\nOrang Troya, menatap dari tembok, melihat retak di kubu Yunani dan sadar pengepungan bisa dipatahkan hanya dengan menunggu.\n\nSementara para dewa bereaksi.\n\nBukan dengan penghakiman moral, melainkan dengan keberpihakan.\n\nSebagian memihak kekuatan Achilles.\n\nSebagian memihak stabilitas yang diwakili Agamemnon.\n\nPertengkaran ilahi mencerminkan pertengkaran manusia.\n\nAkhir bab: satu tindakan Achilles mengakhiri hinaan saat itu, tapi menghancurkan legitimasi ekspedisi, mengubah Iliad menjadi epos perang saudara—di mana Troya menjadi hadiah bagi pihak yang mampu menahan Akhaia tetap utuh cukup lama untuk menang."
+          }
+        },
+        {
+          "id": "what_if_1_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Calchas Lies",
+            "id": "What If: Calchas Berbohong"
+          },
+          "content": {
+            "en": "Apollo’s plague spreads.\n\nAchilles calls the assembly.\n\nCalchas is asked to speak.\n\nIn canon, he tells the truth: Chryseis must be returned.\n\nHere, Calchas lies.\n\nNot to protect Agamemnon.\n\nTo protect himself.\n\nHe blames a different offense—some minor ritual failure, some scapegoat captain, some easy fix that doesn’t challenge royal pride.\n\nAgamemnon accepts the answer because it flatters him.\n\nSacrifices are made.\n\nBut the plague does not lift.\n\nMen die.\n\nHorses die.\n\nThe camp’s confidence collapses.\n\nNow Achilles’ rage finds a new target: not only Agamemnon’s arrogance, but the leadership’s cowardice and the priest’s dishonesty.\n\nTrust breaks at the level that armies cannot function without.\n\nWhen the truth finally emerges—through a second seer, a dream, or sheer desperation—everyone understands what happened.\n\nThey were not merely punished.\n\nThey were misled.\n\nCalchas becomes the first victim of a panicked camp.\n\nAnd the gods learn a lesson too:\n\nhumans will lie even with death in the air.\n\nChapter end: by lying, Calchas postpones the political crisis but turns the divine plague into a legitimacy crisis, making the Achaean camp collapse internally before Troy can even defeat it.",
+            "id": "Wabah Apollo menyebar.\n\nAchilles memanggil sidang.\n\nCalchas diminta bicara.\n\nDi canon, ia berkata benar: Chryseis harus dipulangkan.\n\nDi sini, Calchas berbohong.\n\nBukan untuk melindungi Agamemnon.\n\nUntuk melindungi dirinya.\n\nIa menyalahkan pelanggaran lain—kesalahan ritual kecil, kapten kambing hitam, solusi mudah yang tidak menantang kesombongan raja.\n\nAgamemnon menerima karena jawaban itu menyenangkannya.\n\nKurban dilakukan.\n\nTapi wabah tidak terangkat.\n\nOrang mati.\n\nKuda mati.\n\nKepercayaan perkemahan runtuh.\n\nKini murka Achilles menemukan sasaran baru: bukan hanya congkak Agamemnon, tapi kepengecutan kepemimpinan dan kebohongan sang peramal.\n\nKepercayaan pecah pada level yang tidak bisa ditanggung sebuah pasukan.\n\nSaat kebenaran akhirnya muncul—dari peramal lain, mimpi, atau putus asa—semua paham apa yang terjadi.\n\nMereka bukan hanya dihukum.\n\nMereka disesatkan.\n\nCalchas jadi korban pertama dari perkemahan yang panik.\n\nDan para dewa pun belajar:\n\nmanusia bisa berbohong bahkan saat kematian ada di udara.\n\nAkhir bab: dengan berbohong, Calchas menunda krisis politik namun mengubah wabah ilahi jadi krisis legitimasi, membuat kubu Akhaia runtuh dari dalam sebelum Troya sempat mengalahkannya."
+          }
+        },
+        {
+          "id": "what_if_1_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Thetis Refuses Achilles",
+            "id": "What If: Thetis Menolak Achilles"
+          },
+          "content": {
+            "en": "Briseis is taken.\n\nAchilles withdraws.\n\nHe goes to the shore and calls for Thetis.\n\nIn canon, she hears him and asks Zeus to honor her son.\n\nHere, Thetis refuses.\n\nShe appears, listens, and does not comfort him.\n\nShe says the words Achilles has never heard from anyone who loves him:\n\n‘You are wrong.’\n\nShe reminds him that the war is not his private stage.\n\nThat men are dying while he measures honor like a prize.\n\nThat Agamemnon’s insult is real, but Achilles’ response will be paid for by ordinary soldiers.\n\nAchilles tries to argue.\n\nThetis holds the line.\n\nShe will not ask Zeus to punish the whole army to soothe her son.\n\nAchilles is left with a choice he has never practiced:\n\neither return to the fight for reasons larger than pride,\n\nor stay out and accept being small.\n\nChapter end: without Thetis’ appeal to Zeus, the war’s balance doesn’t tilt “cosmically”; Achilles’ crisis becomes ethical rather than fated, forcing him to confront whether his rage is justice or vanity.",
+            "id": "Briseis dirampas.\n\nAchilles mundur.\n\nIa pergi ke pantai memanggil Thetis.\n\nDi canon, Thetis mendengar dan meminta Zeus menghormati putranya.\n\nDi sini, Thetis menolak.\n\nIa muncul, mendengar, dan tidak menenangkannya.\n\nIa mengatakan kalimat yang belum pernah Achilles dengar dari siapa pun yang mencintainya:\n\n‘Kamu salah.’\n\nIa mengingatkan: perang bukan panggung pribadi Achilles.\n\nOrang mati sementara ia menimbang kehormatan seperti hadiah.\n\nHinaan Agamemnon nyata, tapi respons Achilles akan dibayar prajurit biasa.\n\nAchilles mencoba membantah.\n\nThetis tetap tegas.\n\nIa tidak akan meminta Zeus menghukum seluruh pasukan demi menenangkan anaknya.\n\nAchilles ditinggalkan dengan pilihan yang belum pernah ia latih:\n\nkembali bertempur demi alasan yang lebih besar dari harga diri,\n\natau tetap mundur dan menerima dirinya “kecil.”\n\nAkhir bab: tanpa permohonan Thetis pada Zeus, keseimbangan perang tidak “miring” secara kosmis; krisis Achilles berubah menjadi krisis etis, memaksanya menatap apakah murkanya adalah keadilan atau kesia-siaan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The Dream and the Muster",
+        "id": "Mimpi dan Pengumpulan Pasukan"
+      },
+      "preview": {
+        "en": "Zeus sets a trap with a dream, Agamemnon tests his army’s will, and the Achaeans surge from chaos into full mobilization.",
+        "id": "Zeus memasang jebakan lewat mimpi, Agamemnon menguji tekad pasukannya, dan Akhaia bergerak dari chaos menuju mobilisasi penuh."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "With Achilles withdrawn, the Achaean camp is a war machine missing its sharpest edge.\n\nOn Olympus, Zeus acts to fulfill the promise made through Thetis: the Achaeans must suffer until they learn what Achilles’ absence costs.\n\nZeus sends a deceptive dream to Agamemnon, urging him to arm the Achaeans at once and promising that Troy will finally fall.\n\nAgamemnon wakes convinced the moment has come.\n\nBut he does not move straight to attack.\n\nHe chooses to test the army.\n\nHe calls an assembly and proposes the opposite of what the dream demands: he suggests they abandon the war and sail home.\n\nThe test backfires.\n\nWar-weariness has been building for years, and the men rush for the ships, desperate to leave.\n\nThe expedition nearly dissolves in an instant.\n\nOdysseus intervenes.\n\nHe runs through the ranks, restraining leaders, shaming common soldiers, and restoring the idea that the campaign can still hold together.\n\nHe also confronts Thersites, the loud dissenter who mocks the kings, and Thersites is beaten and silenced—an ugly moment that shows how fragile unity is and how quickly order turns into coercion.\n\nOnce the panic is checked, Agamemnon shifts from testing to command.\n\nThe army is reorganized.\n\nLeaders marshal their contingents.\n\nSacrifices and preparations are made, and the Achaeans ready themselves for a decisive push.\n\nThe chapter’s scale then expands from camp politics to epic inventory.\n\nThe poem lists the Greek contingents and their leaders—the famous catalogue of ships—turning the war into a map of the entire Greek world gathered at Troy.\n\nA matching catalogue names Trojan allies and their commanders, presenting the defenders not as a single city but as a coalition.\n\nBy the end of the chapter, the Achaean force that almost fled has become an ordered host again.\n\nYet the reader knows the order is built on false signals: Zeus’ dream was not a gift, but a lure meant to drive the Greeks into losses that will magnify Achilles’ importance.\n\nChapter end: a divine lie pushes Agamemnon toward action, a failed “test” nearly breaks the army, Odysseus forces unity back into place, and the war widens into full mobilization as both sides’ coalitions are formally set before battle.",
+          "id": "Setelah Achilles mundur, perkemahan Akhaia menjadi mesin perang yang kehilangan mata tajamnya.\n\nDi Olympus, Zeus bergerak untuk menepati janji yang tersampaikan lewat Thetis: Akhaia harus menderita sampai mereka sadar mahalnya absennya Achilles.\n\nZeus mengirim mimpi menipu kepada Agamemnon, menyuruhnya segera mempersenjatai Akhaia dan menjanjikan Troya akan akhirnya jatuh.\n\nAgamemnon bangun dengan keyakinan bahwa momen penentu sudah datang.\n\nNamun ia tidak langsung menyerang.\n\nIa memilih menguji pasukan.\n\nIa memanggil sidang dan mengusulkan kebalikan dari dorongan mimpi itu: meninggalkan perang dan pulang.\n\nUjian itu jadi bumerang.\n\nKelelahan perang menumpuk bertahun-tahun, dan pasukan berlari ke kapal, benar-benar ingin pulang.\n\nEkspedisi nyaris bubar dalam sekejap.\n\nOdysseus turun tangan.\n\nIa berlari melewati barisan, menahan para pemimpin, mempermalukan prajurit biasa, dan memulihkan gagasan bahwa kampanye masih bisa dipertahankan.\n\nIa juga menghadapi Thersites, pembangkang vokal yang mengejek para raja, dan Thersites dipukul serta dibungkam—momen pahit yang menunjukkan betapa rapuhnya persatuan dan betapa cepat “keteraturan” berubah jadi paksaan.\n\nBegitu kepanikan tertahan, Agamemnon beralih dari menguji menjadi memerintah.\n\nPasukan disusun ulang.\n\nPara pemimpin mengumpulkan kontingen masing-masing.\n\nPersembahan dan persiapan dilakukan, dan Akhaia bersiap untuk dorongan besar.\n\nSkala bab lalu meluas dari politik perkemahan menjadi inventaris epik.\n\nPuisi mencantumkan kontingen Yunani dan para pemimpinnya—katalog kapal yang terkenal—mengubah perang menjadi peta seluruh dunia Yunani yang berkumpul di Troya.\n\nKatalog tandingan menyebut sekutu-sekutu Troya dan para komandannya, menampilkan pihak bertahan bukan sebagai satu kota saja, melainkan koalisi.\n\nDi akhir bab, pasukan Akhaia yang tadi nyaris kabur kembali menjadi bala tentara yang tertata.\n\nNamun keteraturan itu berdiri di atas sinyal palsu: mimpi Zeus bukan hadiah, melainkan umpan untuk mendorong Yunani ke kerugian yang akan memperbesar arti Achilles.\n\nAkhir bab: kebohongan ilahi mendorong Agamemnon menuju aksi, “ujian” yang gagal nyaris memecah pasukan, Odysseus memaksa persatuan kembali, dan perang melebar menjadi mobilisasi penuh ketika koalisi kedua pihak ditetapkan secara formal sebelum pertempuran."
+          }
+        },
+        {
+          "id": "what_if_2_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Agamemnon Ignores the Dream",
+            "id": "What If: Agamemnon Mengabaikan Mimpi"
+          },
+          "content": {
+            "en": "Agamemnon wakes with a divine message ringing in his skull.\n\nIn canon, he trusts it.\n\nHere, he hesitates.\n\nHe remembers the plague.\n\nHe remembers how gods punish pride.\n\nSo he does something un-kingly: he asks for verification.\n\nHe consults the seers.\n\nHe tests omens.\n\nHe delays the assault.\n\nThe army grumbles, but the camp remains intact.\n\nZeus’ plan—quick losses to honor Achilles—stalls.\n\nInstead of rushing into slaughter, the Achaeans tighten discipline, improve supply lines, and prepare a more methodical siege.\n\nThe unintended consequence is political.\n\nAgamemnon’s authority shifts from ‘command’ to ‘consensus.’\n\nOdysseus gains influence as a manager of delay.\n\nAnd Achilles, watching from his tent, realizes the war can continue without him longer than he hoped.\n\nChapter end: by refusing to be baited, Agamemnon slows the war’s tempo and weakens Zeus’ immediate leverage—but he also weakens the heroic, decisive style that Greek kings rely on, turning the campaign into a tense waiting game.",
+            "id": "Agamemnon bangun dengan pesan ilahi berdengung di kepala.\n\nDi canon, ia mempercayainya.\n\nDi sini, ia ragu.\n\nIa ingat wabah.\n\nIa ingat bagaimana dewa menghukum kesombongan.\n\nMaka ia melakukan sesuatu yang tidak “raja”: ia minta verifikasi.\n\nIa berkonsultasi pada peramal.\n\nIa menguji pertanda.\n\nIa menunda serangan.\n\nPasukan menggerutu, tapi perkemahan tetap utuh.\n\nRencana Zeus—kerugian cepat untuk mengangkat kehormatan Achilles—tersendat.\n\nAlih-alih tergesa masuk pembantaian, Akhaia memperketat disiplin, memperbaiki logistik, dan menyiapkan pengepungan yang lebih metodis.\n\nKonsekuensi tak terduga justru politis.\n\nWibawa Agamemnon bergeser dari ‘perintah’ menjadi ‘konsensus.’\n\nOdysseus makin berpengaruh sebagai pengelola penundaan.\n\nDan Achilles, mengamati dari tendanya, sadar perang bisa berjalan tanpa dirinya lebih lama daripada yang ia harapkan.\n\nAkhir bab: dengan menolak jadi umpan, Agamemnon memperlambat tempo perang dan melemahkan tuas Zeus dalam jangka pendek—namun ia juga melemahkan gaya kepemimpinan heroik yang mengandalkan keputusan cepat, mengubah kampanye jadi permainan menunggu yang tegang."
+          }
+        },
+        {
+          "id": "what_if_2_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Army Actually Leaves",
+            "id": "What If: Pasukan Benar-benar Pulang"
+          },
+          "content": {
+            "en": "Agamemnon proposes going home as a test.\n\nIn canon, Odysseus stops the stampede.\n\nHere, he fails.\n\nOr he arrives to find the decision already made.\n\nOars hit the water.\n\nSails catch wind.\n\nThe Achaeans scatter back to Greece in angry pieces.\n\nThe siege ends not with defeat by Troy, but with defeat by exhaustion.\n\nMenelaus returns shamed.\n\nAgamemnon returns furious.\n\nAnd every king blames every other king.\n\nTroy survives.\n\nBut Troy does not celebrate.\n\nBecause survival teaches it a different fear: the Greeks can return—better organized, more bitter, with a clearer reason for vengeance.\n\nAchilles goes home too.\n\nHe has “won” his protest.\n\nYet he discovers the emptiness of victory without witnesses.\n\nNo songs are sung about a hero who refused the war.\n\nOnly rumors.\n\nChapter end: the Iliad becomes a story of a war that collapses midstream, leaving both sides poisoned by unfinished business—and setting up a later, darker return rather than a clean, heroic arc.",
+            "id": "Agamemnon mengusulkan pulang sebagai ujian.\n\nDi canon, Odysseus menghentikan kepanikan.\n\nDi sini, ia gagal.\n\nAtau ia datang saat keputusan sudah terlanjur jadi gerak.\n\nDayung menghantam air.\n\nLayar menangkap angin.\n\nAkhaia tercerai pulang ke Yunani dalam kepingan marah.\n\nPengepungan berakhir bukan karena Troya menang, melainkan karena kelelahan menang.\n\nMenelaus pulang dengan malu.\n\nAgamemnon pulang dengan murka.\n\nDan tiap raja menyalahkan raja lain.\n\nTroya selamat.\n\nTapi Troya tidak benar-benar merayakan.\n\nKarena selamat mengajarkan takut yang berbeda: Yunani bisa kembali—lebih rapi, lebih pahit, dengan alasan balas dendam yang lebih jelas.\n\nAchilles juga pulang.\n\nIa “menang” protesnya.\n\nNamun ia menemukan kosongnya kemenangan tanpa saksi.\n\nTak ada nyanyian tentang pahlawan yang menolak perang.\n\nYang ada hanya rumor.\n\nAkhir bab: Iliad berubah jadi kisah perang yang runtuh di tengah jalan, meninggalkan kedua pihak diracuni urusan yang tak selesai—dan menyiapkan kepulangan ulang yang lebih gelap ketimbang alur heroik yang bersih."
+          }
+        },
+        {
+          "id": "what_if_2_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Odysseus Sides with Thersites",
+            "id": "What If: Odysseus Memihak Thersites"
+          },
+          "content": {
+            "en": "The camp surges toward the ships.\n\nOdysseus runs to stop it.\n\nIn canon, he silences Thersites and restores hierarchy.\n\nHere, Odysseus pauses.\n\nHe listens.\n\nThersites’ complaints are ugly, but the facts underneath them are sharp: kings hoard prizes, common soldiers bleed, and the war has no end in sight.\n\nOdysseus makes a choice that shocks everyone.\n\nHe does not strike Thersites.\n\nHe uses him.\n\nHe turns the assembly into negotiation.\n\nAgamemnon must concede reforms: fairer distribution, limits on arbitrary seizure, clearer plans.\n\nThe army stays—but not as a royal instrument.\n\nAs a coalition with conditions.\n\nThis changes everything.\n\nThe Greeks become slower to act, but harder to fracture.\n\nAchilles finds his leverage shrinking because the camp’s legitimacy is no longer tied to one king’s honor-games.\n\nChapter end: by converting mutiny into bargaining, Odysseus builds a proto-constitution for the expedition, trading speed for stability and shifting the Iliad’s core conflict from personal insult to systemic governance.",
+            "id": "Perkemahan bergerak menuju kapal.\n\nOdysseus berlari untuk menghentikannya.\n\nDi canon, ia membungkam Thersites dan memulihkan hierarki.\n\nDi sini, Odysseus berhenti.\n\nIa mendengar.\n\nKeluhan Thersites memang kasar, tapi fakta di bawahnya tajam: raja menimbun rampasan, prajurit biasa berdarah, dan perang tak terlihat ujungnya.\n\nOdysseus membuat pilihan yang mengejutkan.\n\nIa tidak memukul Thersites.\n\nIa memanfaatkannya.\n\nIa mengubah sidang menjadi negosiasi.\n\nAgamemnon harus memberi konsesi: pembagian lebih adil, batas atas perampasan sewenang-wenang, rencana yang lebih jelas.\n\nPasukan bertahan—tapi bukan sebagai alat raja.\n\nSebagai koalisi bersyarat.\n\nIni mengubah segalanya.\n\nYunani jadi lebih lambat bergerak, tapi lebih sulit dipecah.\n\nAchilles melihat daya tawarnya mengecil karena legitimasi perkemahan tidak lagi bergantung pada permainan kehormatan satu raja.\n\nAkhir bab: dengan mengubah nyaris pemberontakan menjadi tawar-menawar, Odysseus membangun semacam “konstitusi” awal ekspedisi, menukar kecepatan dengan stabilitas dan menggeser konflik Iliad dari hinaan personal menjadi tata kelola sistemik."
+          }
+        },
+        {
+          "id": "what_if_2_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Zeus Sends the Dream to Nestor Instead",
+            "id": "What If: Zeus Mengirim Mimpi ke Nestor"
+          },
+          "content": {
+            "en": "Zeus intends to lure the Achaeans into disaster.\n\nIn canon, he targets Agamemnon.\n\nHere, the dream goes to Nestor—the elder who values counsel over impulse.\n\nNestor wakes disturbed.\n\nHe does not treat the dream as a command.\n\nHe treats it as a question.\n\nHe tells Agamemnon privately, framing it not as certainty but as a sign to be tested.\n\nAgamemnon, feeling less flattered, becomes less reckless.\n\nThe “test” of sending men home is never attempted.\n\nThe camp avoids its worst moment of panic.\n\nBut Zeus’ aim still finds a path.\n\nBecause Nestor’s caution creates a different weakness: over-planning.\n\nThe Achaeans spend days debating, sacrificing, interpreting.\n\nTroy uses the delay to strengthen its defenses and rally allies.\n\nChapter end: by rerouting the dream to a cautious mind, Zeus loses the fast collapse he wanted but wins a slower trap—delay becomes the new weapon, and the war shifts from explosive mistakes to grinding attrition.",
+            "id": "Zeus berniat memancing Akhaia ke bencana.\n\nDi canon, ia menarget Agamemnon.\n\nDi sini, mimpi itu jatuh ke Nestor—tetua yang lebih mengutamakan musyawarah daripada impuls.\n\nNestor bangun gelisah.\n\nIa tidak memperlakukan mimpi sebagai perintah.\n\nIa memperlakukannya sebagai pertanyaan.\n\nIa memberi tahu Agamemnon secara pribadi, membingkainya bukan sebagai kepastian melainkan tanda yang harus diuji.\n\nAgamemnon, karena merasa kurang “dipuja” oleh pesan itu, jadi kurang ceroboh.\n\n“Ujian” menyuruh pulang tidak pernah dilakukan.\n\nPerkemahan menghindari momen panik terburuknya.\n\nNamun tujuan Zeus tetap menemukan jalannya.\n\nKarena kehati-hatian Nestor menciptakan kelemahan lain: terlalu banyak perencanaan.\n\nAkhaia menghabiskan hari-hari untuk berdebat, berkurban, menafsir.\n\nTroya memakai jeda itu untuk menguatkan pertahanan dan memanggil sekutu.\n\nAkhir bab: dengan mengalihkan mimpi ke pikiran yang hati-hati, Zeus kehilangan keruntuhan cepat yang ia inginkan namun mendapatkan jebakan lambat—penundaan menjadi senjata baru, dan perang bergeser dari kesalahan eksplosif menjadi penggerusan panjang."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Duel",
+        "id": "Duel"
+      },
+      "preview": {
+        "en": "To stop the slaughter before it starts, two champions are chosen, and the war briefly pretends it can be decided by a single man’s honor.",
+        "id": "Untuk menghentikan pembantaian sebelum dimulai, dua jagoan dipilih, dan perang sejenak berpura-pura bisa diputus oleh kehormatan satu orang."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "The armies finally face each other in full view, Greeks and Trojans drawn up for battle after the mustering of forces.\n\nBefore the first mass clash, a different proposal rises: settle the war through a duel.\n\nParis, whose abduction of Helen began the conflict, offers to fight Menelaus, Helen’s husband, with Helen and her wealth as the prize for the victor.\n\nBoth sides agree to pause the slaughter and swear oaths to honor the outcome.\n\nSacrifices are prepared, and the truce feels momentarily like sanity.\n\nIn Troy, Helen is brought to the walls and asked to identify the Achaean leaders below, and she names the great figures she recognizes—turning the battlefield into a catalogue of reputations.\n\nThe duel begins.\n\nMenelaus dominates.\n\nHe fights with the desperation of a man trying to reclaim more than a wife—trying to reclaim public honor.\n\nParis falters.\n\nAt the moment Menelaus is about to kill him, divine interference saves Paris, whisking him away from death.\n\nThe duel’s result becomes ambiguous in practice even if it looked decisive in human terms.\n\nMenelaus claims victory by right of arms.\n\nThe Greeks demand Helen be returned.\n\nBut Troy does not comply, and the gods’ involvement makes it clear that “fair settlement” is not what the higher powers want.\n\nThe chapter ends with the truce cracked: the war had a chance to be decided cleanly, and that chance is taken away, making the return to mass violence feel not accidental but engineered.\n\nChapter end: Paris and Menelaus attempt to decide the war by duel, but the duel is disrupted by divine rescue, and the fragile treaty begins to unravel, pushing both armies back toward the wider slaughter.",
+          "id": "Kedua pasukan akhirnya berhadapan terbuka, Yunani dan Troya tersusun untuk pertempuran setelah mobilisasi besar.\n\nSebelum bentrokan massal pertama, muncul usulan lain: menyelesaikan perang lewat duel.\n\nParis—yang pelariannya bersama Helen memicu konflik—menawarkan bertarung melawan Menelaus, suami Helen, dengan Helen dan hartanya sebagai hadiah bagi pemenang.\n\nKedua pihak setuju menahan pembantaian dan bersumpah menghormati hasilnya.\n\nKurban disiapkan, dan gencatan terasa sejenak seperti kewarasan.\n\nDi Troya, Helen dibawa ke tembok dan diminta mengenali para pemimpin Akhaia di bawah, dan ia menyebut tokoh-tokoh besar yang ia kenal—mengubah medan tempur jadi katalog reputasi.\n\nDuel dimulai.\n\nMenelaus unggul.\n\nIa bertarung dengan keputusasaan seseorang yang berusaha merebut kembali lebih dari sekadar istri—ia berusaha merebut kembali kehormatan di depan umum.\n\nParis goyah.\n\nPada saat Menelaus hampir membunuhnya, campur tangan ilahi menyelamatkan Paris dan menyingkirkannya dari kematian.\n\nHasil duel menjadi kabur dalam praktik, sekalipun secara manusia terlihat jelas.\n\nMenelaus menuntut kemenangan karena unggul dalam senjata.\n\nYunani menuntut Helen dikembalikan.\n\nNamun Troya tidak menuruti, dan keterlibatan para dewa memperjelas bahwa “penyelesaian adil” bukan yang diinginkan kuasa lebih tinggi.\n\nBab berakhir saat gencatan retak: perang sempat punya kesempatan diputus bersih, lalu kesempatan itu dirampas, membuat kembalinya kekerasan massal terasa bukan kebetulan melainkan rekayasa.\n\nAkhir bab: Paris dan Menelaus mencoba memutus perang lewat duel, tetapi duel digagalkan penyelamatan ilahi, dan perjanjian rapuh mulai terurai, mendorong kedua pasukan kembali ke pembantaian yang lebih luas."
+          }
+        },
+        {
+          "id": "what_if_3_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Menelaus Kills Paris Cleanly",
+            "id": "What If: Menelaus Membunuh Paris dengan Bersih"
+          },
+          "content": {
+            "en": "The armies agree to a duel.\n\nOaths are sworn.\n\nSacrifices smoke.\n\nParis steps forward, glittering in borrowed confidence.\n\nMenelaus steps forward like a verdict.\n\nIn canon, the duel is interrupted and Paris is saved.\n\nHere, no rescue comes.\n\nParis slips once.\n\nMenelaus does not hesitate.\n\nOne clean strike ends the man who started the shame.\n\nSilence lands on both lines.\n\nThe Greeks raise a shout—not of joy, but of release.\n\nTroy stands still, stunned by the sudden simplicity of consequences.\n\nNow the war hinges on a promise.\n\nBy oath, Troy must return Helen.\n\nPriam is willing.\n\nHector is furious but restrained.\n\nYet the Trojan coalition fractures: allies who came for profit, not honor, refuse to accept a peace that makes them look weak.\n\nA spear is thrown from the crowd.\n\nNot at Menelaus.\n\nAt the treaty.\n\nThe truce breaks anyway.\n\nBut the moral landscape has changed.\n\nThe Greeks now fight with the confidence of a “rightful” cause.\n\nThe Trojans fight with the bitterness of having done the one thing demanded and still being punished.\n\nChapter end: Paris dies as he “should,” but the war continues because peace requires unity, and unity is harder than killing one man.",
+            "id": "Kedua pasukan sepakat duel.\n\nSumpah diucapkan.\n\nKurban mengepul.\n\nParis maju, berkilau oleh percaya diri pinjaman.\n\nMenelaus maju seperti vonis.\n\nDi canon, duel diputus dan Paris diselamatkan.\n\nDi sini, tak ada penyelamatan.\n\nParis terpeleset sekali.\n\nMenelaus tidak ragu.\n\nSatu tebasan bersih mengakhiri orang yang memulai malu.\n\nKeheningan jatuh ke dua barisan.\n\nYunani bersorak—bukan karena senang, melainkan karena lepas.\n\nTroya membeku, terpukul oleh kesederhanaan konsekuensi.\n\nKini perang bergantung pada janji.\n\nMenurut sumpah, Troya harus mengembalikan Helen.\n\nPriam bersedia.\n\nHector murka tapi menahan.\n\nNamun koalisi Troya retak: sekutu yang datang demi untung, bukan kehormatan, menolak damai yang membuat mereka tampak lemah.\n\nSebuah tombak dilempar dari kerumunan.\n\nBukan ke Menelaus.\n\nKe perjanjian.\n\nGencatan tetap pecah.\n\nTapi lanskap moral berubah.\n\nYunani bertarung dengan percaya diri “sebab yang benar.”\n\nTroya bertarung dengan pahit: sudah memenuhi tuntutan namun tetap dihukum.\n\nAkhir bab: Paris mati seperti “seharusnya,” tapi perang tetap lanjut karena damai butuh persatuan, dan persatuan lebih sulit daripada membunuh satu orang."
+          }
+        },
+        {
+          "id": "what_if_3_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Paris Wins the Duel",
+            "id": "What If: Paris Memenangkan Duel"
+          },
+          "content": {
+            "en": "The duel begins, and everyone expects Paris to fail.\n\nThat expectation becomes his advantage.\n\nMenelaus attacks with straightforward fury.\n\nParis fights like a man with nothing to lose.\n\nHe dodges, retreats, re-enters, and finally lands the kind of lucky, ugly wound that ends a champion’s day.\n\nMenelaus falls.\n\nThe Greek line doesn’t know what to do with it.\n\nBecause if the duel truly decides the war, then the war’s justification collapses.\n\nHelen remains in Troy.\n\nAgamemnon’s expedition becomes a public embarrassment.\n\nAnd Achilles, already offended, sees the perfect excuse to leave forever.\n\nTroy offers peace on the duel’s terms.\n\nSome Greeks accept.\n\nOthers refuse out of rage.\n\nThe coalition splits.\n\nThe Trojan victory is real, but it is not safe.\n\nBecause the Greeks who refuse peace become raiders, not besiegers.\n\nA war of honor becomes a war of revenge.\n\nChapter end: Paris’ unlikely win ends the “official” war but unleashes a nastier informal one, where the Greeks fight without rules because rules just humiliated them.",
+            "id": "Duel dimulai, dan semua orang mengira Paris akan kalah.\n\nEkspektasi itu jadi keuntungannya.\n\nMenelaus menyerang dengan murka lurus.\n\nParis bertarung seperti orang yang tak punya apa-apa untuk hilang.\n\nIa mengelak, mundur, masuk lagi, dan akhirnya memberi luka “beruntung” yang jelek tapi cukup untuk mengakhiri hari seorang jagoan.\n\nMenelaus tumbang.\n\nBarisan Yunani tidak tahu harus bagaimana.\n\nKarena jika duel benar-benar memutus perang, maka pembenaran perang runtuh.\n\nHelen tetap di Troya.\n\nEkspedisi Agamemnon jadi aib publik.\n\nDan Achilles, yang sudah tersinggung, melihat alasan sempurna untuk pergi selamanya.\n\nTroya menawarkan damai sesuai syarat duel.\n\nSebagian Yunani menerima.\n\nSebagian menolak karena murka.\n\nKoalisi pecah.\n\nKemenangan Troya nyata, tapi tidak aman.\n\nKarena Yunani yang menolak damai berubah jadi perompak, bukan pengepung.\n\nPerang kehormatan berubah jadi perang balas dendam.\n\nAkhir bab: kemenangan tak terduga Paris mengakhiri perang “resmi,” tapi melepaskan perang informal yang lebih jahat—di mana Yunani bertarung tanpa aturan karena aturan barusan mempermalukan mereka."
+          }
+        },
+        {
+          "id": "what_if_3_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Helen Chooses in Public",
+            "id": "What If: Helen Memilih di Depan Umum"
+          },
+          "content": {
+            "en": "The duel is arranged, and Helen is brought to the walls to watch.\n\nIn canon, she identifies the Achaean leaders while men decide her fate.\n\nHere, Helen interrupts the script.\n\nBefore the duel begins, she speaks.\n\nNot as a prize.\n\nAs a person.\n\nShe declares that whichever man wins, she will not be handed over like property.\n\nShe will choose.\n\nThe armies erupt—shouts, laughter, outrage.\n\nMenelaus freezes.\n\nParis smiles as if it’s a trick.\n\nBut Helen does not flinch.\n\nShe says the war has used her name as currency long enough.\n\nIf honor is the argument, then her voice must count.\n\nThe duel becomes pointless.\n\nBecause the premise collapses.\n\nThe Greeks can no longer pretend they fight for a “wife” if the wife refuses to be a banner.\n\nThe Trojans can no longer pretend they fight for “hospitality” if the guest refuses the host.\n\nThe war does not end.\n\nBut it changes.\n\nIt becomes openly about power, not about love.\n\nAnd once a war admits that, it becomes harder to justify and harder to stop.\n\nChapter end: Helen’s public agency breaks the duel’s logic and strips the war of its convenient story, forcing both sides to confront that they have been killing for status, not for her.",
+            "id": "Duel disusun, dan Helen dibawa ke tembok untuk menonton.\n\nDi canon, ia mengenali para pemimpin Akhaia sementara para lelaki memutus nasibnya.\n\nDi sini, Helen memotong naskah.\n\nSebelum duel dimulai, ia berbicara.\n\nBukan sebagai hadiah.\n\nSebagai manusia.\n\nIa menyatakan siapa pun yang menang, ia tidak akan diserahkan seperti barang.\n\nIa akan memilih.\n\nKedua pasukan meledak—teriak, tawa, marah.\n\nMenelaus membeku.\n\nParis tersenyum seolah itu tipu.\n\nTapi Helen tidak mundur.\n\nIa berkata perang sudah memakai namanya sebagai mata uang terlalu lama.\n\nKalau kehormatan jadi argumen, suaranya harus dihitung.\n\nDuel jadi tak bermakna.\n\nKarena premisnya runtuh.\n\nYunani tak bisa lagi pura-pura berperang demi “istri” jika sang istri menolak jadi panji.\n\nTroya tak bisa lagi pura-pura berperang demi “keramahtamahan” jika sang tamu menolak sang tuan.\n\nPerang tidak selesai.\n\nTapi perang berubah.\n\nIa jadi terang-terangan tentang kuasa, bukan cinta.\n\nDan ketika perang mengaku begitu, ia lebih sulit dibenarkan dan lebih sulit dihentikan.\n\nAkhir bab: agensi Helen di depan umum mematahkan logika duel dan mencabut cerita nyaman perang, memaksa kedua pihak mengakui mereka telah membunuh demi status, bukan demi dirinya."
+          }
+        },
+        {
+          "id": "what_if_3_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Oaths Hold",
+            "id": "What If: Sumpahnya Benar-benar Ditepati"
+          },
+          "content": {
+            "en": "The duel ends with Menelaus clearly superior.\n\nIn canon, divine interference and human defiance unravel the treaty.\n\nHere, something rare happens.\n\nThe oaths hold.\n\nThe Trojans return Helen.\n\nParis is protected by his family, but he is stripped of honor so completely he becomes a living warning.\n\nThe Greeks take Helen back.\n\nAgamemnon claims victory.\n\nBut the victory is poisoned.\n\nBecause Achilles is still withdrawn.\n\nAnd now the army must decide: do they sail home satisfied, or do they press for total destruction to erase the years of cost?\n\nA “limited” victory creates a new quarrel.\n\nMenelaus wants closure.\n\nAgamemnon wants more glory.\n\nThe captains argue.\n\nThe men, exhausted, threaten to break again.\n\nTroy, spared immediate destruction, becomes a city obsessed with revenge and reconstruction.\n\nPeace becomes an intermission.\n\nChapter end: even when the treaty is honored, war doesn’t disappear—it relocates; the conflict shifts from Greeks versus Trojans to Greeks versus their own appetite for more, proving that endings are also battlegrounds.",
+            "id": "Duel berakhir dengan Menelaus jelas unggul.\n\nDi canon, campur tangan ilahi dan pembangkangan manusia mengurai perjanjian.\n\nDi sini, terjadi hal langka.\n\nSumpahnya ditepati.\n\nTroya mengembalikan Helen.\n\nParis dilindungi keluarganya, tapi kehormatannya dicabut habis sampai ia jadi peringatan hidup.\n\nYunani membawa Helen pulang.\n\nAgamemnon mengklaim kemenangan.\n\nTapi kemenangan itu beracun.\n\nKarena Achilles masih mundur.\n\nDan kini pasukan harus memilih: pulang puas, atau menekan penghancuran total demi menghapus biaya bertahun-tahun.\n\nKemenangan “terbatas” mencipta pertengkaran baru.\n\nMenelaus ingin penutupan.\n\nAgamemnon ingin kemuliaan lebih.\n\nPara pemimpin berdebat.\n\nPara prajurit, lelah, mengancam pecah lagi.\n\nTroya, terselamatkan dari kehancuran cepat, berubah jadi kota yang terobsesi balas dan bangun ulang.\n\nDamai menjadi jeda.\n\nAkhir bab: bahkan ketika perjanjian dipatuhi, perang tidak menghilang—ia pindah tempat; konflik bergeser dari Yunani lawan Troya menjadi Yunani lawan nafsu mereka sendiri untuk “lebih,” membuktikan bahwa akhir pun bisa jadi medan tempur."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Truce Breaks",
+        "id": "Gencatan Retak"
+      },
+      "preview": {
+        "en": "The gods decide the war must continue, and a single arrow shatters the oath-bound peace, dragging both armies back into slaughter.",
+        "id": "Para dewa memutuskan perang harus lanjut, dan satu anak panah memecah damai bersumpah, menyeret kedua pasukan kembali ke pembantaian."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "After the duel fails to end the war, the fragile truce still stands on paper—until the gods decide it must not. [web:126]\n\nOn Olympus, the gods debate whether the fighting should stop, but Hera pushes for the war to continue, and Zeus sends Athena down to restart violence. [web:126]\n\nAthena goes among the Trojans and persuades the archer Pandarus to break the truce by shooting Menelaus, turning a sworn peace into a technical betrayal. [web:126][web:125]\n\nPandarus fires, and Athena deflects the shot so it wounds Menelaus without killing him—enough blood to ignite outrage, not enough to end the war immediately. [web:126]\n\nAgamemnon sees Menelaus bleeding and erupts in fury, treating the wound as proof that Troy has violated its oath and deserves destruction. [web:125]\n\nA healer is called to treat Menelaus and remove the arrow, keeping him alive and keeping the Greeks’ cause intact. [web:125]\n\nWith the treaty broken, Agamemnon moves through the ranks rallying the Achaeans—praising some leaders and rebuking others—to turn anger into disciplined advance. [web:126]\n\nBoth armies form up again and battle begins in earnest, ending the brief illusion that the war could be settled cleanly by single combat and sworn agreements. [web:126]\n\nChapter end: Athena engineers the truce’s collapse through Pandarus’ arrow, Menelaus is wounded but spared, and Agamemnon uses the betrayal to drive the Achaeans back into full-scale fighting.",
+          "id": "Setelah duel gagal mengakhiri perang, gencatan rapuh masih berdiri di atas kertas—sampai para dewa memutuskan ia tidak boleh bertahan. [web:126]\n\nDi Olympus, para dewa memperdebatkan apakah pertempuran harus berhenti, namun Hera mendorong agar perang terus berjalan, dan Zeus mengirim Athena untuk menyalakan kekerasan kembali. [web:126]\n\nAthena turun di antara pihak Troya dan membujuk pemanah Pandarus untuk memecah gencatan dengan menembak Menelaus, mengubah damai bersumpah menjadi pengkhianatan teknis. [web:126][web:125]\n\nPandarus melepas anak panah, dan Athena membelokkan tembakannya sehingga Menelaus terluka tanpa terbunuh—cukup darah untuk menyalakan amarah, tidak cukup untuk mematikan perang seketika. [web:126]\n\nAgamemnon melihat Menelaus berdarah lalu meledak murka, menjadikan luka itu bukti bahwa Troya melanggar sumpah dan layak dihancurkan. [web:125]\n\nSeorang penyembuh dipanggil untuk merawat Menelaus dan mencabut anak panah, menjaga ia tetap hidup dan menjaga “alasan perang” Yunani tetap utuh. [web:125]\n\nBegitu perjanjian pecah, Agamemnon berkeliling barisan membakar semangat Akhaia—memuji sebagian pemimpin dan memarahi yang lain—agar amarah berubah jadi gerak maju yang tertata. [web:126]\n\nKedua pasukan kembali membentuk formasi dan pertempuran dimulai sungguh-sungguh, mengakhiri ilusi singkat bahwa perang bisa diselesaikan bersih lewat duel dan sumpah. [web:126]\n\nAkhir bab: Athena merekayasa runtuhnya gencatan lewat panah Pandarus, Menelaus terluka tapi diselamatkan, dan Agamemnon memakai “pengkhianatan” itu untuk mendorong Akhaia kembali ke perang skala penuh."
+          }
+        },
+        {
+          "id": "what_if_4_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Pandarus Refuses Athena",
+            "id": "What If: Pandarus Menolak Athena"
+          },
+          "content": {
+            "en": "Athena comes with a plan: make the Trojans break the oath by wounding Menelaus. [web:126]\n\nBut Pandarus hesitates, sensing the stink of divine manipulation behind the promise of glory. [web:125]\n\nHe lowers his bow.\n\nThe truce holds another hour, then another day.\n\nAnd that extra time becomes dangerous.\n\nBecause leaders start talking like people who might actually have to keep their word.\n\nPriam’s court argues over returning Helen and paying restitution.\n\nAgamemnon’s captains argue over whether they can go home without total victory.\n\nWithout the “clean” excuse of a broken oath, Agamemnon can’t unify the Greeks through outrage, only through persuasion—and persuasion exposes fractures. [web:125]\n\nHera and Athena push again, trying to find a weaker hand to do the dirty work.\n\nBut every delay raises the political cost of restarting war.\n\nThe truce does not guarantee peace.\n\nIt guarantees blame.\n\nChapter end: the war doesn’t restart with an arrow; it restarts with arguments, and that makes the next violence feel more naked—less ‘fate,’ more choice.",
+            "id": "Athena datang dengan rencana: membuat pihak Troya melanggar sumpah dengan melukai Menelaus. [web:126]\n\nTapi Pandarus ragu, mencium bau manipulasi ilahi di balik janji kemuliaan. [web:125]\n\nIa menurunkan busur.\n\nGencatan bertahan satu jam lagi, lalu satu hari.\n\nDan waktu ekstra itu jadi berbahaya.\n\nKarena para pemimpin mulai bicara seperti orang yang benar-benar harus menepati janji.\n\nIstana Priam berdebat soal mengembalikan Helen dan membayar ganti rugi.\n\nPara kapten Agamemnon berdebat: bisakah pulang tanpa kemenangan total.\n\nTanpa alasan “bersih” berupa sumpah yang dilanggar, Agamemnon tak bisa menyatukan Yunani lewat kemarahan—hanya lewat bujukan, dan bujukan membuka retakan. [web:125]\n\nHera dan Athena mendorong lagi, mencari tangan yang lebih lemah untuk kerja kotor.\n\nTapi tiap penundaan menaikkan ongkos politik untuk menyalakan perang lagi.\n\nGencatan tidak menjamin damai.\n\nIa menjamin siapa yang bakal disalahkan.\n\nAkhir bab: perang tidak menyala lewat panah; ia menyala lewat debat, dan itu membuat kekerasan berikutnya terasa lebih telanjang—lebih sedikit ‘takdir,’ lebih banyak pilihan."
+          }
+        },
+        {
+          "id": "what_if_4_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Arrow Kills Menelaus",
+            "id": "What If: Anak Panah Itu Membunuh Menelaus"
+          },
+          "content": {
+            "en": "Pandarus shoots—this time Athena does not soften the hit. [web:125][web:126]\n\nMenelaus dies in sight of both armies.\n\nThe truce doesn’t just break.\n\nIt detonates.\n\nAgamemnon’s grief becomes a weapon: he frames the death as proof that oaths mean nothing to Troy. [web:125]\n\nGreek leaders who were wavering get dragged back by shame and fury.\n\nThe Greeks do not fight for recovery.\n\nThey fight for annihilation.\n\nTroy’s internal politics also snap: Priam cannot offer reparations big enough to buy time, and Hector is forced into a war posture he didn’t choose.\n\nEven if some Trojans insist the gods pushed Pandarus, the battlefield doesn’t care—only blood matters.\n\nChapter end: with Menelaus dead, the war loses its last ‘legal’ endpoint; no return of Helen can fix the cost, so every side escalates because de-escalation becomes dishonor.",
+            "id": "Pandarus menembak—kali ini Athena tidak melunakkan hantamannya. [web:125][web:126]\n\nMenelaus mati di depan mata kedua pasukan.\n\nGencatan tidak sekadar pecah.\n\nIa meledak.\n\nDuka Agamemnon berubah jadi senjata: ia menjadikan kematian itu bukti bahwa sumpah tak berarti apa-apa bagi Troya. [web:125]\n\nPemimpin Yunani yang sempat ragu terseret balik oleh malu dan murka.\n\nYunani tak bertarung untuk pemulihan.\n\nMereka bertarung untuk pemusnahan.\n\nPolitik internal Troya juga patah: Priam tak bisa menawarkan ganti rugi sebesar apa pun untuk membeli waktu, dan Hector dipaksa masuk postur perang yang tidak ia pilih.\n\nBahkan jika ada Trojan yang bersikeras para dewa mendorong Pandarus, medan perang tidak peduli—yang penting darah.\n\nAkhir bab: ketika Menelaus mati, perang kehilangan titik akhir ‘legal’ terakhir; pengembalian Helen tak bisa menebus biaya, jadi semua pihak eskalasi karena turun tensi = aib."
+          }
+        },
+        {
+          "id": "what_if_4_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Menelaus Is Wounded—And Agamemnon Accepts Peace",
+            "id": "What If: Menelaus Terluka—Dan Agamemnon Menerima Damai"
+          },
+          "content": {
+            "en": "Pandarus’ arrow still draws blood and breaks the truce. [web:125][web:126]\n\nEveryone expects Agamemnon to use it to justify total war—because that’s what canon momentum looks like. [web:125]\n\nInstead, Agamemnon does something colder.\n\nHe realizes the wound is a gift: a public injury that proves Trojan bad faith, without costing him his brother.\n\nHe demands an immediate settlement while Menelaus is alive to receive it.\n\nHelen returned.\n\nReparations paid.\n\nHostages exchanged.\n\nAnd an oath reaffirmed under threat of instant slaughter.\n\nSome Greek chiefs protest—glory is being traded for a ledger.\n\nSome Trojans protest—pride is being traded for survival.\n\nBut exhaustion has weight.\n\nChapter end: the arrow still breaks the oath, but the Greeks weaponize the breach to force a harsh peace, turning the war from a siege-story into a treaty-story written at spearpoint.",
+            "id": "Panah Pandarus tetap menumpahkan darah dan memecah gencatan. [web:125][web:126]\n\nSemua orang mengira Agamemnon akan memakainya untuk membenarkan perang total—karena begitulah arus canon biasanya berjalan. [web:125]\n\nTapi Agamemnon melakukan hal yang lebih dingin.\n\nIa sadar luka itu hadiah: cedera publik yang membuktikan niat buruk Troya, tanpa mengorbankan nyawa adiknya.\n\nIa menuntut penyelesaian segera selagi Menelaus masih hidup untuk menerimanya.\n\nHelen dikembalikan.\n\nGanti rugi dibayar.\n\nSandera ditukar.\n\nDan sumpah diulang di bawah ancaman pembantaian instan.\n\nSebagian kepala Yunani protes—kemuliaan ditukar jadi catatan utang.\n\nSebagian Trojan protes—gengsi ditukar jadi bertahan hidup.\n\nTapi lelah itu punya bobot.\n\nAkhir bab: panah tetap memecah sumpah, tapi Yunani mempersenjatai pelanggaran itu untuk memaksa damai yang keras, mengubah cerita dari ‘pengepungan’ menjadi ‘perjanjian’ yang ditulis di ujung tombak."
+          }
+        },
+        {
+          "id": "what_if_4_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Truce Breaks from the Greek Side",
+            "id": "What If: Gencatan Justru Pecah dari Pihak Yunani"
+          },
+          "content": {
+            "en": "The gods want the war back on.\n\nBut instead of Athena persuading a Trojan archer to break the truce, the breach comes from the Achaean camp. [web:126]\n\nA hot-headed Greek, convinced the Trojans will cheat anyway, throws first.\n\nA minor strike.\n\nA major consequence.\n\nNow Agamemnon must defend a lie: that Troy broke faith.\n\nThe Greek cause becomes shakier in the eyes of neutral allies.\n\nAnd Troy gains something it rarely has in the poem’s logic—moral leverage.\n\nHector can speak of justice without sounding like propaganda.\n\nPriam can appeal to gods and men as the wronged party.\n\nThe battle still happens.\n\nBut every death carries an added bitterness: not only that the treaty failed, but that the ‘righteous’ story was fabricated.\n\nChapter end: the war restarts anyway, yet the Greeks lose the clean narrative advantage that canon grants them when Pandarus’ arrow becomes the official trigger. [web:125][web:126]",
+            "id": "Para dewa ingin perang menyala lagi.\n\nTapi alih-alih Athena membujuk pemanah Troya untuk memecah gencatan, pelanggaran datang dari kubu Akhaia sendiri. [web:126]\n\nSeorang Yunani yang panas kepala, yakin Troya bakal curang juga, menyerang duluan.\n\nPukulan kecil.\n\nKonsekuensi besar.\n\nKini Agamemnon harus membela kebohongan: bahwa Troya yang melanggar.\n\nAlasan perang Yunani jadi lebih rapuh di mata sekutu netral.\n\nDan Troya mendapat sesuatu yang jarang ia punya dalam logika kisah—daya tawar moral.\n\nHector bisa bicara soal keadilan tanpa terdengar propaganda.\n\nPriam bisa memohon pada dewa dan manusia sebagai pihak yang dizalimi.\n\nPertempuran tetap terjadi.\n\nTapi tiap kematian membawa kepahitan tambahan: bukan cuma karena perjanjian gagal, tapi karena kisah ‘benar’ ternyata direkayasa.\n\nAkhir bab: perang tetap lanjut, tapi Yunani kehilangan keunggulan narasi bersih yang canon beri ketika panah Pandarus jadi pemicu resmi. [web:125][web:126]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Diomedes Fights the Gods",
+        "id": "Diomedes Melawan Para Dewa"
+      },
+      "preview": {
+        "en": "With Athena’s backing, Diomedes becomes the Greeks’ brightest weapon, pushing the battle past human limits and even drawing blood from Olympians.",
+        "id": "Dengan dukungan Athena, Diomedes jadi senjata paling menyala di pihak Yunani, mendorong perang melampaui batas manusia sampai membuat dewa-dewi berdarah."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "As the fighting intensifies, the Trojan archer Pandarus wounds Diomedes with an arrow, briefly checking his momentum. [web:149][web:151]\n\nDiomedes prays to Athena, and she answers by renewing his strength and granting him the power to recognize gods on the battlefield, while warning him not to challenge them—except Aphrodite. [web:149][web:151]\n\nDiomedes returns like a storm, and when Pandarus and Aeneas bear down on him, Diomedes kills Pandarus with a spear. [web:149][web:151]\n\nAeneas tries to protect Pandarus’ body, but Diomedes crushes Aeneas with a thrown boulder and nearly finishes him. [web:149][web:151]\n\nAphrodite appears to rescue her son Aeneas, and Diomedes—remembering Athena’s permission—wounds Aphrodite, forcing her to flee back to Olympus in pain and humiliation. [web:149][web:151]\n\nApollo intervenes to save Aeneas and warns Diomedes off, showing the limit of mortal fury when it collides with a stronger god. [web:151]\n\nApollo then stirs Ares to fight for the Trojans, and the tide turns hard against the Greeks until Hera and Athena move to counter him. [web:151]\n\nAthena rides with Diomedes and guides his attack, and with her help Diomedes wounds Ares, who retreats to Olympus complaining to Zeus. [web:149][web:151]\n\nZeus dismisses Ares’ complaint as deserved, and the gods’ direct pressure on the battlefield eases, leaving the mortals to keep paying the cost. [web:151]\n\nChapter end: Diomedes’ aristeia peaks—Pandarus falls, Aeneas is saved by gods, Aphrodite and Ares are wounded, and the war’s scale expands from heroic combat into open divine collision. [web:149][web:151]",
+          "id": "Saat pertempuran memanas, pemanah Troya Pandarus melukai Diomedes dengan anak panah, sempat menahan lajunya. [web:149][web:151]\n\nDiomedes berdoa pada Athena, dan ia menjawab dengan memulihkan tenaganya serta memberinya kemampuan mengenali para dewa di medan perang, sambil memperingatkan agar ia tidak menantang dewa mana pun—kecuali Aphrodite. [web:149][web:151]\n\nDiomedes balik bertempur seperti badai, dan ketika Pandarus serta Aeneas melaju ke arahnya, Diomedes membunuh Pandarus dengan tombak. [web:149][web:151]\n\nAeneas berusaha melindungi jasad Pandarus, tapi Diomedes menghantam Aeneas dengan batu besar dan nyaris menghabisinya. [web:149][web:151]\n\nAphrodite muncul menyelamatkan putranya Aeneas, dan Diomedes—mengikuti izin Athena—melukai Aphrodite sehingga ia kabur kembali ke Olympus dalam sakit dan malu. [web:149][web:151]\n\nApollo turun tangan menyelamatkan Aeneas dan memperingatkan Diomedes untuk mundur, menunjukkan batas amarah manusia saat beradu dengan dewa yang lebih kuat. [web:151]\n\nApollo lalu membangkitkan Ares untuk bertempur di pihak Troya, dan keadaan berbalik menekan Yunani sampai Hera dan Athena bergerak mengimbanginya. [web:151]\n\nAthena naik ke kereta Diomedes dan mengarahkan serangannya, dan dengan bantuannya Diomedes melukai Ares, yang mundur ke Olympus sambil mengadu pada Zeus. [web:149][web:151]\n\nZeus menepis keluhan Ares sebagai hukuman yang pantas, dan tekanan langsung para dewa di medan perang mereda, membiarkan manusia kembali menanggung biaya. [web:151]\n\nAkhir bab: aristeia Diomedes mencapai puncak—Pandarus tumbang, Aeneas diselamatkan para dewa, Aphrodite dan Ares terluka, dan skala perang melebar dari duel heroik menjadi tabrakan ilahi yang terang-terangan. [web:149][web:151]"
+          }
+        },
+        {
+          "id": "what_if_5_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Athena Never Grants God-Sight",
+            "id": "What If: Athena Tidak Pernah Memberi ‘Penglihatan Dewa’"
+          },
+          "content": {
+            "en": "Pandarus’ arrow still bites into Diomedes, and Diomedes still prays for the strength to continue. [web:151][web:149]\n\nBut Athena withholds the special vision that lets him recognize gods on the field, because she fears what a mortal will do with certainty. [web:151]\n\nDiomedes charges anyway, brave but blind.\n\nWhen Aphrodite appears to pull Aeneas from danger, Diomedes mistakes her for an unusually soft, richly armored noble and lunges—only to be shoved back by a force that feels like falling through air. [web:151]\n\nApollo’s warning comes sooner, harsher, and more humiliating: Diomedes learns the boundary not by permission, but by pain. [web:151]\n\nThe Greeks lose the psychological miracle of a god bleeding.\n\nThe Trojans gain confidence, because the gods look untouchable again.\n\nChapter end: without god-sight, Diomedes can still be heroic, but he cannot rewrite the rules of the battlefield, and the war stays ‘human-sized’—until the next god decides otherwise.",
+            "id": "Anak panah Pandarus tetap menggigit Diomedes, dan Diomedes tetap berdoa agar bisa lanjut bertempur. [web:151][web:149]\n\nNamun Athena menahan ‘penglihatan’ yang membuatnya bisa mengenali dewa di medan perang, karena ia takut apa yang akan dilakukan seorang manusia kalau ia yakin. [web:151]\n\nDiomedes tetap menerjang, berani tapi buta.\n\nSaat Aphrodite muncul menarik Aeneas dari bahaya, Diomedes mengira ia bangsawan berzirah mewah dan menusuk—lalu terdorong mundur oleh daya yang rasanya seperti jatuh menembus udara. [web:151]\n\nPeringatan Apollo datang lebih cepat, lebih keras, dan lebih memalukan: Diomedes belajar batas bukan lewat izin, tapi lewat sakit. [web:151]\n\nYunani kehilangan “mukjizat psikologis” melihat dewa berdarah.\n\nTroya mendapat percaya diri, karena dewa kembali tampak tak tersentuh.\n\nAkhir bab: tanpa penglihatan-dewa, Diomedes tetap bisa heroik, tapi ia tak bisa mengubah aturan; perang tetap ‘seukuran manusia’—sampai dewa lain memutuskan sebaliknya."
+          }
+        },
+        {
+          "id": "what_if_5_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Diomedes Obeys—He Never Strikes Aphrodite",
+            "id": "What If: Diomedes Patuh—Ia Tidak Menyerang Aphrodite"
+          },
+          "content": {
+            "en": "Athena still empowers Diomedes and warns him about the gods, allowing only Aphrodite as a target in the canon logic. [web:151][web:149]\n\nHere, Diomedes chooses restraint.\n\nWhen Aphrodite lifts Aeneas away, Diomedes clenches his teeth and lets them go. [web:151]\n\nThat single act changes the temperature of the heavens.\n\nAphrodite returns to Olympus unhurt, not humiliated, and she has no personal wound to avenge or complain about. [web:151]\n\nApollo still rescues Aeneas and still checks Diomedes’ aggression, but the gods’ feud stays quieter. [web:151]\n\nAres hesitates to plunge in as openly without the rage of a slighted Aphrodite feeding the moment.\n\nChapter end: Diomedes still shines as a killer of men—Pandarus can still fall and Aeneas can still be saved—but the war escalates more slowly because no goddess bleeds to prove that even immortals can be touched. [web:151][web:149]",
+            "id": "Athena tetap memperkuat Diomedes dan memperingatkannya soal para dewa, dengan logika canon yang mengizinkan target hanya Aphrodite. [web:151][web:149]\n\nDi sini, Diomedes memilih menahan diri.\n\nSaat Aphrodite mengangkat Aeneas menjauh, Diomedes mengatupkan gigi dan membiarkan mereka pergi. [web:151]\n\nSatu tindakan itu mengubah suhu langit.\n\nAphrodite kembali ke Olympus tanpa luka, tanpa malu, dan ia tak punya luka pribadi untuk dibalas atau diadukan. [web:151]\n\nApollo tetap menyelamatkan Aeneas dan tetap menahan agresi Diomedes, tapi permusuhan para dewa jadi lebih senyap. [web:151]\n\nAres ragu untuk turun sedemikian terang-terangan tanpa amarah “penghinaan” yang memanaskan momen.\n\nAkhir bab: Diomedes tetap bersinar sebagai pembunuh manusia—Pandarus tetap bisa tumbang dan Aeneas tetap bisa diselamatkan—tapi eskalasi perang lebih lambat karena tidak ada dewi yang berdarah untuk membuktikan bahwa yang abadi pun bisa disentuh. [web:151][web:149]"
+          }
+        },
+        {
+          "id": "what_if_5_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Aeneas Is Not Saved",
+            "id": "What If: Aeneas Tidak Diselamatkan"
+          },
+          "content": {
+            "en": "Diomedes kills Pandarus and maims Aeneas as in the canon beat, but the rescue comes a heartbeat too late. [web:149][web:151]\n\nAphrodite reaches for her son and finds only weight.\n\nApollo arrives and finds only a corpse.\n\nThe Trojans do not just lose a hero.\n\nThey lose a future.\n\nBecause Aeneas’ survival functions like a thread the gods keep refusing to cut, and without him, the divine investment in Troy begins to look like sunk cost. [web:151]\n\nApollo’s response is immediate: he does not warn Diomedes.\n\nHe punishes.\n\nThe battlefield stops being a place where a mortal can ‘almost’ challenge a god.\n\nIt becomes a place where gods reassert terror.\n\nChapter end: Aeneas’ death turns Diomedes’ aristeia into a provocation the gods cannot tolerate, and the war tilts from heroic glory into divine reprisal. [web:151]",
+            "id": "Diomedes membunuh Pandarus dan mencederai Aeneas seperti ketukan canon, tapi penyelamatan datang terlambat setarik napas. [web:149][web:151]\n\nAphrodite meraih putranya dan hanya menemukan beban.\n\nApollo datang dan hanya menemukan jasad.\n\nTroya bukan cuma kehilangan pahlawan.\n\nMereka kehilangan masa depan.\n\nKarena kelangsungan hidup Aeneas berfungsi seperti benang yang dewa-dewa selalu menolak putuskan, dan tanpa dia, “investasi ilahi” pada Troya mulai tampak seperti kerugian yang sia-sia. [web:151]\n\nRespon Apollo langsung: ia tidak memperingatkan Diomedes.\n\nIa menghukum.\n\nMedan perang berhenti jadi tempat di mana manusia bisa ‘nyaris’ menantang dewa.\n\nIa jadi tempat di mana dewa menegakkan kembali kengerian.\n\nAkhir bab: kematian Aeneas mengubah aristeia Diomedes jadi provokasi yang tak bisa ditoleransi, dan perang miring dari kemuliaan heroik ke pembalasan ilahi. [web:151]"
+          }
+        },
+        {
+          "id": "what_if_5_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Diomedes Kills Ares",
+            "id": "What If: Diomedes Membunuh Ares"
+          },
+          "content": {
+            "en": "Ares enters the battle and crushes the Greeks until Hera and Athena decide to counter him, as in the canon shape. [web:151]\n\nAthena rides with Diomedes, and the spear finds Ares—again. [web:151][web:149]\n\nBut this time the wound doesn’t close.\n\nThe god of war falls.\n\nSilence spreads like frost.\n\nNot because the war ends—because the universe has just broken one of its own habits.\n\nOlympus erupts.\n\nZeus cannot pretend it’s ‘deserved’ anymore, because a wounded god is one thing, a dead god is a crack in the order of power. [web:151]\n\nThe gods retaliate not with strategy but with containment: they yank themselves out of the field, or they flood it, depending on who wins the argument.\n\nMortals become collateral in a divine constitutional crisis.\n\nChapter end: Diomedes’ glory becomes catastrophe—by killing War itself, he forces the gods to choose between rewriting the rules of mortality or wiping the board clean. [web:151]",
+            "id": "Ares masuk ke medan perang dan menekan Yunani sampai Hera dan Athena memutuskan mengimbanginya, sesuai bentuk canon. [web:151]\n\nAthena naik ke kereta Diomedes, dan tombak menemukan Ares—lagi. [web:151][web:149]\n\nTapi kali ini lukanya tidak menutup.\n\nDewa perang tumbang.\n\nKeheningan menyebar seperti embun beku.\n\nBukan karena perang selesai—tapi karena semesta baru saja mematahkan salah satu kebiasaannya.\n\nOlympus meledak.\n\nZeus tak bisa lagi pura-pura ini sekadar ‘pantasan,’ karena dewa terluka itu satu hal, dewa mati itu retak pada tatanan kuasa. [web:151]\n\nPara dewa membalas bukan dengan strategi, melainkan penahanan: mereka menarik diri dari medan—atau menenggelamkannya—tergantung siapa menang debat.\n\nManusia jadi korban samping dalam krisis konstitusi ilahi.\n\nAkhir bab: kemuliaan Diomedes berubah jadi bencana—dengan membunuh War itu sendiri, ia memaksa para dewa memilih antara menulis ulang aturan kefanaan atau meratakan papan permainan. [web:151]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Hector Returns to Troy",
+        "id": "Hector Pulang ke Troya"
+      },
+      "preview": {
+        "en": "The battle pauses just long enough for human life to appear: guest-friendship stops a duel, prayers rise and fail, and Hector chooses duty over home.",
+        "id": "Pertempuran berhenti cukup lama untuk memperlihatkan hidup manusia: ikatan tamu-sahabat menghentikan duel, doa naik lalu ditolak, dan Hector memilih tugas ketimbang rumah."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "With the gods less directly visible after the chaos of Book 5, the fighting continues as a mortal grind, swaying back and forth across the plain. [web:182]\n\nOn the Trojan side, Helenus urges Hector to return to Troy and have Queen Hecuba and the women pray and offer gifts to Athena for mercy and protection. [web:151][web:171]\n\nMeanwhile on the battlefield, Diomedes meets Glaucus; they discover an inherited bond of guest-friendship and choose not to fight, instead exchanging armor as a sign of that pact. [web:181][web:173]\n\nHector enters Troy through the Scaean Gate and is surrounded by Trojan women asking about their husbands, sons, and brothers in the fight. [web:171][web:173]\n\nHe finds Hecuba, refuses the wine she offers, and tells her to lead the women to Athena’s temple with a robe and sacrifices to beg the goddess to turn back Diomedes and the Greeks. [web:171][web:151]\n\nThe women make their offering and pray, but Athena refuses their prayers, leaving Troy’s hope hanging on human arms. [web:179][web:172]\n\nHector then goes to Paris and rebukes him for staying out of the fighting, pushing him to return to battle. [web:151]\n\nFinally Hector meets Andromache and their infant son (Astyanax/Scamandrius) at the Scaean Gate; Andromache pleads for him to fight from the walls, fearing she will be widowed and their child orphaned. [web:172][web:171]\n\nHector answers that he must face battle for Troy’s honor and survival, prays that his son will grow strong, and then turns back toward the field, choosing duty over the safety of home. [web:172][web:171]\n\nChapter end: a truce of friendship briefly interrupts killing, Troy’s prayers go unheard, and Hector’s domestic farewell makes clear what the war is truly consuming—families, not just fighters. [web:181][web:179][web:172]",
+          "id": "Setelah kekacauan Book 5, para dewa tidak sejelas sebelumnya, dan pertempuran berlanjut sebagai kerja giling manusia yang maju-mundur di dataran. [web:182]\n\nDi pihak Troya, Helenus menyuruh Hector pulang ke kota agar Ratu Hecuba dan para perempuan berdoa serta memberi persembahan pada Athena demi belas kasihan dan perlindungan. [web:151][web:171]\n\nSementara itu di medan, Diomedes bertemu Glaucus; mereka menyadari ikatan tamu-sahabat turun-temurun dan memilih tidak saling membunuh, lalu menukar zirah sebagai tanda ikatan itu. [web:181][web:173]\n\nHector masuk Troya lewat Gerbang Skaia dan dikerubungi perempuan Troya yang menanyakan suami, anak, dan saudara mereka yang bertempur. [web:171][web:173]\n\nIa menemui Hecuba, menolak anggur yang ditawarkan, lalu menyuruhnya memimpin para perempuan ke kuil Athena membawa jubah dan kurban untuk memohon dewi itu menahan Diomedes dan pasukan Yunani. [web:171][web:151]\n\nPara perempuan mempersembahkan dan berdoa, namun Athena menolak doa mereka, membuat harapan Troya kembali bergantung pada lengan manusia. [web:179][web:172]\n\nHector lalu mendatangi Paris dan menegurnya karena menepi dari pertempuran, mendorongnya kembali ke medan. [web:151]\n\nTerakhir, Hector bertemu Andromache dan bayi mereka (Astyanax/Scamandrius) di Gerbang Skaia; Andromache memohon Hector bertahan dari balik tembok karena takut jadi janda dan anak mereka jadi yatim. [web:172][web:171]\n\nHector menjawab ia harus menghadapi perang demi kehormatan dan keselamatan Troya, berdoa agar putranya kelak kuat, lalu kembali menuju medan, memilih tugas ketimbang aman di rumah. [web:172][web:171]\n\nAkhir bab: gencatan “persahabatan” sebentar menghentikan pembunuhan, doa Troya tak didengar, dan perpisahan domestik Hector menegaskan apa yang paling dimakan perang—keluarga, bukan hanya petarung. [web:181][web:179][web:172]"
+          }
+        },
+        {
+          "id": "what_if_6_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Athena Accepts the Trojan Prayer",
+            "id": "What If: Athena Mengabulkan Doa Troya"
+          },
+          "content": {
+            "en": "Hecuba and the Trojan women still bring the robe and offerings to Athena, begging her to break Diomedes’ spear and spare the city. [web:182]\n\nIn canon, Athena refuses, and the refusal hardens the sense that Troy is doomed. [web:182][web:172]\n\nHere, she nods.\n\nNot out of mercy—out of calculation.\n\nDiomedes’ charge falters as if the air itself becomes heavy.\n\nThe Greeks feel it: their brightest blade has been blunted.\n\nTroy seizes the moment to reorganize, to pull wounded men back behind the gates, to restore the line.\n\nHector returns to the field not as a man saying goodbye, but as a commander arriving with time bought by prayer.\n\nChapter end: one divine ‘yes’ doesn’t end the war, but it changes its rhythm—Troy stops being a city bracing for fate and becomes a city learning how to survive. [web:182]",
+            "id": "Hecuba dan para perempuan Troya tetap membawa jubah dan persembahan kepada Athena, memohon agar tombak Diomedes dipatahkan dan kota diselamatkan. [web:182]\n\nDi canon, Athena menolak, dan penolakan itu mengeraskan rasa bahwa Troya menuju takdir buruk. [web:182][web:172]\n\nDi sini, ia mengangguk.\n\nBukan karena iba—melainkan perhitungan.\n\nLaju Diomedes mendadak berat, seakan udara ikut menekan.\n\nYunani merasakannya: senjata paling menyala mereka ditumpulkan.\n\nTroya memakai momen itu untuk menata ulang, menarik yang terluka ke balik gerbang, menguatkan barisan.\n\nHector kembali ke medan bukan sebagai lelaki yang pamit, tapi sebagai komandan yang datang membawa waktu hasil doa.\n\nAkhir bab: satu kata ‘ya’ dari dewi tidak mengakhiri perang, tapi mengubah iramanya—Troya berhenti jadi kota yang pasrah pada takdir dan berubah jadi kota yang belajar bertahan. [web:182]"
+          }
+        },
+        {
+          "id": "what_if_6_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Diomedes and Glaucus Ignore Guest-Friendship",
+            "id": "What If: Diomedes dan Glaucus Mengabaikan Tamu-Sahabat"
+          },
+          "content": {
+            "en": "Diomedes and Glaucus still trade lineage and discover their inherited guest-friendship, a bond considered sacred in the epic world. [web:174][web:182]\n\nIn canon, that recognition stops the duel and they exchange armor instead of blood. [web:174][web:182]\n\nHere, pride wins.\n\nThey fight anyway.\n\nThe battlefield gains two more kills, but it loses something rarer: proof that an old social law can interrupt violence.\n\nWord spreads fast.\n\nIf guest-friendship can be overridden, then nothing is safe—not treaties, not supplication, not family ties.\n\nChapter end: the war becomes morally emptier; even the small islands of restraint vanish, and both sides learn that tradition is only as strong as the men who honor it. [web:174]",
+            "id": "Diomedes dan Glaucus tetap saling menegaskan silsilah dan menyadari ikatan tamu-sahabat turun-temurun, sebuah ikatan yang dianggap sakral dalam dunia epik. [web:174][web:182]\n\nDi canon, pengakuan itu menghentikan duel dan mereka menukar zirah alih-alih darah. [web:174][web:182]\n\nDi sini, gengsi menang.\n\nMereka tetap bertarung.\n\nMedan perang mendapat dua pembunuhan lagi, tapi kehilangan sesuatu yang lebih langka: bukti bahwa hukum sosial lama bisa memotong rantai kekerasan.\n\nKabar menyebar cepat.\n\nKalau tamu-sahabat saja bisa diinjak, maka tak ada yang aman—bukan perjanjian, bukan permohonan, bukan ikatan keluarga.\n\nAkhir bab: perang jadi lebih kosong secara moral; pulau-pulau kecil pengekangan hilang, dan kedua pihak belajar bahwa tradisi hanya sekuat orang yang mau menghormatinya. [web:174]"
+          }
+        },
+        {
+          "id": "what_if_6_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Hector Stays with Andromache",
+            "id": "What If: Hector Memilih Tinggal bersama Andromache"
+          },
+          "content": {
+            "en": "At the Scaean Gate, Andromache begs Hector to defend the city more safely, fearing widowhood and an orphaned child. [web:172][web:151]\n\nIn canon, Hector chooses duty and returns to the fighting, sealing the tragedy’s shape. [web:172][web:151]\n\nHere, Hector says: “Not today.”\n\nHe stays inside the walls.\n\nIt looks like love.\n\nBut it is also strategy.\n\nHe turns Troy into a defensive war, refusing the open-field heroics that feed Greek glory.\n\nThe Trojans fight from ramps, gates, and towers.\n\nThe Greeks are forced into a slower, uglier siege, where their champions can’t cash in fame as easily.\n\nParis hates it.\n\nAgamemnon hates it.\n\nAchilles—still absent—becomes less necessary, because the war stops offering clean duels and starts demanding logistics.\n\nChapter end: Hector’s single domestic choice doesn’t ‘save’ Troy, but it changes what kind of war Troy loses—or wins. [web:172]",
+            "id": "Di Gerbang Skaia, Andromache memohon Hector bertahan dengan cara yang lebih aman, takut jadi janda dan anaknya jadi yatim. [web:172][web:151]\n\nDi canon, Hector memilih tugas dan kembali ke pertempuran, mengunci bentuk tragedi. [web:172][web:151]\n\nDi sini, Hector berkata: “Tidak hari ini.”\n\nIa tetap di balik tembok.\n\nKelihatannya cinta.\n\nTapi itu juga strategi.\n\nIa mengubah perang Troya jadi perang defensif, menolak heroik lapangan terbuka yang memberi makan kemuliaan Yunani.\n\nTroya bertahan dari tanjakan, gerbang, dan menara.\n\nYunani dipaksa masuk pengepungan yang lebih lambat dan lebih kotor, di mana para jagoan sulit “mencetak” nama.\n\nParis membencinya.\n\nAgamemnon membencinya.\n\nAchilles—yang masih absen—jadi kurang perlu, karena perang berhenti menawarkan duel bersih dan mulai menuntut logistik.\n\nAkhir bab: satu pilihan domestik Hector tidak otomatis ‘menyelamatkan’ Troya, tapi mengubah jenis perang yang Troya kalah—atau menangkan. [web:172]"
+          }
+        },
+        {
+          "id": "what_if_6_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Hector Brings Helen to the Gate",
+            "id": "What If: Hector Membawa Helen ke Gerbang"
+          },
+          "content": {
+            "en": "In Book 6’s canon movement, Hector’s trip through Troy exposes the war’s human cost—wives, mothers, and children clustered at the city’s nerve center. [web:171][web:172]\n\nHere, Hector makes the cost visible in another way.\n\nHe pulls Helen to the Scaean Gate and makes her stand beside Andromache.\n\nNot to shame her.\n\nTo end the convenient lie that she is an abstract cause.\n\nThe women see each other.\n\nThe ‘reason for war’ becomes a breathing person facing the consequences.\n\nSome Trojans soften.\n\nSome harden.\n\nParis panics—because the city’s anger has a face to land on.\n\nChapter end: the war inside Troy becomes louder; the battlefield stays outside, but the political battle over blame, agency, and sacrifice moves to the gate where everyone can see it. [web:171][web:172]",
+            "id": "Dalam gerak canon Book 6, perjalanan Hector di dalam kota memperlihatkan harga manusia perang—istri, ibu, dan anak berkumpul di pusat syaraf kota. [web:171][web:172]\n\nDi sini, Hector membuat harga itu terlihat dengan cara lain.\n\nIa menarik Helen ke Gerbang Skaia dan membuatnya berdiri di samping Andromache.\n\nBukan untuk mempermalukannya.\n\nTapi untuk memutus kebohongan nyaman bahwa Helen hanyalah sebab abstrak.\n\nPara perempuan saling melihat.\n\n‘Alasan perang’ berubah jadi manusia bernapas yang menghadap konsekuensi.\n\nSebagian Troya melunak.\n\nSebagian mengeras.\n\nParis panik—karena amarah kota kini punya tempat mendarat.\n\nAkhir bab: perang di dalam Troya jadi lebih bising; medan tempur tetap di luar, tapi perang politik soal salah, agensi, dan pengorbanan pindah ke gerbang yang bisa dilihat semua orang. [web:171][web:172]"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Hector Duels Ajax",
+        "id": "Hector Duel dengan Ajax"
+      },
+      "preview": {
+        "en": "A single combat briefly replaces mass slaughter, ending not in victory but in mutual recognition—and the Greeks respond by fortifying their future.",
+        "id": "Duel tunggal sebentar menggantikan pembantaian massal, berakhir bukan dengan kemenangan melainkan pengakuan timbal balik—dan Yunani membalas dengan membentengi masa depan mereka."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The True Path",
+            "id": "Jalan Takdir"
+          },
+          "content": {
+            "en": "Athena and Apollo intervene to halt the day’s general slaughter and steer events toward a single combat, and Hector steps forward to challenge the Achaeans to a duel. [web:197]\n\nThe Achaeans hesitate until Nestor shames and urges them, and then multiple warriors volunteer; they cast lots, and Great Ajax is chosen to face Hector. [web:197]\n\nHector and Ajax trade spear throws and close in with heavier weapons, and neither can secure a decisive kill, though Ajax manages to draw Hector’s blood. [web:197]\n\nAs night falls, heralds from both sides—prompted by Zeus in the popular summary tradition—call off the duel, and Hector and Ajax end it without a winner. [web:197]\n\nBefore separating, the two champions exchange gifts, turning the duel into a strange blend of hostility and respect under the warrior code. [web:197]\n\nThat night the leaders agree to a truce to gather and bury (or burn) the dead, acknowledging that even heroic war must pause for the bodies it creates. [web:197]\n\nNestor advises the Achaeans to use the pause to build fortifications around the ships, and the Greeks construct a wall with gates and dig a trench as protection for their camp. [web:197][web:206]\n\nPoseidon objects that the Achaeans built this wall without proper sacrifices and fears its fame will rival older divine works, but Zeus allows the wall to stand for now and says it can be destroyed after the war. [web:199]\n\nChapter end: Hector vs Ajax resolves nothing militarily, the dead receive a day’s attention, and the Greeks reshape the battlefield by building defenses that will matter as the fighting grows harsher. [web:197][web:206]",
+          "id": "Athena dan Apollo ikut campur untuk menghentikan pembantaian hari itu dan mengarahkan kejadian menuju duel tunggal, lalu Hector maju menantang pihak Akhaia bertarung satu lawan satu. [web:197]\n\nPihak Akhaia sempat ragu sampai Nestor memalukan sekaligus menyemangati mereka; beberapa jagoan maju, undian dilakukan, dan Ajax Besar terpilih melawan Hector. [web:197]\n\nHector dan Ajax saling lempar tombak lalu bertarung jarak dekat dengan senjata lebih berat, namun tak ada yang mampu membunuh secara menentukan, meski Ajax sempat membuat Hector berdarah. [web:197]\n\nSaat malam turun, para bentara dari kedua pihak—dalam tradisi ringkasan populer, didorong oleh Zeus—menghentikan duel, dan Hector serta Ajax berpisah tanpa pemenang. [web:197]\n\nSebelum berpisah, dua jagoan itu saling menukar hadiah, membuat duel jadi campuran aneh antara permusuhan dan hormat dalam kode kesatria. [web:197]\n\nMalam itu, para pemimpin sepakat gencatan untuk mengumpulkan dan mengubur (atau membakar) jenazah, mengakui bahwa perang heroik pun harus berhenti sejenak demi tubuh-tubuh yang ia ciptakan. [web:197]\n\nNestor menyarankan Akhaia memakai jeda itu untuk membangun pertahanan di sekitar kapal, dan Yunani membangun tembok berpintu serta menggali parit sebagai pelindung perkemahan. [web:197][web:206]\n\nPoseidon memprotes karena tembok itu dibangun tanpa kurban yang layak dan ia takut ketenarannya menyaingi karya ilahi lama, namun Zeus membiarkannya berdiri untuk sementara dan berkata tembok itu bisa dihancurkan setelah perang. [web:199]\n\nAkhir bab: duel Hector vs Ajax tidak menyelesaikan apa pun secara militer, para mati mendapat satu hari perhatian, dan Yunani mengubah medan dengan pertahanan baru yang akan penting ketika pertempuran makin brutal. [web:197][web:206]"
+          }
+        },
+        {
+          "id": "what_if_7_1",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Ajax Kills Hector",
+            "id": "What If: Ajax Membunuh Hector"
+          },
+          "content": {
+            "en": "Hector’s challenge still draws lots, and Great Ajax still steps out to meet him. [web:198]\n\nBut this time the duel does not stall into a draw.\n\nAjax lands the one clean opening.\n\nHector falls.\n\nTroy goes quiet first—then panics.\n\nBecause Hector is not just a champion; he is the city’s spine.\n\nWithout him, the Trojan command fractures between pride (fight on) and fear (negotiate). [web:199]\n\nThe Greeks celebrate, but the victory is unstable: killing Hector by duel should grant an ending, yet Agamemnon still wants more than ‘enough.’\n\nThe burial truce becomes a bargaining table.\n\nThe wall the Greeks planned to build becomes unnecessary for morale—but still necessary for survival, because a desperate Troy may attack the ships even harder. [web:207]\n\nChapter end: Ajax wins the duel, but the war loses its main Trojan anchor, turning the next chapters into a scramble—Troy trying to survive leaderless, Greece trying to decide whether honor has already been satisfied.",
+            "id": "Tantangan Hector tetap berujung undian, dan Ajax Besar tetap maju menyambutnya. [web:198]\n\nTapi kali ini duel tidak mandek jadi seri.\n\nAjax mendapat satu celah bersih.\n\nHector tumbang.\n\nTroya diam dulu—lalu panik.\n\nKarena Hector bukan sekadar jagoan; dia tulang punggung kota.\n\nTanpa dia, komando Troya retak antara gengsi (lanjut perang) dan takut (negosiasi). [web:199]\n\nYunani bersukacita, tapi kemenangan ini tidak stabil: membunuh Hector lewat duel seharusnya memberi “akhir,” namun Agamemnon tetap menginginkan lebih dari sekadar ‘cukup.’\n\nGencatan penguburan berubah jadi meja tawar.\n\nTembok yang Yunani mau bangun jadi kurang perlu untuk moral—tapi tetap perlu untuk bertahan, karena Troya yang putus asa bisa menyerang kapal lebih keras. [web:207]\n\nAkhir bab: Ajax menang duel, tapi perang kehilangan jangkar utama Troya, membuat bab-bab berikutnya jadi rebutan arah—Troya berusaha hidup tanpa pemimpin, Yunani berusaha memutuskan apakah kehormatan sudah terpenuhi."
+          }
+        },
+        {
+          "id": "what_if_7_2",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Hector and Ajax Become True Allies",
+            "id": "What If: Hector dan Ajax Jadi Sekutu Sungguhan"
+          },
+          "content": {
+            "en": "The duel still ends at nightfall, and the two champions still exchange gifts as in canon. [web:198][web:207]\n\nBut the gifts become more than ceremony.\n\nHector and Ajax talk—briefly, dangerously honestly.\n\nThey admit what the poem usually hides in plain sight: neither side is fighting because they personally want endless war.\n\nThey propose an oath between commanders: no ambush during the burial truce, no divine-encouraged cheating, no ‘arrow in the dark.’ [web:207]\n\nIt doesn’t stop the gods.\n\nBut it forces men to choose whether they will be tools.\n\nAgamemnon feels the threat immediately: a private code between heroes undermines a king’s control.\n\nParis feels it too: a world with rules leaves him less room to hide.\n\nChapter end: the duel becomes the seed of a cross-line brotherhood—fragile, likely doomed, but powerful enough to scare the people who profit from chaos. [web:198]",
+            "id": "Duel tetap berhenti karena malam, dan dua jagoan tetap saling menukar hadiah seperti canon. [web:198][web:207]\n\nTapi hadiah itu jadi lebih dari seremoni.\n\nHector dan Ajax bicara—sebentar, dan berbahaya jujurnya.\n\nMereka mengakui hal yang biasanya disembunyikan kisah: tidak ada dari mereka yang secara pribadi menginginkan perang tanpa akhir.\n\nMereka mengusulkan sumpah antar-komandan: tak ada serangan licik saat gencatan penguburan, tak ada kecurangan yang “didorong dewa,” tak ada ‘panah dari gelap.’ [web:207]\n\nItu tidak menghentikan para dewa.\n\nTapi memaksa manusia memilih: mau jadi alat atau tidak.\n\nAgamemnon langsung merasa terancam: kode privat para pahlawan melemahkan kendali raja.\n\nParis juga merasa: dunia yang punya aturan membuatnya lebih sulit bersembunyi.\n\nAkhir bab: duel jadi benih persaudaraan lintas-kubu—rapuh dan mungkin hancur, tapi cukup kuat untuk menakuti orang-orang yang diuntungkan oleh kekacauan. [web:198]"
+          }
+        },
+        {
+          "id": "what_if_7_3",
+          "type": "what_if",
+          "title": {
+            "en": "What If: The Burial Truce Becomes Real Peace Talks",
+            "id": "What If: Gencatan Penguburan Jadi Negosiasi Damai"
+          },
+          "content": {
+            "en": "In canon, both sides agree to pause long enough to deal with the dead, then the Greeks fortify and war resumes. [web:198][web:207]\n\nHere, the truce stretches.\n\nNot because hearts soften—because logistics do.\n\nToo many bodies.\n\nToo much fatigue.\n\nToo much fear that the gods will punish oathbreakers.\n\nTroy sends a richer offer: not just treasure, but structured compensation and hostages.\n\nThe Greeks split: Menelaus wants closure; Agamemnon wants a conquest story.\n\nThe wall and trench still get built, but now as leverage—an argument made of stone and stakes rather than speeches. [web:207]\n\nChapter end: the duel ends as a draw, but the real fight shifts to negotiation, where pride is the enemy and time is the weapon. [web:198]",
+            "id": "Di canon, kedua pihak sepakat jeda cukup lama untuk mengurus para mati, lalu Yunani membentengi diri dan perang lanjut. [web:198][web:207]\n\nDi sini, gencatan memanjang.\n\nBukan karena hati melunak—melainkan karena logistik.\n\nTerlalu banyak jenazah.\n\nTerlalu banyak lelah.\n\nTerlalu besar takut bahwa dewa akan menghukum pelanggar sumpah.\n\nTroya mengirim tawaran lebih kaya: bukan cuma harta, tapi ganti rugi terstruktur dan sandera.\n\nYunani terbelah: Menelaus ingin penutupan; Agamemnon ingin kisah penaklukan.\n\nTembok dan parit tetap dibangun, tapi sekarang sebagai daya tawar—argumen dari batu dan pasak, bukan pidato. [web:207]\n\nAkhir bab: duel berakhir seri, tapi pertarungan sejati pindah ke negosiasi, di mana musuhnya gengsi dan senjatanya waktu. [web:198]"
+          }
+        },
+        {
+          "id": "what_if_7_4",
+          "type": "what_if",
+          "title": {
+            "en": "What If: Poseidon Destroys the Achaean Wall Immediately",
+            "id": "What If: Poseidon Langsung Menghancurkan Tembok Akhaia"
+          },
+          "content": {
+            "en": "In canon logic, Poseidon complains that the Greeks built their wall without sacrifices, and Zeus tells him he can destroy it later. [web:199]\n\nHere, ‘later’ never comes.\n\nPoseidon rises at night.\n\nThe sea heaves.\n\nThe trench collapses.\n\nThe wall slumps like wet sand.\n\nThe Greeks wake to find their new certainty erased.\n\nNo fortification.\n\nNo sense that planning matters.\n\nOnly the thin line of ships and men.\n\nTroy sees the breach and gains courage: the gods are willing to erase Greek work.\n\nAgamemnon’s authority takes a hit—because kings promise safety, and safety just got washed away.\n\nChapter end: the duel remains unresolved, but the strategic balance changes overnight; the war snaps back from engineering to raw survival, and tomorrow’s battle starts closer to the ships. [web:199][web:207]",
+            "id": "Dalam logika canon, Poseidon memprotes karena Yunani membangun tembok tanpa kurban, dan Zeus bilang ia bisa menghancurkannya nanti. [web:199]\n\nDi sini, ‘nanti’ tidak pernah datang.\n\nPoseidon bangkit malam itu juga.\n\nLaut terangkat.\n\nParit runtuh.\n\nTembok melorot seperti pasir basah.\n\nYunani bangun dan mendapati kepastian baru mereka terhapus.\n\nTak ada benteng.\n\nTak ada rasa bahwa rencana itu berarti.\n\nHanya garis tipis kapal dan manusia.\n\nTroya melihat celah itu dan naik nyali: para dewa mau menghapus kerja Yunani.\n\nWibawa Agamemnon terpukul—karena raja menjanjikan aman, dan aman barusan disapu.\n\nAkhir bab: duel tetap tak tuntas, tapi keseimbangan strategi berubah semalam; perang terpental dari rekayasa jadi bertahan hidup mentah, dan pertempuran besok dimulai lebih dekat ke kapal. [web:199][web:207]"
+          }
+        }
+      ]
+    }
+  ]
+}

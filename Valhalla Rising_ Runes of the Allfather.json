@@ -1,0 +1,519 @@
+{
+  "book_id": "valhalla_rising_runes_of_the_alfather",
+  "title": {
+    "en": "Valhalla Rising: Runes of the Allfather",
+    "id": "Mitologi Nordik"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "A Mark on the Bone",
+        "id": "Tanda di Tulang"
+      },
+      "preview": {
+        "en": "In a land of ash-gray seas and iron oaths, a single rune appears where it should not—on living bone. Its meaning is unclear, but its pull is undeniable.",
+        "id": "Di negeri laut kelabu dan sumpah besi, sebuah rune muncul di tempat yang tak semestinya—pada tulang yang masih hidup. Maknanya belum jelas, tetapi tarikannya tak terbantahkan."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Allfather’s Whisper",
+            "id": "Bisik Sang Allfather"
+          },
+          "content": {
+            "en": "The story begins on a coast that never fully dries. Salt sits in the air like old anger, and the wind carries the sound of distant oars. People here do not pray for mercy; they pray for a clean death.\n\nA nameless wanderer washes ashore after a storm that tore ships apart as if they were bark. He should be dead. Yet he stands, coughing seawater, with a rune burned into the inside of his forearm—fresh, precise, and impossible to explain.\n\nThe locals think it is witchwork. A few call it a blessing. Most see only danger, because marks draw eyes, and eyes draw blades. The wanderer hides the arm beneath a wrap, but the rune itches like a thought that cannot be put down.\n\nThat night, he dreams of a hall lit by gold that does not warm. A one-eyed figure sits at the far end, not speaking aloud, yet the meaning lands like a stone in the chest: the rune is a key, and keys always open something that also opens back.\n\nWhen he wakes, a skald in the village is already waiting, as if the dream had spilled into daylight. The skald does not ask who the wanderer is. He asks what the rune wants. He says the old songs speak of runes that are not written on wood or stone, but on fate itself.\n\nThe wanderer tries to leave quietly, but the coast has changed. A ship has arrived without announcement, its crew too disciplined for traders and too calm for raiders. They are looking for someone marked.\n\nChapter 1 ends with the first choice forced by the world: run alone and be hunted, or accept the skald’s guidance toward the interior—toward old shrines, older graves, and a road that the rune seems to recognize before the man does.",
+            "id": "Kisah dimulai di pesisir yang tak pernah benar-benar kering. Garam menggantung di udara seperti amarah lama, dan angin membawa bunyi dayung dari jauh. Orang-orang di sini tidak berdoa minta belas kasihan; mereka berdoa agar mati dengan bersih.\n\nSeorang pengembara tanpa nama terdampar setelah badai yang merobek kapal seolah hanya kulit kayu. Ia seharusnya mati. Namun ia berdiri, memuntahkan air laut, dengan sebuah rune terbakar di sisi dalam lengannya—baru, presisi, dan mustahil dijelaskan.\n\nPenduduk mengira itu sihir. Sebagian menyebutnya berkah. Kebanyakan hanya melihat bahaya, karena tanda mengundang tatapan, dan tatapan mengundang bilah. Pengembara itu menyembunyikan lengannya, tetapi runenya gatal seperti pikiran yang tak bisa diletakkan.\n\nMalamnya, ia bermimpi tentang sebuah aula bercahaya emas yang tak menghangatkan. Sosok bermata satu duduk di ujung, tak berbicara keras, namun maknanya jatuh seperti batu di dada: rune itu kunci, dan kunci selalu membuka sesuatu yang juga membuka balik.\n\nSaat ia terbangun, seorang skald di desa sudah menunggu, seolah mimpi itu tumpah ke siang hari. Skald itu tidak bertanya siapa pengembara itu. Ia bertanya apa yang diinginkan rune itu. Ia bilang lagu-lagu tua bicara tentang rune yang tak ditulis di kayu atau batu, melainkan di takdir itu sendiri.\n\nPengembara itu mencoba pergi diam-diam, tetapi pesisir sudah berubah. Sebuah kapal tiba tanpa pengumuman, dengan kru yang terlalu disiplin untuk pedagang dan terlalu tenang untuk perompak. Mereka mencari seseorang yang bertanda.\n\nBab 1 ditutup oleh pilihan pertama yang dipaksa oleh dunia: lari sendirian dan diburu, atau menerima tuntunan sang skald menuju pedalaman—menuju kuil-kuil tua, kubur yang lebih tua, dan jalan yang tampaknya dikenali rune itu sebelum si manusia sendiri mengerti."
+          }
+        },
+        {
+          "id": "what_if_1_rune_is_curse_not_key",
+          "type": "what_if",
+          "title": {
+            "en": "The Rune Was a Hook",
+            "id": "Rune Itu Kail, Bukan Kunci"
+          },
+          "content": {
+            "en": "In this path, the rune does not open a door for the wanderer—it opens the wanderer to something else. The itch is not a call; it is a tether tightening.\n\nThe dream-hall returns every time he closes his eyes. The one-eyed figure never speaks, but the silence grows heavier, as if it is weighing him. Each morning, the mark looks slightly darker, as though it is drinking from his blood.\n\nWhen the skald arrives, he does not offer guidance. He offers a warning: runes on bone are not written to be read; they are written to be used. The question is not what the rune means, but what it is spending.\n\nThe disciplined crew that arrives on the coast does not try to kill him immediately. They bow first, as if acknowledging ownership. They want him alive because the rune is more valuable while it can still feel fear.\n\nIn this what if, Chapter 1 ends with a reversal: the wanderer is not chosen. He is claimed. And the road inland is not a quest—it is an escape from becoming a vessel.",
+            "id": "Dalam jalur ini, rune itu tidak membuka pintu untuk si pengembara—rune itu justru membuka si pengembara bagi sesuatu yang lain. Rasa gatalnya bukan panggilan; ia tali yang mengencang.\n\nAula mimpi itu kembali setiap kali ia memejamkan mata. Sosok bermata satu tak pernah bicara, tetapi diamnya makin berat, seolah sedang menimbangnya. Setiap pagi, tanda itu tampak sedikit lebih gelap, seakan minum dari darah.\n\nSaat skald datang, ia tidak menawarkan tuntunan. Ia memberi peringatan: rune di tulang tidak ditulis untuk dibaca; ia ditulis untuk dipakai. Pertanyaannya bukan apa arti rune itu, melainkan apa yang sedang ia bayar.\n\nKru disiplin yang tiba di pesisir tidak langsung mencoba membunuhnya. Mereka malah menunduk dulu, seolah mengakui kepemilikan. Mereka ingin ia hidup karena rune itu lebih berharga saat masih bisa merasa takut.\n\nDalam what if ini, Bab 1 berakhir dengan pembalikan: pengembara itu bukan dipilih. Ia diklaim. Dan jalan ke pedalaman bukan misi—melainkan pelarian agar ia tidak menjadi wadah."
+          }
+        },
+        {
+          "id": "what_if_1_skald_is_the_hunter",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Wrote the Trap",
+            "id": "Skald Itu Penulis Jebakan"
+          },
+          "content": {
+            "en": "In this path, the skald is not a guide but the architect of the chase. He appears too quickly because he has been waiting for the storm to deliver the marked man.\n\nHis questions are not curiosity; they are calibration. He needs to know whether the rune is awake, whether it reacts to fear, whether it can be coaxed into revealing more lines.\n\nWhen the disciplined crew arrives, the skald greets them as if they are late. The village was never meant to shelter the wanderer; it was meant to slow him, soften him, and make him believe he still has choices.\n\nThe wanderer realizes the oldest trick in a world of runes is narrative: make someone think they are on a heroic path, and they will walk willingly into the net.\n\nIn this what if, Chapter 1 ends with the first betrayal. The wanderer flees not from soldiers, but from a storyteller—because the story itself has become a weapon.",
+            "id": "Dalam jalur ini, skald itu bukan pemandu, melainkan arsitek perburuan. Ia muncul terlalu cepat karena ia memang menunggu badai mengantarkan lelaki bertanda.\n\nPertanyaannya bukan rasa ingin tahu; itu kalibrasi. Ia perlu tahu apakah rune itu sudah bangun, apakah ia bereaksi pada takut, apakah ia bisa dipancing untuk menampakkan lebih banyak garis.\n\nKetika kru disiplin tiba, skald menyambut mereka seolah mereka terlambat. Desa itu sejak awal bukan untuk melindungi pengembara; desa itu untuk memperlambatnya, melunakkannya, dan membuatnya percaya ia masih punya pilihan.\n\nPengembara itu sadar bahwa trik tertua di dunia rune adalah narasi: buat seseorang merasa sedang menjalani jalan pahlawan, dan ia akan berjalan sukarela ke dalam jaring.\n\nDalam what if ini, Bab 1 berakhir dengan pengkhianatan pertama. Pengembara itu lari bukan dari prajurit, melainkan dari pendongeng—karena kisah itu sendiri telah menjadi senjata."
+          }
+        },
+        {
+          "id": "what_if_1_marked_man_accepts_capture",
+          "type": "what_if",
+          "title": {
+            "en": "He Walked to the Ship",
+            "id": "Ia Melangkah ke Kapal"
+          },
+          "content": {
+            "en": "In this path, the wanderer does not run. He sees the disciplined crew and recognizes a truth: a mark that draws hunters will keep drawing them, no matter how far he goes.\n\nHe chooses a different kind of control—surrender on his terms. He demands to know who commands them and where they intend to take him. The crew answers only with ritual phrases, which tells him the chain of command is not human.\n\nThe skald protests, because a clean capture ruins the drama. The wanderer realizes the storyteller needs him afraid to make the rune sing.\n\nBy boarding the ship willingly, he denies the underworld of panic and denies the skald the narrative he wanted. The first act of agency is not escape; it is refusing to be chased.\n\nIn this what if, Chapter 1 ends at sea: the wanderer surrounded by calm men, the rune itching beneath cloth, and the certainty that the real trial begins where there is no shore to run to.",
+            "id": "Dalam jalur ini, pengembara itu tidak lari. Ia melihat kru disiplin dan menangkap satu kebenaran: tanda yang mengundang pemburu akan terus mengundang, sejauh apa pun ia pergi.\n\nIa memilih kendali jenis lain—menyerah dengan syaratnya sendiri. Ia menuntut tahu siapa yang memerintah mereka dan ke mana ia akan dibawa. Kru itu hanya menjawab dengan frasa ritual, yang berarti rantai komandonya bukan manusia.\n\nSkald memprotes, karena penangkapan yang bersih merusak dramanya. Pengembara itu sadar pendongeng itu butuh ia takut agar rune “bernyanyi”.\n\nDengan naik ke kapal secara sukarela, ia menolak dunia bawah mendapatkan panik dan menolak skald mendapatkan narasi yang ia inginkan. Tindakan agensi pertama bukan melarikan diri; melainkan menolak untuk diburu.\n\nDalam what if ini, Bab 1 berakhir di laut: pengembara dikelilingi lelaki-lelaki tenang, rune gatal di balik kain, dan kepastian bahwa ujian sebenarnya dimulai saat tak ada pantai untuk dituju."
+          }
+        },
+        {
+          "id": "what_if_1_rune_reveals_second_mark",
+          "type": "what_if",
+          "title": {
+            "en": "The Second Rune Answered",
+            "id": "Rune Kedua Menjawab"
+          },
+          "content": {
+            "en": "In this path, the rune is not alone. When the wanderer grips the skald’s wrist in suspicion, a faint mark flashes beneath the skald’s skin—another rune, older and nearly healed.\n\nThey freeze, both realizing the same thing: the Allfather’s language is not singular. It is a network. One mark is a node, and nodes can find each other.\n\nThe disciplined crew arrives and hesitates, because now they have two targets and conflicting orders. The moment of hesitation is the first crack in their calm.\n\nThe wanderer understands that the skald is not merely a guide or a traitor; he is also marked, and that makes him both useful and dangerous. Alliance becomes possible, but trust becomes expensive.\n\nIn this what if, Chapter 1 ends with a pact made under threat: two marked men running inland together, each unsure whether the other is companion or leash.",
+            "id": "Dalam jalur ini, rune itu tidak sendirian. Saat pengembara itu mencengkeram pergelangan skald karena curiga, sebuah tanda samar menyala di bawah kulit skald—rune lain, lebih tua dan hampir sembuh.\n\nMereka membeku, sama-sama paham: bahasa Sang Allfather tidak tunggal. Ia jejaring. Satu tanda adalah simpul, dan simpul bisa saling menemukan.\n\nKru disiplin tiba dan ragu, karena kini ada dua target dan perintah yang saling bertabrakan. Keraguan itu menjadi retak pertama pada ketenangan mereka.\n\nPengembara sadar skald itu bukan sekadar pemandu atau pengkhianat; ia juga bertanda, dan itu membuatnya sekaligus berguna dan berbahaya. Aliansi mungkin, tetapi percaya menjadi mahal.\n\nDalam what if ini, Bab 1 berakhir dengan pakta di bawah ancaman: dua lelaki bertanda lari ke pedalaman bersama, masing-masing tak yakin apakah yang lain kawan atau tali kekang."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The Road of Ash Pines",
+        "id": "Jalan Pinus Abu"
+      },
+      "preview": {
+        "en": "To stay alive, the marked man must learn the first rule of runes: they are not symbols to admire, but instructions that move the world. And instructions always have a cost.",
+        "id": "Untuk tetap hidup, si bertanda harus belajar aturan pertama rune: ia bukan simbol untuk dikagumi, melainkan instruksi yang menggerakkan dunia. Dan instruksi selalu punya harga."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The Price of Guidance",
+            "id": "Harga Sebuah Tuntunan"
+          },
+          "content": {
+            "en": "They leave before dawn. The skald leads without looking back, moving with the confidence of someone who has already rehearsed this escape in song. The marked man follows because staying means a clean capture.\n\nBehind them, the coast grows louder. The disciplined crew does not rush; it advances like a tide, certain that time will do its work. Villagers who watched from doorways now look away, unwilling to be remembered as witnesses.\n\nThe inland road is not a road at first—only trampled moss and old cart ruts half-swallowed by ash pines. The skald speaks while walking, but not in explanations. He speaks in fragments: names of shrines, a ridge called “the Teeth,” a river that “doesn’t forgive.” Each fragment is a warning wrapped as geography.\n\nAt midday they reach the first boundary: a ring of standing stones older than the village and older than its gods. The rune on the wanderer’s arm burns hotter as they step between the stones, as if something recognizes a key entering a lock.\n\nInside the ring, the air changes. Sound dulls. Even birds seem to hesitate. The skald finally states a rule: the underworld’s hunters can follow tracks, but runes can erase them—if paid for. He produces a small blade and asks for blood, not for sacrifice’s sake, but as ink.\n\nThe marked man refuses at first. He has already been marked without consent; he will not be written on again. But the moment he refuses, the stones answer with a pressure in the ears, like the world insisting that choice has consequences.\n\nHe gives a single cut. Blood beads. The rune flares and then settles, quieter, as if fed. Outside the ring, distant voices rise in confusion—proof that the chase has stumbled.\n\nChapter 2 ends with a bargain made unwillingly. The skald has proven he can influence the rune, but not for free. The marked man realizes the core danger is not the hunters behind him; it is the possibility that his only guide understands the price of runes better than he does—and may decide what he can afford.",
+            "id": "Mereka pergi sebelum fajar. Skald memimpin tanpa menoleh, bergerak dengan keyakinan orang yang sudah berulang kali melatih pelarian ini di dalam lagu. Si bertanda mengikuti karena bertahan berarti tertangkap bersih.\n\nDi belakang, pesisir makin bising. Kru disiplin itu tidak terburu-buru; mereka maju seperti pasang, yakin waktu akan mengerjakan sisanya. Warga yang tadi mengintip dari ambang pintu kini memalingkan muka, enggan dikenang sebagai saksi.\n\nJalan pedalaman mula-mula bukan jalan—hanya lumut yang terinjak dan bekas roda tua yang setengah ditelan pinus abu. Skald berbicara sambil berjalan, tetapi bukan memberi penjelasan. Ia bicara dengan potongan: nama kuil-kuil, punggung bukit bernama “Gigi,” sungai yang “tak memaafkan.” Setiap potongan adalah peringatan yang dibungkus geografi.\n\nTengah hari mereka mencapai batas pertama: lingkar batu tegak yang lebih tua daripada desa dan lebih tua daripada dewa-dewanya. Rune di lengan si pengembara terasa makin panas saat mereka melangkah di antara batu-batu itu, seolah sesuatu mengenali kunci yang masuk ke gembok.\n\nDi dalam lingkaran, udara berubah. Suara meredam. Bahkan burung tampak ragu untuk berkicau. Skald akhirnya menyatakan satu aturan: pemburu dari bawah bisa mengikuti jejak, tetapi rune bisa menghapusnya—jika dibayar. Ia mengeluarkan bilah kecil dan meminta darah, bukan demi kurban, tetapi sebagai tinta.\n\nSi bertanda menolak mula-mula. Ia sudah ditandai tanpa persetujuan; ia tak mau ditulisi lagi. Namun saat ia menolak, batu-batu itu menjawab dengan tekanan di telinga, seperti dunia menegaskan bahwa pilihan punya akibat.\n\nIa memberi satu sayatan. Darah muncul. Rune menyala lalu tenang, lebih sunyi, seolah sudah diberi makan. Di luar lingkaran, suara jauh terdengar kacau—tanda pengejaran tersandung.\n\nBab 2 ditutup dengan tawar-menawar yang dilakukan tanpa rela. Skald membuktikan ia bisa mempengaruhi rune, tetapi tidak gratis. Si bertanda paham bahaya intinya bukan para pemburu di belakang; melainkan kemungkinan bahwa satu-satunya pemandu yang ia punya memahami harga rune lebih baik darinya—dan bisa saja menentukan apa yang sanggup ia bayar."
+          }
+        },
+        {
+          "id": "what_if_2_he_refuses_to_bleed",
+          "type": "what_if",
+          "title": {
+            "en": "He Refused the Ink",
+            "id": "Ia Menolak Tintanya"
+          },
+          "content": {
+            "en": "In this path, the marked man refuses to give blood inside the stone ring. He grips his wrapped arm and decides that if the rune already stole consent once, it will not steal it twice.\n\nThe stones answer with pressure that becomes pain, but he endures it. The skald’s face tightens—not in anger, but in calculation—because the refusal forces a different payment.\n\nOutside the ring, the disciplined crew does not stumble. They do not grow confused. Instead, they arrive at the boundary with quiet certainty, as if the lack of blood leaves the trail loud and readable.\n\nThe marked man learns a brutal rule: refusing a price does not erase the cost; it shifts it. The chase becomes immediate, physical, and messy.\n\nIn this what if, Chapter 2 ends with the ring becoming a trap instead of shelter, and the first lesson of runes is learned the hard way: denial is not immunity—it is a different kind of debt.",
+            "id": "Dalam jalur ini, si bertanda menolak memberi darah di dalam lingkar batu. Ia menggenggam lengannya yang terbalut dan memutuskan: jika rune sudah mencuri persetujuan sekali, ia tidak akan membiarkannya mencuri untuk kedua kalinya.\n\nBatu-batu menjawab dengan tekanan yang berubah menjadi nyeri, tetapi ia bertahan. Wajah skald mengeras—bukan karena marah, melainkan karena menghitung—karena penolakan itu memaksa harga yang berbeda.\n\nDi luar lingkaran, kru disiplin tidak tersandung. Mereka tidak bingung. Mereka justru tiba di batas dengan kepastian sunyi, seolah ketiadaan darah membuat jejak tetap nyaring dan mudah dibaca.\n\nSi bertanda belajar aturan brutal: menolak harga tidak menghapus biaya; ia hanya memindahkannya. Pengejaran menjadi segera, fisik, dan kotor.\n\nDalam what if ini, Bab 2 ditutup dengan lingkar batu berubah menjadi perangkap, bukan perlindungan, dan pelajaran pertama rune dipahami dengan cara paling keras: penolakan bukan kebal—ia utang jenis lain."
+          }
+        },
+        {
+          "id": "what_if_2_skald_asks_for_memory_not_blood",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Demanded a Memory",
+            "id": "Skald Meminta Ingatan"
+          },
+          "content": {
+            "en": "In this path, the skald does not ask for blood. He asks for a memory—one specific moment the marked man would rather keep unnamed. He claims the stones accept more than red ink.\n\nThe marked man hesitates because memory is harder to replace than flesh. A cut heals. A stolen memory leaves a hollow that never closes.\n\nWhen he yields, the rune cools without flaring, and the air inside the ring becomes strangely gentle. Outside, the hunters falter as if they have lost the scent—not because tracks vanished, but because the marked man has become less himself.\n\nThe skald’s guidance now feels terrifyingly efficient. He can pay costs the marked man cannot measure, and each “help” changes who is being saved.\n\nIn this what if, Chapter 2 ends with the marked man safe for a night, but lighter in the worst way: alive, moving, and missing an internal anchor he didn’t realize was holding him together.",
+            "id": "Dalam jalur ini, skald tidak meminta darah. Ia meminta sebuah ingatan—satu momen spesifik yang si bertanda lebih suka tetap tak bernama. Ia mengklaim batu-batu menerima lebih dari tinta merah.\n\nSi bertanda ragu karena ingatan lebih sulit diganti daripada daging. Sayatan sembuh. Ingatan yang dicuri meninggalkan rongga yang tak pernah menutup.\n\nKetika ia menyerah, rune justru mendingin tanpa menyala, dan udara di dalam lingkar jadi anehnya lembut. Di luar, para pemburu tersandung seolah kehilangan jejak—bukan karena jejak hilang, melainkan karena si bertanda menjadi kurang dirinya sendiri.\n\nTuntunan skald kini terasa mengerikan karena terlalu efisien. Ia bisa membayar harga yang tak bisa diukur si bertanda, dan setiap “pertolongan” mengubah siapa yang sebenarnya sedang diselamatkan.\n\nDalam what if ini, Bab 2 ditutup dengan si bertanda selamat semalam, tetapi lebih ringan dengan cara terburuk: hidup, bergerak, dan kehilangan jangkar batin yang ia tak sadar selama ini menahannya tetap utuh."
+          }
+        },
+        {
+          "id": "what_if_2_the_stones_mark_the_skald",
+          "type": "what_if",
+          "title": {
+            "en": "The Ring Chose the Skald",
+            "id": "Lingkar Batu Memilih Skald"
+          },
+          "content": {
+            "en": "In this path, the marked man bleeds—but the rune does not flare on his arm. Instead, the standing stones answer by burning a faint rune onto the skald’s palm.\n\nFor a heartbeat, both men freeze. The skald has spoken about runes as if he controls them, but the world has just demonstrated that control goes both ways.\n\nThe hunters outside grow cautious. Their chain of command was tuned to one marked target, and the sudden appearance of a second mark introduces uncertainty. The tide hesitates.\n\nThe marked man realizes the skald’s knowledge may not equal authority. The skald realizes his role is no longer purely storyteller—he is now evidence.\n\nIn this what if, Chapter 2 ends with a reluctant partnership turning sharper. Two marked men now walk the road of ash pines, each aware that the Allfather may be writing on both of them for reasons neither can admit.",
+            "id": "Dalam jalur ini, si bertanda berdarah—tetapi rune tidak menyala di lengannya. Sebaliknya, batu-batu tegak menjawab dengan membakar rune samar di telapak skald.\n\nSejenak, dua-duanya membeku. Skald selama ini bicara tentang rune seolah ia menguasainya, tetapi dunia baru saja menunjukkan bahwa kendali berjalan dua arah.\n\nPara pemburu di luar menjadi hati-hati. Rantai komando mereka disetel untuk satu target bertanda, dan munculnya tanda kedua secara mendadak menambah ketidakpastian. Pasang itu ragu.\n\nSi bertanda sadar pengetahuan skald belum tentu sama dengan otoritas. Skald sadar perannya bukan lagi sekadar pendongeng—ia kini bukti.\n\nDalam what if ini, Bab 2 ditutup dengan kemitraan enggan yang berubah lebih tajam. Dua lelaki bertanda kini menempuh jalan pinus abu, sama-sama tahu Sang Allfather mungkin sedang menulis pada keduanya untuk alasan yang tak bisa mereka akui."
+          }
+        },
+        {
+          "id": "what_if_2_the_ring_demands_a_life",
+          "type": "what_if",
+          "title": {
+            "en": "Shelter That Ate a Name",
+            "id": "Perlindungan yang Memakan Nama"
+          },
+          "content": {
+            "en": "In this path, blood is not enough. The moment the marked man’s drop hits the stone, the ring demands a fuller payment: a life, a name, a final breath offered to seal the hiding.\n\nThe skald tries to bargain in verse, but the stones do not care for poetry. The demand is simple and ancient: nothing disappears without something being taken.\n\nA choice appears with cruel clarity. Sacrifice himself and spare the skald, sacrifice the skald and keep moving, or refuse and face the hunters in the open.\n\nWhatever is chosen, the marked man learns the second rule of runes: they do not “help.” They trade. And trade does not ask what is fair.\n\nIn this what if, Chapter 2 ends with the chase paused—but at the price of grief that cannot be wrapped in cloth. The road inland continues, heavier with a name that will not stop echoing.",
+            "id": "Dalam jalur ini, darah tidak cukup. Begitu setetes darah si bertanda menyentuh batu, lingkar itu menuntut pembayaran yang lebih penuh: satu nyawa, satu nama, satu napas terakhir untuk menyegel penghilangan jejak.\n\nSkald mencoba menawar dengan syair, tetapi batu-batu tak peduli puisi. Tuntutannya sederhana dan tua: tak ada yang lenyap tanpa ada yang diambil.\n\nPilihan muncul dengan kejelasan yang kejam. Korbankan diri dan selamatkan skald, korbankan skald dan terus bergerak, atau menolak dan menghadapi pemburu di ruang terbuka.\n\nApa pun yang dipilih, si bertanda belajar aturan kedua rune: rune tidak pernah “menolong.” Ia menukar. Dan pertukaran tidak bertanya apa yang adil.\n\nDalam what if ini, Bab 2 ditutup dengan pengejaran yang tertahan—tetapi dibayar dengan duka yang tak bisa dibalut kain. Jalan ke pedalaman berlanjut, lebih berat oleh sebuah nama yang tak berhenti bergema."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Shrine of the Hanging God",
+        "id": "Kuil Sang Dewa Tergantung"
+      },
+      "preview": {
+        "en": "The skald promises answers in an old shrine, but answers are never free. To learn what the rune is, the marked man must risk becoming what the rune demands.",
+        "id": "Skald menjanjikan jawaban di kuil tua, tetapi jawaban tak pernah gratis. Untuk tahu apa itu rune, si bertanda harus berisiko menjadi apa yang diminta rune."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Lesson of the Rope",
+            "id": "Pelajaran dari Tali"
+          },
+          "content": {
+            "en": "They travel deeper into the ash pines, following game trails that avoid open ground. The rune stays quiet after the payment in the stone ring, but its silence feels watchful, like a mouth that has closed only to listen.\n\nBy evening the skald leads the marked man to a shrine hidden in a cleft of rock. No village guards it. No priest tends it. The place is older than comfort—wooden beams blackened by smoke, carvings worn smooth by hands that came here to bargain with fear.\n\nAt the center hangs a rope from a crossbeam, stiff with age. Beneath it sits a bowl of ash and bone-dust, and beside it a set of runic cuts carved into the wood. The skald says little. He only points, as if the shrine’s meaning should be obvious to anyone who has been marked.\n\nThe marked man understands the threat before the instruction: this is not a place to ask questions. This is a place to pay for them. The skald finally admits what he has avoided saying—runes are knowledge that demands embodiment. To read the Allfather’s writing is to let it write back.\n\nOutside, the hunters draw closer. They do not enter the shrine’s cleft; they circle it, waiting. They know something about old places: they can be cages as easily as shelters.\n\nThe marked man is forced into a choice shaped like ritual. If he refuses the shrine’s rite, he must flee into the open with the hunters near enough to smell him. If he accepts, he risks binding himself more tightly to the rune—trading freedom for understanding.\n\nHe steps beneath the rope. The skald cuts the wrap from his forearm and exposes the mark. The rune responds for the first time without blood: it warms at the sight of the rope, as if recognizing a familiar grammar.\n\nThe skald does not hang him. He teaches him how close to the edge the Allfather’s knowledge lives: a controlled strangling of breath, a deliberate narrowing of the world, a moment where panic must be mastered or it will master you. The shrine’s lesson is not death—it is proximity.\n\nWhen the marked man comes down, shaking and alive, the rune looks clearer, as if one stroke has been added by an unseen hand. In the silence after, he realizes the most dangerous part: he can now feel the rune’s intent as a direction, a pull toward something further inland.\n\nChapter 3 ends with movement resumed under worse terms. The hunters are still there, the skald is still his only interpreter, and now the marked man has learned that to gain control over the rune he must repeatedly approach the boundary where control dissolves.",
+            "id": "Mereka masuk lebih jauh ke pinus abu, mengikuti jejak hewan agar tak lewat tanah terbuka. Rune tetap sunyi setelah “pembayaran” di lingkar batu, tetapi sunyinya terasa mengawasi—seperti mulut yang menutup bukan untuk diam, melainkan untuk mendengar.\n\nMenjelang senja skald membawa si bertanda ke sebuah kuil yang tersembunyi di celah batu. Tak ada desa yang menjaganya. Tak ada imam yang merawatnya. Tempat ini lebih tua daripada rasa nyaman—balok kayunya menghitam oleh asap, ukirannya aus digosok tangan orang-orang yang datang untuk menawar dengan takut.\n\nDi pusatnya tergantung seutas tali dari balok lintang, kaku dimakan usia. Di bawahnya ada mangkuk berisi abu dan serbuk tulang, dan di sampingnya guratan rune yang dipahat pada kayu. Skald hampir tak bicara. Ia hanya menunjuk, seolah makna kuil itu seharusnya jelas bagi siapa pun yang sudah ditandai.\n\nSi bertanda paham ancaman sebelum instruksi: ini bukan tempat untuk bertanya. Ini tempat untuk membayar. Skald akhirnya mengakui yang selama ini ia tahan—rune adalah pengetahuan yang menuntut perwujudan. Membaca tulisan Sang Allfather berarti membiarkan ia menulis balik.\n\nDi luar, para pemburu makin dekat. Mereka tidak masuk ke celah kuil; mereka mengitarinya, menunggu. Mereka tahu sesuatu tentang tempat tua: ia bisa jadi kandang sama mudahnya seperti perlindungan.\n\nSi bertanda dipaksa pada pilihan yang berbentuk ritual. Jika ia menolak ritus kuil, ia harus lari ke ruang terbuka dengan para pemburu sudah cukup dekat untuk mencium. Jika ia menerima, ia berisiko mengikat dirinya lebih erat pada rune—menukar kebebasan dengan pengertian.\n\nIa melangkah ke bawah tali. Skald membuka balutan lengannya dan memperlihatkan tanda itu. Rune merespons untuk pertama kali tanpa darah: ia hangat saat melihat tali, seolah mengenali tata bahasa yang familier.\n\nSkald tidak menggantungnya. Ia mengajarinya seberapa dekat pengetahuan Sang Allfather tinggal di tepi: pencekikan napas yang terkendali, penyempitan dunia yang disengaja, momen ketika panik harus ditaklukkan atau ia akan menaklukkanmu. Pelajaran kuil bukan kematian—melainkan kedekatan.\n\nKetika si bertanda turun, gemetar namun hidup, rune tampak lebih jelas, seolah satu guratan ditambahkan oleh tangan yang tak terlihat. Dalam sunyi sesudahnya, ia sadar bagian paling berbahaya: kini ia bisa merasakan niat rune sebagai arah, tarikan menuju sesuatu yang lebih jauh di pedalaman.\n\nBab 3 ditutup dengan perjalanan yang berlanjut dalam syarat yang lebih buruk. Para pemburu masih ada, skald tetap satu-satunya penerjemah, dan kini si bertanda tahu bahwa untuk menguasai rune ia harus berulang kali mendekati batas tempat kendali justru larut."
+          }
+        },
+        {
+          "id": "what_if_3_he_refuses_the_rope",
+          "type": "what_if",
+          "title": {
+            "en": "He Refused the Rope",
+            "id": "Ia Menolak Talinya"
+          },
+          "content": {
+            "en": "In this path, the marked man steps into the shrine—and stops. The rope above him feels like a sentence already spoken. He refuses to let the Allfather’s knowledge be purchased with his throat.\n\nThe skald warns him that the hunters outside will not offer a cleaner fate. But the marked man chooses the only control he can still claim: he will not perform a ritual he does not understand.\n\nThey leave the cleft without the shrine’s protection. The disciplined crew closes in immediately, and the escape becomes a brutal run through ash pines, roots, and rock.\n\nThe rune stays silent, offering no pull and no guidance—because it has not been fed the rite it wanted. The marked man learns a harsh trade: dignity can be preserved, but it may cost direction.\n\nIn this what if, Chapter 3 ends with survival by speed alone. The marked man remains less bound to the rune, but far more exposed to the world that hunts him.",
+            "id": "Dalam jalur ini, si bertanda melangkah masuk ke kuil—lalu berhenti. Tali di atasnya terasa seperti vonis yang sudah diucapkan. Ia menolak membiarkan pengetahuan Sang Allfather dibeli dengan tenggorokannya.\n\nSkald memperingatkan bahwa para pemburu di luar tidak akan memberi nasib yang lebih bersih. Namun si bertanda memilih satu-satunya kendali yang masih bisa ia klaim: ia tidak akan menjalankan ritus yang tidak ia pahami.\n\nMereka keluar dari celah tanpa perlindungan kuil. Kru disiplin segera menutup jarak, dan pelarian berubah menjadi lari brutal di antara pinus abu, akar, dan batu.\n\nRune tetap diam, tak memberi tarikan maupun arah—karena ia belum diberi ritus yang ia inginkan. Si bertanda belajar pertukaran yang keras: martabat bisa dijaga, tetapi ia bisa dibayar dengan hilangnya petunjuk.\n\nDalam what if ini, Bab 3 berakhir dengan bertahan hidup hanya lewat kecepatan. Si bertanda jadi lebih sedikit terikat pada rune, tetapi jauh lebih terbuka pada dunia yang memburunya."
+          }
+        },
+        {
+          "id": "what_if_3_skald_hangs_him_too_long",
+          "type": "what_if",
+          "title": {
+            "en": "One Breath Too Far",
+            "id": "Satu Napas Terlalu Jauh"
+          },
+          "content": {
+            "en": "In this path, the lesson of proximity slips into arrogance. The skald keeps the rope tight a heartbeat longer than promised—either by mistake or by hunger for a clearer rune.\n\nThe marked man’s vision narrows into a tunnel of black-gold light. He hears the hall from his dream not as memory but as presence. The one-eyed figure does not whisper; it *commands*.\n\nWhen he is cut down, he lives, but something inside him has shifted. The rune is sharper—yes—but so is the pull behind it. The mark no longer feels like an itch; it feels like a hand.\n\nOutside, the hunters recoil for a moment, sensing the change. They are no longer pursuing a man who carries a rune; they are pursuing a man the rune is beginning to carry.\n\nIn this what if, Chapter 3 ends with a corrupted victory. Knowledge has been gained, but agency has thinned, and the marked man must now fight not only the hunters—he must fight the rune’s growing certainty.",
+            "id": "Dalam jalur ini, pelajaran tentang kedekatan tergelincir menjadi kesombongan. Skald menahan tali satu detak lebih lama dari yang dijanjikan—entah karena salah atau karena lapar akan rune yang lebih jelas.\n\nPenglihatan si bertanda menyempit menjadi terowongan cahaya hitam-emas. Ia mendengar aula dari mimpinya bukan sebagai ingatan, melainkan sebagai kehadiran. Sosok bermata satu tidak membisik; ia *memerintah*.\n\nKetika ia diturunkan, ia hidup, tetapi ada yang bergeser di dalam dirinya. Rune memang lebih tajam—tetapi tarikan di baliknya juga lebih keras. Tanda itu tak lagi terasa seperti gatal; ia terasa seperti tangan.\n\nDi luar, para pemburu mundur sesaat, mencium perubahan. Mereka tak lagi mengejar manusia yang membawa rune; mereka mengejar manusia yang mulai dibawa oleh rune.\n\nDalam what if ini, Bab 3 berakhir sebagai kemenangan yang tercemar. Pengetahuan didapat, tetapi agensi menipis, dan si bertanda kini harus melawan bukan hanya pemburu—melainkan kepastian rune yang kian membesar."
+          }
+        },
+        {
+          "id": "what_if_3_shrine_is_a_cage",
+          "type": "what_if",
+          "title": {
+            "en": "The Shrine Closed Like a Door",
+            "id": "Kuil Itu Menutup Seperti Pintu"
+          },
+          "content": {
+            "en": "In this path, the marked man steps beneath the rope—and the shrine responds. The air thickens, the cleft’s opening seems to narrow, and sound outside becomes distant, as if the world has been muffled by stone.\n\nThe skald realizes too late what old shrines can be: not sanctuaries, but locks. The Allfather’s older bargains were built to hold offerings in place.\n\nThe hunters outside stop circling and start waiting. They understand the same thing: the marked man cannot flee quickly if the shrine itself is holding him.\n\nInside, the rune warms with satisfaction, as if it has finally brought its bearer to the correct container. The rope is no longer a symbol; it is the handle of the trap.\n\nIn this what if, Chapter 3 ends with the marked man forced to perform the rite repeatedly to earn moments of loosened air—learning that some knowledge is designed to keep you near it, not to free you from it.",
+            "id": "Dalam jalur ini, si bertanda melangkah ke bawah tali—dan kuil merespons. Udara mengental, mulut celah seolah menyempit, dan suara di luar menjadi jauh, seperti dunia dibekap oleh batu.\n\nSkald terlambat sadar apa yang bisa dilakukan kuil tua: bukan perlindungan, melainkan kunci. Tawar-menawar paling tua Sang Allfather dibangun untuk menahan persembahan di tempatnya.\n\nPara pemburu di luar berhenti mengitari dan mulai menunggu. Mereka memahami hal yang sama: si bertanda tak bisa kabur cepat jika kuil sendiri sedang menahannya.\n\nDi dalam, rune menghangat dengan puas, seolah akhirnya membawa pemiliknya ke wadah yang benar. Tali itu bukan lagi simbol; ia pegangan jebakan.\n\nDalam what if ini, Bab 3 berakhir dengan si bertanda dipaksa menjalankan ritus berulang kali untuk “membeli” momen udara yang lebih longgar—belajar bahwa sebagian pengetahuan memang dirancang untuk menahanmu tetap dekat, bukan membebaskanmu."
+          }
+        },
+        {
+          "id": "what_if_3_hunters_break_the_taboo",
+          "type": "what_if",
+          "title": {
+            "en": "They Entered the Old Shrine",
+            "id": "Mereka Masuk ke Kuil Tua"
+          },
+          "content": {
+            "en": "In this path, the disciplined crew refuses to respect the shrine’s age. They push into the cleft, stepping over ash and bone-dust with soldierly indifference.\n\nFor a moment, nothing happens—then the shrine reacts like a sleeping animal waking. The air bites cold, the rope creaks without wind, and the runic cuts on the beams seem to darken.\n\nThe hunters realize the taboo was not superstition; it was safety protocol. Some of them panic, and panic is the first crack in their discipline.\n\nThe marked man sees opportunity in the chaos, but it is a vicious one: escape may require letting the shrine take a payment from the intruders.\n\nIn this what if, Chapter 3 ends with the cleft becoming a battlefield between two kinds of power—human organization versus ancient rule—and the marked man learning that survival sometimes means choosing which monster eats first.",
+            "id": "Dalam jalur ini, kru disiplin menolak menghormati usia kuil. Mereka mendorong masuk ke celah, melangkahi abu dan serbuk tulang dengan acuh ala prajurit.\n\nSesaat tak terjadi apa-apa—lalu kuil bereaksi seperti hewan tidur yang bangun. Udara menggigit dingin, tali berderit tanpa angin, dan guratan rune di balok seolah menggelap.\n\nPara pemburu sadar tabu itu bukan takhayul; itu protokol keselamatan. Sebagian panik, dan panik adalah retak pertama pada disiplin mereka.\n\nSi bertanda melihat peluang di dalam kekacauan, tetapi peluangnya kejam: kabur mungkin menuntut membiarkan kuil memungut harga dari para penyusup.\n\nDalam what if ini, Bab 3 ditutup dengan celah kuil menjadi medan tempur dua jenis kuasa—organisasi manusia melawan aturan purba—dan si bertanda belajar bahwa bertahan hidup kadang berarti memilih monster mana yang makan lebih dulu."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Teeth Ridge",
+        "id": "Punggung Bukit Gigi"
+      },
+      "preview": {
+        "en": "The rune does not point toward safety. It points toward a place built to strip names away—where even a companion can become a cost.",
+        "id": "Rune tidak menunjuk ke keselamatan. Ia menunjuk ke tempat yang dibuat untuk menguliti nama—tempat di mana bahkan seorang kawan bisa berubah jadi harga."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The Bridge of Names",
+            "id": "Jembatan Bernama Nama"
+          },
+          "content": {
+            "en": "They leave the hidden shrine before the night fully settles, not because they are ready, but because staying too long turns any shelter into a ledger. The marked man’s throat still remembers the rope. The rune on his forearm feels sharper, like a blade that has learned its angle.\n\nThe skald leads them toward the ridge he called “the Teeth.” As dawn comes, the land rises into jagged stone spines that bite the sky. Narrow paths thread between cliffs, and wind whistles through cracks like speech without a mouth.\n\nHere the hunters gain ground. Their discipline is built for open pursuit, but the ridge forces them into single file. The skald uses this, guiding the marked man across ledges that look like mistakes. Each step is a choice between falling and being caught.\n\nAt the ridge’s heart they find a bridge—two dead pines fallen across a chasm, lashed together with old rope and iron nails that have gone black. Carved into the wood are runic cuts, faint but deliberate. The skald goes quiet in a way that signals fear.\n\nHe explains the rule of this place: the bridge will not hold someone who carries an unspoken name. It demands identification, not for honor but for ownership. Say who you are, and the bridge recognizes you. Refuse, and the crossing turns into collapse.\n\nThe marked man cannot answer. He truly does not know his own name—or he knows it but has buried it so deep it has become another kind of lie. The skald urges him to speak anything, to invent if necessary. A false name, he says, is better than no name.\n\nBut the rune on the marked man’s arm pulses against the idea of invention. It wants truth, not because truth is moral, but because truth is binding. In that pulse, he understands a terrifying possibility: the rune is not merely guiding him to a destination; it is shaping him into a form that can be *claimed*.\n\nBehind them, the hunters appear between stones—quiet, steady, close enough that surrender begins to feel like a rest. The marked man steps onto the bridge anyway.\n\nHe speaks the first name that rises from the dark part of his memory. The bridge shudders, as if tasting the sound, and holds.\n\nChapter 4 ends mid-crossing, suspended over the chasm. The marked man has given the world a name to attach to him, and in doing so he has created a new vulnerability. The rune is warm, satisfied. The skald looks relieved—but also haunted, because he knows the next question: once a name is spoken, who hears it first—friend, hunter, or the Allfather himself?",
+            "id": "Mereka meninggalkan kuil tersembunyi sebelum malam benar-benar padat, bukan karena sudah siap, tetapi karena terlalu lama tinggal membuat perlindungan berubah menjadi buku utang. Tenggorok si bertanda masih “mengingat” tali. Rune di lengannya terasa lebih tajam, seperti bilah yang sudah belajar sudutnya.\n\nSkald menuntun mereka menuju punggung bukit yang ia sebut “Gigi.” Saat fajar datang, tanah naik menjadi tulang punggung batu bergerigi yang menggigit langit. Jalur sempit menjahit tebing, dan angin bersiul di celah seperti ucapan tanpa mulut.\n\nDi sini para pemburu mengejar jarak. Disiplin mereka cocok untuk pengejaran terbuka, tetapi bukit memaksa mereka berjalan satu baris. Skald memanfaatkan itu, menggiring si bertanda melintasi tepian yang tampak seperti kesalahan. Tiap langkah adalah pilihan antara jatuh dan tertangkap.\n\nDi jantung punggung bukit mereka menemukan sebuah jembatan—dua pinus mati tumbang melintang jurang, diikat tali tua dan paku besi yang menghitam. Pada kayunya ada guratan rune, samar tetapi sengaja. Skald mendadak sunyi dengan cara yang menandakan takut.\n\nIa menjelaskan aturan tempat itu: jembatan tak akan menahan seseorang yang membawa nama yang tak diucapkan. Ia menuntut identifikasi—bukan demi kehormatan, melainkan demi kepemilikan. Ucapkan siapa dirimu, dan jembatan mengenalimu. Menolak, dan penyeberangan berubah jadi runtuh.\n\nSi bertanda tak bisa menjawab. Ia sungguh tidak tahu namanya sendiri—atau ia tahu tetapi menguburnya sedalam itu hingga berubah menjadi kebohongan jenis lain. Skald mendesaknya mengucap apa pun, mengarang jika perlu. Nama palsu, katanya, lebih baik daripada tanpa nama.\n\nNamun rune di lengan si bertanda berdenyut menolak gagasan mengarang. Ia menginginkan kebenaran—bukan karena kebenaran itu moral, melainkan karena kebenaran mengikat. Dari denyut itu, si bertanda paham kemungkinan yang mengerikan: rune bukan sekadar menuntunnya ke tujuan; rune sedang membentuknya menjadi wujud yang bisa *diklaim*.\n\nDi belakang, para pemburu muncul di sela batu—sunyi, tetap, dekat, cukup dekat hingga menyerah mulai terasa seperti istirahat. Si bertanda tetap melangkah ke jembatan.\n\nIa mengucapkan nama pertama yang naik dari bagian gelap ingatannya. Jembatan bergetar, seolah mengecap bunyinya, lalu menahan.\n\nBab 4 berakhir di tengah penyeberangan, tergantung di atas jurang. Si bertanda telah memberi dunia sebuah nama untuk menempel padanya, dan dengan itu ia menciptakan kerentanan baru. Rune hangat, puas. Skald tampak lega—namun juga dihantui, karena ia tahu pertanyaan berikutnya: setelah nama diucapkan, siapa yang mendengarnya lebih dulu—kawan, pemburu, atau Sang Allfather sendiri?"
+          }
+        },
+        {
+          "id": "what_if_4_he_lies_about_his_name",
+          "type": "what_if",
+          "title": {
+            "en": "He Spoke a False Name",
+            "id": "Ia Mengucap Nama Palsu"
+          },
+          "content": {
+            "en": "In this path, the marked man chooses invention. He speaks a name that feels sturdy enough to wear, hoping the bridge only wants sound, not truth.\n\nFor a moment the bridge holds. The hunters hesitate, seeing the crossing succeed. The skald exhales, believing the trick worked.\n\nThen the rune on the forearm flares—not hot, but cold, like iron pulled from snow. The wood beneath the marked man’s foot begins to soften and splinter as if rejecting the lie. The bridge does not collapse immediately; it bends, giving him time to understand what is happening.\n\nThe marked man learns that a false name is not neutral. It is a debt written in advance. Each step forward becomes a payment.\n\nIn this what if, Chapter 4 ends with a desperate sprint across a bridge that is actively trying to unmake itself beneath him—because the world can tolerate fear, but it will not tolerate being misnamed.",
+            "id": "Dalam jalur ini, si bertanda memilih mengarang. Ia mengucapkan nama yang terasa cukup kokoh untuk dipakai, berharap jembatan hanya butuh bunyi, bukan kebenaran.\n\nSesaat jembatan menahan. Para pemburu ragu, melihat penyeberangan tampak berhasil. Skald menghembuskan napas, mengira siasatnya bekerja.\n\nLalu rune di lengan menyala—bukan panas, melainkan dingin, seperti besi yang baru diangkat dari salju. Kayu di bawah kaki si bertanda mulai melunak dan retak, seolah menolak kebohongan. Jembatan tidak langsung runtuh; ia melentur, memberi waktu untuk paham apa yang terjadi.\n\nSi bertanda belajar bahwa nama palsu bukan netral. Ia utang yang ditulis di muka. Setiap langkah maju berubah jadi pembayaran.\n\nDalam what if ini, Bab 4 berakhir dengan lari putus asa di atas jembatan yang sedang berusaha membongkar dirinya sendiri di bawahnya—karena dunia bisa menoleransi takut, tetapi tak menoleransi salah nama."
+          }
+        },
+        {
+          "id": "what_if_4_skald_says_his_name_instead",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Named Him",
+            "id": "Skald Menamai Dia"
+          },
+          "content": {
+            "en": "In this path, the marked man cannot speak. The name stays stuck behind the memory of the rope, behind panic, behind the terror of being claimed.\n\nThe skald steps forward and speaks a name for him—confidently, like a storyteller deciding a character’s fate. The bridge accepts it and steadies.\n\nThe marked man crosses, but the relief is poisoned. If someone else can name him into existence, someone else can rewrite him again. The skald’s guidance begins to look less like help and more like authorship.\n\nBehind them, the hunters recognize what happened. They stop pursuing the man and start pursuing the name—because a name can be tracked through mouths.\n\nIn this what if, Chapter 4 ends with a new dependency: the marked man is safe for the moment, but his identity now belongs partly to the skald’s voice, and that voice can be bought, threatened, or broken.",
+            "id": "Dalam jalur ini, si bertanda tak mampu bicara. Nama itu tersangkut di balik ingatan tali, di balik panik, di balik takut untuk diklaim.\n\nSkald maju dan menyebutkan nama untuknya—dengan yakin, seperti pendongeng yang sedang memutus nasib tokoh. Jembatan menerimanya dan menjadi stabil.\n\nSi bertanda menyeberang, tetapi leganya tercemar. Jika orang lain bisa menamai dirinya menjadi ada, orang lain juga bisa menulis ulang dirinya. Tuntunan skald mulai tampak bukan pertolongan, melainkan kepengarangan.\n\nDi belakang, para pemburu mengenali apa yang barusan terjadi. Mereka berhenti mengejar si manusia dan mulai mengejar namanya—karena nama bisa dilacak lewat mulut.\n\nDalam what if ini, Bab 4 berakhir dengan ketergantungan baru: si bertanda selamat sesaat, tetapi identitasnya kini sebagian milik suara skald, dan suara itu bisa dibeli, diancam, atau dipatahkan."
+          }
+        },
+        {
+          "id": "what_if_4_the_bridge_demands_two_names",
+          "type": "what_if",
+          "title": {
+            "en": "The Bridge Wanted a Pair",
+            "id": "Jembatan Menuntut Sepasang Nama"
+          },
+          "content": {
+            "en": "In this path, the marked man speaks his name and the bridge holds—but only halfway. The runic cuts deepen, as if listening for a second sound.\n\nThe skald realizes the bridge is older than individual bargains. It was built for processions, for oaths made in pairs, for crossings that bind two fates together. One name is incomplete.\n\nThe marked man turns and demands the skald speak his own name. The skald hesitates, because once spoken here, a name becomes part of the ridge’s memory.\n\nBehind them the hunters approach, forcing urgency. The skald finally speaks, and the bridge tightens into solidity, accepting them as a unit.\n\nIn this what if, Chapter 4 ends with a bond that cannot be undone easily. The marked man gains stability, but he also gains a tether: the skald is no longer just a companion—he is structurally attached to the crossing and to whatever hears names in stone.",
+            "id": "Dalam jalur ini, si bertanda mengucapkan namanya dan jembatan menahan—tetapi hanya setengah. Guratan rune mengental, seolah sedang menunggu bunyi kedua.\n\nSkald sadar jembatan itu lebih tua daripada tawar-menawar individu. Ia dibangun untuk arak-arakan, untuk sumpah berpasangan, untuk penyeberangan yang mengikat dua takdir. Satu nama tidak lengkap.\n\nSi bertanda berbalik dan menuntut skald menyebut namanya sendiri. Skald ragu, karena begitu diucapkan di sini, nama akan menjadi bagian dari ingatan punggung bukit.\n\nDi belakang, pemburu mendekat, memaksa tergesa. Skald akhirnya menyebut, dan jembatan mengencang menjadi kokoh, menerima mereka sebagai satu unit.\n\nDalam what if ini, Bab 4 berakhir dengan ikatan yang sulit dilepas. Si bertanda mendapat kestabilan, tetapi ia juga mendapat tali: skald bukan lagi sekadar kawan—ia terpasang secara struktural pada penyeberangan dan pada apa pun yang mendengar nama di batu."
+          }
+        },
+        {
+          "id": "what_if_4_hunters_cross_first",
+          "type": "what_if",
+          "title": {
+            "en": "The Hunters Took the Bridge",
+            "id": "Pemburu Merebut Jembatan"
+          },
+          "content": {
+            "en": "In this path, the marked man delays too long at the threshold. The hunters arrive and do not attack immediately; they move with ritual precision.\n\nOne of them steps onto the bridge and speaks a name with confidence. The bridge accepts the hunter, proving the place is not allied to the marked man—it is allied to the rule.\n\nNow the crossing is no longer escape; it is capture. The hunters occupy the far side, turning the chasm into a funnel. The marked man is trapped between cliff and law.\n\nThe skald whispers that this was always the underworld’s strength: it does not need to be stronger than you, only earlier than you—first to the rule, first to the name.\n\nIn this what if, Chapter 4 ends with a grim standoff. The marked man must either fight on the narrow ledge, jump into the chasm, or surrender his name into the hands that arrived first.",
+            "id": "Dalam jalur ini, si bertanda terlalu lama ragu di ambang. Para pemburu tiba dan tidak langsung menyerang; mereka bergerak dengan presisi ritual.\n\nSalah satu dari mereka melangkah ke jembatan dan mengucapkan nama dengan yakin. Jembatan menerima si pemburu, membuktikan tempat itu tidak berpihak pada si bertanda—ia berpihak pada aturan.\n\nKini penyeberangan bukan lagi pelarian; ia penangkapan. Para pemburu menguasai sisi seberang, mengubah jurang menjadi corong. Si bertanda terjepit antara tebing dan hukum.\n\nSkald berbisik bahwa inilah kekuatan dunia bawah sejak awal: ia tak perlu lebih kuat darimu, cukup lebih dulu darimu—lebih dulu ke aturan, lebih dulu ke nama.\n\nDalam what if ini, Bab 4 ditutup dengan kebuntuan yang muram. Si bertanda harus memilih: bertarung di tepian sempit, melompat ke jurang, atau menyerahkan namanya ke tangan yang datang lebih dulu."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The River That Doesn’t Forgive",
+        "id": "Sungai yang Tak Memaafkan"
+      },
+      "preview": {
+        "en": "A name spoken aloud can hold a bridge. But it can also summon what listens. The river ahead is not a path—it is a test of what the marked man is willing to lose to keep moving.",
+        "id": "Nama yang diucapkan bisa menahan jembatan. Tapi ia juga bisa memanggil sesuatu yang mendengar. Sungai di depan bukan jalur—ia ujian tentang apa yang rela dilepaskan si bertanda agar tetap melaju."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "Oaths in Cold Water",
+            "id": "Sumpah di Air Dingin"
+          },
+          "content": {
+            "en": "They reach the far side of the chasm at last, breath ragged and hands raw from rope and stone. Behind them the hunters do not shout. They do not threaten. They simply watch, as if confident that the land itself will finish what they began.\n\nThe ridge falls away into a narrow valley where a river cuts through black rock. The skald’s earlier warning returns in the sound of it: water moving fast enough to erase footprints, cold enough to steal grip, loud enough to drown conversation. He calls it the river that doesn’t forgive.\n\nA ferry would be too easy. A bridge would be too honest. Here there is only a ford, marked by old cairns and a single runic post leaning toward the current like a finger pointing down.\n\nThe rune on the marked man’s arm begins to throb in time with the water. It is not fear. It is recognition. He feels, with growing clarity, that the rune does not merely want him inland—it wants him *changed* by thresholds.\n\nThe skald explains the rule of the ford: you cross by giving something up to the current. Not a coin. Not a promise. Something real enough that the river can carry it away. The old songs call it an oath made physical.\n\nThe marked man argues that he has already paid in blood and breath. The skald answers that those payments were ink. This is editing. If a name has been spoken, it must now be tested—because names are easy to say and hard to live.\n\nThe hunters appear on the ridge above like silhouettes cut from iron. They do not rush the ford. They wait, knowing the river is hungry and the marked man is tired.\n\nThe marked man steps into the water. Cold bites up to the bone. The current tries to twist his knees, to steal balance, to make him kneel. Halfway across, the rune burns and the spoken name echoes in his skull as if the river itself is repeating it.\n\nHe understands what must be surrendered. It is not his life. Not yet. It is his old story—the version of himself that still thinks he can outrun fate without being touched by it. He speaks an oath into the roar and lets the river take the last comfort he still held: the hope of returning unchanged.\n\nThe current eases, not kindly, but as if satisfied. He reaches the far bank and collapses, alive. The rune is calmer, but heavier, like a seal pressed deeper into wax.\n\nChapter 5 ends with the skald kneeling beside him and speaking the next destination at last: an inland ruin where the Allfather’s runes were once carved into living men, not to bless them, but to turn them into instruments. The marked man realizes the river was only the first proof. The real crossing is still ahead.",
+            "id": "Mereka akhirnya mencapai sisi seberang jurang, napas megap-megap dan telapak tangan perih oleh tali serta batu. Di belakang, para pemburu tidak berteriak. Mereka tidak mengancam. Mereka hanya menatap, seolah yakin daratan sendiri akan menyelesaikan apa yang mereka mulai.\n\nPunggung bukit menurun ke lembah sempit tempat sebuah sungai membelah batu hitam. Peringatan skald yang dulu kembali dalam bunyinya: air bergerak cukup cepat untuk menghapus jejak, cukup dingin untuk mencuri genggaman, cukup bising untuk menelan percakapan. Ia menyebutnya sungai yang tak memaafkan.\n\nPerahu penyeberangan akan terlalu mudah. Jembatan akan terlalu jujur. Di sini hanya ada titik dangkal, ditandai tumpukan batu tua dan satu tiang bergurat rune yang miring ke arus seperti jari yang menunjuk ke bawah.\n\nRune di lengan si bertanda mulai berdenyut mengikuti irama air. Itu bukan takut. Itu pengenalan. Ia merasa, makin jelas, bahwa rune tidak sekadar menginginkan ia ke pedalaman—rune menginginkan ia *berubah* lewat ambang.\n\nSkald menjelaskan aturan titik dangkal: menyeberang berarti melepaskan sesuatu kepada arus. Bukan koin. Bukan janji. Sesuatu yang cukup nyata untuk dibawa pergi air. Lagu tua menyebutnya sumpah yang dibuat fisik.\n\nSi bertanda membantah bahwa ia sudah membayar dengan darah dan napas. Skald menjawab: itu tinta. Yang ini penyuntingan. Jika nama sudah diucapkan, nama itu harus diuji—karena nama mudah diucapkan dan sulit dijalani.\n\nPara pemburu muncul di punggung bukit seperti siluet besi. Mereka tidak menyerbu titik dangkal. Mereka menunggu, tahu sungai lapar dan si bertanda lelah.\n\nSi bertanda melangkah ke air. Dingin menggigit sampai tulang. Arus mencoba memutar lututnya, mencuri keseimbangan, memaksanya berlutut. Di tengah, rune terasa menyala dan nama yang tadi diucap bergema di kepalanya seolah sungai sendiri mengulangnya.\n\nIa paham apa yang harus diserahkan. Bukan nyawanya. Belum. Yang harus dilepas adalah kisah lamanya—versi dirinya yang masih percaya ia bisa lari dari takdir tanpa disentuh olehnya. Ia mengucap sumpah ke dalam gemuruh dan membiarkan sungai mengambil kenyamanan terakhir yang masih ia pegang: harapan untuk kembali tanpa berubah.\n\nArus melunak, bukan karena baik, tetapi seolah puas. Ia mencapai tepi seberang dan ambruk, hidup. Rune lebih tenang, tetapi lebih berat, seperti segel yang ditekan lebih dalam ke lilin.\n\nBab 5 ditutup dengan skald berlutut di sampingnya dan akhirnya menyebut tujuan berikut: reruntuhan di pedalaman tempat rune Sang Allfather dulu dipahat pada manusia hidup—bukan untuk memberkati, melainkan menjadikan mereka instrumen. Si bertanda sadar sungai barusan hanya bukti pertama. Penyeberangan yang sesungguhnya masih di depan."
+          }
+        },
+        {
+          "id": "what_if_5_he_refuses_to_surrender_anything",
+          "type": "what_if",
+          "title": {
+            "en": "He Tried to Cross Unchanged",
+            "id": "Ia Mencoba Menyeberang Tanpa Berubah"
+          },
+          "content": {
+            "en": "In this path, the marked man steps into the ford and refuses the river’s price. He clenches his jaw and treats the rule as superstition—another story meant to control him.\n\nThe current answers immediately. It does not roar louder; it becomes smarter. It takes his footing at the worst moments, twisting his knees until he nearly kneels in the water.\n\nThe rune on his arm flares in protest, as if the river and the rune are arguing over ownership. The marked man realizes too late that refusing the cost does not preserve him—it only hands the decision to the river.\n\nHe survives, but the crossing leaves him humiliated and injured. The hunters do not need to catch him; the river has already slowed him for them.\n\nIn this what if, Chapter 5 ends with a hard lesson: fate does not always demand sacrifice to punish you—sometimes it punishes you to teach you what sacrifice would have bought.",
+            "id": "Dalam jalur ini, si bertanda melangkah ke titik dangkal dan menolak harga sungai. Ia mengatupkan rahang dan menganggap aturan itu takhayul—kisah lain untuk mengendalikannya.\n\nArus menjawab seketika. Ia tidak sekadar lebih bising; ia menjadi lebih cerdas. Ia mengambil pijakan pada momen terburuk, memutar lutut sampai si bertanda hampir berlutut di air.\n\nRune di lengannya menyala menolak, seolah sungai dan rune sedang bertengkar soal kepemilikan. Si bertanda terlambat sadar: menolak biaya bukan menjaga dirinya—menolak biaya justru menyerahkan keputusan kepada sungai.\n\nIa selamat, tetapi penyeberangan membuatnya terhina dan cedera. Para pemburu tak perlu menangkapnya; sungai sudah lebih dulu memperlambatnya untuk mereka.\n\nDalam what if ini, Bab 5 berakhir dengan pelajaran keras: takdir tidak selalu menuntut pengorbanan untuk menghukummu—kadang ia menghukummu agar kau paham apa yang bisa dibeli pengorbanan."
+          }
+        },
+        {
+          "id": "what_if_5_skald_pays_the_price_for_him",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Paid in His Own Voice",
+            "id": "Skald Membayar dengan Suaranya"
+          },
+          "content": {
+            "en": "In this path, the marked man cannot decide what to surrender, and the hesitation is enough to doom him. The river begins to take him sideways.\n\nThe skald steps into the water beside him and offers the price first. Not blood—something stranger. He speaks a line of song and then stops mid-phrase, as if tearing out the rest.\n\nThe marked man feels it: the skald has paid with voice. A portion of speech, a portion of story, ripped away and handed to the current.\n\nThe river eases, allowing the marked man to cross. But the skald’s face changes. He can still speak, yet his words lose their old weight, as if a key has been removed from his throat.\n\nIn this what if, Chapter 5 ends with a reversed dependency. The marked man is alive because the skald diminished himself—and now the marked man must ask whether his guide is still a guide, or a sacrifice walking.",
+            "id": "Dalam jalur ini, si bertanda tak sanggup memutuskan apa yang harus dilepas, dan keraguannya cukup untuk menenggelamkannya. Sungai mulai menyeretnya ke samping.\n\nSkald masuk ke air di sampingnya dan menawarkan harga lebih dulu. Bukan darah—melainkan sesuatu yang lebih ganjil. Ia mengucapkan sebaris nyanyian lalu berhenti di tengah, seolah merobek sisa kalimatnya.\n\nSi bertanda merasakannya: skald membayar dengan suara. Sepotong ujaran, sepotong kisah, dicabut lalu diserahkan pada arus.\n\nSungai melunak, membiarkan si bertanda menyeberang. Namun wajah skald berubah. Ia masih bisa bicara, tetapi kata-katanya kehilangan bobot lamanya, seolah satu kunci dicopot dari tenggorokannya.\n\nDalam what if ini, Bab 5 berakhir dengan ketergantungan yang terbalik. Si bertanda hidup karena skald mengecilkan dirinya—dan kini si bertanda harus bertanya: apakah pemandunya masih pemandu, atau kurban yang sedang berjalan."
+          }
+        },
+        {
+          "id": "what_if_5_the_hunters_offer_a_safe_crossing",
+          "type": "what_if",
+          "title": {
+            "en": "A Clean Deal at the Ford",
+            "id": "Tawaran Bersih di Titik Dangkal"
+          },
+          "content": {
+            "en": "In this path, the hunters do not wait in silence. One of them steps forward and offers a bargain: a safe crossing in exchange for surrendering the skald.\n\nThe offer is tempting because it is practical. No riddles, no rune-prices, no cold water taking breath. Just a trade between humans.\n\nThe marked man realizes the underworld’s discipline has learned to mimic mercy. It is not kindness—it is efficiency. They do not need him dead; they need him isolated.\n\nIf he accepts, the river becomes irrelevant and the story becomes betrayal. If he refuses, the river still demands its price and the hunters close in behind.\n\nIn this what if, Chapter 5 ends with the worst kind of decision: a clean deal that would save the body while destroying the only relationship that has kept the mind intact.",
+            "id": "Dalam jalur ini, para pemburu tidak hanya menunggu dalam diam. Salah satu maju dan menawarkan tawar-menawar: penyeberangan aman ditukar dengan penyerahan skald.\n\nTawaran itu menggoda karena praktis. Tanpa teka-teki, tanpa harga rune, tanpa air dingin mencuri napas. Hanya pertukaran antar manusia.\n\nSi bertanda sadar disiplin dunia bawah sudah belajar meniru belas kasihan. Itu bukan kebaikan—itu efisiensi. Mereka tak butuh ia mati; mereka butuh ia sendirian.\n\nJika ia menerima, sungai jadi tak relevan dan kisah berubah menjadi pengkhianatan. Jika ia menolak, sungai tetap menuntut harga dan para pemburu menutup dari belakang.\n\nDalam what if ini, Bab 5 berakhir dengan keputusan paling buruk: tawaran “bersih” yang menyelamatkan tubuh tetapi menghancurkan satu-satunya relasi yang selama ini menjaga pikirannya tetap utuh."
+          }
+        },
+        {
+          "id": "what_if_5_the_river_takes_the_name",
+          "type": "what_if",
+          "title": {
+            "en": "The River Stole the Name",
+            "id": "Sungai Mencuri Nama"
+          },
+          "content": {
+            "en": "In this path, the marked man offers what he thinks is safe to lose: an object, a token, a strip of cloth. The river accepts it and still does not ease.\n\nThen he understands the cruel precision. The ford is not satisfied by things. It wants what was spoken at the bridge—the name.\n\nHe tries to hold it back, but the roar of water repeats the syllables until they feel foreign in his own skull. Halfway across, the name slips away, not as forgetting but as theft.\n\nHe reaches the far bank alive and suddenly lighter, in the most terrifying way. The hunters behind hesitate. A target without a stable name is harder to bind.\n\nIn this what if, Chapter 5 ends with freedom that feels like amputation. The marked man has escaped one kind of claim by surrendering the very hook that lets the world recognize him.",
+            "id": "Dalam jalur ini, si bertanda menawarkan sesuatu yang ia kira aman untuk hilang: benda, tanda, selembar kain. Sungai menerimanya dan tetap tidak melunak.\n\nLalu ia paham presisi yang kejam. Titik dangkal itu tidak puas oleh benda. Ia menginginkan yang sudah diucapkan di jembatan—nama.\n\nIa mencoba menahan, tetapi gemuruh air mengulang suku kata sampai terdengar asing di tengkoraknya sendiri. Di tengah arus, nama itu lepas, bukan sebagai lupa, melainkan sebagai pencurian.\n\nIa mencapai tepi seberang hidup dan mendadak lebih ringan—dengan cara paling mengerikan. Para pemburu di belakang ragu. Target tanpa nama yang stabil lebih sulit diikat.\n\nDalam what if ini, Bab 5 berakhir dengan kebebasan yang terasa seperti amputasi. Si bertanda lolos dari satu jenis klaim dengan menyerahkan justru pengait yang membuat dunia bisa mengenalinya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Instrument Yard",
+        "id": "Halaman Para Instrumen"
+      },
+      "preview": {
+        "en": "The ruin is not a temple of worship—it is a workshop of transformation. Here, runes were not read; they were installed.",
+        "id": "Reruntuhan itu bukan kuil pemujaan—ia bengkel transformasi. Di sini, rune bukan dibaca; ia dipasang."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "Carved While Breathing",
+            "id": "Dipahat Saat Masih Bernapas"
+          },
+          "content": {
+            "en": "The river leaves them colder, quieter, and more honest. The marked man no longer believes in returning to the person he was before the coast. He only believes in forward motion.\n\nThey reach the ruin at dusk. It sits in a bowl of stone where the wind cannot leave, as if the landscape itself is a hand cupping a secret. Broken pillars ring a courtyard, and the ground is scarred with shallow trenches that look like old channels for water—until the skald says they were channels for blood.\n\nThe place is not decorated like a shrine. It is structured like a yard: posts set at intervals, hooks embedded in beams, stone slabs worn smooth by weight and struggle. The skald calls it an instrument yard, a place where the Allfather’s runes were forced into men until men could be played.\n\nAt the center stands a table of blackened wood, split with runic cuts. When the marked man approaches, the rune on his forearm tightens—an inward pull, like sinew trying to tie itself to something older.\n\nThe skald admits what he has avoided: the rune on bone is not rare; it is unfinished. It is a seed. The ruin is where seeds were completed.\n\nBefore the marked man can step back, the hunters arrive—not all of them, but enough. They do not storm the yard. They take positions along the ring of pillars, as if reoccupying a place that already belongs to their order.\n\nOne hunter steps forward and speaks the marked man’s name—the name that was forced out at the bridge—and the sound lands wrong in the ruin, as if the walls recognize it. The marked man realizes the name is not just identity. Here, it is a handle.\n\nThe skald offers a desperate plan: carve a counter-rune into the table using the marked man’s blood, not to erase the Allfather’s mark, but to redirect it—like turning a blade in its sheath.\n\nThe marked man hesitates because he understands the pattern now. Every threshold has asked for something real: blood, breath, name, story. A counter-rune will demand something larger—possibly the last remaining piece of him that still belongs only to himself.\n\nStill, he places his forearm on the blackened wood. The skald lifts the small blade, hands shaking not with fear of death but fear of meaning. The hunter watches without haste.\n\nChapter 6 ends on the edge of transformation. The first cut is about to be made. The marked man understands that if the rune is a key, this is the lock. Whatever opens next will not merely reveal a destination—it will decide what kind of being is allowed to arrive there.",
+            "id": "Sungai meninggalkan mereka lebih dingin, lebih sunyi, dan lebih jujur. Si bertanda tak lagi percaya pada kemungkinan kembali jadi orang yang sama seperti sebelum pesisir. Ia hanya percaya pada gerak maju.\n\nMereka mencapai reruntuhan saat senja. Ia terletak di mangkuk batu tempat angin sulit keluar, seolah lanskap sendiri adalah tangan yang sedang menggenggam rahasia. Pilar-pilar patah membentuk lingkar halaman, dan tanahnya dipenuhi parut berupa parit dangkal yang tampak seperti saluran air—sampai skald berkata itu dulu saluran darah.\n\nTempat ini tidak dihias seperti kuil. Ia disusun seperti halaman kerja: tiang-tiang pada jarak tertentu, kait tertanam pada balok, lempeng batu aus oleh beban dan perlawanan. Skald menyebutnya halaman para instrumen—tempat rune Sang Allfather dipaksa masuk ke manusia sampai manusia bisa “dimainkan”.\n\nDi tengah berdiri meja kayu yang menghitam, terbelah oleh guratan rune. Saat si bertanda mendekat, rune di lengannya mengencang—tarikan ke dalam, seperti urat yang ingin mengikat dirinya pada sesuatu yang lebih tua.\n\nSkald mengakui yang selama ini ia hindari: rune di tulang bukan hal langka; ia belum selesai. Ia benih. Reruntuhan inilah tempat benih disempurnakan.\n\nSebelum si bertanda sempat mundur, para pemburu tiba—bukan semuanya, tetapi cukup. Mereka tidak menyerbu halaman. Mereka mengambil posisi di sepanjang lingkar pilar, seolah sedang menempati kembali tempat yang memang milik tatanan mereka.\n\nSalah satu pemburu maju dan menyebut nama si bertanda—nama yang terpaksa keluar di jembatan—dan bunyinya terdengar salah di reruntuhan, seolah dinding mengenalinya. Si bertanda sadar: nama bukan cuma identitas. Di sini, ia pegangan.\n\nSkald menawarkan rencana putus asa: memahat rune tandingan di meja itu dengan darah si bertanda—bukan untuk menghapus tanda Sang Allfather, melainkan untuk mengarahkannya ulang—seperti memutar bilah di dalam sarungnya.\n\nSi bertanda ragu karena ia sekarang paham polanya. Setiap ambang meminta sesuatu yang nyata: darah, napas, nama, kisah. Rune tandingan akan menuntut sesuatu yang lebih besar—mungkin bagian terakhir dirinya yang masih sepenuhnya miliknya.\n\nNamun ia tetap meletakkan lengan pada kayu menghitam. Skald mengangkat bilah kecil, tangannya gemetar bukan karena takut mati, melainkan takut pada makna. Pemburu itu menatap tanpa tergesa.\n\nBab 6 berakhir tepat di tepi transformasi. Sayatan pertama akan segera dibuat. Si bertanda paham: jika rune adalah kunci, inilah gemboknya. Apa pun yang terbuka setelah ini tidak sekadar mengungkap tujuan—ia akan memutuskan makhluk seperti apa yang diizinkan untuk sampai ke sana."
+          }
+        },
+        {
+          "id": "what_if_6_counter_rune_erases_the_name",
+          "type": "what_if",
+          "title": {
+            "en": "The Counter-Rune Ate His Name",
+            "id": "Rune Tandingan Memakan Namanya"
+          },
+          "content": {
+            "en": "In this path, the skald’s blade finally cuts, and blood becomes ink on the blackened table. The counter-rune takes shape—but it does not push the Allfather’s mark away. It pulls the mark inward, like a hook set deeper.\n\nThe first thing it consumes is the spoken name. Not as forgetting, but as removal: the sound still exists in other mouths, but it no longer attaches to the marked man’s sense of self. When the hunter speaks it again, the name lands on him like rain on stone—no grip.\n\nThe hunters hesitate. A handle that cannot catch is useless. Their order is built on binding, and binding requires something stable to bind.\n\nThe skald celebrates too quickly, until he realizes the cost. A man without a name is hard to claim, but also hard to protect. Allies cannot call him back from the edge if they cannot call him at all.\n\nIn this what if, Chapter 6 ends with partial freedom that feels like exile. The marked man has slipped the hunters’ grasp, but he has also slipped out of ordinary human recognition, becoming a moving blank that only the rune can truly address.",
+            "id": "Dalam jalur ini, bilah skald akhirnya menyayat, dan darah menjadi tinta di meja menghitam. Rune tandingan terbentuk—tetapi ia tidak mendorong tanda Sang Allfather pergi. Ia justru menarik tanda itu ke dalam, seperti kail yang ditancap lebih dalam.\n\nHal pertama yang ia makan adalah nama yang sudah terucap. Bukan sebagai lupa, melainkan pencabutan: bunyinya masih ada di mulut orang lain, tetapi tak lagi menempel pada rasa-diri si bertanda. Saat pemburu menyebutnya lagi, nama itu jatuh seperti hujan ke batu—tak ada pegangan.\n\nPara pemburu ragu. Pegangan yang tak bisa menangkap adalah sia-sia. Tatanan mereka dibangun di atas pengikatan, dan pengikatan butuh sesuatu yang stabil.\n\nSkald terlalu cepat bersukacita, sampai ia sadar harganya. Manusia tanpa nama sulit diklaim, tetapi juga sulit dilindungi. Kawan tak bisa “memanggilnya pulang” dari tepi jika mereka tak bisa memanggilnya sama sekali.\n\nDalam what if ini, Bab 6 ditutup dengan kebebasan parsial yang terasa seperti pengasingan. Si bertanda lolos dari cengkeraman pemburu, tetapi ia juga meleset dari pengenalan manusia biasa, menjadi kekosongan berjalan yang hanya bisa disapa rune."
+          }
+        },
+        {
+          "id": "what_if_6_skald_carves_the_rune_on_himself",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Took the Mark",
+            "id": "Skald Mengambil Tandanya"
+          },
+          "content": {
+            "en": "In this path, the marked man refuses to be cut again. He sees the table, the hooks, the trenches, and understands that the ruin exists to turn living men into tools.\n\nThe skald makes a decision that looks like loyalty and may be guilt. He drags his own palm across the blade and presses his blood to the runic cuts, carving the counter-rune onto himself instead.\n\nThe Allfather’s mark responds with a violent warmth, as if recognizing a new host. The marked man feels the pull loosen on his forearm—and tighten in the air between them.\n\nThe hunters immediately change their formation. They were trained to take the bearer, not the friend. Now they have two options, and their calm becomes sharper.\n\nIn this what if, Chapter 6 ends with the skald becoming the target and the marked man becoming the witness. The story’s center of gravity shifts: the one who understood the prices has chosen to pay them, and the one who was chosen must decide whether to run or to repay that choice with blood of his own.",
+            "id": "Dalam jalur ini, si bertanda menolak disayat lagi. Ia melihat meja, kait, parit, lalu paham bahwa reruntuhan itu memang ada untuk mengubah manusia hidup menjadi alat.\n\nSkald mengambil keputusan yang tampak seperti loyalitas dan mungkin rasa bersalah. Ia menyayat telapak tangannya sendiri, menempelkan darahnya pada guratan, lalu memahat rune tandingan pada dirinya.\n\nTanda Sang Allfather merespons dengan hangat yang ganas, seolah mengenali inang baru. Si bertanda merasakan tarikan di lengannya melonggar—dan mengencang di udara di antara mereka.\n\nPara pemburu segera mengubah formasi. Mereka dilatih mengambil pembawa tanda, bukan kawannya. Kini mereka punya dua opsi, dan ketenangan mereka jadi lebih tajam.\n\nDalam what if ini, Bab 6 ditutup dengan skald menjadi target dan si bertanda menjadi saksi. Pusat kisah bergeser: yang paham harga memilih membayar, dan yang “terpilih” harus memutuskan apakah akan lari atau membalas pilihan itu dengan darahnya sendiri."
+          }
+        },
+        {
+          "id": "what_if_6_hunters_interrupt_the_first_cut",
+          "type": "what_if",
+          "title": {
+            "en": "The First Cut Was Stolen",
+            "id": "Sayatan Pertama Direbut"
+          },
+          "content": {
+            "en": "In this path, the hunter who knows the ruin best steps forward at the last heartbeat. He does not stop the ritual—he redirects it.\n\nHe grips the marked man’s wrist and forces the blade’s angle, carving a rune that looks similar to the skald’s plan but is subtly wrong. The difference is tiny, like one stroke missing from a letter, yet it changes the function.\n\nThe rune on bone flares with satisfaction. The marked man feels a new certainty flood him, not as knowledge but as obedience. The hunters do not need ropes because the rune itself has become the rope.\n\nThe skald realizes too late that the instrument yard is designed for this: for seizing the moment where a man chooses to be rewritten and turning that choice into capture.\n\nIn this what if, Chapter 6 ends with the worst outcome: transformation without agency. The marked man stands up alive, stronger, calmer—and no longer meaningfully his own.",
+            "id": "Dalam jalur ini, pemburu yang paling paham reruntuhan itu maju pada detak terakhir. Ia tidak menghentikan ritual—ia mengarahkannya.\n\nIa mencengkeram pergelangan si bertanda dan memaksa sudut bilah, memahat rune yang mirip rencana skald tetapi sedikit keliru. Bedanya kecil, seperti satu guratan yang hilang dari huruf, namun fungsinya berubah.\n\nRune di tulang menyala puas. Si bertanda merasakan kepastian baru membanjiri dirinya—bukan sebagai pengetahuan, melainkan kepatuhan. Para pemburu tak perlu tali karena rune itu sendiri kini menjadi tali.\n\nSkald terlambat sadar bahwa halaman instrumen memang dibuat untuk ini: merebut momen ketika manusia memilih ditulis ulang, lalu mengubah pilihan itu menjadi penangkapan.\n\nDalam what if ini, Bab 6 ditutup dengan hasil terburuk: transformasi tanpa agensi. Si bertanda berdiri hidup, lebih kuat, lebih tenang—dan tak lagi sungguh-sungguh miliknya sendiri."
+          }
+        },
+        {
+          "id": "what_if_6_the_table_refuses_human_blood",
+          "type": "what_if",
+          "title": {
+            "en": "The Yard Demanded Something Older",
+            "id": "Halaman Itu Menuntut yang Lebih Tua"
+          },
+          "content": {
+            "en": "In this path, the skald cuts and the blood falls onto the table—but the runes do not brighten. They remain dead, like scars that refuse to open.\n\nThe skald’s face drains. He admits a truth he hoped was metaphor: this yard was built to accept blood with a specific lineage, a specific kind of vow, a specific kind of ownership. Ordinary blood is not the right key.\n\nThe hunters watch with renewed confidence. The failure is not just practical—it is humiliating. The yard has judged them unworthy to even bargain.\n\nThen the rune on the marked man’s arm responds in a different way. It tightens as if pointing toward a darker payment: not blood, but the life that carries it, or the bond that gives it meaning.\n\nIn this what if, Chapter 6 ends with the counter-rune plan shattered. To escape, the marked man and the skald must invent a new price—one that may require sacrificing their relationship rather than their flesh.",
+            "id": "Dalam jalur ini, skald menyayat dan darah jatuh ke meja—tetapi rune tidak menyala. Ia tetap mati, seperti parut yang menolak terbuka.\n\nWajah skald pucat. Ia mengakui kebenaran yang semula ia harap hanya metafora: halaman ini dibangun untuk menerima darah dengan garis tertentu, sumpah tertentu, kepemilikan tertentu. Darah biasa bukan kunci yang tepat.\n\nPara pemburu menatap dengan keyakinan yang diperbarui. Kegagalan ini bukan sekadar praktis—ia memalukan. Halaman sudah “menilai” mereka tak layak bahkan untuk menawar.\n\nLalu rune di lengan si bertanda bereaksi dengan cara lain. Ia mengencang seolah menunjuk pembayaran yang lebih gelap: bukan darah, melainkan hidup yang membawanya, atau ikatan yang memberi darah itu makna.\n\nDalam what if ini, Bab 6 berakhir dengan rencana rune tandingan yang pecah. Untuk lolos, si bertanda dan skald harus mengarang harga baru—harga yang mungkin menuntut pengorbanan relasi mereka, bukan daging mereka."
+          }
+        }
+      ]
+    },    {
+      "id": 7,
+      "title": {
+        "en": "The Door That Opens Back",
+        "id": "Pintu yang Membuka Balik"
+      },
+      "preview": {
+        "en": "The marked man wanted answers. The Allfather wanted a vessel. In the instrument yard, both finally receive what they asked for—at a cost neither fully chose.",
+        "id": "Si bertanda menginginkan jawaban. Sang Allfather menginginkan wadah. Di halaman para instrumen, keduanya akhirnya mendapat yang mereka minta—dengan harga yang tak sepenuhnya mereka pilih."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "To Be Named by the Rune",
+            "id": "Dinamai oleh Rune"
+          },
+          "content": {
+            "en": "The blade meets skin, and the instrument yard listens. Blood falls onto the blackened table and runs along the old cuts as if the wood remembers the route. The rune on the marked man’s forearm answers with a heat that is not pain, but recognition.\n\nThe skald carves carefully—too carefully for anyone who claims this is improvisation. The marked man realizes, in the middle of the act, that the skald has always been walking toward this moment. Guidance was never merely escape; it was alignment.\n\nThe hunters do not interrupt. They watch like priests at a rite they did not invent but understand. Their discipline is not patience—it is confidence that the yard itself is the true captor.\n\nWhen the counter-rune completes, the air in the courtyard changes. The wind in the bowl of stone stops behaving like weather and starts behaving like breath held in a throat. For a heartbeat, the marked man hears the golden hall again—not as dream, but as proximity.\n\nThe Allfather’s presence does not arrive as a voice. It arrives as structure. The marked man feels the shape of his choices tighten, as if invisible nails have been set through him into the world. He understands the meaning of “installed.”\n\nThen the door opens. Not a door of wood, but a seam in perception: the courtyard’s shadows align into a corridor that points deeper inland and deeper inward at the same time. The hunters step back, because even they do not cross without being invited.\n\nThe skald speaks the marked man’s name one last time, testing whether it still grips. The name holds for a moment—and then slips, replaced by something colder and cleaner: the rune’s intent, a designation that is not human language.\n\nThe marked man stands up. He is not dead, not possessed in the simple way stories warn about. He is *formatted*. His fear is quieter, his thoughts more linear, his body more certain of what it is meant to do.\n\nHe looks at the skald and finally understands the bargain they both made without fully admitting it. The skald wanted meaning more than safety. The marked man wanted escape more than understanding. The Allfather offered both—by taking authorship.\n\nThe hunters kneel, not to the man, but to the function he now carries. The skald does not kneel. He only watches, grieving and triumphant at once.\n\nChapter 7 ends with the marked man stepping toward the corridor of shadow, toward whatever task the Allfather has written into him. Behind him, the instrument yard remains—quiet, hungry, ready to complete the next seed. And the final warning of the saga becomes clear: a key never opens only one way. Once the door opens, it also opens back into you.",
+            "id": "Bilah menyentuh kulit, dan halaman para instrumen mendengarkan. Darah jatuh ke meja menghitam dan mengalir mengikuti guratan lama seolah kayu itu mengingat rutenya. Rune di lengan si bertanda menjawab dengan panas yang bukan nyeri, melainkan pengenalan.\n\nSkald memahat hati-hati—terlalu hati-hati untuk seseorang yang mengaku ini improvisasi. Si bertanda sadar, di tengah tindakan itu, bahwa skald sejak awal berjalan menuju momen ini. Tuntunan bukan sekadar pelarian; ia penyelarasan.\n\nPara pemburu tidak menyela. Mereka menatap seperti imam di sebuah ritus yang tak mereka ciptakan namun mereka pahami. Disiplin mereka bukan sabar—melainkan keyakinan bahwa halaman itu sendiri adalah penangkap sejati.\n\nSaat rune tandingan selesai, udara di halaman berubah. Angin di mangkuk batu berhenti berlaku seperti cuaca dan mulai berlaku seperti napas yang ditahan. Sejenak, si bertanda mendengar aula emas itu lagi—bukan sebagai mimpi, melainkan sebagai kedekatan.\n\nKehadiran Sang Allfather tidak datang sebagai suara. Ia datang sebagai struktur. Si bertanda merasakan bentuk pilihannya mengencang, seolah paku tak terlihat dipasang menembus dirinya ke dunia. Ia paham arti kata “dipasang.”\n\nLalu pintu itu terbuka. Bukan pintu kayu, melainkan jahitan pada persepsi: bayang-bayang halaman selaras menjadi koridor yang menunjuk lebih jauh ke pedalaman dan lebih jauh ke dalam pada saat yang sama. Para pemburu mundur, karena bahkan mereka tidak melintas tanpa undangan.\n\nSkald menyebut nama si bertanda sekali lagi, menguji apakah masih menggenggam. Nama itu menahan sesaat—lalu tergelincir, diganti oleh sesuatu yang lebih dingin dan lebih bersih: niat rune, sebuah penetapan yang bukan bahasa manusia.\n\nSi bertanda berdiri. Ia tidak mati, tidak kerasukan dalam cara sederhana seperti peringatan cerita. Ia *diformat*. Takutnya lebih sunyi, pikirannya lebih linear, tubuhnya lebih yakin pada apa yang harus ia lakukan.\n\nIa menatap skald dan akhirnya memahami tawar-menawar yang mereka jalani tanpa sepenuhnya mengakuinya. Skald menginginkan makna lebih dari selamat. Si bertanda menginginkan selamat lebih dari paham. Sang Allfather menawarkan keduanya—dengan mengambil kepengarangan.\n\nPara pemburu berlutut, bukan kepada si manusia, melainkan kepada fungsi yang kini ia bawa. Skald tidak berlutut. Ia hanya menatap, berduka dan menang pada saat yang sama.\n\nBab 7 ditutup dengan si bertanda melangkah menuju koridor bayang, menuju tugas apa pun yang telah ditulis Sang Allfather ke dalam dirinya. Di belakang, halaman para instrumen tetap ada—sunyi, lapar, siap menyempurnakan benih berikutnya. Dan peringatan terakhir saga menjadi jelas: kunci tidak pernah membuka satu arah saja. Begitu pintu terbuka, ia juga membuka balik ke dalam dirimu."
+          }
+        },
+        {
+          "id": "what_if_7_he_refuses_the_corridor",
+          "type": "what_if",
+          "title": {
+            "en": "He Refused to Step Through",
+            "id": "Ia Menolak Melangkah"
+          },
+          "content": {
+            "en": "In this path, the corridor of shadow opens—and the marked man stops. The Allfather’s structure tightens around his choices, but a thin remnant of stubbornness remains.\n\nHe turns away from the seam in perception and tries to walk back into ordinary air. The hunters tense, unsure whether to attack a function that has not yet executed.\n\nThe world punishes hesitation. The instrument yard begins to close like a jaw: wind becomes pressure, pressure becomes nausea, nausea becomes the sense that the bones are being aligned from the inside. The rune does not need chains; it can make the ground feel unwalkable.\n\nThe skald realizes the true trap: the corridor is not only an exit. It is the only place where the marked man can still move without tearing himself apart.\n\nIn this what if, Chapter 7 ends with a grim choice restored. Step into the corridor and keep a coherent body, or remain outside and be slowly dismantled by the same structure that “installed” him.",
+            "id": "Dalam jalur ini, koridor bayang terbuka—dan si bertanda berhenti. Struktur Sang Allfather mengencang pada pilihannya, tetapi sisa tipis keras kepala masih ada.\n\nIa berpaling dari jahitan persepsi dan mencoba berjalan kembali ke udara biasa. Para pemburu menegang, ragu apakah harus menyerang fungsi yang belum menjalankan perintah.\n\nDunia menghukum keraguan. Halaman para instrumen mulai menutup seperti rahang: angin menjadi tekanan, tekanan menjadi mual, mual menjadi rasa bahwa tulang sedang diselaraskan dari dalam. Rune tak butuh rantai; ia bisa membuat tanah terasa tak bisa dilalui.\n\nSkald sadar jebakan sebenarnya: koridor itu bukan hanya jalan keluar. Ia satu-satunya tempat di mana si bertanda masih bisa bergerak tanpa merobek dirinya sendiri.\n\nDalam what if ini, Bab 7 berakhir dengan pilihan muram yang dipulihkan. Melangkah ke koridor dan mempertahankan tubuh yang koheren, atau tetap di luar dan dibongkar perlahan oleh struktur yang barusan “memasang” dirinya."
+          }
+        },
+        {
+          "id": "what_if_7_skald_breaks_authorship",
+          "type": "what_if",
+          "title": {
+            "en": "The Skald Broke the Script",
+            "id": "Skald Mematahkan Naskah"
+          },
+          "content": {
+            "en": "In this path, the skald refuses the ending he helped assemble. The moment the corridor forms, he speaks a counter-song—an older meter, a harsher cadence—aimed not at the rune, but at the *assumption* that the Allfather must always be obeyed.\n\nThe yard shudders. The hunters’ kneel becomes unstable, as if their bodies were waiting for permission to stand. The marked man feels a brief widening inside his skull: a return of nonlinear thought.\n\nBut breaking authorship has a price. The skald’s voice cracks, and each word strips something from him—memory, breath, or even the ability to lie. His power is not free; it is a rival cost.\n\nThe corridor does not vanish, but it flickers. For a few heartbeats the marked man can choose where to place his next step, not merely whether to step.\n\nIn this what if, Chapter 7 ends with a rebellion that is small but real: the Allfather’s door still opens back, yet the skald proves that a story can be interrupted—even if the interrupter is the one who bleeds for it.",
+            "id": "Dalam jalur ini, skald menolak akhir yang ia bantu susun. Begitu koridor terbentuk, ia melantunkan nyanyian tandingan—metrum lebih tua, kadensa lebih keras—ditujukan bukan pada rune, melainkan pada *anggapan* bahwa Sang Allfather harus selalu ditaati.\n\nHalaman bergetar. Sujud para pemburu menjadi goyah, seolah tubuh mereka menunggu izin untuk berdiri. Si bertanda merasakan pelebaran singkat di dalam kepalanya: kembalinya pikiran yang tidak linear.\n\nNamun mematahkan kepengarangan punya harga. Suara skald retak, dan tiap kata melucuti sesuatu darinya—ingatan, napas, atau bahkan kemampuan untuk berbohong. Kuasanya bukan gratis; ia biaya saingan.\n\nKoridor tidak lenyap, tetapi berkedip. Selama beberapa detak, si bertanda bisa memilih ke mana menaruh langkah berikutnya, bukan sekadar apakah ia melangkah.\n\nDalam what if ini, Bab 7 berakhir dengan pemberontakan yang kecil tapi nyata: pintu Sang Allfather tetap membuka balik, tetapi skald membuktikan kisah bisa dipotong—meski si pemotonglah yang berdarah karenanya."
+          }
+        },
+        {
+          "id": "what_if_7_hunters_claim_the_function",
+          "type": "what_if",
+          "title": {
+            "en": "They Crowned the Function",
+            "id": "Mereka Menobatkan Fungsi"
+          },
+          "content": {
+            "en": "In this path, the hunters do not merely kneel. They complete a ceremony the skald did not anticipate: they speak the rune’s designation aloud in unison.\n\nThe sound does what a name used to do—it binds. The marked man’s body straightens, his eyes fix, and the corridor widens as if rewarded. The Allfather’s intent becomes easier to execute because it is now socially reinforced.\n\nThe skald realizes the underworld’s real talent: turning metaphysics into administration. A function becomes a rank, a rank becomes obedience, and obedience becomes a machine.\n\nThe marked man is no longer only installed; he is appointed. His first step into the corridor feels less like compulsion and more like marching.\n\nIn this what if, Chapter 7 ends with the darkest consolidation: the Allfather’s door opens back into a man, and an entire order of hunters learns to operate him like a tool—without ever needing to touch the blade again.",
+            "id": "Dalam jalur ini, para pemburu tidak sekadar berlutut. Mereka menyelesaikan upacara yang tidak diperkirakan skald: mereka menyebut penetapan rune itu serempak.\n\nBunyinya melakukan apa yang dulu dilakukan nama—mengikat. Tubuh si bertanda menegak, matanya mengunci, dan koridor melebar seolah diberi hadiah. Niat Sang Allfather menjadi lebih mudah dieksekusi karena kini diperkuat secara sosial.\n\nSkald sadar bakat sejati dunia bawah: mengubah metafisika menjadi administrasi. Fungsi menjadi pangkat, pangkat menjadi kepatuhan, dan kepatuhan menjadi mesin.\n\nSi bertanda bukan hanya dipasang; ia diangkat. Langkah pertamanya ke koridor terasa bukan sekadar paksaan, melainkan baris-berbaris.\n\nDalam what if ini, Bab 7 ditutup dengan konsolidasi tergelap: pintu Sang Allfather membuka balik ke dalam seorang manusia, dan seluruh tatanan pemburu belajar mengoperasikannya seperti alat—tanpa perlu menyentuh bilah lagi."
+          }
+        },
+        {
+          "id": "what_if_7_the_corridor_leads_to_valhalla",
+          "type": "what_if",
+          "title": {
+            "en": "The Corridor Opened to the Hall",
+            "id": "Koridor Itu Terbuka ke Aula"
+          },
+          "content": {
+            "en": "In this path, the corridor does not lead deeper inland. It leads upward—into the golden hall itself. The marked man steps through and finds not warmth, but brilliance without comfort.\n\nThe Allfather is present as a certainty that compresses thought. There are no questions here, only placements: where the marked man belongs, what he will carry, what he will return to the world below.\n\nThe skald cannot follow. At the threshold his voice becomes ordinary again, and ordinary speech cannot climb this seam. He is left outside with the hunters, watching the story leave him.\n\nThe marked man receives an answer at last: the rune was never meant to make him wise. It was meant to make him legible to the hall.\n\nIn this what if, Chapter 7 ends with an apparent reward that functions like a prison. Valhalla is not rest—it is assignment, and the door that opens back does not open into freedom; it opens into duty.",
+            "id": "Dalam jalur ini, koridor tidak menuju lebih dalam ke pedalaman. Ia menuju ke atas—ke aula emas itu sendiri. Si bertanda melangkah masuk dan menemukan bukan hangat, melainkan terang tanpa kenyamanan.\n\nSang Allfather hadir sebagai kepastian yang memampatkan pikiran. Tak ada pertanyaan di sini, hanya penempatan: di mana si bertanda seharusnya berada, apa yang harus ia bawa, apa yang harus ia kembalikan ke dunia bawah.\n\nSkald tak bisa ikut. Di ambang, suaranya kembali jadi biasa, dan ujaran biasa tak bisa memanjat jahitan ini. Ia tertinggal di luar bersama para pemburu, menatap kisah pergi meninggalkannya.\n\nSi bertanda akhirnya menerima jawaban: rune tidak pernah dimaksudkan untuk membuatnya bijak. Rune dimaksudkan agar ia terbaca oleh aula.\n\nDalam what if ini, Bab 7 ditutup oleh “hadiah” yang ternyata bekerja seperti penjara. Valhalla bukan istirahat—ia penugasan, dan pintu yang membuka balik tidak membuka ke kebebasan; ia membuka ke kewajiban."
+          }
+        }
+      ]
+    }
+  ]
+}

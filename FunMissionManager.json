@@ -1,0 +1,43 @@
+{
+ "fun_missions": [
+  {
+   "id": "maze_cat",
+   "intro_dialog": "cat_intro",
+   "objective": "Find the lost cat in the maze",
+   "gameplay_scene": "res://missions/maze_cat/maze_scene.tscn"
+  },
+  {
+   "id": "archery_training",
+   "intro_dialog": "archery_intro",
+   "objectives": [
+    "Talk to Gritz",
+    "Talk with Gritz before start",
+    "Enter archery arena and Press start button",
+    "Complete words by shooting letters, and Finish all waves",
+    "Return and talk to Gritz"
+	],
+   "gameplay_scene": "res://archery_map.tscn",
+   "final_dialog": "archery_final"
+  },
+  {
+   "id": "concert_setup",
+   "intro_dialog": "concert_intro",
+   "objective": "Prepare the concert stage",
+   "gameplay_scene": "res://missions/concert/concert_scene.tscn"
+  },
+  {
+   "id": "go_kart_race",
+   "intro_dialog": "kart_intro",
+   "objectives": [
+    "Talk to Grandel",
+    "Talk with Grandel before start race",
+    "Mount the go-kart",
+	"Drive to the slow motion zone and Complete the typing challenge",
+	"Follow track and reach the finish line",
+	"Return and talk to Grandel"
+   ],
+   "gameplay_scene": "res://MapGoKart.tscn",
+   "final_dialog": "kart_final"   
+  }
+ ]
+}

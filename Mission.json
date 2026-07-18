@@ -1,0 +1,118 @@
+{
+  "missions": [
+    {
+      "id": "delivery_basic",
+      "category": "delivery",
+      "difficulty": "basic",
+      "dialog_id": "delivery_start",
+      "report_rules_id": "delivery_basic",
+      "objective": {
+        "description": "Help stressed courier deliver packages after bike got engine fail.",
+        "total_packages": 10,
+        "priority_items": 3,
+        "deliveries": [
+          { "package_spawn_pos": [0,0,0], "delivery_marker_pos": [10,0,10] },
+          { "package_spawn_pos": [1,0,0], "delivery_marker_pos": [11,0,10] },
+          { "package_spawn_pos": [2,0,0], "delivery_marker_pos": [12,0,10] },
+          { "package_spawn_pos": [3,0,0], "delivery_marker_pos": [13,0,10] },
+          { "package_spawn_pos": [4,0,0], "delivery_marker_pos": [14,0,10] },
+          { "package_spawn_pos": [5,0,0], "delivery_marker_pos": [15,0,10] },
+          { "package_spawn_pos": [6,0,0], "delivery_marker_pos": [16,0,10] },
+          { "package_spawn_pos": [7,0,0], "delivery_marker_pos": [17,0,10] },
+          { "package_spawn_pos": [8,0,0], "delivery_marker_pos": [18,0,10] },
+          { "package_spawn_pos": [9,0,0], "delivery_marker_pos": [19,0,10] }
+        ]
+      },
+      "cooldown": 300,
+      "exp_reward": 50,
+      "npc_roles": ["courier"]
+    },
+    {
+      "id": "poster_campaign",
+      "category": "community",
+      "difficulty": "easy",
+      "dialog_id": "police_poster",
+      "report_rules_id": "police_poster",
+      "objective": {
+        "description": "Assist exhausted police officer posting 'Don't Litter' posters on 10 lampposts before captain inspection.",
+        "total_poster": 10,
+        "lampposts": 10
+      },
+      "cooldown": 600,
+      "exp_reward": 45,
+      "npc_roles": ["police"]
+    },
+    {
+      "id": "bakery_rescue",
+      "category": "delivery",
+      "difficulty": "medium",
+      "dialog_id": "bakery_overload",
+      "report_rules_id": "bakery_delivery",
+      "objective": {
+        "description": "Deliver cake to the list address!",
+        "priority_delivery": 1,
+        "secondary_deliveries": 2,
+        "deliveries": [
+          { "package_spawn_pos": [0,0,0], "delivery_marker_pos": [5,0,5] },
+          { "package_spawn_pos": [1,0,0], "delivery_marker_pos": [6,0,5] },
+          { "package_spawn_pos": [2,0,0], "delivery_marker_pos": [7,0,5] },
+          { "package_spawn_pos": [3,0,0], "delivery_marker_pos": [8,0,5] },
+          { "package_spawn_pos": [4,0,0], "delivery_marker_pos": [9,0,5] },
+          { "package_spawn_pos": [5,0,0], "delivery_marker_pos": [10,0,5] },
+          { "package_spawn_pos": [6,0,0], "delivery_marker_pos": [11,0,5] },
+          { "package_spawn_pos": [7,0,0], "delivery_marker_pos": [12,0,5] },
+          { "package_spawn_pos": [8,0,0], "delivery_marker_pos": [13,0,5] },
+          { "package_spawn_pos": [9,0,0], "delivery_marker_pos": [14,0,5] }
+        ]
+      },
+      "cooldown": 900,
+      "exp_reward": 70,
+      "npc_roles": ["bakery_owner"]
+    },
+    {
+      "id": "cat_chaos_control",
+      "category": "rescue",
+      "difficulty": "hard",
+      "dialog_id": "cat_chaos",
+      "report_rules_id": "cat_rescue",
+      "objective": {
+        "description": "Catch 8 escaped client cats before 6PM inventory check: Shadow(black), Snowball(white), Spice(red collar).",
+        "total_cats": 8,
+        "locations": ["alley", "fence", "dumpster"]
+      },
+      "cooldown": 1800,
+      "exp_reward": 90,
+      "npc_roles": ["cat_keeper"]
+    },
+    {
+      "id": "script_salvage",
+      "category": "recovery",
+      "difficulty": "hard",
+      "dialog_id": "script_lost",
+      "report_rules_id": "script_recovery",
+      "objective": {
+        "description": "Recover 40 yellow Episode 7 script pages scattered by wind before actor meeting. Check bushes/Starbucks/newsstand.",
+        "total_pages": 40,
+        "priority_locations": ["coffee shop route", "studio sidewalk"]
+      },
+      "cooldown": 1200,
+      "exp_reward": 100,
+      "npc_roles": ["scriptwriter"]
+    },
+    {
+      "id": "birthday_helper",
+      "category": "event",
+      "difficulty": "easy",
+      "dialog_id": "birthday_setup",
+      "report_rules_id": "birthday_setup",
+      "objective": {
+        "description": "Set up teenager's birthday: blue streamers(ceiling), white tablecloth, photo booth corner, entrance balloons.",
+        "decor_items": 4,
+        "priority_areas": ["photo booth", "entrance"]
+      },
+      "cooldown": 450,
+      "exp_reward": 40,
+      "npc_roles": ["teenager"]
+    }
+  ]
+}

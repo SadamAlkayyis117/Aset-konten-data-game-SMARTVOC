@@ -1,0 +1,520 @@
+{
+  "book_id": "sic_parvis_magna_francis_drakes_journal",
+  "title": {
+    "en": "Sic Parvis Magna: Francis Drake's Journal",
+    "id": "Besar dari Hal Kecil: Jurnal Francis Drake"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "A Letter to Fortune",
+        "id": "Surat untuk Fortuna"
+      },
+      "preview": {
+        "en": "Before the sea, there is a promise—made to a crown, to a crew, and to the self that believes destiny can be earned.",
+        "id": "Sebelum laut, ada janji—kepada mahkota, kepada awak, dan kepada diri sendiri yang percaya takdir bisa diupayakan."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "Sic Parvis Magna",
+            "id": "Sic Parvis Magna"
+          },
+          "content": {
+            "en": "I set quill to paper not to confess, but to remember the shape of my own intentions.\n\nThe court speaks of Spain as if it were a storm that can be negotiated with polite letters. Yet every merchant knows the truth: gold and routes are arguments that do not require permission.\n\nMy name is Francis Drake, born of small means and sharpened by the coast. I have lived long enough among sailors to know that a ship is a country and a crew is a parliament that votes with hunger.\n\nThis journal begins on the eve of departure, while London still smells of smoke, wet rope, and ambition. The Queen’s favor is a light that can warm or burn, and it is wise to stand near it only when one must.\n\nI have been granted a commission that can be spoken of in careful rooms and denied in loud ones. It is a paper shield, thin as all paper is. What matters is what we do when the wind refuses to match the plan.\n\nThe men aboard watch me when they think I do not look. They measure my confidence like they measure the tide—by rumor, by tone, by the way I step onto a deck. I do not resent this. I require it.\n\nA captain who is not doubted is a captain who has stopped learning.\n\nWe load stores: hard biscuit, salted meat, dried peas, coils of line, and barrels that will become more precious than coin once the horizon erases the shore. Powder and shot are stowed where only a few hands may reach them; discipline must be designed, not requested.\n\nI read the names on the manifest and imagine them as ghosts already, because the sea is greedy and does not accept bargains from the living.\n\nTonight I dine with men who smile too easily. They speak of ‘enterprise’ and ‘service’ and leave the harder words—raid, hunger, blood—hanging unspoken like fog.\n\nI return to the docks alone and stand beneath the rigging. The masts creak as if the ships themselves are impatient.\n\nIn the quiet, I repeat the phrase that has followed me like a private drum: Sic Parvis Magna.\n\nGreatness from small beginnings is not a blessing. It is a debt.\n\nChapter 1 ends with the tide turning. The water pulls at the hull as if the ocean has already accepted our names. I close this book and place it where it will stay dry—because if memory sinks, then all deeds become rumors.",
+            "id": "Aku menorehkan pena ke kertas bukan untuk mengaku, melainkan untuk mengingat bentuk niatku sendiri.\n\nIstana membicarakan Spanyol seolah ia badai yang bisa dinegosiasikan dengan surat-surat sopan. Namun setiap pedagang tahu: emas dan rute adalah argumen yang tidak butuh izin.\n\nNamaku Francis Drake, lahir dari keadaan kecil dan diasah oleh pesisir. Cukup lama hidup di antara pelaut untuk paham: kapal adalah negara dan awak adalah parlemen yang memilih dengan lapar.\n\nJurnal ini dimulai pada malam menjelang keberangkatan, saat London masih berbau asap, tali basah, dan ambisi. Restu Sang Ratu adalah cahaya yang bisa menghangatkan atau membakar, dan bijak berdiri dekat hanya saat perlu.\n\nAku diberi komisi yang bisa diucapkan di ruangan hati-hati dan disangkal di ruangan bising. Itu perisai kertas, setipis semua kertas. Yang penting adalah apa yang kami lakukan saat angin menolak cocok dengan rencana.\n\nOrang-orang di kapal menatapku saat mereka kira aku tak melihat. Mereka mengukur keyakinanku seperti mengukur pasang—oleh rumor, oleh nada, oleh cara kakiku menapak dek. Aku tidak membenci itu. Aku membutuhkannya.\n\nKapten yang tak pernah diragukan adalah kapten yang berhenti belajar.\n\nKami memuat perbekalan: biskuit keras, daging asin, kacang kering, gulungan tali, dan tong-tong yang akan jadi lebih berharga dari koin ketika cakrawala menghapus daratan. Mesiu dan peluru disimpan di tempat yang hanya bisa disentuh segelintir tangan; disiplin harus dirancang, bukan diminta.\n\nAku membaca nama-nama di daftar awak dan membayangkan mereka sudah jadi hantu, sebab laut rakus dan tidak menerima tawar-menawar dari yang hidup.\n\nMalam ini aku makan dengan orang-orang yang tersenyum terlalu mudah. Mereka bicara tentang ‘usaha’ dan ‘pengabdian’ dan meninggalkan kata-kata yang lebih keras—serbuan, lapar, darah—menggantung tak terucap seperti kabut.\n\nAku kembali ke dermaga sendirian dan berdiri di bawah rigging. Tiang-tiang kapal berderit seolah kapal-kapal itu sendiri tak sabar.\n\nDalam sunyi, aku mengulang frasa yang mengikuti seperti genderang pribadi: Sic Parvis Magna.\n\nKebesaran dari awal kecil bukan berkah. Itu utang.\n\nBab 1 berakhir saat pasang berbalik. Air menarik lambung seolah samudra sudah menerima nama-nama kami. Aku menutup buku ini dan menyimpannya di tempat kering—karena jika ingatan tenggelam, semua perbuatan akan jadi rumor."
+          }
+        },
+        {
+          "id": "what_if_1_the_commission_is_revoked",
+          "type": "what_if",
+          "title": {
+            "en": "The Paper Shield Burned",
+            "id": "Perisai Kertas Itu Dibakar"
+          },
+          "content": {
+            "en": "In this path, the commission that can be whispered in careful rooms becomes a liability in loud ones. A rival at court forces a public question: whose war is this, and who will pay for it?\n\nThe order arrives before dawn. The ships are to remain in harbor. The men are to be dismissed. The venture is to be remembered as a misunderstanding.\n\nDrake does not argue with ink; he argues with tide. He chooses to sail without blessing, turning royal ambiguity into outright treason if it fails.\n\nThe crew learns the first true rule of the voyage before it even begins: legality is weather—useful when it favors you, lethal when it turns.\n\nIn this what if, Chapter 1 ends with the fleet slipping out under fog, leaving behind not just London, but the last excuse they could hide behind.",
+            "id": "Dalam jalur ini, komisi yang bisa dibisikkan di ruangan hati-hati berubah jadi beban di ruangan bising. Seorang pesaing di istana memaksa pertanyaan terbuka: perang siapa ini, dan siapa yang akan membayar?\n\nPerintah datang sebelum fajar. Kapal harus tetap di pelabuhan. Awak harus dibubarkan. Usaha itu harus diingat sebagai salah paham.\n\nDrake tidak berdebat dengan tinta; ia berdebat dengan pasang. Ia memilih berlayar tanpa restu, mengubah ambiguitas kerajaan jadi pengkhianatan terang-terangan jika gagal.\n\nAwak belajar aturan pertama pelayaran bahkan sebelum dimulai: legalitas adalah cuaca—berguna saat memihak, mematikan saat berbalik.\n\nDalam what if ini, Bab 1 berakhir saat armada menyelinap keluar di bawah kabut, meninggalkan bukan hanya London, tapi juga alasan terakhir yang bisa mereka pakai untuk bersembunyi."
+          }
+        },
+        {
+          "id": "what_if_1_mutiny_in_the_manifest",
+          "type": "what_if",
+          "title": {
+            "en": "The Crew Voted with Hunger",
+            "id": "Awak Memilih dengan Lapar"
+          },
+          "content": {
+            "en": "In this path, Drake’s habit of imagining names as ghosts becomes a self-fulfilling prophecy. One man on the manifest is recognized by another—an old grievance, an old wound, a feud that never reached shore.\n\nThe night before departure, a knife appears where it shouldn’t. Not used, just displayed—an argument without words.\n\nDrake responds with designed discipline: he reshuffles watches, locks powder access tighter, and publicly punishes a smaller offense to warn against a larger one.\n\nThe crew reads the punishment as fear, not strength. Whispers travel faster than orders.\n\nIn this what if, Chapter 1 ends with the ship leaving on schedule, but already divided into two parliaments: those who follow Drake, and those who are waiting for him to slip.",
+            "id": "Dalam jalur ini, kebiasaan Drake membayangkan nama-nama sebagai hantu menjadi ramalan yang menggenapi dirinya. Satu nama di daftar dikenali oleh yang lain—dendam lama, luka lama, perseteruan yang tak pernah sampai darat.\n\nMalam sebelum berangkat, sebuah pisau muncul di tempat yang seharusnya tidak ada. Tidak dipakai, hanya dipamerkan—argumen tanpa kata.\n\nDrake membalas dengan disiplin yang dirancang: ia mengacak jadwal jaga, mengunci akses mesiu lebih ketat, dan menghukum pelanggaran kecil secara terbuka untuk memperingatkan pelanggaran besar.\n\nAwak membaca hukuman itu sebagai takut, bukan kuat. Bisik-bisik bergerak lebih cepat daripada perintah.\n\nDalam what if ini, Bab 1 berakhir saat kapal berangkat tepat waktu, tetapi sudah terbelah jadi dua parlemen: yang mengikuti Drake, dan yang menunggu ia terpeleset."
+          }
+        },
+        {
+          "id": "what_if_1_a_spy_in_the_docks",
+          "type": "what_if",
+          "title": {
+            "en": "Spain Heard the Rigging Creak",
+            "id": "Spanyol Mendengar Derit Rigging"
+          },
+          "content": {
+            "en": "In this path, the men who smile too easily are not merely ambitious—they are purchased. A dockside clerk copies the manifest, the powder count, and the sailing time, then sells it for a purse that feels like salvation.\n\nDrake notices a small inconsistency: a barrel moved twice, a seal re-tied with a different knot, a tally mark that doesn’t match his memory.\n\nHe cannot prove espionage, but he treats uncertainty as truth. He changes the departure hour, swaps two supply boats, and orders the crew to speak of a false destination in taverns.\n\nThe fleet still sails, but now the first opponent is not the sea. It is expectation.\n\nIn this what if, Chapter 1 ends with Drake understanding that the voyage begins in whispers, and whoever controls the first rumor controls the first wind.",
+            "id": "Dalam jalur ini, orang-orang yang tersenyum terlalu mudah bukan sekadar ambisius—mereka dibeli. Seorang juru tulis dermaga menyalin daftar awak, hitungan mesiu, dan waktu berlayar, lalu menjualnya demi kantong uang yang terasa seperti keselamatan.\n\nDrake menangkap ketidaksesuaian kecil: satu tong dipindah dua kali, segel diikat ulang dengan simpul berbeda, satu garis hitung yang tidak cocok dengan ingatannya.\n\nIa tak bisa membuktikan spionase, tapi ia memperlakukan ketidakpastian sebagai kebenaran. Ia mengubah jam berangkat, menukar dua perahu suplai, dan memerintahkan awak membicarakan tujuan palsu di kedai.\n\nArmada tetap berlayar, tapi kini lawan pertama bukan laut. Melainkan ekspektasi.\n\nDalam what if ini, Bab 1 berakhir saat Drake paham pelayaran dimulai dari bisik-bisik, dan siapa menguasai rumor pertama menguasai angin pertama."
+          }
+        },
+        {
+          "id": "what_if_1_the_debt_of_greatness_breaks_him",
+          "type": "what_if",
+          "title": {
+            "en": "Greatness Felt Like a Noose",
+            "id": "Kebesaran Terasa Seperti Jerat"
+          },
+          "content": {
+            "en": "In this path, the phrase Sic Parvis Magna does not harden Drake—it exhausts him. The ‘debt’ of greatness becomes a weight that turns every decision into a test he must pass for everyone.\n\nAt dinner, the smiling men needle him with praise that sounds like pressure. At the docks, the crew watches him like a verdict waiting to happen.\n\nHe makes a rare choice: he appoints a trusted officer to command the first days at sea while he keeps to his cabin and writes. Not weakness, he tells himself—strategy.\n\nBut the sea does not respect private battles. A captain who disappears creates a vacuum, and vacuums invite ambition.\n\nIn this what if, Chapter 1 ends with Drake realizing that the greatest threat to a voyage can be internal: not mutiny yet, but the slow erosion of authority when a man stops being seen.",
+            "id": "Dalam jalur ini, frasa Sic Parvis Magna tidak mengeraskan Drake—ia melelahkannya. ‘Utang’ kebesaran berubah jadi beban yang membuat setiap keputusan terasa seperti ujian untuk semua orang.\n\nDi meja makan, orang-orang yang tersenyum itu menusuknya dengan pujian yang terdengar seperti tekanan. Di dermaga, awak menatapnya seperti vonis yang menunggu jatuh.\n\nIa membuat pilihan langka: menunjuk perwira terpercaya untuk memimpin hari-hari awal di laut sementara ia mengurung diri menulis. Bukan lemah, katanya pada diri sendiri—strategi.\n\nTapi laut tidak menghormati perang privat. Kapten yang menghilang menciptakan ruang hampa, dan ruang hampa mengundang ambisi.\n\nDalam what if ini, Bab 1 berakhir saat Drake menyadari ancaman terbesar pelayaran bisa datang dari dalam: belum pemberontakan, tapi erosi pelan otoritas saat seorang pria berhenti terlihat."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The Sea Votes First",
+        "id": "Laut Memilih Lebih Dulu"
+      },
+      "preview": {
+        "en": "The fleet clears the harbor, and politics fades—replaced by wind, discipline, and the first mistakes that can’t be undone on land.",
+        "id": "Armada melewati pelabuhan, dan politik memudar—digantikan angin, disiplin, serta kesalahan pertama yang tak bisa dibatalkan di darat."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "Articles of the Deck",
+            "id": "Pasal-Pasal di Atas Dek"
+          },
+          "content": {
+            "en": "We leave with the tide as our accomplice. The shoreline thins into a gray line, and London becomes a rumor behind us.\n\nThe first day at sea is not adventure; it is administration. Rope must be coiled the same way every time, barrels counted twice, watches set, and punishments defined before they are needed. A ship that improvises discipline will improvise disaster.\n\nThe men test the edges of authority as naturally as they test knots. A sailor complains that the biscuit is damp. Another suggests we should have taken more beer. They do not speak to be fed; they speak to see whether I will answer like a captain or like a man.\n\nI answer with procedure. The ration is the ration. The sea does not accept debate.\n\nOn the second night a squall arrives without courtesy. The wind twists, and the ship heels hard enough to throw a lantern from its hook. It shatters, and for a moment the deck smells of oil and fear.\n\nA boy barely old enough to shave hesitates at the rigging. He looks down at the black water as if it were a mouth.\n\nI climb to him myself and do not shout. Shouting is theater; fear does not obey theater. I place his hand on the line and tell him a truth sailors know and landmen forget: the rope is kinder than the sea.\n\nHe moves. Not bravely, but correctly. That is enough.\n\nAfter the squall, we find a new problem: a cask has shifted in the hold and cracked, leaking water into a corner where powder should never taste moisture. The master gunner demands we open the magazine to inspect.\n\nI refuse until dawn. Not because I deny the danger, but because I know a greater one: men with fear in their blood and powder in their hands.\n\nAt first light we inspect, dry what we can, and move the compromised stores. I order that only two trusted hands enter the magazine at any time, and that one of them never carries a lamp.\n\nThe crew calls it caution. I call it architecture. If the voyage is to survive, it must be built to resist the worst version of us.\n\nThat evening, as the sea calms, I write the first true line of this journey: the ocean does not care who sent us. It only cares whether we deserve to remain afloat.\n\nChapter 2 ends with the fleet holding formation under a clear sky, but with a changed understanding aboard: the mission may be written by courts, yet the ship is governed by weather—and by the small rules that keep men from becoming storms.",
+            "id": "Kami berangkat bersama pasang seolah ia sekutu. Garis pantai menipis jadi garis abu-abu, dan London berubah jadi rumor di belakang.\n\nHari pertama di laut bukan petualangan; ia administrasi. Tali harus digulung dengan cara yang sama tiap kali, tong dihitung dua kali, jadwal jaga ditetapkan, dan hukuman didefinisikan sebelum dibutuhkan. Kapal yang mengimprovisasi disiplin akan mengimprovisasi bencana.\n\nOrang-orang menguji tepi otoritas sealamiah mereka menguji simpul. Seorang pelaut mengeluh biskuit lembap. Yang lain menyarankan seharusnya kami membawa lebih banyak bir. Mereka bicara bukan agar kenyang; mereka bicara untuk melihat apakah aku menjawab sebagai kapten atau sebagai manusia.\n\nAku menjawab dengan prosedur. Ransum adalah ransum. Laut tidak menerima debat.\n\nMalam kedua, badai kecil datang tanpa sopan santun. Angin memuntir, kapal miring keras sampai lampu minyak terlepas dari gantungan. Ia pecah, dan sesaat dek berbau minyak dan takut.\n\nSeorang bocah yang bahkan belum cukup umur untuk bercukur ragu di rigging. Ia menatap air hitam seolah ia mulut.\n\nAku memanjat menghampirinya sendiri dan tidak berteriak. Teriak adalah teater; takut tidak patuh pada teater. Aku menaruh tangannya pada tali dan mengatakan kebenaran yang pelaut tahu dan orang darat lupa: tali lebih ramah daripada laut.\n\nIa bergerak. Bukan gagah, tapi benar. Itu cukup.\n\nSeusai badai, kami menemukan masalah baru: satu tong bergeser di palka dan retak, membocorkan air ke sudut tempat mesiu tak boleh mencicipi lembap. Master gunner menuntut kami membuka ruang mesiu untuk memeriksa.\n\nAku menolak sampai fajar. Bukan karena menyangkal bahaya, tapi karena mengenali bahaya lebih besar: orang dengan takut di darah dan mesiu di tangan.\n\nSaat cahaya pertama, kami memeriksa, mengeringkan sebisanya, dan memindahkan simpanan yang bocor. Aku memerintahkan hanya dua tangan terpercaya boleh masuk ruang mesiu pada satu waktu, dan salah satunya tidak pernah membawa lampu.\n\nAwak menyebutnya kehati-hatian. Aku menyebutnya arsitektur. Jika pelayaran ini ingin bertahan, ia harus dibangun untuk menahan versi terburuk dari diri kami.\n\nMalam itu, ketika laut kembali tenang, aku menulis kalimat pertama yang benar-benar milik perjalanan ini: samudra tak peduli siapa yang mengutus kami. Ia hanya peduli apakah kami pantas tetap mengapung.\n\nBab 2 berakhir saat armada menjaga formasi di bawah langit cerah, namun dengan pemahaman baru di atas dek: misi mungkin ditulis istana, tetapi kapal diperintah cuaca—dan aturan kecil yang mencegah manusia berubah jadi badai."
+          }
+        },
+        {
+          "id": "what_if_2_the_lantern_starts_a_fire",
+          "type": "what_if",
+          "title": {
+            "en": "Oil and Oaths",
+            "id": "Minyak dan Sumpah"
+          },
+          "content": {
+            "en": "In this path, the lantern that falls does not merely shatter. The oil catches, and flame crawls along wet planks faster than men can think.\n\nThe crew lunges for water, but the sea’s water is locked behind panic: buckets collide, orders overlap, and a single shout turns into ten.\n\nDrake orders the fire smothered with canvas and coats, sacrificing gear to save oxygen. It works, barely.\n\nAfterward, he rewrites discipline on the spot: no open flame on deck during squalls, and any man who argues the rule is put off watch for a week.\n\nIn this what if, Chapter 2 ends with a ship that survives but smells of burned oil—a reminder that the first enemy is often the smallest accident.",
+            "id": "Dalam jalur ini, lampu minyak yang jatuh tidak sekadar pecah. Minyaknya tersulut, dan api merayap di papan basah lebih cepat daripada pikiran manusia.\n\nAwak menerjang mengambil air, tapi air laut terkunci oleh panik: ember berbenturan, perintah bertumpuk, dan satu teriakan melahirkan sepuluh.\n\nDrake memerintahkan api ditutup dengan kanvas dan mantel, mengorbankan perlengkapan untuk menyelamatkan oksigen. Berhasil, nyaris gagal.\n\nSesudahnya, ia menulis ulang disiplin di tempat: tak ada api terbuka di dek saat badai kecil, dan siapa pun yang membantah aturan itu dicabut dari jadwal jaga seminggu.\n\nDalam what if ini, Bab 2 berakhir dengan kapal yang selamat tapi berbau minyak terbakar—pengingat bahwa musuh pertama sering kali kecelakaan paling kecil."
+          }
+        },
+        {
+          "id": "what_if_2_the_boy_falls",
+          "type": "what_if",
+          "title": {
+            "en": "The Sea Took a Vote",
+            "id": "Laut Mengambil Suara"
+          },
+          "content": {
+            "en": "In this path, the boy at the rigging hesitates one second too long. A gust snaps the line, the deck lurches, and he slips into black water.\n\nThe crew throws rope, but in the squall the rope is a guess. A lantern beam swings across waves and finds nothing stable to hold.\n\nDrake orders the ship to heave-to long enough to search, risking formation and schedule. Some men obey. Others mutter that a life is not worth the delay.\n\nWhen the search fails, the ship moves again with a silence that is heavier than any storm.\n\nIn this what if, Chapter 2 ends with authority tightened by grief: Drake’s rules become stricter not from cruelty, but from the knowledge that softness is paid for in bodies.",
+            "id": "Dalam jalur ini, bocah di rigging ragu sedetik terlalu lama. Hembusan angin menyentak tali, dek mengayun, dan ia tergelincir ke air hitam.\n\nAwak melempar tali, tapi dalam badai kecil tali itu cuma tebak-tebakan. Sorot lampu menyapu gelombang dan tak menemukan pegangan yang pasti.\n\nDrake memerintahkan kapal menahan arah cukup lama untuk mencari, mempertaruhkan formasi dan jadwal. Sebagian patuh. Sebagian menggerutu bahwa satu nyawa tak sepadan dengan keterlambatan.\n\nSaat pencarian gagal, kapal bergerak lagi dengan sunyi yang lebih berat daripada badai.\n\nDalam what if ini, Bab 2 berakhir dengan otoritas yang mengencang karena duka: aturan Drake jadi lebih keras bukan karena kejam, melainkan karena ia tahu kelembutan dibayar dengan tubuh."
+          }
+        },
+        {
+          "id": "what_if_2_the_powder_is_ruined",
+          "type": "what_if",
+          "title": {
+            "en": "Wet Powder, Dry Fate",
+            "id": "Mesiu Basah, Nasib Kering"
+          },
+          "content": {
+            "en": "In this path, the cracked cask leaks longer than anyone admits. By dawn, moisture has kissed more powder than the gunner can hide.\n\nThe master gunner urges immediate airing and drying. Drake’s restriction—only two trusted hands—slows the work.\n\nA frustrated officer claims Drake is protecting authority more than capability. The argument becomes a second storm inside the ship.\n\nThey dry what they can, but the fleet’s bite is dulled. Cannons will still roar, but not with the certainty men expect.\n\nIn this what if, Chapter 2 ends with a strategic wound: the voyage continues, yet everyone aboard understands they may have to win by deception and sailing—not by force.",
+            "id": "Dalam jalur ini, tong retak membocorkan air lebih lama daripada yang diakui siapa pun. Menjelang fajar, lembap sudah menyentuh lebih banyak mesiu daripada yang bisa disembunyikan sang gunner.\n\nMaster gunner mendorong pengeringan segera. Pembatasan Drake—hanya dua tangan terpercaya—membuat pekerjaan lebih lambat.\n\nSeorang perwira yang frustrasi menuduh Drake menjaga otoritas lebih daripada kemampuan. Perdebatan menjadi badai kedua di dalam kapal.\n\nMereka mengeringkan sebisanya, tapi gigitan armada menumpul. Meriam masih bisa mengaum, namun tidak dengan kepastian yang biasa diandalkan.\n\nDalam what if ini, Bab 2 berakhir dengan luka strategis: pelayaran berlanjut, tetapi semua orang paham mereka mungkin harus menang dengan tipu daya dan pelayaran—bukan dengan kekuatan."
+          }
+        },
+        {
+          "id": "what_if_2_the_crew_demands_more_rations",
+          "type": "what_if",
+          "title": {
+            "en": "The Biscuit Revolt",
+            "id": "Pemberontakan Biskuit"
+          },
+          "content": {
+            "en": "In this path, the damp biscuit complaint is not harmless grumbling. It becomes a rally point.\n\nA few men claim the stores are mismanaged and demand larger shares ‘while the shore is still near.’ The request is framed as fairness, but it is really a test of who controls the future.\n\nDrake answers with a public inventory on deck. Barrels are counted, seals inspected, and the crew is forced to watch scarcity become arithmetic.\n\nThe display restores order, but it also teaches the men something dangerous: the captain’s power is made of numbers.\n\nIn this what if, Chapter 2 ends with discipline restored and a new vulnerability revealed—once men learn they can bargain with logistics, they will try again.",
+            "id": "Dalam jalur ini, keluhan biskuit lembap bukan lagi gumaman. Ia jadi titik kumpul.\n\nBeberapa orang menuduh perbekalan salah urus dan menuntut jatah lebih besar ‘selagi pantai masih dekat.’ Permintaan itu dibungkus sebagai adil, tapi sebenarnya ujian: siapa yang menguasai masa depan.\n\nDrake membalas dengan inventaris terbuka di dek. Tong dihitung, segel diperiksa, dan awak dipaksa menatap kelangkaan sebagai aritmetika.\n\nPertunjukan itu memulihkan tertib, tapi juga mengajarkan hal berbahaya: kuasa kapten terbuat dari angka.\n\nDalam what if ini, Bab 2 berakhir dengan disiplin kembali tegak dan satu kerentanan baru tersingkap—begitu orang belajar bisa menawar lewat logistik, mereka akan mencoba lagi."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Charts and Captains",
+        "id": "Peta dan Kapten"
+      },
+      "preview": {
+        "en": "Land falls away behind them, but conflict doesn’t. It simply changes language—from court whispers to sea-law and the authority to interpret a map.",
+        "id": "Darat lenyap di belakang, tapi konflik tidak. Ia hanya berganti bahasa—dari bisik istana ke hukum laut dan kuasa menafsirkan peta."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Hidden Course",
+            "id": "Haluan Tersembunyi"
+          },
+          "content": {
+            "en": "The third week brings a strange calm—days of steady wind and obedient seas that lull men into believing the ocean has accepted them.\n\nThat is when trouble prefers to arrive: not as a wave, but as a conversation.\n\nA senior officer requests to see the charts more often. He frames it as diligence, as shared responsibility. Yet the request carries a sharper meaning: who is allowed to know where we truly sail?\n\nI grant him a look—but not the whole. A captain’s greatest instrument is not the compass. It is asymmetry. If too many hands hold the same knowledge, a ship begins to steer itself.\n\nThat night, I hear footsteps outside my cabin that pause too long. The boards remember weight.\n\nAt morning muster, the crew stands easier than before, as if someone has been promising them simpler days. I do not ask who. Questions give conspiracies a shape.\n\nInstead, I change routine.\n\nWe drill at odd hours. Watches rotate without pattern. I order the men to practice shortening sail as if a squall were coming even when the sky is clean. The sea is not the only thing that must be kept uncertain.\n\nIn the hold, we discover a second crack—not in a cask, but in loyalty. A small bundle of private provisions is found hidden behind spare line: dried fruit, better biscuit, a flask. Someone has begun to imagine survival as personal, not shared.\n\nI do not punish the thief publicly. Public punishment creates martyrs.\n\nI call the crew to the main deck and announce a new article: all private stores are forfeit to the common chest, and any man found withholding will be reduced in ration before he is reduced in rank.\n\nThey grumble, but they obey. Hunger is democratic; discipline must be, too.\n\nThat evening, a sail appears on the horizon—far, faint, and carefully positioned. Not close enough to be certain. Close enough to be a question.\n\nSome say it is a merchant. Others say Spanish.\n\nI say nothing. I order the fleet to alter course by a small degree—so small it feels like caution, yet it makes the day’s position lie to any watcher reading us from afar.\n\nThe officer who wanted the charts looks at me as if he has just learned what sort of war this will be.\n\nChapter 3 ends with the unknown sail still behind us at dusk, and my hand lingering on the edge of the chart like a blade. A voyage is not a line across water. It is a contest over who gets to define what the line means.",
+            "id": "Minggu ketiga membawa ketenangan aneh—hari-hari dengan angin mantap dan laut patuh yang membuat orang percaya samudra sudah menerima mereka.\n\nDi situlah masalah suka datang: bukan sebagai ombak, melainkan percakapan.\n\nSeorang perwira senior meminta melihat peta lebih sering. Ia membingkainya sebagai ketelitian, sebagai tanggung jawab bersama. Tapi permintaan itu membawa makna lebih tajam: siapa yang diizinkan tahu ke mana sebenarnya kita berlayar?\n\nAku mengizinkan ia melihat—tapi tidak seluruhnya. Instrumen terbesar seorang kapten bukan kompas. Melainkan asimetri. Jika terlalu banyak tangan memegang pengetahuan yang sama, kapal mulai mengemudikan dirinya sendiri.\n\nMalamnya, aku mendengar langkah di luar kabinku yang berhenti terlalu lama. Papan dek mengingat berat.\n\nSaat apel pagi, awak berdiri lebih santai dari biasanya, seolah ada yang menjanjikan hari yang lebih mudah. Aku tidak bertanya siapa. Pertanyaan memberi konspirasi bentuk.\n\nSebagai gantinya, aku mengubah rutinitas.\n\nKami latihan di jam ganjil. Jadwal jaga diputar tanpa pola. Aku memerintahkan mereka berlatih mengurangi layar seolah badai akan datang bahkan saat langit bersih. Laut bukan satu-satunya hal yang harus dibuat tak pasti.\n\nDi palka, kami menemukan retak kedua—bukan pada tong, melainkan pada kesetiaan. Seikat kecil perbekalan pribadi ditemukan disembunyikan di balik tali cadangan: buah kering, biskuit lebih baik, sebotol minum. Seseorang mulai membayangkan selamat sebagai urusan pribadi, bukan bersama.\n\nAku tidak menghukum pencuri di depan umum. Hukuman publik menciptakan martir.\n\nAku memanggil awak ke dek utama dan mengumumkan pasal baru: semua simpanan pribadi disita ke peti bersama, dan siapa pun yang menahan akan dipotong jatah sebelum dipotong pangkat.\n\nMereka menggerutu, tapi patuh. Lapar itu demokratis; disiplin juga harus.\n\nMenjelang senja, satu layar muncul di cakrawala—jauh, samar, dan ditempatkan dengan hati-hati. Tidak cukup dekat untuk pasti. Cukup dekat untuk jadi pertanyaan.\n\nSebagian bilang itu pedagang. Sebagian bilang Spanyol.\n\nAku tidak berkata apa-apa. Aku memerintahkan armada mengubah haluan sedikit derajat—sedikit sekali hingga terasa seperti kehati-hatian, tetapi cukup untuk membuat posisi hari ini membohongi siapa pun yang membaca kami dari jauh.\n\nPerwira yang ingin melihat peta menatapku seolah baru paham perang macam apa ini.\n\nBab 3 berakhir dengan layar tak dikenal itu masih di belakang saat gelap turun, dan tanganku tertahan di tepi peta seperti bilah. Pelayaran bukan garis di atas air. Ia perebutan tentang siapa yang berhak mendefinisikan apa arti garis itu."
+          }
+        },
+        {
+          "id": "what_if_3_drake_shares_the_full_chart",
+          "type": "what_if",
+          "title": {
+            "en": "He Showed Them the Whole Map",
+            "id": "Ia Menunjukkan Seluruh Peta"
+          },
+          "content": {
+            "en": "In this path, Drake yields to the officer’s request and shares the full chart in the name of unity. The cabin door opens, and with it opens a new kind of power aboard: shared certainty.\n\nThe crew’s mood improves. They feel included, trusted, and therefore entitled. They begin debating the route as if debate can steer wind.\n\nWhen the unknown sail appears, too many men already know what is ‘supposed’ to happen next. The ship’s discipline softens into committee.\n\nA single disagreement becomes a faction, because now everyone can claim to be defending the plan.\n\nIn this what if, Chapter 3 ends with Drake learning that transparency at sea is not always virtue. Sometimes it is a gift to mutiny: a common story that ambitious men can weaponize.",
+            "id": "Dalam jalur ini, Drake mengalah pada permintaan perwira dan membagi peta sepenuhnya demi persatuan. Pintu kabin terbuka, dan bersamanya terbuka jenis kuasa baru di kapal: kepastian bersama.\n\nMood awak membaik. Mereka merasa dilibatkan, dipercaya, dan karenanya berhak. Mereka mulai memperdebatkan rute seolah debat bisa mengemudikan angin.\n\nSaat layar tak dikenal muncul, terlalu banyak orang sudah tahu apa yang ‘seharusnya’ terjadi selanjutnya. Disiplin kapal melunak jadi komite.\n\nSatu ketidaksetujuan berubah jadi faksi, karena kini semua bisa mengklaim sedang membela rencana.\n\nDalam what if ini, Bab 3 berakhir saat Drake belajar bahwa transparansi di laut tidak selalu kebajikan. Kadang itu hadiah untuk pemberontakan: satu cerita bersama yang bisa dijadikan senjata oleh orang ambisius."
+          }
+        },
+        {
+          "id": "what_if_3_drake_punishes_the_thief_publicly",
+          "type": "what_if",
+          "title": {
+            "en": "He Made a Martyr",
+            "id": "Ia Menciptakan Martir"
+          },
+          "content": {
+            "en": "In this path, Drake drags the man with hidden provisions onto the main deck and makes an example. He reads the new article aloud while the crew watches the thief shake.\n\nThe punishment works in the short term: private hoards disappear. But the cost is paid in whispers.\n\nThe crew decides the issue was never biscuit; it was humiliation. Sympathy gathers around the punished man like barnacles.\n\nWhen the unknown sail follows at dusk, the ship now carries two storms: an enemy outside and resentment inside.\n\nIn this what if, Chapter 3 ends with Drake winning obedience but losing affection—learning that fear can steer a ship, but it cannot keep it steady.",
+            "id": "Dalam jalur ini, Drake menyeret orang yang menyembunyikan perbekalan ke dek utama dan menjadikannya contoh. Ia membacakan pasal baru keras-keras saat awak menatap si pencuri gemetar.\n\nHukuman itu berhasil dalam jangka pendek: simpanan pribadi menghilang. Tapi ongkosnya dibayar lewat bisik-bisik.\n\nAwak memutuskan masalahnya bukan biskuit; melainkan penghinaan. Simpati menempel pada orang yang dihukum seperti teritip.\n\nSaat layar tak dikenal mengikuti di senja, kapal kini memikul dua badai: musuh di luar dan dendam di dalam.\n\nDalam what if ini, Bab 3 berakhir dengan Drake menang dalam kepatuhan tapi kalah dalam kedekatan—belajar bahwa takut bisa mengemudikan kapal, tapi tak bisa membuatnya stabil."
+          }
+        },
+        {
+          "id": "what_if_3_the_unknown_sail_is_a_decoy",
+          "type": "what_if",
+          "title": {
+            "en": "The Horizon Lied",
+            "id": "Cakrawala Berbohong"
+          },
+          "content": {
+            "en": "In this path, the sail on the horizon is a decoy—set to be seen, set to be interpreted. Drake alters course as in canon, satisfied that he has become unreadable.\n\nBut the true watchers are not behind. They are ahead, positioned along a choke point where currents compress options.\n\nBy nightfall, a second sail appears on the new bearing—closer, faster, and flying no friendly answer.\n\nThe officer who asked for charts realizes the trap first: the enemy is not chasing their wake. It is predicting their caution.\n\nIn this what if, Chapter 3 ends with the voyage’s logic flipping. The fleet must now choose between secrecy and speed, because the sea has become a board and someone else is already playing.",
+            "id": "Dalam jalur ini, layar di cakrawala adalah umpan—dibuat untuk terlihat, dibuat untuk ditafsir. Drake mengubah haluan seperti canon, yakin ia sudah jadi tak terbaca.\n\nNamun pengintai sejati bukan di belakang. Mereka di depan, diposisikan di titik cekik tempat arus memampatkan pilihan.\n\nMenjelang malam, layar kedua muncul di haluan baru—lebih dekat, lebih cepat, dan tak mengibarkan jawaban ramah.\n\nPerwira yang meminta peta sadar perangkapnya lebih dulu: musuh bukan mengejar jejak. Ia memprediksi kehati-hatian.\n\nDalam what if ini, Bab 3 berakhir dengan logika pelayaran terbalik. Armada kini harus memilih antara rahasia dan kecepatan, karena laut sudah jadi papan permainan dan seseorang lain sudah mulai bermain."
+          }
+        },
+        {
+          "id": "what_if_3_the_asymmetry_backfires",
+          "type": "what_if",
+          "title": {
+            "en": "Too Few Hands Held the Truth",
+            "id": "Terlalu Sedikit Tangan Memegang Kebenaran"
+          },
+          "content": {
+            "en": "In this path, Drake’s asymmetry becomes too tight. Only a tiny circle is allowed to know the intended course, and everyone else is treated like a potential leak.\n\nThe crew stops feeling like a parliament and starts feeling like a prison population. Men obey, but they no longer volunteer information—shoals seen, clouds changing, a smell of land.\n\nSmall warnings go unreported because reporting feels like stepping into suspicion. The ship loses not to mutiny, but to silence.\n\nWhen the unknown sail appears, the crew’s fear has no outlet except rumor. Rumor fills the gaps that leadership refuses to explain.\n\nIn this what if, Chapter 3 ends with Drake learning the edge of secrecy: a captain can hide the destination so well that he also hides the reasons people need to cooperate.",
+            "id": "Dalam jalur ini, asimetri Drake jadi terlalu ketat. Hanya lingkar kecil yang boleh tahu haluan, dan semua yang lain diperlakukan sebagai kebocoran potensial.\n\nAwak berhenti merasa seperti parlemen dan mulai merasa seperti tahanan. Mereka patuh, tapi tak lagi sukarela memberi informasi—karang terlihat, awan berubah, bau darat.\n\nPeringatan kecil tak tersampaikan karena melapor terasa seperti masuk ke wilayah curiga. Kapal kalah bukan oleh pemberontakan, melainkan oleh sunyi.\n\nSaat layar tak dikenal muncul, takut awak tak punya saluran selain rumor. Rumor mengisi lubang yang kepemimpinan menolak jelaskan.\n\nDalam what if ini, Bab 3 berakhir dengan Drake belajar batas rahasia: kapten bisa menyembunyikan tujuan begitu baik sampai ia juga menyembunyikan alasan orang harus bekerja sama."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Strait of Patience",
+        "id": "Selat Kesabaran"
+      },
+      "preview": {
+        "en": "A narrow passage makes every secret expensive: wind becomes a toll, water becomes law, and leadership becomes visible in every ration.",
+        "id": "Lintasan sempit membuat setiap rahasia mahal: angin jadi bea, air jadi hukum, dan kepemimpinan terlihat di tiap jatah."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Choke Point",
+            "id": "Titik Cekik"
+          },
+          "content": {
+            "en": "The unknown sail vanishes, yet it leaves a residue in the crew’s minds. Men keep looking over their shoulders as if the horizon can accuse them.\n\nWe hold our altered course and let distance do the work that cannon should not. To fire is to announce.\n\nDays later the sea changes color, and with it the mood aboard. The water turns colder and more metallic, the wind more stubborn. We have reached the kind of latitude where maps stop being promises and become prayers.\n\nThe fleet enters a long, narrow passage between harsh land and harsher current. The shore is close enough to smell—wet stone, rotting kelp—yet too far to trust. It is a corridor that does not forgive drifting.\n\nHere, the sea votes first and often. A single misjudged tack can pin a ship sideways, turning it into a lesson for the rest.\n\nRations tighten. Not because the stores are low, but because I must remove the crew’s illusion that consumption can be negotiated. Discipline is easier when hunger is predictable.\n\nA grumble rises anyway. Men do not mutiny over philosophy; they mutiny over bread and water.\n\nI call the officers and speak plainly: in this passage, no man drinks unless the watch says so. The rule will be hated. That is how I know it will be remembered.\n\nThe senior officer who wanted charts watches me like a man reading a confession. He finally understands that my secrecy was never only about Spain. It was about the crew.\n\nOn the second night in the passage, we see lights on the shore—small, steady, unnatural. Not a town. Not a beacon for us. A signal for someone else.\n\nI order lanterns doused and sails shortened. We drift in darkness, letting the coastline slide past without offering it our outline.\n\nNear midnight, a boat cuts across the water ahead—low, fast, too purposeful to be fishermen. It does not close. It merely observes the fleet’s shape, then fades back toward the lights.\n\nThe men whisper ‘Spanish.’ I do not correct them. A correct fear can be useful.\n\nAt dawn, the current turns against us hard enough to steal a mile for every mile gained. The fleet strains, lines sing, hands bleed.\n\nA sailor collapses at the capstan. Another takes his place without being told. The crew learns the passage’s true doctrine: sympathy is optional, replacement is not.\n\nBy dusk, we clear the narrowest bend. The water opens, and the wind returns as if it had been withheld on purpose.\n\nChapter 4 ends with the fleet emerging into wider sea, but carrying a new knowledge like salt in the mouth: the world has choke points, and so does authority. A captain survives by choosing what to reveal, what to ration, and what to let men believe—until belief becomes the only wind left.",
+            "id": "Layar tak dikenal itu menghilang, tapi meninggalkan residu di kepala awak. Orang-orang terus menoleh ke belakang seolah cakrawala bisa menuduh.\n\nKami bertahan pada haluan baru dan membiarkan jarak mengerjakan pekerjaan yang seharusnya tidak dikerjakan meriam. Menembak berarti mengumumkan.\n\nBeberapa hari kemudian laut berubah warna, dan bersamanya suasana di kapal. Air jadi lebih dingin dan lebih ‘logam’, angin lebih keras kepala. Kami mencapai lintang tempat peta berhenti jadi janji dan berubah jadi doa.\n\nArmada masuk ke lintasan panjang sempit di antara daratan keras dan arus yang lebih keras. Pantai cukup dekat untuk tercium—batu basah, rumput laut membusuk—namun terlalu jauh untuk dipercaya. Ini koridor yang tidak memaafkan melenceng.\n\nDi sini, laut memilih lebih dulu dan lebih sering. Satu manuver layar yang salah bisa membuat kapal terpaku menyamping, menjadikannya pelajaran bagi yang lain.\n\nJatah diperketat. Bukan karena simpanan menipis, melainkan karena aku harus mencabut ilusi awak bahwa konsumsi bisa dinegosiasikan. Disiplin lebih mudah saat lapar bisa diprediksi.\n\nGerutu tetap naik. Orang tidak memberontak karena filsafat; mereka memberontak karena roti dan air.\n\nAku memanggil para perwira dan bicara gamblang: di lintasan ini, tak ada yang minum kecuali jaga yang mengizinkan. Aturan itu akan dibenci. Begitulah aku tahu ia akan diingat.\n\nPerwira senior yang dulu ingin melihat peta menatapku seperti orang membaca pengakuan. Ia akhirnya paham rahasiaku bukan hanya soal Spanyol. Tapi soal awak.\n\nMalam kedua di lintasan, kami melihat lampu di pantai—kecil, stabil, tidak alami. Bukan kota. Bukan mercusuar untuk kami. Sinyal untuk pihak lain.\n\nAku memerintahkan lampu dipadamkan dan layar diperpendek. Kami melayang dalam gelap, membiarkan garis pantai bergeser tanpa menawarkan siluet.\n\nMenjelang tengah malam, sebuah perahu memotong air di depan—rendah, cepat, terlalu sengaja untuk nelayan. Ia tidak mendekat. Ia hanya mengamati bentuk armada, lalu memudar kembali ke arah lampu.\n\nAwak berbisik ‘Spanyol.’ Aku tidak membantah. Takut yang tepat bisa berguna.\n\nSaat fajar, arus berbalik melawan kami cukup keras untuk mencuri satu mil tiap mil yang didapat. Armada menegang, tali bernyanyi, tangan berdarah.\n\nSeorang pelaut roboh di capstan. Yang lain menggantikan tanpa disuruh. Awak belajar doktrin lintasan: iba itu pilihan, pengganti itu keharusan.\n\nMenjelang senja, kami melewati belokan tersempit. Air membuka, dan angin kembali seolah sengaja ditahan.\n\nBab 4 berakhir saat armada keluar ke laut lebih luas, namun membawa pengetahuan baru seperti asin di mulut: dunia punya titik cekik, dan otoritas juga. Kapten bertahan dengan memilih apa yang diungkap, apa yang dijatah, dan apa yang dibiarkan orang percaya—sampai percaya menjadi satu-satunya angin yang tersisa."
+          }
+        },
+        {
+          "id": "what_if_4_they_fire_to_warn",
+          "type": "what_if",
+          "title": {
+            "en": "The Cannon Announced Them",
+            "id": "Meriam Mengumumkan Mereka"
+          },
+          "content": {
+            "en": "In this path, a nervous officer insists on firing a warning shot toward the shoreline lights, arguing that silence invites ambush.\n\nThe cannon’s roar does what Drake fears most: it turns uncertainty into a coordinate. The shore answers—not with fire, but with movement. More lights bloom in a staggered line, as if the coast has been waiting for proof.\n\nThe observing boat that would have faded returns with purpose, now confident it has found the fleet’s position and temperament.\n\nDrake wins a moment of morale and loses a night of invisibility.\n\nIn this what if, Chapter 4 ends with a doctrine written in smoke: sometimes the loudest weapon is not meant to kill—it is meant to mark.",
+            "id": "Dalam jalur ini, seorang perwira yang gugup memaksa menembakkan satu tembakan peringatan ke arah lampu-lampu pantai, dengan alasan sunyi mengundang penyergapan.\n\nAuman meriam melakukan hal yang paling ditakuti Drake: mengubah ketidakpastian jadi koordinat. Pantai menjawab—bukan dengan tembakan, melainkan pergerakan. Lebih banyak lampu menyala dalam garis terselang-seling, seolah pesisir menunggu bukti.\n\nPerahu pengintai yang semula akan memudar kembali datang dengan tujuan, kini yakin telah menemukan posisi dan tabiat armada.\n\nDrake menang sesaat dalam moral dan kalah semalam dalam ketakterlihatan.\n\nDalam what if ini, Bab 4 berakhir dengan doktrin yang ditulis lewat asap: kadang senjata paling bising bukan untuk membunuh—melainkan untuk menandai."
+          }
+        },
+        {
+          "id": "what_if_4_the_ration_rule_sparks_open_defiance",
+          "type": "what_if",
+          "title": {
+            "en": "Water Became Politics",
+            "id": "Air Menjadi Politik"
+          },
+          "content": {
+            "en": "In this path, Drake’s water rule breaks the wrong man. A boatswain publicly drinks out of turn, daring the watch to stop him.\n\nFor a heartbeat, the deck becomes a court. Men look not at Drake, but at each other, calculating how many bodies a rule truly has behind it.\n\nDrake does not order flogging. Instead, he reduces the boatswain’s ration and assigns him the hardest station at the capstan during the next adverse current.\n\nThe punishment looks mild—until the current turns and the capstan becomes a grinding wheel of shame. Authority is enforced by physics, not spectacle.\n\nIn this what if, Chapter 4 ends with discipline restored but brittle: the crew obeys, yet they learn that rules can be contested, and that contest becomes a precedent that follows like a wake.",
+            "id": "Dalam jalur ini, aturan air Drake mematahkan orang yang salah. Seorang boatswain minum terang-terangan di luar giliran, menantang jaga untuk menghentikannya.\n\nSesaat, dek berubah jadi pengadilan. Orang menatap bukan ke Drake, melainkan ke sesamanya, menghitung berapa banyak tubuh yang benar-benar berdiri di belakang aturan.\n\nDrake tidak memerintahkan cambuk. Ia memotong jatah boatswain dan menempatkannya di stasiun paling berat di capstan saat arus berikutnya melawan.\n\nHukumannya tampak ringan—sampai arus berbalik dan capstan berubah jadi roda penggiling rasa malu. Otoritas ditegakkan oleh fisika, bukan tontonan.\n\nDalam what if ini, Bab 4 berakhir dengan disiplin kembali, tetapi rapuh: awak patuh, namun mereka belajar aturan bisa ditantang, dan tantangan itu jadi preseden yang ikut seperti jejak buritan."
+          }
+        },
+        {
+          "id": "what_if_4_the_observing_boat_boards_at_night",
+          "type": "what_if",
+          "title": {
+            "en": "The Quiet Boarders",
+            "id": "Penyusup yang Sunyi"
+          },
+          "content": {
+            "en": "In this path, the low boat doesn’t merely observe. Under the cover of darkness and the fleet’s shortened sails, it slips alongside the smallest vessel.\n\nNo alarms ring because Drake demanded darkness, and darkness hides enemies as well as outlines.\n\nThe boarders do not slaughter. They cut lines, spike a rudder pin, and steal a single object: a page of logbook notes that reveals timekeeping and drift.\n\nBy dawn, one ship steers ‘wrong’ by degrees so small it looks like incompetence. Formation fractures without an obvious blow.\n\nIn this what if, Chapter 4 ends with Drake facing a new war: not battles, but sabotage that turns navigation itself into a weapon.",
+            "id": "Dalam jalur ini, perahu rendah itu tidak sekadar mengamati. Dalam lindungan gelap dan layar yang diperpendek, ia menyelinap merapat ke kapal paling kecil.\n\nTak ada alarm karena Drake menuntut gelap, dan gelap menyembunyikan musuh sama seperti menyembunyikan siluet.\n\nPara penyusup tidak membantai. Mereka memotong tali, merusak pin kemudi, dan mencuri satu benda saja: selembar catatan log yang mengungkap pencatatan waktu dan drift.\n\nSaat fajar, satu kapal mulai mengemudi ‘salah’ dalam derajat yang terlalu kecil untuk tampak sebagai serangan. Formasi retak tanpa pukulan yang jelas.\n\nDalam what if ini, Bab 4 berakhir dengan Drake menghadapi perang baru: bukan pertempuran, melainkan sabotase yang menjadikan navigasi sendiri sebagai senjata."
+          }
+        },
+        {
+          "id": "what_if_4_a_ship_grounds_in_the_choke_point",
+          "type": "what_if",
+          "title": {
+            "en": "A Hull Became a Lesson",
+            "id": "Lambung Menjadi Pelajaran"
+          },
+          "content": {
+            "en": "In this path, one ship misjudges the tack at the narrowest bend. Current catches it, the keel kisses stone, and the vessel lists like a wounded animal.\n\nThe fleet must choose: stop to save it and risk being fixed in place, or abandon it and risk the crew’s faith.\n\nDrake orders a brutal compromise—strip what can be transferred quickly (powder, fresh water, charts) and leave the hull to the passage.\n\nMen watch their comrades climb into boats, leaving behind a ship that was once their country. The ocean does not just take bodies; it takes identities.\n\nIn this what if, Chapter 4 ends with the fleet smaller and more obedient, but haunted by the knowledge that survival sometimes means deciding who becomes history.",
+            "id": "Dalam jalur ini, satu kapal salah menilai manuver di belokan tersempit. Arus menangkapnya, lunas mencium batu, dan kapal miring seperti hewan terluka.\n\nArmada harus memilih: berhenti untuk menyelamatkan dan berisiko terpaku, atau meninggalkan dan mempertaruhkan iman awak.\n\nDrake memerintahkan kompromi brutal—angkut cepat apa yang bisa dipindah (mesiu, air tawar, peta) lalu biarkan lambung jadi milik lintasan.\n\nAwak menatap rekan-rekannya memanjat ke perahu, meninggalkan kapal yang dulu adalah negara mereka. Samudra tak cuma mengambil tubuh; ia mengambil identitas.\n\nDalam what if ini, Bab 4 berakhir dengan armada lebih kecil dan lebih patuh, tapi dihantui pengetahuan bahwa bertahan kadang berarti memutuskan siapa yang jadi sejarah."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Prize That Isn’t Gold",
+        "id": "Hadiah yang Bukan Emas"
+      },
+      "preview": {
+        "en": "After the choke point, the sea widens—but danger becomes subtler: false flags, thin margins, and a decision about what ‘victory’ is allowed to look like.",
+        "id": "Setelah titik cekik, laut membuka—namun bahaya jadi lebih halus: bendera palsu, margin tipis, dan keputusan tentang seperti apa ‘kemenangan’ boleh terlihat."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The Flag and the Ledger",
+            "id": "Bendera dan Buku Besar"
+          },
+          "content": {
+            "en": "The passage releases us as if it never existed. The wind returns with an almost insulting generosity, and the fleet breathes like men who have survived a sermon.\n\nYet the choke point has left a mark: the crew now understands that survival is not a single act but a sequence of small denials—of thirst, of comfort, of certainty.\n\nOn the third day of open water we sight a lone sail riding low. It carries itself poorly, as if the hull is tired. An easy prize, the men say. The sea offers such gifts only to those who have already paid.\n\nI order distance kept until we can read its behavior. A ship is honest in only two ways: by its wake and by the choices it makes when watched.\n\nAs we close, a flag rises—Dutch colors, clean and confident. Too clean.\n\nThe senior officer watches my face for permission to believe. I give him none.\n\nWe circle. The lone ship holds course with a steadiness that feels rehearsed. No attempt to flee. No attempt to parley. It wants to be approached.\n\nAt my order we raise no answering banner. We show only canvas and silence.\n\nThen we see the detail that condemns it: gunports disguised as cargo hatches, cut too evenly. Not a merchant. A trap dressed as commerce.\n\nI do not let the crew taste the fight. I deny them the drama.\n\nWe shear away, letting wind do what cannon could: decide distance.\n\nThe men grumble at first—then the sea teaches faster than I can. On the horizon, where we would have been if we had taken the bait, a smear of smoke blooms. Another ship, unseen until now, fires into empty space.\n\nThe trap was real. Our refusal was the victory.\n\nThat night I call the officers and write a new entry into the ship’s unwritten ledger: there are prizes that cost more than they pay.\n\nWe take stock of our true wealth—water held, powder kept dry, formation maintained, discipline unbroken. These do not glitter, so men forget to value them.\n\nI force them to value it anyway.\n\nBefore dawn, I allow a single indulgence: a double ration of biscuit for the men on the hardest stations. Not as reward, but as reinforcement—proof that obedience can be fed.\n\nChapter 5 ends with the fleet invisible again in plain sight, riding open sea with no flag to announce us. Greatness from small beginnings continues to demand its debt, and I begin to understand that the greatest conquest may be the ability to refuse what looks like triumph.",
+            "id": "Lintasan sempit melepaskan kami seolah ia tak pernah ada. Angin kembali dengan kedermawanan yang nyaris menghina, dan armada bernapas seperti orang-orang yang baru selamat dari khotbah.\n\nNamun titik cekik meninggalkan bekas: awak kini paham selamat bukan satu tindakan, melainkan rangkaian penolakan kecil—terhadap haus, terhadap nyaman, terhadap kepastian.\n\nPada hari ketiga di laut terbuka, kami melihat satu layar sendirian yang melaju rendah. Ia tampak lesu, seolah lambungnya lelah. Hadiah mudah, kata orang-orang. Laut memberi hadiah seperti itu hanya kepada yang sudah membayar.\n\nAku memerintahkan jarak dijaga sampai kami bisa membaca perilakunya. Kapal jujur hanya dalam dua hal: jejak buritannya dan pilihan yang ia ambil ketika diawasi.\n\nSaat kami mendekat, sebuah bendera naik—warna Belanda, bersih dan yakin. Terlalu bersih.\n\nPerwira senior menatap wajahku mencari izin untuk percaya. Aku tidak memberinya.\n\nKami mengitari. Kapal itu mempertahankan haluan dengan keteguhan yang terasa dilatih. Tak ada upaya kabur. Tak ada upaya berunding. Ia ingin didekati.\n\nAtas perintahku, kami tidak mengibarkan bendera jawaban. Kami hanya menunjukkan layar dan sunyi.\n\nLalu kami melihat detail yang menghukumnya: lubang meriam disamarkan sebagai pintu kargo, potongannya terlalu rapi. Itu bukan pedagang. Itu jebakan berkostum dagang.\n\nAku tidak membiarkan awak mencicipi pertempuran. Aku menolak mereka drama.\n\nKami menyingkir, membiarkan angin melakukan apa yang bisa dilakukan meriam: menentukan jarak.\n\nAwak menggerutu pada awalnya—lalu laut mengajar lebih cepat daripada aku. Di cakrawala, di titik tempat kami seharusnya berada jika termakan umpan, noda asap mekar. Kapal lain, yang tak terlihat sebelumnya, menembak ke ruang kosong.\n\nJebakannya nyata. Penolakan kami adalah kemenangan.\n\nMalam itu aku memanggil para perwira dan menulis entri baru ke buku besar tak tertulis kapal: ada hadiah yang ongkosnya lebih mahal daripada bayarnya.\n\nKami menghitung harta yang sesungguhnya—air yang terjaga, mesiu tetap kering, formasi tak pecah, disiplin tak retak. Ini tidak berkilau, maka orang mudah lupa menilainya.\n\nAku memaksa mereka menilainya juga.\n\nMenjelang fajar, aku mengizinkan satu kelonggaran: jatah biskuit ganda untuk pos paling berat. Bukan sebagai hadiah, melainkan penguatan—bukti bahwa kepatuhan bisa diberi makan.\n\nBab 5 berakhir saat armada kembali tak terlihat di tengah yang kasat, melaju di laut terbuka tanpa bendera yang mengumumkan kami. Kebesaran dari awal kecil terus menagih utang, dan aku mulai paham penaklukan terbesar mungkin adalah kemampuan menolak apa yang tampak seperti kemenangan."
+          }
+        },
+        {
+          "id": "what_if_5_they_take_the_bait",
+          "type": "what_if",
+          "title": {
+            "en": "They Chased the Easy Prize",
+            "id": "Mereka Mengejar Hadiah Mudah"
+          },
+          "content": {
+            "en": "In this path, Drake yields to the crew’s appetite for a clean victory. They close fast, answering the Dutch colors with confident canvas.\n\nThe trap ship holds steady until the last safe distance is gone. Then false cargo hatches drop and gunports bloom like teeth.\n\nThe hidden second ship appears where it was meant to—on the angle that cuts off retreat. For a moment, the fleet is forced to fight in the geometry chosen by someone else.\n\nThey win, perhaps, but the cost is paid in splintered hull, spent powder, and men who learn that triumph can bankrupt a voyage.\n\nIn this what if, Chapter 5 ends with Drake writing a bitter correction into the ledger: some victories are just losses that arrive later.",
+            "id": "Dalam jalur ini, Drake mengalah pada nafsu awak akan kemenangan yang tampak bersih. Mereka mendekat cepat, menjawab warna Belanda dengan layar penuh percaya diri.\n\nKapal jebakan bertahan tenang sampai jarak aman hilang. Lalu pintu kargo palsu jatuh dan lubang meriam mekar seperti gigi.\n\nKapal kedua yang tersembunyi muncul di posisi yang memang diinginkan—pada sudut yang memotong jalur mundur. Sesaat, armada dipaksa bertarung dalam geometri yang dipilih orang lain.\n\nMereka mungkin menang, tetapi ongkosnya dibayar dengan lambung tersobek, mesiu habis, dan orang-orang yang belajar bahwa kemenangan bisa membangkrutkan pelayaran.\n\nDalam what if ini, Bab 5 berakhir dengan Drake menulis koreksi pahit ke buku besar: sebagian kemenangan hanyalah kekalahan yang datang belakangan."
+          }
+        },
+        {
+          "id": "what_if_5_the_false_flag_is_real",
+          "type": "what_if",
+          "title": {
+            "en": "The Honest Dutchman",
+            "id": "Belanda yang Jujur"
+          },
+          "content": {
+            "en": "In this path, the Dutch colors are not false. The ship is genuinely wounded, crewed by exhausted men who have suffered their own storms and shortages.\n\nDrake’s suspicion saves the fleet from traps—but it also denies them an ally and a source of fresh news.\n\nDays later, they learn the truth from another encounter: the Dutch ship carried warnings about patrol patterns ahead and a chance to trade for water.\n\nThe crew begins to question whether Drake’s strength—refusal—has become a reflex that blinds him to opportunity.\n\nIn this what if, Chapter 5 ends with a subtler wound than cannon can make: doubt in the captain’s judgment, growing not from fear, but from missed help.",
+            "id": "Dalam jalur ini, warna Belanda itu bukan palsu. Kapal itu benar-benar terluka, diawaki orang-orang lelah yang juga digilas badai dan kekurangan.\n\nKecurigaan Drake menyelamatkan armada dari jebakan—namun juga menolak mereka dari sekutu dan sumber kabar segar.\n\nBeberapa hari kemudian, mereka tahu kebenarannya dari perjumpaan lain: kapal Belanda itu membawa peringatan pola patroli di depan dan kesempatan barter air.\n\nAwak mulai bertanya apakah kekuatan Drake—penolakan—telah menjadi refleks yang membutakannya dari peluang.\n\nDalam what if ini, Bab 5 berakhir dengan luka yang lebih halus daripada meriam: keraguan pada penilaian kapten, tumbuh bukan dari takut, melainkan dari pertolongan yang terlewat."
+          }
+        },
+        {
+          "id": "what_if_5_the_crew_steals_a_prize_anyway",
+          "type": "what_if",
+          "title": {
+            "en": "A Private Raid",
+            "id": "Serbuan Pribadi"
+          },
+          "content": {
+            "en": "In this path, Drake orders withdrawal, but a small boat is lowered after dark by men who want their own ‘share of victory.’\n\nThey row toward the lone sail, believing they can strip supplies and return unseen. They treat the sea like a marketplace.\n\nThe trap is not for fleets; it is for greed. The small boat is taken quietly, and the fleet hears nothing—only notices men missing at morning muster.\n\nDrake understands the worst part: discipline cannot be enforced only with orders. It must be enforced with belief.\n\nIn this what if, Chapter 5 ends with the ledger gaining a new entry: the enemy does not need to defeat you in battle if it can persuade your men to defeat themselves.",
+            "id": "Dalam jalur ini, Drake memerintahkan mundur, tapi sebuah perahu kecil diturunkan setelah gelap oleh orang-orang yang ingin ‘jatah kemenangan’ mereka sendiri.\n\nMereka mendayung menuju layar sendirian itu, yakin bisa menjarah perbekalan dan kembali tanpa terlihat. Mereka memperlakukan laut seperti pasar.\n\nJebakannya bukan untuk armada; melainkan untuk serakah. Perahu kecil itu diambil tanpa suara, dan armada tak mendengar apa pun—hanya mendapati orang hilang saat apel pagi.\n\nDrake paham bagian terburuknya: disiplin tidak bisa ditegakkan hanya dengan perintah. Ia harus ditegakkan dengan keyakinan.\n\nDalam what if ini, Bab 5 berakhir dengan entri baru di buku besar: musuh tak perlu mengalahkanmu dalam pertempuran jika ia bisa membujuk orangmu mengalahkan diri sendiri."
+          }
+        },
+        {
+          "id": "what_if_5_the_double_biscuit_backfires",
+          "type": "what_if",
+          "title": {
+            "en": "Reward Became Entitlement",
+            "id": "Hadiah Menjadi Hak"
+          },
+          "content": {
+            "en": "In this path, the double ration meant to reinforce obedience teaches a different lesson: that pressure can purchase indulgence.\n\nMen begin angling for the ‘hard stations’ not to serve the ship, but to earn the extra biscuit. Work becomes a competition for scarcity, and competition corrodes cohesion.\n\nThe senior officer warns Drake that rations have become politics again—bread used as language.\n\nDrake is forced to retract the indulgence and replace it with something less corruptible: rotated rest, clear duties, and punishments that don’t look like bargaining.\n\nIn this what if, Chapter 5 ends with the captain learning that feeding obedience is delicate: the line between reinforcement and bribery is as thin as paper and as dangerous as powder.",
+            "id": "Dalam jalur ini, jatah ganda yang dimaksudkan untuk menguatkan kepatuhan mengajarkan pelajaran lain: tekanan bisa membeli kelonggaran.\n\nOrang-orang mulai mengincar ‘pos berat’ bukan untuk melayani kapal, melainkan untuk mendapat biskuit ekstra. Kerja berubah jadi kompetisi kelangkaan, dan kompetisi mengikis kekompakan.\n\nPerwira senior memperingatkan Drake bahwa ransum kembali jadi politik—roti dipakai sebagai bahasa.\n\nDrake terpaksa menarik kembali kelonggaran itu dan menggantinya dengan hal yang lebih sulit disalahgunakan: rotasi istirahat, tugas jelas, dan hukuman yang tidak tampak seperti tawar-menawar.\n\nDalam what if ini, Bab 5 berakhir dengan Drake belajar bahwa memberi makan kepatuhan itu rapuh: batas antara penguatan dan suap setipis kertas dan semematikan mesiu."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Land That Doesn’t Forgive",
+        "id": "Darat yang Tak Memaafkan"
+      },
+      "preview": {
+        "en": "Refusing bait at sea is one kind of victory. The next kind requires stepping onto shore—where every footprint can be counted, and every mistake can be answered in steel.",
+        "id": "Menolak umpan di laut adalah satu jenis kemenangan. Jenis berikutnya menuntut menjejak darat—tempat setiap tapak bisa dihitung, dan setiap salah bisa dijawab dengan baja."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Quiet Raid",
+            "id": "Serbuan Sunyi"
+          },
+          "content": {
+            "en": "Open sea gives room to breathe, but it also gives room to be seen. A fleet that cannot hide behind coastlines must hide inside habits—false routines, altered watches, and nights without lanterns.\n\nAfter the trap ship, the men look at every horizon as if it might smile at them. Suspicion becomes both armor and sickness.\n\nWe make for a coastline that offers fresh water and fresh risk. The charts are uncertain here, and uncertainty is a kind of fog that never lifts.\n\nAt dusk we find a cove whose mouth is narrow enough to defend and deep enough to float. The shore smells of pine and wet earth, a scent so gentle it feels like deception.\n\nI do not allow the whole crew ashore. A ship empties itself only once—and that is when it dies.\n\nI choose a landing party small enough to vanish if it must: a few trusted hands, the carpenter, and the master gunner—because a raid is not violence first. It is logistics.\n\nWe row in silence, oars wrapped with cloth to keep them from speaking. On the beach, we leave no fire. We leave no singing. We leave no argument.\n\nThe men find a stream above the tide line and fill casks quickly. Water is life, but too much time spent drinking becomes a death sentence.\n\nThen we see it: a track on the damp sand that is not ours—fresh, narrow, and booted. Spanish leather.\n\nThe master gunner wants to hunt the source. The carpenter wants to turn back. The men look to me, voting with their eyes.\n\nI choose neither chase nor panic. I choose evidence.\n\nWe follow the track only far enough to confirm a truth: a small shore party is camped beyond the tree line, hidden but not careful—lantern smoke thin as thread, a supply pile stacked as if no one will steal from them.\n\nA direct fight would be loud and costly. A retreat would be safe but hungry. There is a third way.\n\nWe take what we came for—water—then we take what we can without being noticed: a coil of rope, a bag of shot, a chart fragment drying on a rock.\n\nWe leave behind nothing but absence.\n\nBack aboard, I tell the crew what I will not do: we will not raise a flag, and we will not announce a battle to satisfy pride.\n\nSome men hate this. They want blood to prove the voyage is real.\n\nI tell them the voyage is proven by what remains: our powder dry, our holds full, our men alive.\n\nAt midnight the Spanish shore party discovers the theft and fires into the trees, punishing shadows. The sound carries over water.\n\nThe crew looks at me as if waiting for permission to celebrate.\n\nI give none.\n\nChapter 6 ends with the fleet slipping away from the cove before dawn, carrying water and stolen intelligence. The true raid was not on men, but on certainty—teaching the crew that the sharpest blade is the one that never has to be seen.",
+          "id": "Laut terbuka memberi ruang bernapas, tapi juga memberi ruang untuk terlihat. Armada yang tak bisa bersembunyi di balik garis pantai harus bersembunyi di dalam kebiasaan—rutinitas palsu, jadwal jaga yang diubah, dan malam tanpa lampu.\n\nSetelah kapal jebakan, orang-orang menatap setiap cakrawala seolah ia bisa tersenyum pada mereka. Kecurigaan menjadi baju zirah sekaligus penyakit.\n\nKami mengarah ke garis pantai yang menjanjikan air tawar dan risiko baru. Peta di sini tidak pasti, dan ketidakpastian adalah kabut yang tak pernah benar-benar terangkat.\n\nMenjelang senja kami menemukan teluk kecil bermulut sempit—cukup sempit untuk dijaga, cukup dalam untuk mengapung. Pantai berbau pinus dan tanah basah, aroma yang begitu lembut sampai terasa seperti tipu daya.\n\nAku tidak mengizinkan seluruh awak turun. Kapal yang mengosongkan dirinya hanya sekali—dan itu saat ia mati.\n\nAku memilih regu pendarat yang cukup kecil untuk lenyap jika perlu: beberapa tangan terpercaya, tukang kayu, dan master gunner—karena serbuan bukan soal kekerasan dulu. Ia soal logistik.\n\nKami mendayung dalam sunyi, dayung dibalut kain agar tidak “berbicara.” Di pantai, kami tidak menyalakan api. Tidak bernyanyi. Tidak berdebat.\n\nOrang-orang menemukan aliran air di atas garis pasang dan mengisi tong cepat. Air adalah hidup, tapi terlalu lama “minum” bisa jadi hukuman mati.\n\nLalu kami melihatnya: jejak di pasir lembap yang bukan milik kami—baru, sempit, dan bersepatu bot. Kulit Spanyol.\n\nMaster gunner ingin memburu sumbernya. Tukang kayu ingin segera balik. Orang-orang menatapku, memilih dengan mata.\n\nAku memilih bukan mengejar dan bukan panik. Aku memilih bukti.\n\nKami mengikuti jejak itu hanya sejauh untuk menguatkan satu kebenaran: ada regu pantai kecil berkemah di balik garis pohon, tersembunyi tapi tidak rapi—asap lampu setipis benang, tumpukan perbekalan disusun seolah tak ada yang akan mencuri.\n\nBertarung langsung akan bising dan mahal. Mundur akan aman tapi lapar. Ada jalan ketiga.\n\nKami mengambil yang kami butuhkan—air—lalu mengambil yang bisa tanpa disadari: gulungan tali, kantong peluru, selembar potongan peta yang dijemur di atas batu.\n\nKami meninggalkan tak lebih dari ketiadaan.\n\nKembali di kapal, aku memberi tahu awak apa yang tidak akan kulakukan: kami tidak akan mengibarkan bendera, dan kami tidak akan mengumumkan pertempuran demi memuaskan harga diri.\n\nSebagian orang membenci ini. Mereka ingin darah sebagai bukti pelayaran ini nyata.\n\nAku bilang buktinya adalah yang tersisa: mesiu kering, palka terisi, orang hidup.\n\nTengah malam, regu pantai Spanyol menemukan pencurian itu dan menembak ke pepohonan, menghukum bayangan. Suaranya melintasi air.\n\nAwak menatapku seolah menunggu izin untuk merayakan.\n\nAku tidak memberi.\n\nBab 6 berakhir saat armada menyelinap keluar teluk sebelum fajar, membawa air dan intel yang dicuri. Serbuan sejati bukan pada manusia, melainkan pada kepastian—mengajarkan awak bahwa bilah paling tajam adalah yang tak pernah perlu terlihat."
+          }
+        },
+        {
+          "id": "what_if_6_they_fight_on_the_beach",
+          "type": "what_if",
+          "title": {
+            "en": "They Chose a Loud Victory",
+            "id": "Mereka Memilih Kemenangan yang Bising"
+          },
+          "content": {
+            "en": "In this path, the master gunner convinces Drake that leaving Spanish boots unpunished will invite pursuit. The landing party follows the track past the tree line, not to confirm—but to strike.\n\nThe fight is short and ugly. A lantern is knocked over, and suddenly the forest has light in it. Light is a message.\n\nThey win the skirmish, take supplies, and return to the cove with blood on their hands and smoke on the wind.\n\nBy midnight, a second Spanish boat arrives to investigate the gunfire, and the fleet must slip out under oars rather than sail, trading speed for silence.\n\nIn this what if, Chapter 6 ends with Drake learning the cost of ‘proof’: a loud win can buy you a louder enemy.",
+            "id": "Dalam jalur ini, master gunner meyakinkan Drake bahwa membiarkan jejak sepatu Spanyol tanpa balasan akan mengundang pengejaran. Regu pendarat mengikuti jejak melewati garis pohon bukan untuk memastikan—melainkan untuk memukul.\n\nPertarungannya singkat dan kotor. Sebuah lampu terjungkal, dan tiba-tiba hutan punya cahaya. Cahaya adalah pesan.\n\nMereka menang dalam bentrok itu, mengambil perbekalan, dan kembali ke teluk dengan darah di tangan dan asap di angin.\n\nMenjelang tengah malam, perahu Spanyol kedua datang menyelidiki suara tembakan, dan armada harus menyelinap keluar dengan dayung alih-alih layar, menukar kecepatan demi sunyi.\n\nDalam what if ini, Bab 6 berakhir dengan Drake belajar harga ‘bukti’: kemenangan bising bisa membeli musuh yang lebih bising."
+          }
+        },
+        {
+          "id": "what_if_6_they_take_too_much_water",
+          "type": "what_if",
+          "title": {
+            "en": "The Stream Became a Timer",
+            "id": "Sungai Kecil Itu Jadi Jam"
+          },
+          "content": {
+            "en": "In this path, thirst turns into greed. The landing party keeps filling casks beyond the planned limit, afraid the next coast will not offer a stream.\n\nTime stretches. Oarsmen glance back toward the cove’s mouth more often. Silence begins to feel like delay.\n\nWhen Spanish boots are finally spotted, it is not a track on sand but a shadow in trees—close enough to smell smoke.\n\nThe landing party escapes, but only by abandoning a full cask on the beach. Water, the reason for the raid, becomes the weight that nearly kills them.\n\nIn this what if, Chapter 6 ends with a rule burned into the crew’s mind: a raid has a quota. Past the quota, necessity becomes noise.",
+            "id": "Dalam jalur ini, haus berubah jadi serakah. Regu pendarat terus mengisi tong melewati batas rencana, takut pantai berikut tak memberi aliran air.\n\nWaktu memanjang. Para pendayung makin sering melirik mulut teluk. Sunyi mulai terasa seperti terlambat.\n\nSaat sepatu Spanyol akhirnya terlihat, itu bukan jejak di pasir melainkan bayang di pepohonan—cukup dekat untuk mencium asap.\n\nRegu pendarat lolos, tetapi hanya dengan meninggalkan satu tong penuh di pantai. Air—alasan serbuan—berubah jadi beban yang hampir membunuh.\n\nDalam what if ini, Bab 6 berakhir dengan aturan yang terbakar di kepala awak: serbuan punya kuota. Setelah kuota, kebutuhan berubah jadi kebisingan."
+          }
+        },
+        {
+          "id": "what_if_6_they_leave_a_trace",
+          "type": "what_if",
+          "title": {
+            "en": "Absence Wasn’t Clean",
+            "id": "Ketiadaan Itu Tidak Bersih"
+          },
+          "content": {
+            "en": "In this path, Drake’s doctrine—leave only absence—fails for a small reason. A scrap of cloth from an oar wrap snags on a thorn near the stream.\n\nThe Spanish shore party finds it at dusk, then finds the boot prints that shouldn’t exist: not theirs, not locals. Foreign tread.\n\nThey do not chase immediately. They mark the cove, watch the waterline, and wait for the fleet to return another night.\n\nDrake realizes the trap is now reversed: the cove that was meant to be a quiet solution has become a predictable resource.\n\nIn this what if, Chapter 6 ends with the fleet abandoning the entire coastline plan and sailing hungry into uncertainty, because the smallest trace turned logistics into a beacon.",
+            "id": "Dalam jalur ini, doktrin Drake—meninggalkan hanya ketiadaan—gagal karena alasan kecil. Serpihan kain pembalut dayung tersangkut duri dekat aliran.\n\nRegu pantai Spanyol menemukannya saat senja, lalu menemukan jejak sepatu yang seharusnya tidak ada: bukan milik mereka, bukan milik penduduk setempat. Tapak asing.\n\nMereka tidak langsung mengejar. Mereka menandai teluk, mengawasi garis air, dan menunggu armada kembali di malam lain.\n\nDrake sadar jebakannya kini terbalik: teluk yang seharusnya jadi solusi sunyi telah menjadi sumber yang bisa diprediksi.\n\nDalam what if ini, Bab 6 berakhir dengan armada meninggalkan rencana seluruh garis pantai dan berlayar dengan lapar menuju ketidakpastian, karena jejak sekecil apa pun mengubah logistik jadi suar."
+          }
+        },
+        {
+          "id": "what_if_6_the_chart_fragment_is_poisoned",
+          "type": "what_if",
+          "title": {
+            "en": "Stolen Ink, False Shore",
+            "id": "Tinta Curian, Pantai Palsu"
+          },
+          "content": {
+            "en": "In this path, the chart fragment drying on the rock is not merely intelligence—it is bait. It contains a believable correction to the coastline, a ‘safe’ inlet marked in a hurried hand.\n\nDrake brings it aboard and studies it, tempted by anything that promises water without risk.\n\nDays later, they follow the marked inlet and find a coast that looks welcoming—and channels that funnel ships into shallow teeth.\n\nThey escape, but with scraped hull and a crew that finally understands why Drake mistrusts gifts.\n\nIn this what if, Chapter 6 ends with a new entry in the ledger: information can be a weapon, and the most dangerous map is the one that looks like help.",
+            "id": "Dalam jalur ini, potongan peta yang dijemur di batu bukan sekadar intel—ia umpan. Ia memuat koreksi garis pantai yang meyakinkan, satu teluk ‘aman’ yang ditandai dengan tulisan tergesa.\n\nDrake membawanya ke kapal dan mempelajarinya, tergoda oleh apa pun yang menjanjikan air tanpa risiko.\n\nBeberapa hari kemudian, mereka mengikuti teluk yang ditandai dan menemukan pantai yang tampak ramah—dan alur yang mengorongkan kapal ke gigi dangkal.\n\nMereka lolos, tapi dengan lambung tergores dan awak yang akhirnya paham mengapa Drake tak percaya hadiah.\n\nDalam what if ini, Bab 6 berakhir dengan entri baru di buku besar: informasi bisa jadi senjata, dan peta paling berbahaya adalah yang tampak seperti pertolongan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Name That Survives",
+        "id": "Nama yang Bertahan"
+      },
+      "preview": {
+        "en": "A raid won without blood still leaves a trail. In the wake of stolen water and stolen ink, the crew must decide what kind of legend they are building—and what it will cost.",
+        "id": "Serbuan tanpa darah tetap meninggalkan jejak. Setelah air dan tinta dicuri, awak harus memutuskan legenda macam apa yang sedang mereka bangun—dan berapa harganya."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "A Legend Built on Refusal",
+            "id": "Legenda yang Dibangun dari Penolakan"
+          },
+          "content": {
+            "en": "We sail before dawn, leaving the cove as a blank page. The men feel the absence like hunger: they wanted a story with bodies in it, and I have given them only a story with distance.\n\nFor two days the weather holds fair, and that is when the mind becomes most dangerous. Idleness breeds invention. Invention breeds grievance.\n\nThe senior officer confronts me privately. He does not accuse; he calculates. How long, he asks, can a captain deny men the spectacle they believe they were promised?\n\nI answer with the only honest currency at sea: outcome. We have water. We have powder. We have men alive. The voyage continues.\n\nHe says outcomes are invisible, and invisible things are hard to follow.\n\nThat night I call the crew and speak a hard truth: if they want glory, they can take it from the sea alone, because I will not spend them like coin to buy a rumor.\n\nSome faces harden. Others soften with relief. A few look disappointed, as if I have stolen something from them that was never theirs.\n\nOn the third day, a sail appears again—this time not lone and low, but purposeful and keeping a respectful distance. It is not closing to fight. It is shadowing to learn.\n\nWe alter course in small increments, changing speed by half-knots, rotating watches, and refusing routine. The fleet becomes a moving question.\n\nAt sunset, the shadow sail turns away. It has either lost us or decided we are not worth the cost.\n\nThe crew wants to call it victory. I let them, but I redefine the word.\n\nVictory, I tell them, is not the moment the enemy falls. It is the moment you refuse to become the enemy’s shape.\n\nBefore I return to my cabin, I open this journal and write what the sea has finally taught me: greatness is not taken. It is maintained.\n\nChapter 7 ends with the fleet alone under a wide sky, no flags raised, no songs sung. Only the creak of rigging and the scratch of ink—small beginnings, paying their debt one quiet decision at a time.",
+            "id": "Kami berlayar sebelum fajar, meninggalkan teluk sebagai halaman kosong. Orang-orang merasakan ketiadaan itu seperti lapar: mereka menginginkan kisah yang berisi tubuh, dan aku memberi mereka kisah yang berisi jarak.\n\nSelama dua hari cuaca tetap baik, dan di situlah pikiran jadi paling berbahaya. Senggang melahirkan karangan. Karangan melahirkan ganjalan.\n\nPerwira senior mendatangiku diam-diam. Ia tidak menuduh; ia menghitung. Berapa lama, tanyanya, seorang kapten bisa menolak tontonan yang awak percaya sudah dijanjikan?\n\nAku menjawab dengan mata uang paling jujur di laut: hasil. Kami punya air. Kami punya mesiu. Kami punya orang hidup. Pelayaran berlanjut.\n\nIa berkata hasil itu tak terlihat, dan yang tak terlihat sulit diikuti.\n\nMalamnya aku memanggil awak dan mengatakan kebenaran keras: jika mereka menginginkan kemuliaan, mereka boleh mengambilnya dari laut saja, sebab aku tidak akan “membelanjakan” mereka seperti koin untuk membeli rumor.\n\nSebagian wajah mengeras. Sebagian melunak karena lega. Sebagian lain tampak kecewa, seolah aku mencuri sesuatu dari mereka yang sebenarnya tak pernah menjadi milik mereka.\n\nHari ketiga, sebuah layar muncul lagi—kali ini bukan sendirian dan lesu, melainkan sengaja dan menjaga jarak sopan. Ia tidak mendekat untuk bertarung. Ia membuntuti untuk belajar.\n\nKami mengubah haluan sedikit demi sedikit, mengubah kecepatan setengah knot, memutar jadwal jaga, dan menolak rutinitas. Armada berubah jadi pertanyaan bergerak.\n\nSaat senja, layar pembuntut itu berbalik pergi. Ia entah kehilangan kami atau memutuskan kami tak sepadan ongkosnya.\n\nAwak ingin menyebutnya kemenangan. Aku membiarkan, tapi aku mendefinisikan ulang katanya.\n\nKemenangan, kataku, bukan momen saat musuh jatuh. Kemenangan adalah momen saat kamu menolak menjadi bentuk yang diinginkan musuh.\n\nSebelum kembali ke kabin, aku membuka jurnal ini dan menulis pelajaran yang akhirnya diajarkan laut: kebesaran bukan diambil. Ia dipelihara.\n\nBab 7 berakhir saat armada sendirian di bawah langit luas, tanpa bendera, tanpa nyanyian. Hanya derit rigging dan gores tinta—awal kecil yang membayar utangnya lewat keputusan sunyi, satu demi satu."
+          }
+        },
+        {
+          "id": "what_if_7_the_officer_forces_a_battle",
+          "type": "what_if",
+          "title": {
+            "en": "He Bought Glory with Blood",
+            "id": "Ia Membeli Kemuliaan dengan Darah"
+          },
+          "content": {
+            "en": "In this path, the senior officer decides Drake’s doctrine of refusal is slow poison. When the shadow sail appears, he treats it as a referendum.\n\nHe orders an aggressive turn while Drake is below decks, framing it as initiative. The fleet surges to close distance, and the crew cheers—finally, a story with bodies in it.\n\nThe shadow sail was not alone. It was a thread on a net. A second ship reveals itself on the angle, and the sea becomes a geometry trap.\n\nThey may still escape, but now the fleet carries damage and the crew carries proof that spectacle always has a bill.\n\nIn this what if, Chapter 7 ends with Drake regaining command—yet losing something harder to repair: the crew’s belief that restraint is strength.",
+            "id": "Dalam jalur ini, perwira senior memutuskan doktrin penolakan Drake adalah racun pelan. Saat layar pembuntut muncul, ia menjadikannya referendum.\n\nIa memerintahkan belokan agresif saat Drake berada di bawah dek, membingkainya sebagai inisiatif. Armada melesat mendekat, dan awak bersorak—akhirnya, kisah yang berisi tubuh.\n\nLayar pembuntut itu tidak sendirian. Ia benang pada jaring. Kapal kedua menampakkan diri di sudut, dan laut berubah jadi perangkap geometri.\n\nMereka mungkin masih lolos, tetapi kini armada membawa kerusakan dan awak membawa bukti bahwa tontonan selalu punya tagihan.\n\nDalam what if ini, Bab 7 berakhir dengan Drake merebut kembali komando—namun kehilangan sesuatu yang lebih sulit diperbaiki: keyakinan awak bahwa menahan diri adalah kekuatan."
+          }
+        },
+        {
+          "id": "what_if_7_drake_raises_a_flag_as_deception",
+          "type": "what_if",
+          "title": {
+            "en": "He Used a Name as Bait",
+            "id": "Ia Memakai Nama sebagai Umpan"
+          },
+          "content": {
+            "en": "In this path, Drake breaks his own habit of invisibility for a single calculated moment. When the shadow sail keeps its distance, he raises a friendly flag—just long enough to be seen.\n\nThe gesture invites pursuit, but it also dictates the terms: the enemy believes they are watching a predictable captain who wants recognition.\n\nDrake then drops the flag, alters speed, and cuts a course into weather that a cautious hunter would avoid. The shadow sail follows too long, trapped by its own certainty.\n\nBy dawn, the pursuer has either fallen behind or been forced to turn away into rougher water.\n\nIn this what if, Chapter 7 ends with Drake writing a dangerous conclusion: refusal is powerful, but sometimes the fastest way to vanish is to appear on purpose.",
+            "id": "Dalam jalur ini, Drake mematahkan kebiasaan tak terlihatnya untuk satu momen yang dihitung. Saat layar pembuntut menjaga jarak, ia mengibarkan bendera ramah—cukup lama untuk terlihat.\n\nGestur itu mengundang pengejaran, namun sekaligus menentukan syarat: musuh percaya sedang mengamati kapten yang bisa ditebak, yang menginginkan pengakuan.\n\nDrake lalu menurunkan bendera, mengubah kecepatan, dan memotong haluan ke cuaca yang akan dihindari pemburu yang berhati-hati. Layar pembuntut mengikuti terlalu lama, terperangkap oleh kepastian sendiri.\n\nSaat fajar, pengejar itu tertinggal atau terpaksa berbalik menuju air yang lebih kasar.\n\nDalam what if ini, Bab 7 berakhir dengan kesimpulan berbahaya: penolakan itu kuat, tapi kadang cara tercepat untuk lenyap adalah sengaja tampak."
+          }
+        },
+        {
+          "id": "what_if_7_the_crew_demands_a_song",
+          "type": "what_if",
+          "title": {
+            "en": "They Wanted a Legend, Not a Voyage",
+            "id": "Mereka Menginginkan Legenda, Bukan Pelayaran"
+          },
+          "content": {
+            "en": "In this path, Drake’s speech to the crew lands, but not as intended. The men hear ‘no glory’ and translate it into ‘no meaning.’\n\nThat night, a group begins singing anyway—soft at first, then louder as rum warms courage. They are not trying to betray the fleet. They are trying to feel real.\n\nThe shadow sail does not need cannons. It needs sound. It closes the distance slowly, using the song as a compass.\n\nDrake is forced to punish singers and smash the rum ration, creating the very resentment he tried to avoid.\n\nIn this what if, Chapter 7 ends with a bitter rule: morale can be a beacon, and sometimes the enemy wins by letting you celebrate.",
+            "id": "Dalam jalur ini, pidato Drake sampai ke awak, tapi bukan seperti yang dimaksud. Mereka mendengar ‘tak ada kemuliaan’ dan menerjemahkannya jadi ‘tak ada makna.’\n\nMalam itu, sekelompok orang tetap bernyanyi—pelan dulu, lalu makin keras saat rum menghangatkan nyali. Mereka bukan berniat mengkhianati armada. Mereka ingin merasa nyata.\n\nLayar pembuntut tak butuh meriam. Ia butuh suara. Ia mendekat pelan, memakai lagu sebagai kompas.\n\nDrake terpaksa menghukum para penyanyi dan memecahkan jatah rum, menciptakan dendam yang justru ia coba hindari.\n\nDalam what if ini, Bab 7 berakhir dengan aturan pahit: moral bisa jadi suar, dan kadang musuh menang dengan membiarkanmu merayakan."
+          }
+        },
+        {
+          "id": "what_if_7_the_shadow_sail_is_a_test",
+          "type": "what_if",
+          "title": {
+            "en": "The Pursuer Was Measuring Them",
+            "id": "Pembuntut Itu Sedang Mengukur"
+          },
+          "content": {
+            "en": "In this path, the shadow sail turns away at sunset not because it loses them, but because it has learned what it came to learn. It was a tester, not a hunter.\n\nThe next day, the sea is empty—until it isn’t. Two sails appear at once on different bearings, positioned to read which escape the fleet prefers.\n\nDrake’s ‘moving question’ is answered by the enemy’s new doctrine: prediction by forcing choices.\n\nTo break it, Drake orders a split—two ships peel away with false course while the rest reduce sail and hide in weather, turning the fleet into a scattered riddle.\n\nIn this what if, Chapter 7 ends with escalation: the voyage stops being shadowed and begins being studied, and Drake realizes refusal must evolve into misdirection at scale.",
+            "id": "Dalam jalur ini, layar pembuntut berbalik saat senja bukan karena kehilangan, melainkan karena sudah belajar apa yang ia perlukan. Ia penguji, bukan pemburu.\n\nKeesokan harinya, laut tampak kosong—sampai tidak. Dua layar muncul sekaligus di haluan berbeda, diposisikan untuk membaca pelarian mana yang biasanya dipilih armada.\n\n‘Pertanyaan bergerak’ Drake dijawab oleh doktrin baru musuh: prediksi dengan memaksa pilihan.\n\nUntuk mematahkannya, Drake memerintahkan pemisahan—dua kapal mengelupas membawa haluan palsu sementara sisanya mengurangi layar dan bersembunyi di cuaca, mengubah armada jadi teka-teki yang tercerai.\n\nDalam what if ini, Bab 7 berakhir dengan eskalasi: pelayaran berhenti sekadar dibuntuti dan mulai dipelajari, dan Drake sadar penolakan harus berevolusi menjadi pengalihan dalam skala besar."
+          }
+        }
+      ]
+    }
+  ]
+}

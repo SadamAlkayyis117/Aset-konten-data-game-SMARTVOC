@@ -1,0 +1,520 @@
+{
+  "book_id": "popol_vuh",
+  "title": {
+    "en": "Popol Vuh",
+    "id": "Kitab Rakyat"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Before the Dawn",
+        "id": "Sebelum Fajar"
+      },
+      "preview": {
+        "en": "In the beginning there is no sun and no human voice—only silence, water, and intention. The gods speak, and reality starts to assemble itself from words.",
+        "id": "Pada awalnya tak ada matahari dan tak ada suara manusia—hanya sunyi, air, dan kehendak. Para dewa berbicara, dan kenyataan mulai tersusun dari kata-kata."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "Words That Make the World",
+            "id": "Kata-Kata yang Menjadikan Dunia"
+          },
+          "content": {
+            "en": "There was only stillness: a flat, dark sea and a sky without a sun. Nothing had a name, so nothing could be called. In that quiet, the makers gathered—not as bodies, but as will and thought.\n\nThey did not lift mountains with hands. They spoke. Their speech was not decoration; it was a tool. What they agreed upon became the first structure of reality. The world begins as a decision.\n\nThey imagined land and tested the idea with a command. The waters parted, the ground rose, and the first ridges stood up like backs breaking the surface. Valleys formed as if the earth had always been waiting for permission.\n\nThe makers filled this new land with life. Forests spread; creatures moved. But the animals could not give thanks, could not keep the makers’ names alive, and could not turn memory into prayer.\n\nSo the makers judged the first creation incomplete. A world could exist without people, but it could not *answer* without them. The gods wanted a being that could speak back.\n\nThe chapter ends with a problem, not a triumph: creation has started, yet its purpose is still missing. The sea is no longer alone—but the silence remains, waiting for a voice that can understand what it owes.",
+            "id": "Hanya ada keheningan: laut gelap yang rata dan langit tanpa matahari. Tak ada yang punya nama, sehingga tak ada yang bisa dipanggil. Di sunyi itu, para pembuat berkumpul—bukan sebagai tubuh, melainkan sebagai kehendak dan pikiran.\n\nMereka tidak mengangkat gunung dengan tangan. Mereka berbicara. Ucapan mereka bukan hiasan; ia alat. Apa yang mereka sepakati menjadi struktur pertama kenyataan. Dunia dimulai sebagai sebuah keputusan.\n\nMereka membayangkan daratan dan menguji gagasan itu dengan perintah. Air terbelah, tanah terangkat, dan punggung-punggung bukit muncul memecah permukaan. Lembah terbentuk seolah bumi sejak awal menunggu izin.\n\nPara pembuat memenuhi daratan baru ini dengan kehidupan. Hutan menyebar; makhluk bergerak. Namun hewan-hewan tak bisa berterima kasih, tak bisa menjaga nama para pembuat tetap hidup, dan tak bisa mengubah ingatan menjadi doa.\n\nMaka para pembuat menilai ciptaan pertama belum lengkap. Dunia bisa ada tanpa manusia, tetapi ia tak bisa *menjawab* tanpa manusia. Para dewa menginginkan makhluk yang mampu membalas dengan kata.\n\nBab ini berakhir dengan masalah, bukan kemenangan: penciptaan sudah dimulai, namun tujuannya masih hilang. Laut tak lagi sendirian—tetapi sunyi tetap ada, menunggu suara yang mampu memahami apa yang ia hutangi."
+          }
+        },
+        {
+          "id": "what_if_1_world_without_names",
+          "type": "what_if",
+          "title": {
+            "en": "A World That Refused Names",
+            "id": "Dunia yang Menolak Nama"
+          },
+          "content": {
+            "en": "In this path, the makers speak—but the world does not hold the words. Mountains rise and then soften back into water. Forests appear like breath on glass and fade before they can root. Creation keeps slipping because nothing can be fixed without a name to bind it.\n\nThe makers argue: is reality supposed to be stable, or is it meant to be a living, shifting surface? They try again and again, but each attempt dissolves into the same problem: what is not named cannot be remembered.\n\nEventually the makers realize the missing ingredient is not more power, but a witness. They need a creature whose memory can pin the world in place by repeating its names.\n\nSo the decision to create humans becomes less about domination and more about anchoring. In this what if, people are born not as rulers of the earth, but as the earth’s notebook—living memory that keeps the world from washing away.",
+            "id": "Dalam jalur ini, para pembuat berbicara—tetapi dunia tidak menyimpan kata-kata itu. Gunung terangkat lalu melunak kembali menjadi air. Hutan muncul seperti embun di kaca dan lenyap sebelum sempat berakar. Penciptaan terus tergelincir karena tak ada yang bisa dipakukan tanpa nama yang mengikatnya.\n\nPara pembuat berdebat: apakah kenyataan seharusnya stabil, atau memang ditakdirkan sebagai permukaan yang terus berubah? Mereka mencoba lagi dan lagi, tetapi tiap upaya larut ke masalah yang sama: yang tak bernama tak bisa diingat.\n\nAkhirnya mereka sadar bahan yang hilang bukan kekuatan tambahan, melainkan saksi. Mereka butuh makhluk yang memorinya bisa memakukan dunia dengan mengulang nama-namanya.\n\nMaka keputusan menciptakan manusia menjadi bukan soal menguasai, melainkan menambatkan. Dalam what if ini, manusia lahir bukan sebagai penguasa bumi, tetapi sebagai catatan hidup bumi—ingatan yang membuat dunia tak tersapu kembali."
+          }
+        },
+        {
+          "id": "what_if_1_animals_learn_speech",
+          "type": "what_if",
+          "title": {
+            "en": "When Animals Spoke Back",
+            "id": "Saat Hewan Menjawab"
+          },
+          "content": {
+            "en": "In this path, the makers grant the animals what they lacked: speech that can carry gratitude. The jaguar, the bird, and the deer learn to pronounce the makers’ names, not as mimicry but as understanding.\n\nThe world becomes a choir of many tongues. The forest itself seems to pray—every howl and chirp turning into remembrance. The makers feel the first satisfaction of being answered.\n\nBut the blessing creates a new dilemma. If every creature can speak, who holds responsibility? Praise becomes plentiful, yet intention becomes scattered. The makers cannot tell which voices truly know them and which simply repeat sound.\n\nSo the makers begin seeking a different kind of answer—one that can reflect, choose, and commit. In this what if, humans are still created, but not because animals are insufficient; humans are created because the makers want a partner capable of conscience, not just chorus.",
+            "id": "Dalam jalur ini, para pembuat memberi hewan apa yang kurang: kemampuan bicara yang membawa rasa syukur. Jaguar, burung, dan rusa belajar menyebut nama para pembuat—bukan sebagai tiruan, melainkan sebagai pengertian.\n\nDunia menjadi paduan suara banyak lidah. Hutan seolah berdoa—setiap auman dan kicau berubah menjadi ingatan. Para pembuat merasakan kepuasan pertama karena dijawab.\n\nNamun berkah itu menciptakan dilema baru. Jika semua makhluk bisa bicara, siapa yang memikul tanggung jawab? Pujian menjadi melimpah, tetapi niat menjadi tercerai. Para pembuat sulit membedakan suara yang sungguh mengenal dari yang sekadar mengulang bunyi.\n\nMaka para pembuat mencari jenis jawaban lain—yang mampu merenung, memilih, dan berkomitmen. Dalam what if ini, manusia tetap diciptakan, tetapi bukan karena hewan tak cukup; manusia diciptakan karena para pembuat menginginkan pasangan yang mampu berhati nurani, bukan sekadar paduan suara."
+          }
+        },
+        {
+          "id": "what_if_1_land_rises_too_fast",
+          "type": "what_if",
+          "title": {
+            "en": "The Earth Rose in Anger",
+            "id": "Bumi Terangkat dengan Amarah"
+          },
+          "content": {
+            "en": "In this path, the command to raise land is spoken with impatience. The waters part violently. Peaks tear upward like spears, and valleys split too deep, too sudden. The new world is sharp, beautiful, and hostile.\n\nAnimals survive, but only by becoming cautious and cruel. The forest is dense, the cliffs are unforgiving, and hunger is constant. Life exists, yet it learns fear before it learns gratitude.\n\nThe makers watch and understand that creation is not only about making something exist—it is about making it livable. They realize their own tone has consequences.\n\nSo they decide the next creation must be different: a being that can soften the world through meaning, ritual, and care. In this what if, humans are conceived as healers of a wounded landscape, tasked with turning sharpness into home.",
+            "id": "Dalam jalur ini, perintah untuk mengangkat daratan diucapkan dengan ketidaksabaran. Air terbelah dengan keras. Puncak merobek ke atas seperti tombak, dan lembah terbelah terlalu dalam, terlalu cepat. Dunia baru ini tajam, indah, dan bermusuhan.\n\nHewan-hewan bertahan, tetapi hanya dengan menjadi waspada dan keras. Hutan rapat, tebing tak memaafkan, dan lapar menjadi tetap. Kehidupan ada, tetapi ia belajar takut sebelum belajar syukur.\n\nPara pembuat menonton dan paham bahwa penciptaan bukan hanya soal membuat sesuatu ada—melainkan membuatnya dapat dihuni. Mereka sadar nada mereka sendiri punya akibat.\n\nMaka mereka memutuskan ciptaan berikutnya harus berbeda: makhluk yang bisa melembutkan dunia lewat makna, ritual, dan perawatan. Dalam what if ini, manusia dibayangkan sebagai penyembuh lanskap yang terluka—ditugaskan mengubah ketajaman menjadi rumah."
+          }
+        },
+        {
+          "id": "what_if_1_the_makers_disagree",
+          "type": "what_if",
+          "title": {
+            "en": "The Makers Could Not Agree",
+            "id": "Para Pembuat Tak Sepakat"
+          },
+          "content": {
+            "en": "In this path, the makers do not speak as one. One wants a world of strict order, another wants a world of wild growth. Their words collide, and creation becomes inconsistent: rivers that reverse, forests that bloom overnight, rules that change mid-step.\n\nThe animals adapt better than expected, because chaos rewards instinct. But no creature can form stable gratitude when reality itself cannot be trusted. Worship becomes impossible in a world where tomorrow rewrites today.\n\nThe makers realize unity is not a moral preference; it is a structural necessity. If the world is made by words, then contradiction is a crack in the foundation.\n\nSo before humans can be made, the makers must first learn governance—how to decide together. In this what if, the first creation is not land or animals, but agreement: a discipline of speaking with one voice so the world can stand on it.",
+            "id": "Dalam jalur ini, para pembuat tidak berbicara sebagai satu. Yang satu menginginkan dunia yang tertib ketat, yang lain menginginkan dunia yang liar tumbuh. Kata-kata mereka berbenturan, dan penciptaan menjadi tak konsisten: sungai yang berbalik arah, hutan yang mekar semalam, aturan yang berubah di tengah langkah.\n\nHewan-hewan beradaptasi lebih baik dari dugaan, karena kekacauan menguntungkan naluri. Namun tak ada makhluk yang bisa membangun syukur yang stabil ketika kenyataan sendiri tak dapat dipercaya. Penyembahan jadi mustahil di dunia yang besoknya menulis ulang hari ini.\n\nPara pembuat sadar bahwa kesatuan bukan sekadar preferensi moral; ia kebutuhan struktural. Jika dunia dibuat oleh kata, maka kontradiksi adalah retak di fondasi.\n\nMaka sebelum manusia bisa dibuat, para pembuat harus belajar pemerintahan lebih dulu—cara memutuskan bersama. Dalam what if ini, ciptaan pertama bukan daratan atau hewan, melainkan kesepakatan: disiplin berbicara dengan satu suara agar dunia punya tempat berdiri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Clay That Could Not Hold",
+        "id": "Tanah Liat yang Tak Mampu Bertahan"
+      },
+      "preview": {
+        "en": "The makers attempt a first human—soft, shaped, and hopeful. But a being made too fragile cannot carry memory, speech, or duty for long.",
+        "id": "Para pembuat mencoba manusia pertama—lembut, dibentuk, dan penuh harap. Namun makhluk yang terlalu rapuh tak bisa lama menanggung ingatan, kata, dan kewajiban."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The First People of Mud",
+            "id": "Manusia Pertama dari Lumpur"
+          },
+          "content": {
+            "en": "After the animals failed to answer, the makers turned to a sharper question: what kind of substance can carry a voice? They chose what was nearest and most obedient—earth mixed with water—and shaped the first human figures from mud.\n\nFor a moment the experiment looked like success. The forms stood upright. Faces took shape. Mouths opened as if to speak. The makers waited for gratitude, for names returned to them with understanding.\n\nBut the mud people could not hold themselves together. Their bodies slumped. Their features ran like wet paint. When they tried to speak, the sound was weak and scattered, as if the words could not find structure to live in.\n\nWorse than weakness was emptiness. They had no firmness of mind. They did not remember, did not reflect, and could not keep the makers’ names the way a true witness must. They existed, but they did not endure.\n\nSo the makers ended the attempt. It was not rage; it was a correction. A world made by speech needs a creature whose body can carry speech without dissolving.\n\nThe chapter closes with a lesson carved into the failure: not everything that can be shaped can become a person. The makers must search for a material that can bear both breath and responsibility.",
+            "id": "Setelah hewan gagal menjawab, para pembuat beralih ke pertanyaan yang lebih tajam: bahan seperti apa yang mampu memikul suara? Mereka memilih yang paling dekat dan paling mudah ditundukkan—tanah yang dicampur air—lalu membentuk sosok manusia pertama dari lumpur.\n\nSesaat percobaan itu tampak berhasil. Bentuknya berdiri. Wajahnya terbentuk. Mulutnya terbuka seolah hendak bicara. Para pembuat menunggu syukur, menunggu nama mereka dikembalikan dengan pengertian.\n\nNamun manusia lumpur tak mampu mempertahankan dirinya. Tubuhnya merosot. Rautnya luntur seperti cat basah. Saat mencoba bicara, suaranya lemah dan tercerai, seolah kata-kata tak menemukan struktur untuk tinggal.\n\nYang lebih buruk dari kelemahan adalah kekosongan. Mereka tak punya keteguhan batin. Mereka tak mengingat, tak merenung, dan tak bisa menyimpan nama para pembuat sebagaimana saksi sejati harus mampu. Mereka ada, tetapi tak bertahan.\n\nMaka para pembuat mengakhiri percobaan itu. Bukan karena murka, melainkan koreksi. Dunia yang dibuat oleh kata membutuhkan makhluk yang tubuhnya bisa menampung kata tanpa melarut.\n\nBab ini menutup dengan pelajaran dari kegagalan: tidak semua yang bisa dibentuk dapat menjadi manusia. Para pembuat harus mencari bahan yang mampu memikul napas sekaligus tanggung jawab."
+          }
+        },
+        {
+          "id": "what_if_2_mud_people_endure",
+          "type": "what_if",
+          "title": {
+            "en": "If the Mud Had Held",
+            "id": "Jika Lumpur Itu Bertahan"
+          },
+          "content": {
+            "en": "In this path, the mud people do not collapse. The makers find the right balance of earth and water, and the bodies stand firm enough to walk. Their mouths shape words that can be heard.\n\nBut endurance creates a new problem: the mud people are stable only in stillness. Under heat they crack; under rain they soften; under stress they warp. They can speak gratitude on calm days, yet their nature ties their worship to weather.\n\nThe makers realize that a witness whose body depends on the sky will always be unreliable. A world needs remembrance that survives seasons.\n\nSo the mud people become a first civilization that lives close to rivers and caves, learning ritual as a method of staying intact. Humans still need to be remade later, but the lesson shifts: the flaw is not speech—it is permanence.",
+            "id": "Dalam jalur ini, manusia lumpur tidak runtuh. Para pembuat menemukan takaran tanah dan air yang tepat, dan tubuhnya cukup kokoh untuk berjalan. Mulut mereka membentuk kata-kata yang bisa didengar.\n\nNamun ketahanan melahirkan masalah baru: manusia lumpur stabil hanya dalam keadaan tenang. Di panas mereka retak; di hujan mereka melunak; di tekanan mereka melintir. Mereka bisa mengucap syukur pada hari-hari damai, tetapi kodrat mereka membuat penyembahan bergantung pada cuaca.\n\nPara pembuat sadar bahwa saksi yang tubuhnya bergantung pada langit akan selalu tak dapat diandalkan. Dunia butuh ingatan yang melampaui musim.\n\nMaka manusia lumpur menjadi peradaban pertama yang hidup dekat sungai dan gua, mempelajari ritual sebagai cara untuk tetap utuh. Manusia tetap perlu dicipta ulang kelak, tetapi pelajarannya bergeser: cacatnya bukan pada suara—melainkan pada kebertahanan."
+          }
+        },
+        {
+          "id": "what_if_2_mud_people_gain_memory",
+          "type": "what_if",
+          "title": {
+            "en": "They Remembered Too Much",
+            "id": "Mereka Terlalu Mengingat"
+          },
+          "content": {
+            "en": "In this path, the mud people are fragile, but their minds are sharp. They remember every shaping hand, every test, every correction. Their gratitude is real—yet it is mixed with fear, because they know they can be unmade.\n\nThey begin to bargain with their makers. They offer praise not as devotion but as negotiation. Their prayers sound like contracts: safety in exchange for remembrance.\n\nThe makers see a troubling mirror: intelligence without sturdiness breeds anxiety, and anxiety breeds manipulation. A creature that fears erasure may worship, but it will also scheme.\n\nSo the makers end the attempt anyway, not because the mud people cannot speak, but because their memory turns worship into politics. The search continues for a being who can remember without turning remembrance into leverage.",
+            "id": "Dalam jalur ini, manusia lumpur rapuh, tetapi pikirannya tajam. Mereka mengingat setiap tangan yang membentuk, setiap ujian, setiap koreksi. Syukur mereka nyata—namun bercampur takut, karena mereka tahu mereka bisa dihapus.\n\nMereka mulai menawar para pembuat. Mereka menawarkan pujian bukan sebagai bakti, melainkan negosiasi. Doa mereka terdengar seperti kontrak: keselamatan ditukar dengan ingatan.\n\nPara pembuat melihat cermin yang mengganggu: kecerdasan tanpa keteguhan melahirkan cemas, dan cemas melahirkan manipulasi. Makhluk yang takut dihapus bisa menyembah, tetapi juga akan berkomplot.\n\nMaka para pembuat mengakhiri percobaan itu juga, bukan karena manusia lumpur tak bisa bicara, melainkan karena ingatan mereka mengubah ibadah menjadi politik. Pencarian berlanjut: makhluk yang bisa mengingat tanpa menjadikan ingatan sebagai alat tawar."
+          }
+        },
+        {
+          "id": "what_if_2_mud_people_become_servants",
+          "type": "what_if",
+          "title": {
+            "en": "The Clay Was Kept as Labor",
+            "id": "Lumpur Dipertahankan sebagai Tenaga"
+          },
+          "content": {
+            "en": "In this path, the makers decide not to discard the mud people. Even if they cannot hold clear speech or stable thought, they can still move, carry, and build. The makers keep them as a silent workforce for the new world.\n\nThe forests change first. Paths appear where there were none. Stones stack into terraces. Rivers are diverted into channels. The land becomes shaped by hands that cannot explain why they work.\n\nThen the ethical fracture opens: a world built by beings who cannot answer is a world built without consent. The makers gain monuments but lose the very goal that started creation—being answered with understanding.\n\nSo the makers face a second correction: to create humans who can speak back, they must also choose what to do with those who cannot. In this what if, the story darkens early, turning creation into a problem of responsibility, not just power.",
+            "id": "Dalam jalur ini, para pembuat memutuskan untuk tidak membuang manusia lumpur. Meski mereka tak mampu memikul kata yang jelas atau pikiran yang stabil, mereka masih bisa bergerak, mengangkat, dan membangun. Para pembuat mempertahankan mereka sebagai tenaga kerja yang sunyi bagi dunia baru.\n\nHutan berubah lebih dulu. Jalur muncul dari yang semula tidak ada. Batu ditumpuk jadi teras. Sungai dialihkan ke saluran. Daratan menjadi terbentuk oleh tangan yang tak bisa menjelaskan mengapa mereka bekerja.\n\nLalu retaknya muncul: dunia yang dibangun oleh makhluk yang tak bisa menjawab adalah dunia yang dibangun tanpa persetujuan. Para pembuat mendapatkan monumen, tetapi kehilangan tujuan yang memulai penciptaan—dijawab dengan pengertian.\n\nMaka para pembuat menghadapi koreksi kedua: untuk mencipta manusia yang bisa membalas kata, mereka juga harus memilih apa yang dilakukan terhadap yang tak bisa. Dalam what if ini, kisah menjadi gelap lebih cepat, mengubah penciptaan menjadi masalah tanggung jawab, bukan sekadar kuasa."
+          }
+        },
+        {
+          "id": "what_if_2_mud_people_spread_like_mold",
+          "type": "what_if",
+          "title": {
+            "en": "The Mud Multiplied",
+            "id": "Lumpur Itu Berkembang Biak"
+          },
+          "content": {
+            "en": "In this path, the mud people fail as individuals but succeed as a phenomenon. They do not form families; they multiply by contact with water and soil. Wherever they fall apart, more of them appear.\n\nThe makers watch their first human attempt become a creeping ecology—half-person, half-land. It is not worship that spreads, but presence. The world fills with bodies that do not remember.\n\nNow the makers face a crisis of control: to begin again, they must first clear what already covers the earth. Ending the experiment is no longer a simple correction; it becomes a flood, a purge, a resetting of the ground.\n\nIn this what if, the later creation of true humans carries a heavy shadow: the world has already been haunted by almost-people. Speech, when it finally arrives, is born into a landscape that remembers failure even if the failed cannot.",
+            "id": "Dalam jalur ini, manusia lumpur gagal sebagai individu tetapi berhasil sebagai gejala. Mereka tidak membentuk keluarga; mereka berkembang biak lewat sentuhan air dan tanah. Di mana pun mereka runtuh, lebih banyak dari mereka muncul.\n\nPara pembuat melihat percobaan manusia pertama berubah menjadi ekologi merayap—setengah manusia, setengah daratan. Yang menyebar bukan ibadah, melainkan keberadaan. Dunia penuh tubuh yang tidak mengingat.\n\nKini para pembuat menghadapi krisis kendali: untuk memulai lagi, mereka harus lebih dulu membersihkan yang sudah menutupi bumi. Mengakhiri percobaan bukan lagi koreksi sederhana; ia menjadi banjir, pembersihan, pengaturan ulang tanah.\n\nDalam what if ini, penciptaan manusia sejati di bab-bab berikutnya membawa bayang berat: dunia sudah pernah dihantui hampir-manusia. Kata-kata, ketika akhirnya datang, lahir di lanskap yang mengingat kegagalan—meski yang gagal tak mampu mengingat."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The People of Wood",
+        "id": "Manusia-Manusia Kayu"
+      },
+      "preview": {
+        "en": "The makers try again with stronger material. The new people can walk and speak, but something essential is missing: depth.",
+        "id": "Para pembuat mencoba lagi dengan bahan yang lebih kuat. Manusia baru bisa berjalan dan berbicara, tetapi ada yang hilang: kedalaman."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "Bodies Without Reverence",
+            "id": "Tubuh Tanpa Takzim"
+          },
+          "content": {
+            "en": "The makers learned from mud: a body must hold its shape. So they turned to wood—dry, upright, and enduring—and carved a new kind of people. These figures did not slump. They multiplied. They filled the land with footsteps.\n\nThis time, voices arrived. The wooden people could speak in useful ways: to point, to demand, to bargain, to warn. They could coordinate work and settle disputes. From a distance, the makers might have believed the problem was solved.\n\nBut when the makers listened closely, they heard the flaw. The words had no root. The wooden people spoke without remembering who gave them speech. They did not carry gratitude; they carried appetite. They used language as a tool, not as a bridge.\n\nAnd because they did not revere their makers, they did not revere the world the makers had raised. They treated animals as objects, forests as fuel, and one another as replaceable parts. A society formed—efficient, loud, and hollow.\n\nThe makers faced the hardest truth of creation: durability is not personhood. A thing can stand and still be empty. A mouth can form names and still not know what a name is worth.\n\nSo the correction came through the world itself. The chapter closes with the wooden people meeting consequence—nature, fear, and unraveling—because a creation that cannot acknowledge its source becomes hostile to everything around it. The makers prepare to begin again, seeking not only a stronger body, but a deeper being.",
+            "id": "Para pembuat belajar dari lumpur: tubuh harus mampu mempertahankan bentuk. Maka mereka beralih ke kayu—kering, tegak, dan tahan—lalu memahat jenis manusia yang baru. Sosok-sosok ini tidak merosot. Mereka berkembang biak. Mereka memenuhi daratan dengan jejak.\n\nKali ini, suara datang. Manusia kayu bisa berbicara dalam cara yang berguna: menunjuk, menuntut, menawar, memperingatkan. Mereka bisa mengoordinasikan kerja dan menyelesaikan sengketa. Dari jauh, para pembuat bisa mengira masalahnya selesai.\n\nNamun ketika para pembuat mendengar lebih dekat, cacatnya terasa. Kata-kata itu tak berakar. Manusia kayu berbicara tanpa mengingat siapa yang memberi mereka bicara. Mereka tidak memikul syukur; mereka memikul nafsu. Mereka memakai bahasa sebagai alat, bukan sebagai jembatan.\n\nKarena mereka tak bertakzim pada para pembuat, mereka juga tak bertakzim pada dunia yang diangkat. Mereka memperlakukan hewan sebagai benda, hutan sebagai bahan bakar, dan sesama sebagai bagian yang bisa diganti. Sebuah masyarakat terbentuk—efisien, bising, dan hampa.\n\nPara pembuat menghadapi kebenaran tersulit penciptaan: ketahanan bukanlah kemanusiaan. Sesuatu bisa berdiri dan tetap kosong. Mulut bisa membentuk nama dan tetap tak tahu nilai sebuah nama.\n\nMaka koreksi datang melalui dunia itu sendiri. Bab ini menutup dengan manusia kayu bertemu akibat—alam, takut, dan keruntuhan—karena ciptaan yang tak bisa mengakui sumbernya cenderung menjadi bermusuhan terhadap segala yang di sekelilingnya. Para pembuat bersiap memulai lagi, mencari bukan hanya tubuh yang lebih kuat, tetapi keberadaan yang lebih dalam."
+          }
+        },
+        {
+          "id": "what_if_3_wood_people_learn_reverence",
+          "type": "what_if",
+          "title": {
+            "en": "If Wood Learned Reverence",
+            "id": "Jika Kayu Belajar Bertakzim"
+          },
+          "content": {
+            "en": "In this path, the wooden people begin hollow, but not permanently. One day they witness a storm that uproots the strongest trees and spares the smallest reeds. The event teaches them that strength alone does not rule the world.\n\nThey start to imitate gratitude before they fully understand it. They repeat names like seeds, not yet knowing what they grow. Slowly, the repetition becomes habit, and the habit becomes memory.\n\nThe makers watch a strange evolution: a creation that was missing depth attempts to carve depth into itself. Speech becomes less about appetite and more about acknowledgment.\n\nBut the lesson arrives late. Much harm has already been done to animals and forests. Reverence is born in a world already scarred.\n\nIn this what if, the correction does not erase the wooden people. It reshapes them through responsibility, forcing them to repair what their emptiness broke—and proving that a flawed creation can still be taught, if it survives long enough to listen.",
+            "id": "Dalam jalur ini, manusia kayu mulai dari hampa, tetapi tidak selamanya. Suatu hari mereka menyaksikan badai yang mencabut pohon terkuat dan membiarkan ilalang kecil bertahan. Peristiwa itu mengajari mereka bahwa kekuatan saja tidak menguasai dunia.\n\nMereka mulai meniru rasa syukur sebelum benar-benar paham. Mereka mengulang nama-nama seperti benih, belum tahu apa yang akan tumbuh. Pelan-pelan pengulangan menjadi kebiasaan, dan kebiasaan menjadi ingatan.\n\nPara pembuat menyaksikan evolusi aneh: ciptaan yang kekurangan kedalaman mencoba memahat kedalaman ke dalam dirinya sendiri. Bicara menjadi lebih sedikit tentang nafsu, lebih banyak tentang pengakuan.\n\nNamun pelajaran datang terlambat. Banyak kerusakan sudah terjadi pada hewan dan hutan. Takzim lahir di dunia yang sudah terluka.\n\nDalam what if ini, koreksi tidak menghapus manusia kayu. Ia membentuk ulang mereka lewat tanggung jawab, memaksa mereka memperbaiki yang dihancurkan kehampaan—dan membuktikan bahwa ciptaan yang cacat masih bisa diajar, jika ia bertahan cukup lama untuk mendengar."
+          }
+        },
+        {
+          "id": "what_if_3_wood_people_become_perfect_workers",
+          "type": "what_if",
+          "title": {
+            "en": "A Silent Empire of Function",
+            "id": "Kekaisaran Sunyi Bernama Fungsi"
+          },
+          "content": {
+            "en": "In this path, the wooden people never become cruel in obvious ways. Instead they become purely functional. They speak only to coordinate labor, measure harvests, and distribute tasks. Their society is efficient, orderly, and emotionally flat.\n\nBecause they lack reverence, they do not worship—but they also do not rebel. They treat the world as inventory, and themselves as tools. Everything is counted; nothing is thanked.\n\nThe makers face an uncomfortable success: the land is managed, the forests are cultivated, and conflict is minimized. Yet the purpose of creation remains unfulfilled because no voice returns with understanding.\n\nThe makers consider whether a world that runs smoothly is enough. If not, then gratitude is not a luxury; it is the reason.\n\nIn this what if, the correction arrives not as disaster but as a decision: the makers end a civilization that “works” because it does not *mean*. The tragedy is quiet—an empire erased for lacking a soul.",
+            "id": "Dalam jalur ini, manusia kayu tidak menjadi kejam secara mencolok. Mereka justru menjadi murni fungsional. Mereka berbicara hanya untuk mengoordinasikan kerja, mengukur panen, dan membagi tugas. Masyarakatnya efisien, tertib, dan datar secara emosional.\n\nKarena mereka tanpa takzim, mereka tidak menyembah—tetapi mereka juga tidak memberontak. Mereka memperlakukan dunia sebagai inventaris, dan diri mereka sebagai alat. Semuanya dihitung; tak ada yang disyukuri.\n\nPara pembuat menghadapi keberhasilan yang tak nyaman: tanah terkelola, hutan dibudidaya, konflik diminimalkan. Namun tujuan penciptaan tetap tak terpenuhi karena tak ada suara yang kembali dengan pengertian.\n\nPara pembuat mempertimbangkan apakah dunia yang berjalan mulus sudah cukup. Jika tidak, berarti syukur bukan kemewahan; ia alasan.\n\nDalam what if ini, koreksi datang bukan sebagai bencana, melainkan keputusan: para pembuat mengakhiri sebuah peradaban yang “berfungsi” karena ia tidak *bermakna*. Tragedinya sunyi—sebuah kekaisaran dihapus karena tak punya jiwa."
+          }
+        },
+        {
+          "id": "what_if_3_animals_take_revenge",
+          "type": "what_if",
+          "title": {
+            "en": "When the Animals Remembered",
+            "id": "Saat Hewan-Hewan Mengingat"
+          },
+          "content": {
+            "en": "In this path, the wooden people treat animals as objects for too long. The animals learn patterns: when hunters sleep, when traps are set, where fires begin. The forest becomes a school of survival.\n\nThe first revenge is small—food stores spoiled, paths misled, dogs turning against masters. Then the revenge becomes coordinated: birds warn prey, jaguars stalk the careless, insects ruin crops. Nature begins to behave like a single mind.\n\nThe wooden people respond with harsher control, which deepens the war. Their words grow sharper, but still not grateful; language becomes a weapon rather than a bridge.\n\nThe makers watch the world perform the correction for them. A creation that refuses reverence is forced to confront consequence.\n\nIn this what if, the wooden people are not erased by decree but exhausted by resistance. Their fall is a lesson written by claws, wings, and roots: a world that is treated as mute will eventually find a way to speak.",
+            "id": "Dalam jalur ini, manusia kayu terlalu lama memperlakukan hewan sebagai benda. Hewan-hewan belajar pola: kapan pemburu tidur, kapan perangkap dipasang, dari mana api dimulai. Hutan menjadi sekolah bertahan hidup.\n\nBalas dendam pertama kecil—lumbung rusak, jalan disesatkan, anjing berbalik melawan tuannya. Lalu balas dendam menjadi terkoordinasi: burung memperingatkan mangsa, jaguar mengintai yang lengah, serangga merusak ladang. Alam mulai bertingkah seperti satu pikiran.\n\nManusia kayu merespons dengan kendali yang lebih keras, dan perang makin dalam. Kata-kata mereka makin tajam, tetapi tetap bukan syukur; bahasa menjadi senjata, bukan jembatan.\n\nPara pembuat menyaksikan dunia menjalankan koreksi untuk mereka. Ciptaan yang menolak takzim dipaksa menghadapi akibat.\n\nDalam what if ini, manusia kayu tidak dihapus lewat titah, melainkan dilumpuhkan oleh perlawanan. Kejatuhan mereka menjadi pelajaran yang ditulis oleh cakar, sayap, dan akar: dunia yang diperlakukan bisu pada akhirnya akan menemukan cara untuk berbicara."
+          }
+        },
+        {
+          "id": "what_if_3_wood_people_create_false_gods",
+          "type": "what_if",
+          "title": {
+            "en": "They Worshiped What They Made",
+            "id": "Mereka Menyembah Buatan Mereka"
+          },
+          "content": {
+            "en": "In this path, the wooden people cannot feel reverence for their makers, so they manufacture reverence elsewhere. They carve idols that resemble themselves—clean faces, straight backs, flawless smiles—and call these carvings sacred.\n\nRitual appears, but it is hollow ritual: worship designed to praise the worshipers. The wooden people do not return the makers’ names; they return their own.\n\nThe makers see the danger: speech has arrived, but it has been turned into a mirror. A creature that cannot acknowledge its source will invent a source that flatters it.\n\nThe correction becomes more severe because the mistake is not ignorance but substitution. The wooden people are not merely empty; they are self-enclosed.\n\nIn this what if, the fall comes as a shattering of idols and certainty. The lesson is sharp: language without humility does not produce faith—it produces propaganda.",
+            "id": "Dalam jalur ini, manusia kayu tak mampu bertakzim pada para pembuat, jadi mereka memproduksi takzim di tempat lain. Mereka memahat berhala yang mirip diri mereka—wajah bersih, punggung lurus, senyum sempurna—lalu menyebut pahatan itu suci.\n\nRitual muncul, tetapi ritual yang hampa: ibadah yang dirancang untuk memuji para penyembahnya. Manusia kayu tidak mengembalikan nama para pembuat; mereka mengembalikan nama mereka sendiri.\n\nPara pembuat melihat bahayanya: bahasa sudah datang, tetapi ia diubah menjadi cermin. Makhluk yang tak bisa mengakui sumbernya akan mengarang sumber yang memujinya.\n\nKoreksi menjadi lebih keras karena kesalahannya bukan ketidaktahuan, melainkan penggantian. Manusia kayu bukan sekadar kosong; mereka menutup diri rapat.\n\nDalam what if ini, kejatuhan datang sebagai penghancuran berhala dan kepastian. Pelajarannya tajam: bahasa tanpa rendah hati tidak melahirkan iman—melainkan propaganda."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Flood and the Reckoning",
+        "id": "Banjir dan Perhitungan"
+      },
+      "preview": {
+        "en": "When a people cannot remember their source, the world itself becomes the judge. A correction arrives like weather—total, impersonal, and final.",
+        "id": "Ketika suatu bangsa tak mampu mengingat sumbernya, dunia itu sendiri menjadi hakim. Koreksi datang seperti cuaca—menyeluruh, tak personal, dan final."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The World Cleanses Itself",
+            "id": "Dunia Membersihkan Dirinya"
+          },
+          "content": {
+            "en": "The wooden people spread across the land, busy and loud, building without gratitude. Their words organized labor and quarrel, yet never turned upward in reverence. The makers listened and heard that the world was filled, but still unanswered.\n\nSo the correction came—not as debate, not as another test of speech, but as consequence. The sky darkened. Rain fell with a purpose. Water did what water does best: it returned everything to formlessness.\n\nThe wooden people tried to run, but their strength was only material. They had no inner weight to anchor them. The more they struggled, the more the world treated them like debris.\n\nAnd it was not only the sky. The house turned on them: tools, hearthstones, and the objects they depended on became enemies. The forest joined the judgment. Creatures they had treated as mute responded with teeth, wings, and swarming numbers. It was as if the entire world had been waiting for a moment when it was allowed to speak.\n\nSome traces remained—shadows of that failed generation, reminders embedded in the landscape and in rumor. But the society they built could not survive a world that no longer tolerated emptiness.\n\nBy the end of the chapter, the land is quieter. Not peaceful—cleared. The makers do not celebrate; they prepare. Each failed attempt has narrowed the question until it becomes precise: the next people must be strong, must remember, and must know how to aim their words back toward the source of breath.",
+            "id": "Manusia kayu menyebar di daratan, sibuk dan bising, membangun tanpa syukur. Kata-kata mereka mengatur kerja dan pertengkaran, tetapi tak pernah menengadah dalam takzim. Para pembuat mendengar dan menyadari dunia sudah penuh, namun tetap belum dijawab.\n\nMaka koreksi datang—bukan sebagai debat, bukan sebagai ujian bicara yang lain, melainkan sebagai akibat. Langit menggelap. Hujan turun dengan tujuan. Air melakukan hal yang paling ia kuasai: mengembalikan segalanya ke tak berbentuk.\n\nManusia kayu mencoba lari, tetapi kekuatan mereka hanya bahan. Mereka tak punya bobot batin untuk menambatkan diri. Semakin mereka meronta, semakin dunia memperlakukan mereka seperti serpihan.\n\nDan bukan hanya langit. Rumah berbalik melawan mereka: alat, batu perapian, dan benda-benda yang mereka andalkan menjadi musuh. Hutan ikut menghakimi. Makhluk yang mereka perlakukan bisu membalas dengan gigi, sayap, dan jumlah yang mengerumun. Seolah seluruh dunia menunggu momen ketika ia diizinkan berbicara.\n\nSebagian jejak tersisa—bayangan generasi gagal itu, pengingat yang tertanam di lanskap dan rumor. Namun masyarakat yang mereka bangun tak bisa bertahan di dunia yang tak lagi menoleransi kehampaan.\n\nMenjelang akhir bab, daratan menjadi lebih sunyi. Bukan damai—melainkan bersih. Para pembuat tidak merayakan; mereka bersiap. Setiap kegagalan mempersempit pertanyaan sampai ia menjadi presisi: manusia berikutnya harus kuat, harus mengingat, dan harus tahu mengarahkan kata-katanya kembali kepada sumber napas."
+          }
+        },
+        {
+          "id": "what_if_4_no_flood_only_drought",
+          "type": "what_if",
+          "title": {
+            "en": "No Flood—Only Drought",
+            "id": "Tak Ada Banjir—Hanya Kemarau"
+          },
+          "content": {
+            "en": "In this path, the makers do not cleanse the world with water. Instead, the sky closes. Rain becomes a memory, rivers shrink into thin threads, and the forest loses its softness.\n\nThe wooden people, built for endurance, initially celebrate. Their bodies do not rot like mud. Their tools still function. They think the world is finally theirs.\n\nBut drought punishes more quietly than flood. Hunger arrives as arithmetic: fewer seeds, fewer animals, fewer chances. Without reverence, the wooden people respond with extraction—cutting deeper, taking more, fighting harder.\n\nThe correction becomes social before it becomes cosmic. Their hollow language turns into accusations and commands. Neighbors become enemies, and the world becomes a battlefield of scarcity.\n\nIn this what if, the makers learn that a silent judgment can be worse than a loud one. The wooden people collapse not in a single catastrophe, but in slow moral erosion, until nothing remains but dry ground and a lesson that lasted too long.",
+            "id": "Dalam jalur ini, para pembuat tidak membersihkan dunia dengan air. Sebaliknya, langit mengatup. Hujan menjadi ingatan, sungai menyusut menjadi benang tipis, dan hutan kehilangan kelembutannya.\n\nManusia kayu, yang dibuat untuk tahan, awalnya merayakan. Tubuh mereka tak membusuk seperti lumpur. Alat-alat mereka masih berfungsi. Mereka mengira dunia akhirnya milik mereka.\n\nNamun kemarau menghukum lebih sunyi daripada banjir. Lapar datang sebagai hitungan: lebih sedikit benih, lebih sedikit hewan, lebih sedikit kesempatan. Tanpa takzim, manusia kayu merespons dengan pengurasan—menebang lebih dalam, mengambil lebih banyak, bertarung lebih keras.\n\nKoreksi menjadi sosial sebelum menjadi kosmis. Bahasa hampa mereka berubah menjadi tuduhan dan perintah. Tetangga menjadi musuh, dan dunia menjadi medan perang kelangkaan.\n\nDalam what if ini, para pembuat belajar bahwa penghakiman yang sunyi bisa lebih buruk daripada yang bising. Manusia kayu runtuh bukan oleh satu bencana, melainkan oleh erosi moral yang lambat, sampai yang tersisa hanya tanah kering dan pelajaran yang terlalu lama."
+          }
+        },
+        {
+          "id": "what_if_4_some_wood_people_saved",
+          "type": "what_if",
+          "title": {
+            "en": "A Remnant Was Spared",
+            "id": "Ada Sisa yang Dibiarkan Hidup"
+          },
+          "content": {
+            "en": "In this path, the cleansing is not total. A small remnant of the wooden people survives—clinging to high ground, sheltered in caves, or carried by drifting logs.\n\nThey live with the memory of consequence carved into them. The world has spoken, and they finally understand that the world can answer back. Their speech changes: fewer demands, more caution.\n\nBut survival does not automatically create reverence. The remnant learns fear faster than gratitude. They become experts at avoiding punishment, not at honoring the source of breath.\n\nWhen the makers attempt a new creation, the remnant becomes a complication. They watch the next people arrive, and envy grows like moss. The survivors whisper: why were we not made whole?\n\nIn this what if, the story turns into a layered world—new humans walking above, old failures hiding below. The makers must now manage not only creation, but coexistence with their own discarded attempt.",
+            "id": "Dalam jalur ini, pembersihan tidak total. Sebagian kecil manusia kayu selamat—berpegangan di dataran tinggi, berlindung di gua, atau terbawa kayu yang mengapung.\n\nMereka hidup dengan ingatan akibat yang terukir. Dunia sudah bicara, dan mereka akhirnya paham bahwa dunia bisa menjawab balik. Bahasa mereka berubah: lebih sedikit tuntutan, lebih banyak kewaspadaan.\n\nNamun bertahan hidup tidak otomatis melahirkan takzim. Sisa itu belajar takut lebih cepat daripada syukur. Mereka menjadi ahli menghindari hukuman, bukan menghormati sumber napas.\n\nKetika para pembuat mencoba penciptaan baru, sisa ini menjadi komplikasi. Mereka menyaksikan manusia berikutnya hadir, dan iri tumbuh seperti lumut. Para penyintas berbisik: mengapa kami tidak dibuat utuh?\n\nDalam what if ini, kisah menjadi dunia berlapis—manusia baru berjalan di atas, kegagalan lama bersembunyi di bawah. Para pembuat kini harus mengelola bukan hanya penciptaan, tetapi koeksistensi dengan percobaan yang pernah mereka buang."
+          }
+        },
+        {
+          "id": "what_if_4_the_house_refuses_to_turn",
+          "type": "what_if",
+          "title": {
+            "en": "When the House Stayed Silent",
+            "id": "Saat Rumah Tetap Diam"
+          },
+          "content": {
+            "en": "In this path, the flood comes, but the household objects do not rise in judgment. Tools remain tools. Stones remain stones. The correction is purely natural, not personal.\n\nThe wooden people interpret this as proof that the world is indifferent. They do not feel accused; they feel unlucky. They rebuild with the same emptiness, calling catastrophe a random storm rather than a verdict.\n\nBecause the disaster teaches nothing, the cycle repeats. Each rebuilding becomes faster, harsher, and more extractive. Their society evolves into a machine designed for recovery, not meaning.\n\nThe makers realize that consequence without interpretation does not change behavior. A punishment that cannot be understood becomes mere noise.\n\nIn this what if, the makers must introduce a different kind of correction—one that teaches, not just destroys. The next chapter begins not with another creation, but with the question of how to make a lesson land in a hollow mind.",
+            "id": "Dalam jalur ini, banjir datang, tetapi benda-benda rumah tidak bangkit untuk menghakimi. Alat tetap alat. Batu tetap batu. Koreksi murni alamiah, bukan personal.\n\nManusia kayu menafsirkan ini sebagai bukti bahwa dunia acuh. Mereka tidak merasa dituduh; mereka merasa sial. Mereka membangun ulang dengan kehampaan yang sama, menyebut bencana sebagai badai acak, bukan vonis.\n\nKarena bencana tak mengajar apa-apa, siklus berulang. Setiap pembangunan ulang menjadi lebih cepat, lebih keras, dan lebih menguras. Masyarakat mereka berevolusi menjadi mesin pemulihan, bukan mesin makna.\n\nPara pembuat sadar bahwa akibat tanpa tafsir tidak mengubah perilaku. Hukuman yang tak bisa dipahami menjadi sekadar kebisingan.\n\nDalam what if ini, para pembuat harus memperkenalkan koreksi jenis lain—yang mengajar, bukan hanya menghancurkan. Bab berikutnya dibuka bukan dengan penciptaan baru, melainkan pertanyaan: bagaimana membuat pelajaran menancap di pikiran yang hampa."
+          }
+        },
+        {
+          "id": "what_if_4_flood_becomes_new_worship",
+          "type": "what_if",
+          "title": {
+            "en": "They Worshiped the Flood",
+            "id": "Mereka Menyembah Banjir"
+          },
+          "content": {
+            "en": "In this path, as the waters rise, the wooden people finally feel awe—but they misplace it. They do not turn to the makers; they turn to the flood itself, treating it as the highest power because it is the loudest.\n\nSome survive by building floating shrines and chanting to water. Their prayers are frantic, transactional, and aimed at the wrong face of reality.\n\nThe makers observe a bitter irony: the people have learned reverence, but not recognition. They now fear and praise force, not origin.\n\nWhen the waters recede, the survivors spread a new doctrine: worship whatever can destroy you. The world becomes spiritually inverted—strength equals divinity.\n\nIn this what if, the next creation must confront a dangerous inheritance. The makers are not starting from silence anymore; they are starting from a world that already confuses power with sacredness.",
+            "id": "Dalam jalur ini, saat air naik, manusia kayu akhirnya merasakan takjub—tetapi salah sasaran. Mereka tidak menoleh kepada para pembuat; mereka menoleh kepada banjir itu sendiri, menganggapnya kuasa tertinggi karena ia yang paling bising.\n\nSebagian selamat dengan membangun kuil-kuil terapung dan melantunkan doa pada air. Doa mereka panik, transaksional, dan ditujukan pada wajah kenyataan yang keliru.\n\nPara pembuat menyaksikan ironi pahit: manusia itu sudah belajar takzim, tetapi belum belajar mengenali. Mereka kini takut dan memuji kekuatan, bukan asal.\n\nSaat air surut, para penyintas menyebarkan doktrin baru: sembahlah apa pun yang bisa menghancurkanmu. Dunia menjadi terbalik secara rohani—kekuatan sama dengan ketuhanan.\n\nDalam what if ini, penciptaan berikutnya harus menghadapi warisan yang berbahaya. Para pembuat tidak memulai dari sunyi lagi; mereka memulai dari dunia yang sudah keliru menyamakan kuasa dengan kesucian."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Ballcourt’s Shadow",
+        "id": "Bayang-Bayang Lapangan Bola"
+      },
+      "preview": {
+        "en": "After failed creations are swept away, a new drama begins: not just making humans, but testing what a human line means. The sound of the ball becomes an invitation to the underworld.",
+        "id": "Setelah ciptaan-ciptaan gagal disapu, drama baru dimulai: bukan hanya mencipta manusia, tetapi menguji arti sebuah garis keturunan. Bunyi bola memantul menjadi undangan ke dunia bawah."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The First Challenge Below",
+            "id": "Tantangan Pertama dari Bawah"
+          },
+          "content": {
+            "en": "With the land cleared, life returns—not as another raw experiment of flesh, but as story and lineage. In the bright world above, two gifted players turn the ballcourt into a ritual: movement, breath, and skill arranged like prayer without words.\n\nBut sound travels. The echo of the ball reaches places that do not want to be reminded of the surface. In the underworld, the lords hear the rhythm as insult—joy above interpreted as arrogance against the depths.\n\nSo the underworld does what it always does: it invites. A summons arrives, framed as a contest, but designed as a trap. The message is simple: come below, prove yourselves, and accept judgment.\n\nThe players accept, partly from pride, partly from duty, partly from the belief that skill can negotiate with darkness. They descend carrying their gear and their confidence, stepping into a realm built to confuse the senses and exhaust the will.\n\nWhat awaits them is not a fair game. The underworld’s power is not strength—it is rules that change, hospitality that lies, and tests disguised as ordinary rooms. The descent is the beginning of a pattern: those who treat the dark as a court of honor will learn it is a court of appetite.\n\nThe chapter ends with the hinge that will swing the saga forward. The first players walk into the trial, and the world above does not yet know that this is how heroes are manufactured: through loss, through humiliation, and through a lineage that refuses to end where the underworld expects it to.",
+            "id": "Dengan daratan yang sudah dibersihkan, kehidupan kembali—bukan sebagai percobaan daging yang mentah, melainkan sebagai kisah dan garis keturunan. Di dunia terang di atas, dua pemain berbakat mengubah lapangan bola menjadi ritual: gerak, napas, dan keterampilan yang tersusun seperti doa tanpa kata.\n\nNamun bunyi merambat. Gema bola mencapai tempat-tempat yang tak ingin diingatkan akan permukaan. Di dunia bawah, para penguasanya mendengar ritme itu sebagai penghinaan—kegembiraan di atas ditafsirkan sebagai kesombongan terhadap kedalaman.\n\nMaka dunia bawah melakukan hal yang selalu ia lakukan: mengundang. Sebuah panggilan datang, dibingkai sebagai pertandingan, tetapi dirancang sebagai jebakan. Pesannya sederhana: turunlah, buktikan dirimu, dan terimalah penghakiman.\n\nPara pemain menerimanya—sebagian karena gengsi, sebagian karena kewajiban, sebagian karena keyakinan bahwa keterampilan bisa bernegosiasi dengan gelap. Mereka turun membawa perlengkapan dan rasa percaya diri, melangkah ke ranah yang dibangun untuk mengacaukan indera dan menguras kemauan.\n\nYang menunggu mereka bukan permainan adil. Kuasa dunia bawah bukan kekuatan—melainkan aturan yang berubah, keramahtamahan yang berdusta, dan ujian yang menyamar sebagai ruangan biasa. Turun ke bawah adalah awal dari pola: siapa pun yang memperlakukan kegelapan sebagai pengadilan kehormatan akan belajar bahwa ia adalah pengadilan nafsu.\n\nBab ini berakhir pada engsel yang akan mengayunkan saga ke depan. Para pemain pertama memasuki sidang ujian, dan dunia atas belum tahu bahwa beginilah pahlawan diproduksi: lewat kehilangan, lewat penghinaan, dan lewat garis keturunan yang menolak berakhir di titik yang dunia bawah harapkan."
+          }
+        },
+        {
+          "id": "what_if_5_they_refuse_the_summons",
+          "type": "what_if",
+          "title": {
+            "en": "They Refused to Go Below",
+            "id": "Mereka Menolak Turun"
+          },
+          "content": {
+            "en": "In this path, the players read the invitation as poison. They do not treat the underworld as a court of honor; they treat it as a predator that uses rules like teeth. They refuse the summons publicly.\n\nAt first, nothing happens. The surface remains bright, and people praise the players for caution. The refusal looks like wisdom.\n\nThen the underworld adapts. It stops inviting and starts infiltrating—illnesses that arrive without cause, dreams that steal sleep, quarrels that appear inside families like planted knives. The contest moves from a ballcourt to daily life.\n\nThe players realize they have not avoided the underworld; they have brought it closer to home. They can no longer choose the arena, only the response.\n\nIn this what if, heroism begins not with descent but with defense: building rituals, alliances, and discipline strong enough to withstand a war that has no clear doorway.",
+            "id": "Dalam jalur ini, para pemain membaca undangan itu sebagai racun. Mereka tidak memperlakukan dunia bawah sebagai pengadilan kehormatan; mereka memperlakukannya sebagai pemangsa yang memakai aturan seperti gigi. Mereka menolak panggilan itu secara terbuka.\n\nAwalnya, tak ada apa-apa. Permukaan tetap terang, dan orang memuji para pemain karena berhati-hati. Penolakan tampak seperti kebijaksanaan.\n\nLalu dunia bawah beradaptasi. Ia berhenti mengundang dan mulai menyusup—penyakit yang datang tanpa sebab, mimpi yang mencuri tidur, pertengkaran yang muncul di dalam keluarga seperti pisau yang ditanam. Kontes berpindah dari lapangan bola ke hidup sehari-hari.\n\nPara pemain sadar mereka tidak menghindari dunia bawah; mereka justru membawa dunia bawah lebih dekat ke rumah. Mereka tak lagi bisa memilih arena, hanya bisa memilih respons.\n\nDalam what if ini, kepahlawanan dimulai bukan dengan turun, melainkan dengan bertahan: membangun ritual, aliansi, dan disiplin yang cukup kuat untuk menahan perang yang tak punya pintu yang jelas."
+          }
+        },
+        {
+          "id": "what_if_5_they_try_to_negotiate",
+          "type": "what_if",
+          "title": {
+            "en": "They Tried to Negotiate the Underworld",
+            "id": "Mereka Mencoba Bernegosiasi dengan Dunia Bawah"
+          },
+          "content": {
+            "en": "In this path, the players accept the summons but refuse to treat it as a simple match. They bring gifts, speak politely, and attempt to set terms—fair play, fixed rules, safe return.\n\nThe underworld receives them with perfect manners. Hospitality becomes a mask so smooth it feels like comfort. The players begin to believe that respect can domesticate darkness.\n\nThen the trap tightens. Each promise is honored only in wording, never in spirit. Every rule has a hidden hinge. The players discover that negotiation is not powerless—but it is dangerous, because it makes the victim collaborate in their own capture.\n\nThe descent becomes a lesson in language: how a contract can be a cage. The players learn that the underworld’s favorite weapon is consent obtained through confusion.\n\nIn this what if, the story turns into a battle of definitions. Survival depends on reading the exact shape of words, and knowing when politeness is merely a corridor leading deeper.",
+            "id": "Dalam jalur ini, para pemain menerima panggilan tetapi menolak memperlakukannya sebagai pertandingan biasa. Mereka membawa hadiah, berbicara sopan, dan mencoba menetapkan syarat—permainan adil, aturan tetap, pulang selamat.\n\nDunia bawah menerima mereka dengan tata krama sempurna. Keramahtamahan menjadi topeng yang begitu halus hingga terasa seperti kenyamanan. Para pemain mulai percaya bahwa hormat bisa menjinakkan kegelapan.\n\nLalu jebakan mengencang. Setiap janji dipenuhi hanya pada bunyinya, bukan pada rohnya. Setiap aturan punya engsel tersembunyi. Para pemain sadar bahwa negosiasi bukan tak berguna—namun berbahaya, karena ia membuat korban ikut menyusun penangkapannya sendiri.\n\nTurun ke bawah berubah menjadi pelajaran bahasa: bagaimana kontrak bisa menjadi kandang. Para pemain belajar bahwa senjata favorit dunia bawah adalah persetujuan yang diperoleh lewat kebingungan.\n\nDalam what if ini, kisah berubah menjadi perang definisi. Bertahan hidup bergantung pada membaca bentuk kata yang tepat, dan tahu kapan kesopanan hanyalah lorong menuju lebih dalam."
+          }
+        },
+        {
+          "id": "what_if_5_they_send_a_decoy",
+          "type": "what_if",
+          "title": {
+            "en": "They Sent a Decoy Team",
+            "id": "Mereka Mengirim Tim Umpan"
+          },
+          "content": {
+            "en": "In this path, the players suspect the summons is engineered to remove them. They send a decoy team—less famous players dressed in their symbols—while they watch from above, trying to learn the underworld’s pattern.\n\nThe underworld is not fooled by faces, but it is interested by strategy. It allows the decoy to enter and turns the trial into a message: the surface thinks it can outsmart the dark.\n\nThe decoy suffers, and the lesson returns in blood. Yet the sacrifice yields information: which rooms are traps, which courtesies are lies, which rules are only bait.\n\nThe real players now face a moral fracture. They have gained knowledge by spending others. When the time comes to descend for real, their hands are no longer clean.\n\nIn this what if, heroism is complicated early. The underworld is still the enemy, but the story asks a harsher question: what price is acceptable to learn how to survive?",
+            "id": "Dalam jalur ini, para pemain curiga panggilan itu dirancang untuk menyingkirkan mereka. Mereka mengirim tim umpan—pemain yang kurang terkenal memakai simbol mereka—sementara mereka mengintai dari atas, mencoba mempelajari pola dunia bawah.\n\nDunia bawah tidak tertipu oleh wajah, tetapi ia tertarik oleh strategi. Ia membiarkan umpan masuk dan mengubah sidang ujian menjadi pesan: permukaan mengira bisa mengakali gelap.\n\nTim umpan menderita, dan pelajaran kembali dalam darah. Namun pengorbanan itu menghasilkan informasi: ruangan mana yang jebakan, keramahtamahan mana yang dusta, aturan mana yang hanya umpan.\n\nPara pemain yang asli kini menghadapi retak moral. Mereka memperoleh pengetahuan dengan membelanjakan nyawa orang lain. Saat waktunya turun sungguhan, tangan mereka tidak lagi bersih.\n\nDalam what if ini, kepahlawanan menjadi rumit sejak awal. Dunia bawah tetap musuh, tetapi kisah memaksa pertanyaan yang lebih keras: harga apa yang pantas dibayar untuk belajar bertahan?"
+          }
+        },
+        {
+          "id": "what_if_5_the_underworld_invites_the_whole_city",
+          "type": "what_if",
+          "title": {
+            "en": "The Invitation Went Public",
+            "id": "Undangan Itu Menjadi Publik"
+          },
+          "content": {
+            "en": "In this path, the underworld does not summon only the players. It sends signs and whispers to the entire community, making the descent feel like a civic duty. The ballcourt becomes a public stage where fear is disguised as tradition.\n\nNow refusing is political. Accepting is also political. The players are trapped between pride and responsibility, because whatever they choose will split the people.\n\nWhen the descent happens, it becomes a procession instead of a duel. The underworld gains power from the crowd’s attention, feeding on the community’s anxiety and curiosity.\n\nThe players learn that darkness does not always isolate its victims; sometimes it collectivizes them. A society can be dragged into a trap through spectacle.\n\nIn this what if, the chapter ends with a more dangerous enemy than any single lord below: mass momentum. The underworld’s real victory is making everyone walk willingly toward the edge.",
+            "id": "Dalam jalur ini, dunia bawah tidak memanggil hanya para pemain. Ia mengirim tanda dan bisik kepada seluruh komunitas, membuat turun ke bawah terasa seperti kewajiban bersama. Lapangan bola menjadi panggung publik tempat rasa takut menyamar sebagai tradisi.\n\nKini menolak itu politis. Menerima juga politis. Para pemain terjepit antara gengsi dan tanggung jawab, karena apa pun pilihan mereka akan membelah orang banyak.\n\nKetika penurunan terjadi, ia menjadi arak-arakan, bukan duel. Dunia bawah memperoleh kuasa dari perhatian massa, memakan cemas dan rasa ingin tahu komunitas.\n\nPara pemain belajar bahwa kegelapan tidak selalu mengisolasi korbannya; kadang ia mengolektifkannya. Sebuah masyarakat bisa diseret ke jebakan lewat tontonan.\n\nDalam what if ini, bab ditutup oleh musuh yang lebih berbahaya daripada satu penguasa bawah mana pun: momentum massa. Kemenangan dunia bawah yang sesungguhnya adalah membuat semua orang berjalan sukarela menuju tepi."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Rooms That Lie",
+        "id": "Ruangan-Ruangan yang Berdusta"
+      },
+      "preview": {
+        "en": "The underworld does not defeat its guests with force. It defeats them with procedure: tests disguised as hospitality, rules disguised as kindness.",
+        "id": "Dunia bawah tidak mengalahkan tamunya dengan kekuatan. Ia mengalahkan dengan prosedur: ujian yang menyamar sebagai keramahtamahan, aturan yang menyamar sebagai kebaikan."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Trap as Ceremony",
+            "id": "Jebakan yang Menyamar sebagai Upacara"
+          },
+          "content": {
+            "en": "The players arrive below and are greeted as if they are honored guests. Seats are offered. Words are polite. The underworld wears manners the way a hunter wears leaves.\n\nThe first lesson is humiliation. The lords arrange small misdirections—false respect, wrong names, gestures that look generous but are designed to make the guests stumble. The underworld wants proof that it can control the script.\n\nThen the rooms begin. Each chamber is introduced like ordinary lodging, yet each is built as a test: darkness that eats certainty, cold that punishes sleep, heat that turns patience into panic. The rules are never stated in full, because the point is not fairness; the point is exhaustion.\n\nThe players try to treat the trials like a game of skill. They rely on courage, on habit, on the logic of the surface. But the underworld is not an arena; it is a grammar. One mistake is not a loss—it is a permission for the lords to redefine what the contestants are.\n\nAs the night deepens, the players begin to fail in ways that feel personal. Their errors are collected and displayed. The underworld does not simply want them dead; it wants them ashamed, so their story will end without dignity and without continuation.\n\nThe chapter closes with a hinge of consequence. Whether the players are broken, captured, or marked by the trials, the result is the same: the underworld has made a claim on their lineage. The saga moves from contest to inheritance—because what happens below is meant to echo upward into birth, loss, and the stubborn return of a line that will not stay erased.",
+            "id": "Para pemain tiba di bawah dan disambut seolah tamu terhormat. Tempat duduk disediakan. Kata-kata sopan. Dunia bawah mengenakan tata krama seperti pemburu mengenakan daun.\n\nPelajaran pertama adalah penghinaan. Para penguasa menyusun pengelabuan kecil—hormat palsu, nama yang sengaja disalahkan, gestur yang tampak murah hati tetapi dirancang agar tamu tersandung. Dunia bawah ingin bukti bahwa ia menguasai naskah.\n\nLalu ruangan-ruangan dimulai. Tiap bilik diperkenalkan seperti tempat menginap biasa, tetapi tiap-tiapnya dibangun sebagai ujian: gelap yang memakan kepastian, dingin yang menghukum tidur, panas yang mengubah sabar menjadi panik. Aturan tak pernah diucapkan utuh, karena intinya bukan adil; intinya adalah menguras.\n\nPara pemain mencoba memperlakukan semua itu seperti permainan keterampilan. Mereka mengandalkan nyali, kebiasaan, logika permukaan. Namun dunia bawah bukan arena; ia tata bahasa. Satu kesalahan bukan sekadar kalah—ia izin bagi para penguasa untuk mendefinisikan ulang siapa para peserta itu.\n\nSaat malam menebal, para pemain mulai gagal dengan cara yang terasa personal. Kesalahan mereka dikumpulkan lalu dipertontonkan. Dunia bawah tak sekadar ingin mereka mati; ia ingin mereka malu, supaya kisah mereka berakhir tanpa martabat dan tanpa kelanjutan.\n\nBab ini ditutup dengan engsel akibat. Entah para pemain dipatahkan, ditawan, atau ditandai oleh ujian, hasilnya sama: dunia bawah telah membuat klaim atas garis keturunan mereka. Saga bergeser dari kontes menjadi warisan—karena apa yang terjadi di bawah dimaksudkan bergema ke atas menjadi kelahiran, kehilangan, dan kembalinya garis yang keras kepala dan menolak tetap terhapus."
+          }
+        },
+        {
+          "id": "what_if_6_they_master_the_grammar",
+          "type": "what_if",
+          "title": {
+            "en": "They Learned the Underworld’s Grammar",
+            "id": "Mereka Mempelajari Tata Bahasa Dunia Bawah"
+          },
+          "content": {
+            "en": "In this path, the players stop treating the trials as physical challenges and start treating them as language. They assume every courtesy has a hidden clause, every object a double meaning, every instruction an omission.\n\nThey speak less and observe more. They answer slowly, not to be polite, but to prevent the underworld from rewriting their intent. They begin to win not by strength, but by refusing to consent to confusion.\n\nThe lords grow frustrated because humiliation requires the victim to play along. Without panic and without haste, the trap cannot close cleanly.\n\nYet mastery has a price. The players become colder, sharper, and harder to surprise. They survive the rooms, but they carry the underworld’s logic back up with them.\n\nIn this what if, the underworld fails to break the players, but it still marks them—by teaching them suspicion as a permanent skill. The lineage continues, but it is haunted by the necessity of always reading the fine print.",
+            "id": "Dalam jalur ini, para pemain berhenti memperlakukan ujian sebagai tantangan fisik dan mulai memperlakukannya sebagai bahasa. Mereka menganggap setiap keramahtamahan punya pasal tersembunyi, setiap benda punya makna ganda, setiap instruksi menyimpan yang disembunyikan.\n\nMereka lebih sedikit bicara dan lebih banyak mengamati. Mereka menjawab pelan, bukan demi sopan, melainkan agar dunia bawah tak bisa menulis ulang niat mereka. Mereka mulai menang bukan karena kuat, tetapi karena menolak memberi persetujuan pada kebingungan.\n\nPara penguasa menjadi kesal karena penghinaan butuh korban ikut bermain. Tanpa panik dan tanpa tergesa, jebakan tak bisa mengunci dengan rapi.\n\nNamun penguasaan punya harga. Para pemain menjadi lebih dingin, lebih tajam, dan lebih sulit dikejutkan. Mereka selamat dari ruangan-ruangan, tetapi mereka membawa logika dunia bawah naik bersama mereka.\n\nDalam what if ini, dunia bawah gagal mematahkan para pemain, tetapi tetap menandai mereka—dengan mengajari curiga sebagai keterampilan permanen. Garis keturunan berlanjut, tetapi dihantui kebutuhan untuk selalu membaca tulisan kecil."
+          }
+        },
+        {
+          "id": "what_if_6_they_win_but_lose_dignity",
+          "type": "what_if",
+          "title": {
+            "en": "They Survived by Begging",
+            "id": "Mereka Selamat dengan Memohon"
+          },
+          "content": {
+            "en": "In this path, the players survive the rooms, but only by surrendering their pride. They flatter the lords, accept every insult as deserved, and trade dignity for passage.\n\nThe underworld is pleased, because its goal is not merely death—it is the rewriting of identity. The players return upward alive, but internally reshaped: they have learned that survival can be purchased by humiliation.\n\nAbove, the people celebrate the return, yet something feels wrong. The players no longer speak with clear joy. Their rituals feel cautious, as if every movement anticipates punishment.\n\nThe lineage continues, but its inheritance is broken. Children learn fear as etiquette. Skill becomes secondary to appeasement.\n\nIn this what if, the underworld wins even when it “loses.” The trap succeeds because it turns heroism into compliance, leaving a living body that carries a defeated spirit.",
+            "id": "Dalam jalur ini, para pemain selamat dari ruangan-ruangan, tetapi hanya dengan menyerahkan gengsi. Mereka menyanjung para penguasa, menerima setiap hinaan sebagai pantas, dan menukar martabat untuk jalan keluar.\n\nDunia bawah senang, karena tujuannya bukan sekadar kematian—melainkan menulis ulang identitas. Para pemain pulang ke atas dalam keadaan hidup, tetapi batinnya sudah diubah: mereka belajar bahwa bertahan bisa dibeli dengan penghinaan.\n\nDi atas, orang merayakan kepulangan, tetapi ada yang ganjil. Para pemain tak lagi berbicara dengan sukacita yang jernih. Ritual mereka terasa hati-hati, seolah tiap gerak mengantisipasi hukuman.\n\nGaris keturunan berlanjut, tetapi warisannya patah. Anak-anak belajar takut sebagai tata krama. Keterampilan menjadi nomor dua setelah menyenangkan penguasa.\n\nDalam what if ini, dunia bawah menang bahkan ketika ia “kalah.” Jebakan berhasil karena mengubah kepahlawanan menjadi kepatuhan, menyisakan tubuh hidup yang membawa jiwa yang sudah menyerah."
+          }
+        },
+        {
+          "id": "what_if_6_one_player_betrays_the_other",
+          "type": "what_if",
+          "title": {
+            "en": "The Betrayal Inside the Trial",
+            "id": "Pengkhianatan di Dalam Ujian"
+          },
+          "content": {
+            "en": "In this path, the underworld discovers the easiest lever is not pain but distrust. The lords whisper different promises to each player: safety for one, glory for the other, a return to the surface if the partner is blamed.\n\nThe rooms are designed to produce uncertainty—footsteps in darkness, missing tools, a misheard instruction—until each player suspects the other has made a secret deal.\n\nFinally, one breaks. A single accusation becomes the underworld’s opening. The lords do not need to kill both; they only need to separate them.\n\nThe survivor returns carrying a victory that feels like theft. The community sees the body return, but the lineage has already been cut in spirit because trust was the true bridge between generations.\n\nIn this what if, the underworld’s most elegant trap is social. It proves that a lineage can be ended without executing a bloodline—by poisoning the bond that makes a line worth continuing.",
+            "id": "Dalam jalur ini, dunia bawah menemukan tuas termudah bukan rasa sakit, melainkan ketidakpercayaan. Para penguasa membisikkan janji berbeda pada tiap pemain: keselamatan untuk satu, kemuliaan untuk yang lain, jalan pulang jika pasangannya disalahkan.\n\nRuangan-ruangan dirancang untuk melahirkan ketidakpastian—langkah kaki di gelap, alat yang hilang, instruksi yang terdengar salah—sampai masing-masing curiga yang lain sudah membuat kesepakatan rahasia.\n\nAkhirnya, ada yang retak. Satu tuduhan menjadi celah dunia bawah. Para penguasa tak perlu membunuh keduanya; mereka hanya perlu memisahkan.\n\nPenyintas pulang membawa kemenangan yang terasa seperti pencurian. Komunitas melihat tubuhnya kembali, tetapi garis keturunan sudah terpotong secara batin karena kepercayaan adalah jembatan sejati antar generasi.\n\nDalam what if ini, jebakan paling elegan dunia bawah bersifat sosial. Ia membuktikan garis keturunan bisa diakhiri tanpa mengeksekusi darah—cukup meracuni ikatan yang membuat garis itu layak diteruskan."
+          }
+        },
+        {
+          "id": "what_if_6_they_turn_the_rooms_into_ritual",
+          "type": "what_if",
+          "title": {
+            "en": "They Sanctified the Rooms",
+            "id": "Mereka Mensucikan Ruangan"
+          },
+          "content": {
+            "en": "In this path, the players refuse to treat the chambers as humiliations. They treat each room as a rite. In darkness they speak the names of what they cannot see. In cold they share heat and turn endurance into a vow. In heat they slow their breath until panic loses its grip.\n\nThe underworld intended the rooms to isolate. Ritual does the opposite: it binds. The players become a single rhythm, and the rhythm is harder to fracture than individual courage.\n\nThe lords respond by escalating the tests, because they sense something dangerous: meaning. If the guests can generate meaning inside the trap, then the trap is no longer sovereign.\n\nThe players may still lose—because the underworld can always add more rooms—but the loss changes. Shame cannot attach to a story that has been sanctified.\n\nIn this what if, the underworld fails at its core purpose. Even if it takes bodies, it cannot take dignity, and dignity becomes the seed that later grows into the return of the lineage.",
+            "id": "Dalam jalur ini, para pemain menolak memperlakukan bilik-bilik itu sebagai penghinaan. Mereka memperlakukannya sebagai ritus. Di gelap mereka menyebut nama dari apa yang tak terlihat. Di dingin mereka berbagi hangat dan mengubah ketahanan menjadi janji. Di panas mereka memperlambat napas sampai panik kehilangan cengkeram.\n\nDunia bawah bermaksud membuat ruangan-ruangan itu mengisolasi. Ritual melakukan kebalikannya: ia mengikat. Para pemain menjadi satu ritme, dan ritme lebih sulit dipatahkan daripada nyali individu.\n\nPara penguasa merespons dengan meningkatkan ujian, karena mereka mencium sesuatu yang berbahaya: makna. Jika tamu bisa menghasilkan makna di dalam jebakan, maka jebakan tak lagi berdaulat.\n\nPara pemain mungkin tetap kalah—karena dunia bawah selalu bisa menambah ruangan—tetapi kekalahan itu berubah rupa. Malu tak bisa menempel pada kisah yang sudah disucikan.\n\nDalam what if ini, dunia bawah gagal pada tujuan intinya. Bahkan jika ia mengambil tubuh, ia tak bisa mengambil martabat, dan martabat menjadi benih yang kelak menumbuhkan kembalinya garis keturunan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Seed That Would Not Die",
+        "id": "Benih yang Menolak Mati"
+      },
+      "preview": {
+        "en": "The underworld believes victory is final when it breaks a body and shames a name. But lineage is not only flesh—it is a pattern that can return through what was left behind.",
+        "id": "Dunia bawah mengira kemenangan itu final ketika ia mematahkan tubuh dan mempermalukan nama. Padahal garis keturunan bukan hanya daging—ia pola yang bisa kembali lewat apa yang tertinggal."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "Loss Becomes Inheritance",
+            "id": "Kehilangan Menjadi Warisan"
+          },
+          "content": {
+            "en": "The trials in the underworld reach their intended conclusion. The lords do not need to prove they are stronger; they only need to prove the guests are breakable. The rooms have done their work: courage has been drained, dignity targeted, identity rewritten into failure.\n\nThe players are defeated—not just in outcome, but in narrative. The underworld wants their ending to sound like a warning: do not challenge us; do not bring joy near our borders; do not believe skill can bargain with hunger.\n\nYet the underworld makes one mistake. It believes the story ends where it controls the stage. It believes that if it can stop breath, it can stop return.\n\nSomething remains. A trace of the players—an object, a sign, a residue of presence—escapes the final closure. It is small enough to be overlooked, but coherent enough to carry meaning upward. The makers’ earlier lesson returns here in a new shape: what can be remembered can be rebuilt.\n\nAbove, those who receive this trace do not fully understand it at first. They only feel that something unfinished has been handed to them. The absence becomes a pressure, and the pressure becomes a promise.\n\nThe chapter ends with the underworld satisfied and the surface grieving, but the true motion runs underneath both emotions. The defeat has been converted into inheritance. A lineage has been claimed by darkness, yes—but by being claimed, it has also been defined. And what is defined can be answered.\n\nFrom here, the saga pivots: the next heroes will not begin as challengers walking proudly into a trap. They will begin as the response to that trap—children of a loss, shaped by the need to outthink rooms that lie and lords who mistake endings for control.",
+            "id": "Ujian-ujian di dunia bawah mencapai kesimpulan yang mereka inginkan. Para penguasa tak perlu membuktikan mereka lebih kuat; mereka hanya perlu membuktikan tamu itu bisa dipatahkan. Ruangan-ruangan telah bekerja: nyali terkuras, martabat dibidik, identitas ditulis ulang menjadi kegagalan.\n\nPara pemain dikalahkan—bukan hanya dalam hasil, tetapi dalam narasi. Dunia bawah ingin akhir mereka terdengar seperti peringatan: jangan menantang kami; jangan bawa kegembiraan mendekati perbatasan kami; jangan percaya keterampilan bisa bernegosiasi dengan lapar.\n\nNamun dunia bawah membuat satu kesalahan. Ia percaya kisah berakhir di tempat ia menguasai panggung. Ia percaya bahwa jika ia bisa menghentikan napas, ia bisa menghentikan kembalinya.\n\nSesuatu tertinggal. Jejak para pemain—benda, tanda, residu kehadiran—lolos dari penutupan final. Ia cukup kecil untuk terlewat, tetapi cukup utuh untuk membawa makna ke atas. Pelajaran para pembuat di bab awal kembali dengan wujud baru: yang bisa diingat bisa dibangun ulang.\n\nDi atas, mereka yang menerima jejak ini belum sepenuhnya mengerti. Mereka hanya merasakan ada sesuatu yang belum selesai sedang diserahkan. Kekosongan menjadi tekanan, dan tekanan menjadi janji.\n\nBab ini berakhir dengan dunia bawah puas dan permukaan berduka, tetapi gerak sejati berjalan di bawah dua emosi itu. Kekalahan telah diubah menjadi warisan. Garis keturunan memang diklaim oleh gelap—tetapi justru karena diklaim, ia juga menjadi terdefinisi. Dan yang terdefinisi bisa dijawab.\n\nDari sini, saga berputar: pahlawan berikutnya tidak akan memulai sebagai penantang yang berjalan gagah ke jebakan. Mereka akan memulai sebagai jawaban terhadap jebakan itu—anak-anak dari kehilangan, dibentuk oleh kebutuhan untuk mengakali ruangan yang berdusta dan penguasa yang mengira akhir sama dengan kendali."
+          }
+        },
+        {
+          "id": "what_if_7_underworld_destroys_the_trace",
+          "type": "what_if",
+          "title": {
+            "en": "The Trace Was Destroyed",
+            "id": "Jejak Itu Dimusnahkan"
+          },
+          "content": {
+            "en": "In this path, the underworld makes no mistake. It does not merely defeat the players; it audits the aftermath. Every object is inspected, every sign erased, every residue scattered until nothing coherent remains.\n\nAbove, grief arrives without direction. There is loss, but no artifact to hold it, no story-fragment to carry forward. The community cannot build a promise out of absence, because absence has been made featureless.\n\nYet the makers’ logic still presses: what cannot be remembered cannot be rebuilt. The underworld believes it has finally severed the pattern.\n\nSo the return, if it happens at all, must come from a different kind of seed—an internal one. Not an object passed upward, but a dream, a rumor, a stray phrase that refuses to disappear.\n\nIn this what if, the saga slows and darkens. The next heroes are not born from a clear inheritance, but from a desperate act of reconstruction: trying to recover a lineage from almost nothing.",
+            "id": "Dalam jalur ini, dunia bawah tidak membuat kesalahan. Ia tidak sekadar mengalahkan para pemain; ia mengaudit sisa-sisanya. Setiap benda diperiksa, setiap tanda dihapus, setiap residu disebar sampai tak ada yang utuh.\n\nDi atas, duka datang tanpa arah. Ada kehilangan, tetapi tak ada artefak untuk memegangnya, tak ada fragmen kisah untuk dibawa. Komunitas tak bisa membangun janji dari kekosongan, karena kekosongan dibuat tak berbentuk.\n\nNamun logika para pembuat tetap menekan: yang tak bisa diingat tak bisa dibangun ulang. Dunia bawah merasa pola itu akhirnya putus.\n\nMaka kembalinya—jika terjadi—harus datang dari benih jenis lain: benih batin. Bukan benda yang naik, melainkan mimpi, rumor, atau satu frasa liar yang menolak lenyap.\n\nDalam what if ini, saga melambat dan menggelap. Pahlawan berikutnya tidak lahir dari warisan yang jelas, melainkan dari tindakan rekonstruksi yang putus asa: mencoba memulihkan garis keturunan dari nyaris tidak ada apa-apa."
+          }
+        },
+        {
+          "id": "what_if_7_the_surface_rejects_the_inheritance",
+          "type": "what_if",
+          "title": {
+            "en": "They Refused the Burden",
+            "id": "Mereka Menolak Beban Warisan"
+          },
+          "content": {
+            "en": "In this path, a trace does return to the surface, but the community rejects it. They see only danger: a sign from below, a reminder that invites attention from the lords.\n\nThey decide that forgetting is safer than remembering. They hide the artifact, silence the story, and treat grief like a fire to smother.\n\nFor a while, life becomes calmer. Without rituals of remembrance, the underworld seems farther away. But the calm is paid for with numbness: the community loses not only a lineage, but the skill of responding to loss.\n\nThe underworld wins by patience. If the surface will not carry inheritance forward, then the pattern dies quietly without further effort.\n\nIn this what if, the tragedy is not that the underworld was too strong, but that the surface chose safety over meaning. The next heroes never arrive—because no one agreed to be the bridge.",
+            "id": "Dalam jalur ini, jejak memang kembali ke permukaan, tetapi komunitas menolaknya. Mereka hanya melihat bahaya: tanda dari bawah, pengingat yang bisa mengundang perhatian para penguasa.\n\nMereka memutuskan bahwa melupakan lebih aman daripada mengingat. Mereka menyembunyikan artefak itu, membungkam kisahnya, dan memperlakukan duka seperti api yang harus dipadamkan.\n\nUntuk sementara hidup terasa lebih tenang. Tanpa ritual ingatan, dunia bawah tampak lebih jauh. Namun ketenangan dibayar dengan kebas: komunitas kehilangan bukan hanya garis keturunan, tetapi kemampuan merespons kehilangan.\n\nDunia bawah menang dengan kesabaran. Jika permukaan tak mau membawa warisan maju, pola itu mati sunyi tanpa usaha tambahan.\n\nDalam what if ini, tragedinya bukan karena dunia bawah terlalu kuat, melainkan karena permukaan memilih aman daripada bermakna. Pahlawan berikutnya tak pernah datang—karena tak ada yang mau menjadi jembatan."
+          }
+        },
+        {
+          "id": "what_if_7_the_trace_becomes_a_weapon",
+          "type": "what_if",
+          "title": {
+            "en": "Inheritance as a Weapon",
+            "id": "Warisan Menjadi Senjata"
+          },
+          "content": {
+            "en": "In this path, the trace returns and is understood quickly—but wrongly. The surface interprets it as a call to vengeance rather than a call to continuation.\n\nRituals harden into militancy. The community trains not for wisdom but for retaliation, believing the underworld can be beaten with the same blunt force that beats ordinary enemies.\n\nThis creates a dangerous clarity: everyone knows what they want, and that makes them predictable. The underworld loves predictable opponents. It can prepare rooms that match the surface’s anger perfectly.\n\nWhen the next descent happens, the new challengers bring certainty into a realm built to punish certainty. Their confidence becomes the handle the lords use to pull them into traps.\n\nIn this what if, inheritance survives, but it is distorted. The lineage continues, yet it continues as a blade—sharp, brittle, and easy to break when turned against a darkness that feeds on simple motives.",
+            "id": "Dalam jalur ini, jejak kembali dan cepat dipahami—tetapi keliru. Permukaan menafsirkannya sebagai panggilan balas dendam, bukan panggilan kelanjutan.\n\nRitual mengeras menjadi militansi. Komunitas berlatih bukan untuk kebijaksanaan, melainkan pembalasan, percaya dunia bawah bisa dikalahkan dengan kekuatan tumpul yang sama seperti melawan musuh biasa.\n\nIni menciptakan kejelasan berbahaya: semua orang tahu apa yang mereka mau, dan itu membuat mereka mudah ditebak. Dunia bawah menyukai lawan yang mudah ditebak. Ia bisa menyiapkan ruangan-ruangan yang pas dengan amarah permukaan.\n\nKetika penurunan berikutnya terjadi, para penantang baru membawa kepastian ke ranah yang dibangun untuk menghukum kepastian. Kepercayaan diri mereka menjadi pegangan yang dipakai para penguasa untuk menarik mereka masuk ke jebakan.\n\nDalam what if ini, warisan bertahan, tetapi terdistorsi. Garis keturunan berlanjut, namun ia berlanjut sebagai pisau—tajam, rapuh, dan mudah patah ketika diarahkan pada kegelapan yang memakan motif sederhana."
+          }
+        },
+        {
+          "id": "what_if_7_the_trace_chooses_a_stranger",
+          "type": "what_if",
+          "title": {
+            "en": "The Seed Found a Stranger",
+            "id": "Benih Itu Memilih Orang Asing"
+          },
+          "content": {
+            "en": "In this path, the trace does not return to the family that expects it. It reaches a stranger—someone outside the main lineage, someone overlooked and unclaimed.\n\nThe community resists the idea. Inheritance is supposed to follow blood, they argue, not accident. But the trace keeps returning to the same hands, as if insisting that lineage is also a pattern of responsibility.\n\nThe stranger grows into a new kind of heir: not born from the fallen players, but chosen by their absence. This changes the meaning of continuation. The next heroes will be shaped by adoption rather than descent.\n\nThe underworld is unsettled, because it prepared to hunt a family line, not a principle. A principle can travel.\n\nIn this what if, the saga pivots toward a radical claim: what survives the underworld is not only ancestry, but the capacity to carry a story faithfully—even when the carrier was never meant to be the one.",
+            "id": "Dalam jalur ini, jejak tidak kembali ke keluarga yang menunggunya. Ia mencapai orang asing—seseorang di luar garis utama, seseorang yang luput dan tak diperhitungkan.\n\nKomunitas menolak gagasan itu. Warisan seharusnya mengikuti darah, kata mereka, bukan kebetulan. Namun jejak itu terus kembali ke tangan yang sama, seolah bersikeras bahwa garis keturunan juga pola tanggung jawab.\n\nOrang asing itu tumbuh menjadi ahli waris jenis baru: bukan lahir dari para pemain yang gugur, melainkan dipilih oleh ketiadaan mereka. Ini mengubah arti kelanjutan. Pahlawan berikutnya akan dibentuk oleh adopsi, bukan semata turunan.\n\nDunia bawah gelisah, karena ia menyiapkan perburuan terhadap garis keluarga, bukan terhadap prinsip. Prinsip bisa berpindah.\n\nDalam what if ini, saga berputar menuju klaim yang radikal: yang bertahan dari dunia bawah bukan hanya silsilah, tetapi kemampuan memikul kisah dengan setia—bahkan ketika pemikulnya bukan orang yang ‘seharusnya’."
+          }
+        }
+      ]
+    }
+  ]
+}

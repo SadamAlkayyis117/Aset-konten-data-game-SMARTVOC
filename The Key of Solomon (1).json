@@ -1,0 +1,520 @@
+{
+  "book_id": "the_key_of_solomon",
+  "title": {
+    "en": "The Key of Solomon",
+    "id": "Kunci Salomo"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "The Preparation",
+        "id": "Persiapan"
+      },
+      "preview": {
+        "en": "Before summoning spirits, the magician must be pure. Fasting, bathing, and prayer are the keys to safety.",
+        "id": "Sebelum memanggil roh, penyihir harus murni. Puasa, mandi, dan doa adalah kunci keselamatan."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Purification",
+            "id": "Pemurnian"
+          },
+          "content": {
+            "en": "The Key opens with a stern warning: magic is not for the wicked or the frivolous. The 'Exorcist' (the operator) must dedicate himself entirely to the work. For nine days (or sometimes three), he must abstain from sin, gluttony, and impurity. He must fast, eating only spare meals of bread and water, and recite specific Psalms at dawn and sunset.\n\nThe ritual bath is crucial. The operator must wash his entire body in consecrated water mixed with hyssop, reciting prayers to cleanse his soul of earthly filth. He must wear vestments of pure white linen or silk, spun by a virgin girl, with holy names embroidered in specific colors. Shoes are forbidden; he must stand barefoot on the holy circle or wear special sandals made of white leather.\n\nThe timing must be perfect. The days and hours are ruled by planets. For works of love, one chooses the day of Venus; for war, Mars; for knowledge, Mercury. A mistake in calculation invites disaster. Only when the operator is clean in body, mind, and timing can he dare to open the gates between worlds.",
+            "id": "Kunci ini dibuka dengan peringatan keras: sihir bukan untuk orang jahat atau main-main. Sang 'Eksorsis' (operator) harus mendedikasikan dirinya sepenuhnya pada pekerjaan ini. Selama sembilan hari (atau kadang tiga), ia harus menjauhkan diri dari dosa, kerakusan, dan ketidakmurnian. Ia harus berpuasa, hanya makan sedikit roti dan air, serta mendaraskan Mazmur tertentu saat fajar dan terbenam matahari.\n\nMandi ritual sangat krusial. Operator harus membasuh seluruh tubuhnya dengan air yang disucikan dicampur hisop, mendaraskan doa-doa untuk membersihkan jiwanya dari kotoran duniawi. Ia harus mengenakan jubah linen atau sutra putih murni, yang dipintal oleh gadis perawan, dengan nama-nama suci disulam dalam warna-warna tertentu. Sepatu dilarang; ia harus berdiri tanpa alas kaki di lingkaran suci atau memakai sandal khusus dari kulit putih.\n\nWaktunya harus sempurna. Hari dan jam dikuasai oleh planet-planet. Untuk pekerjaan cinta, orang memilih hari Venus; untuk perang, Mars; untuk pengetahuan, Merkurius. Kesalahan perhitungan mengundang bencana. Hanya ketika operator bersih secara tubuh, pikiran, dan waktu, barulah ia berani membuka gerbang antar dunia."
+          }
+        }        ,
+        {
+          "id": "what_if_1_impurity",
+          "type": "what_if",
+          "title": {
+            "en": "The Tainted Soul",
+            "id": "Jiwa Ternoda"
+          },
+          "content": {
+            "en": "The magician didn't fast. He ate a heavy meal and drank wine before the ritual, thinking the words alone held power. He was wrong.\n\nThe spirits saw his gluttony as weakness. When he opened the gate, they didn't obey; they possessed him. His body became a vessel for a thousand hungry ghosts. He spent the rest of his life in an asylum, screaming in voices not his own, a warning that purity is not a suggestion, but a shield.",
+            "id": "Penyihir itu tidak berpuasa. Ia makan besar dan minum anggur sebelum ritual, mengira kata-kata saja sudah punya kekuatan. Ia salah.\n\nPara roh melihat kerakusannya sebagai kelemahan. Saat ia membuka gerbang, mereka tidak patuh; mereka merasukinya. Tubuhnya menjadi wadah bagi seribu hantu lapar. Ia menghabiskan sisa hidupnya di rumah sakit jiwa, menjerit dengan suara-suara yang bukan miliknya, sebuah peringatan bahwa kemurnian bukanlah saran, melainkan perisai."
+          }
+        },
+        {
+          "id": "what_if_1_wrong_timing",
+          "type": "what_if",
+          "title": {
+            "en": "Mars in Retrograde",
+            "id": "Mars Mundur"
+          },
+          "content": {
+            "en": "He wanted to summon a spirit of wealth (Jupiter), but he miscalculated the planetary hour and performed the rite during the hour of Mars (War).\n\nThe ritual worked, but the result was twisted. He got the money, but it came from insurance payouts after his house burned down and his family died in 'accidents'. The universe delivered the gold, but wrapped it in blood and conflict, adhering strictly to the planetary alignment he carelessly invoked.",
+            "id": "Ia ingin memanggil roh kekayaan (Jupiter), tapi ia salah menghitung jam planet dan melakukan ritual saat jam Mars (Perang).\n\nRitual itu berhasil, tapi hasilnya melenceng. Ia mendapatkan uangnya, tapi itu berasal dari klaim asuransi setelah rumahnya terbakar dan keluarganya tewas dalam 'kecelakaan'. Alam semesta mengirimkan emas itu, tapi membungkusnya dengan darah dan konflik, patuh secara ketat pada keselarasan planet yang ceroboh ia panggil."
+          }
+        },
+        {
+          "id": "what_if_1_shortcut_vestments",
+          "type": "what_if",
+          "title": {
+            "en": "The Cheap Linen",
+            "id": "Linen Murah"
+          },
+          "content": {
+            "en": "The instructions required linen spun by a virgin. The magician, lazy and cheap, bought regular cloth from the market. 'Who will know?' he scoffed.\n\nThe demons knew. The protective symbols embroidered on the impure cloth failed to ignite with holy light. The circle broke. The entity he summoned reached across the boundary and dragged him into the abyss, leaving only his cheap robe behind on the floor as a reminder that in magic, shortcuts are dead ends.",
+            "id": "Instruksi mengharuskan linen yang dipintal oleh perawan. Penyihir itu, malas dan pelit, membeli kain biasa di pasar. 'Siapa yang bakal tahu?' cemoohnya.\n\nPara iblis tahu. Simbol pelindung yang disulam di kain tak murni itu gagal menyala dengan cahaya suci. Lingkaran pelindung pecah. Entitas yang ia panggil menjangkau batas dan menyeretnya ke jurang maut, hanya meninggalkan jubah murahannya di lantai sebagai pengingat bahwa dalam sihir, jalan pintas adalah jalan buntu."
+          }
+        },
+        {
+          "id": "what_if_1_atheist_magician",
+          "type": "what_if",
+          "title": {
+            "en": "The Skeptic",
+            "id": "Sang Skeptis"
+          },
+          "content": {
+            "en": "The operator was an atheist who viewed the prayers as mere psychological triggers. He recited the Psalms without faith, treating the ritual as a science experiment.\n\nTo his surprise, nothing happened. No demons, no angels. Just silence. The Key of Solomon works on faith and will; without belief in the divine authority that commands the spirits, the words are empty sound. He walked away thinking magic was fake, unaware that the spirits were watching him, amused by his arrogance, waiting for a moment of true fear to reveal themselves.",
+            "id": "Operatornya adalah seorang ateis yang memandang doa-doa itu hanya sebagai pemicu psikologis. Ia mendaraskan Mazmur tanpa iman, memperlakukan ritual itu sebagai eksperimen sains.\n\nKejutannya, tidak terjadi apa-apa. Tidak ada iblis, tidak ada malaikat. Hanya kesunyian. Kunci Salomo bekerja berdasarkan iman dan kehendak; tanpa kepercayaan pada otoritas ilahi yang memerintah roh, kata-kata itu hanyalah suara kosong. Ia pergi berpikir sihir itu palsu, tak sadar bahwa para roh sedang mengawasinya, geli dengan keangkuhannya, menunggu momen ketakutan sejati untuk menampakkan diri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "The Instruments of Art",
+        "id": "Instrumen Seni"
+      },
+      "preview": {
+        "en": "A knife to cut the air, a wand to command, and a sword to defend. Every tool must be forged and consecrated by the mage's own hand.",
+        "id": "Pisau untuk membelah udara, tongkat untuk memerintah, dan pedang untuk bertahan. Setiap alat harus ditempa dan ditahbiskan oleh tangan penyihir sendiri."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "Forging the Tools",
+            "id": "Menempa Alat"
+          },
+          "content": {
+            "en": "The magician cannot simply buy his tools; he must make them or have them made under his direct supervision during the correct planetary hours. The most important tool is the **Knife of the Art** (Athame). It must be forged on the day and hour of Mars (Tuesday), with a handle made of white boxwood cut at sunrise. With this knife, the operator will trace the magic circle, compelling spirits to respect the boundary.\n\nNext is the **Wand** (Staff). It must be cut from a virgin hazel or nut tree with a single stroke of the consecrated knife, at sunrise on the day of Mercury (Wednesday). The operator must write holy characters upon it and fumigate it with incense. The wand is the symbol of absolute authority; when pointed, the spirits must obey.\n\nOther tools include the **Sword**, used for defense against stubborn spirits; the **Burin** (engraver) for carving pentacles; and the **Sickle** for gathering herbs. Even the pen and ink are sacred—the ink is often made from the blood of a bat or dove mixed with soot, used only for writing pacts and symbols. Before use, every tool must be sprinkled with holy water and prayed over: 'I consecrate thee, O instrument of my will, that thou mayest serve me in this work.' Without this consecration, they are just dead objects.",
+            "id": "Penyihir tidak bisa begitu saja membeli alatnya; ia harus membuatnya atau menyuruh orang membuatnya di bawah pengawasan langsungnya pada jam planet yang tepat. Alat paling penting adalah **Pisau Seni** (Athame). Itu harus ditempa pada hari dan jam Mars (Selasa), dengan gagang dari kayu boks putih yang dipotong saat matahari terbit. Dengan pisau ini, operator akan menarik lingkaran sihir, memaksa roh menghormati batasnya.\n\nSelanjutnya adalah **Tongkat** (Staf). Itu harus dipotong dari pohon hazel atau kacang perawan dengan satu tebasan pisau yang telah ditahbiskan, saat matahari terbit pada hari Merkurius (Rabu). Operator harus menulis karakter suci di atasnya dan mengasapinya dengan dupa. Tongkat adalah simbol otoritas mutlak; saat ditunjuk, roh harus patuh.\n\nAlat lain termasuk **Pedang**, digunakan untuk pertahanan melawan roh keras kepala; **Burin** (pahat) untuk mengukir pentakel; dan **Sabit** untuk mengumpulkan herbal. Bahkan pena dan tintanya suci—tinta sering dibuat dari darah kelelawar atau merpati dicampur jelaga, hanya digunakan untuk menulis pakta dan simbol. Sebelum digunakan, setiap alat harus diperciki air suci dan didoakan: 'Aku menahbiskanmu, O instrumen kehendakku, agar kau dapat melayaniku dalam pekerjaan ini.' Tanpa penahbisan ini, mereka hanyalah benda mati."
+          }
+        },
+        {
+          "id": "what_if_2_bought_knife",
+          "type": "what_if",
+          "title": {
+            "en": "The Second-Hand Blade",
+            "id": "Bilah Bekas"
+          },
+          "content": {
+            "en": "The magician bought an antique dagger from a pawn shop instead of forging a new one. He didn't know the knife had a history; it had been used in a murder.\n\nWhen he consecrated it, he didn't purify it; he woke the ghost attached to it. During the ritual, the knife didn't cut the air; it turned in his hand and stabbed him. The spirits laughed as the operator bled out, killed by the very tool meant to protect him, proving that objects carry memories that magic cannot easily erase.",
+            "id": "Penyihir itu membeli belati antik dari pegadaian alih-alih menempa yang baru. Ia tidak tahu pisau itu punya sejarah; pernah digunakan dalam pembunuhan.\n\nSaat ia menahbiskannya, ia tidak memurnikannya; ia membangunkan hantu yang melekat padanya. Selama ritual, pisau itu tidak membelah udara; ia berbalik di tangannya dan menikamnya. Para roh tertawa saat operator kehabisan darah, dibunuh oleh alat yang seharusnya melindunginya, membuktikan bahwa benda membawa ingatan yang tak mudah dihapus sihir."
+          }
+        },
+        {
+          "id": "what_if_2_wand_breaks",
+          "type": "what_if",
+          "title": {
+            "en": "The Snapped Authority",
+            "id": "Otoritas yang Patah"
+          },
+          "content": {
+            "en": "He cut the hazel wand, but he didn't do it with a single stroke. He hacked at it. The wood was stressed and cracked internally.\n\nIn the middle of commanding a powerful demon, the wand snapped in half. The demon stopped obeying instantly. 'Your will is broken,' it growled. Without the symbol of authority, the magician was just a naked ape in a circle. The demon stepped over the line and dragged him into the underworld to serve as *its* wand forever.",
+            "id": "Ia memotong tongkat hazel itu, tapi tidak dengan satu tebasan. Ia mencincangnya. Kayunya stres dan retak di dalam.\n\nDi tengah memerintah iblis kuat, tongkat itu patah jadi dua. Iblis itu langsung berhenti patuh. 'Kehendakmu patah,' geramnya. Tanpa simbol otoritas, penyihir itu hanyalah kera telanjang dalam lingkaran. Iblis melangkah melewati batas dan menyeretnya ke dunia bawah untuk melayani sebagai tongkat *miliknya* selamanya."
+          }
+        },
+        {
+          "id": "what_if_2_wrong_ink",
+          "type": "what_if",
+          "title": {
+            "en": "The Blood Ink",
+            "id": "Tinta Darah"
+          },
+          "content": {
+            "en": "Instead of bat's blood, he used his own blood to make the ink, thinking it would make the bond stronger. It did—too strong.\n\nThe pact he wrote wasn't just a contract; it was a life-link. The spirit didn't just perform the task; it began to drain his vitality through the signature. Every time the spirit used power, the magician grew weaker. He withered away in weeks, a victim of his own vital essence being used as fuel for a spell he couldn't cancel.",
+            "id": "Alih-alih darah kelelawar, ia menggunakan darahnya sendiri untuk membuat tinta, berpikir itu akan memperkuat ikatan. Benar—terlalu kuat.\n\nPakta yang ia tulis bukan sekadar kontrak; itu tautan nyawa. Roh itu tidak hanya melakukan tugas; ia mulai menyerap vitalitasnya melalui tanda tangan itu. Setiap kali roh menggunakan kekuatan, penyihir makin lemah. Ia layu dalam hitungan minggu, korban dari esensi vitalnya sendiri yang digunakan sebagai bahan bakar mantra yang tak bisa ia batalkan."
+          }
+        },
+        {
+          "id": "what_if_2_stolen_tools",
+          "type": "what_if",
+          "title": {
+            "en": "The Thief's Tools",
+            "id": "Alat Pencuri"
+          },
+          "content": {
+            "en": "An apprentice stole his master's consecrated tools, thinking the power lay in the objects themselves. He tried to summon a spirit.\n\nThe tools recognized they were in the wrong hands. The sword became heavy as lead; the wand burned his fingers. The spirit appeared but ignored the apprentice, bowing instead to the empty chair where the Master should have been. Realizing the boy was an imposter, the spirit amused itself by turning the stolen tools into snakes, which promptly bit the thief.",
+            "id": "Seorang murid mencuri alat-alat gurunya yang telah ditahbiskan, mengira kekuatan terletak pada benda itu sendiri. Ia mencoba memanggil roh.\n\nAlat-alat itu mengenali bahwa mereka ada di tangan yang salah. Pedang menjadi seberat timah; tongkat membakar jari-jarinya. Roh muncul tapi mengabaikan si murid, malah membungkuk pada kursi kosong tempat sang Guru seharusnya berada. Menyadari bocah itu penipu, roh itu menghibur diri dengan mengubah alat curian itu menjadi ular, yang langsung menggigit si pencuri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Holy Pentacles",
+        "id": "Pentakel Suci"
+      },
+      "preview": {
+        "en": "Medals of power inscribed with holy names. Without them, the spirits will tear the operator apart.",
+        "id": "Medali kekuatan bertuliskan nama-nama suci. Tanpa mereka, roh-roh akan mencabik-cabik operator."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "Medals of the Planets",
+            "id": "Medali Planet"
+          },
+          "content": {
+            "en": "The Pentacles are the ultimate shield and weapon. They must be constructed on the day and hour of the planet they represent. For example, a Pentacle of Saturn (for summoning souls from Hades) must be made on Saturday; a Pentacle of the Sun (for glory and invisibility) on Sunday.\n\nThe materials vary: gold for the Sun, silver for the Moon, iron for Mars, and virgin parchment for general purposes. The operator must draw the sacred geometric figures—hexagrams, octagons, and crosses—with absolute precision using the consecrated pen and ink. Inside these shapes, he writes the Ineffable Names of God (like ADONAI, EL SHADDAI, TETRAGRAMMATON) and verses from the Psalms appropriate to the goal.\n\nOnce drawn, the Pentacle must be fumigated with specific perfumes (sulphur for Saturn, frankincense for the Sun) and wrapped in silk. When the spirit appears, the operator must uncover the Pentacle and show it, declaring: 'Behold the Pentacle of Solomon which I have brought into thy presence!' At this sight, the spirits will tremble and obey, for they cannot bear the brilliance of the Holy Names. Without a Pentacle, the magician is defenseless against the chaotic forces he invokes.",
+            "id": "Pentakel adalah perisai dan senjata utama. Mereka harus dibuat pada hari dan jam planet yang mereka wakili. Contohnya, Pentakel Saturnus (untuk memanggil jiwa dari Hades) harus dibuat hari Sabtu; Pentakel Matahari (untuk kemuliaan dan invisibilitas) hari Minggu.\n\nBahannya bervariasi: emas untuk Matahari, perak untuk Bulan, besi untuk Mars, dan perkamen perawan untuk tujuan umum. Operator harus menggambar figur geometri suci—heksagram, oktagon, dan salib—dengan presisi mutlak menggunakan pena dan tinta yang ditahbiskan. Di dalam bentuk-bentuk ini, ia menulis Nama-Nama Tuhan yang Tak Terkatakan (seperti ADONAI, EL SHADDAI, TETRAGRAMMATON) dan ayat-ayat Mazmur yang sesuai dengan tujuan.\n\nSetelah digambar, Pentakel harus diasapi dengan parfum tertentu (belerang untuk Saturnus, kemenyan untuk Matahari) dan dibungkus sutra. Saat roh muncul, operator harus membuka Pentakel dan menunjukkannya, menyatakan: 'Lihatlah Pentakel Salomo yang telah kubawa ke hadapanmu!' Melihat ini, roh-roh akan gemetar dan patuh, karena mereka tak sanggup menanggung kecemerlangan Nama-Nama Suci. Tanpa Pentakel, penyihir tak berdaya melawan kekuatan kacau yang ia panggil."
+          }
+        },
+        {
+          "id": "what_if_3_typo",
+          "type": "what_if",
+          "title": {
+            "en": "The Fatal Typo",
+            "id": "Salah Ketik Fatal"
+          },
+          "content": {
+            "en": "Hebrew letters are tricky. The operator confused the letter *He* with *Cheth* while writing the name of God. Instead of 'Living God', he wrote something meaningless.\n\nWhen he showed the Pentacle to the demon, the spirit didn't tremble. It squinted. Then it laughed. 'Your God has no name here,' it sneered. The protective barrier of the Pentacle dissolved instantly. The operator realized too late that in magic, spelling isn't just grammar; it's architecture. The demon stepped through the gap and claimed his soul.",
+            "id": "Huruf Ibrani itu rumit. Operator menukar huruf *He* dengan *Cheth* saat menulis nama Tuhan. Alih-alih 'Tuhan yang Hidup', ia menulis sesuatu yang tak bermakna.\n\nSaat ia menunjukkan Pentakel pada iblis, roh itu tidak gemetar. Ia menyipitkan mata. Lalu ia tertawa. 'Tuhanmu tak punya nama di sini,' cibirnya. Penghalang pelindung Pentakel larut seketika. Operator terlambat menyadari bahwa dalam sihir, ejaan bukan sekadar tata bahasa; itu arsitektur. Iblis melangkah melewati celah dan mengklaim jiwanya."
+          }
+        },
+        {
+          "id": "what_if_3_wrong_metal",
+          "type": "what_if",
+          "title": {
+            "en": "Lead for Gold",
+            "id": "Timah Ganti Emas"
+          },
+          "content": {
+            "en": "He wanted to summon a Solar spirit for wealth but couldn't afford a gold disc. He used lead painted yellow instead. 'Symbolism is enough,' he thought.\n\nLead belongs to Saturn, the planet of death and restriction. Instead of a glorious angel of the Sun, he summoned a grim reaper of Saturn. The spirit looked at the yellow paint with disgust. 'You call for Light with the metal of Darkness?' it asked. It cursed the operator with extreme poverty and depression, the exact opposite of what he sought, proving that material resonance cannot be faked.",
+            "id": "Ia ingin memanggil roh Matahari untuk kekayaan tapi tak mampu beli piringan emas. Ia menggunakan timah dicat kuning. 'Simbolisme saja cukup,' pikirnya.\n\nTimah milik Saturnus, planet kematian dan pembatasan. Alih-alih malaikat Matahari yang mulia, ia memanggil malaikat maut Saturnus. Roh itu menatap cat kuning dengan jijik. 'Kau memanggil Cahaya dengan logam Kegelapan?' tanyanya. Ia mengutuk operator dengan kemiskinan ekstrem dan depresi, kebalikan persis dari yang ia cari, membuktikan bahwa resonansi material tak bisa dipalsukan."
+          }
+        },
+        {
+          "id": "what_if_3_pentacle_drops",
+          "type": "what_if",
+          "title": {
+            "en": "The Dropped Shield",
+            "id": "Perisai Jatuh"
+          },
+          "content": {
+            "en": "The ritual was intense. The wind howled; the room shook. In his terror, the operator's sweaty hands slipped. He dropped the Pentacle outside the circle.\n\nIt was his only badge of authority. The moment it touched the floor, the spirits swarmed. They couldn't enter the circle, but they snatched the Pentacle and melted it. Now trapped inside his circle without a weapon to dismiss them, the magician had to wait until dawn, shivering as the spirits whispered threats from inches away, promising to be there the moment he stepped out.",
+            "id": "Ritualnya intens. Angin menderu; ruangan berguncang. Dalam ketakutannya, tangan operator yang berkeringat tergelincir. Ia menjatuhkan Pentakel ke luar lingkaran.\n\nItu satu-satunya lencana otoritasnya. Saat menyentuh lantai, roh-roh mengerubung. Mereka tak bisa masuk lingkaran, tapi mereka menyambar Pentakel dan melelehkannya. Kini terperangkap dalam lingkarannya tanpa senjata untuk mengusir mereka, penyihir harus menunggu sampai fajar, menggigil saat roh-roh membisikkan ancaman dari jarak beberapa inci, berjanji akan ada di sana saat ia melangkah keluar."
+          }
+        },
+        {
+          "id": "what_if_3_reverse_pentacle",
+          "type": "what_if",
+          "title": {
+            "en": "The Inverted Star",
+            "id": "Bintang Terbalik"
+          },
+          "content": {
+            "en": "He drew the pentagram inverted by mistake, point down instead of up. In classical magic, point up represents Spirit ruling Matter; point down represents Matter ruling Spirit.\n\nThe spirit appeared, but instead of serving, it commanded. The hierarchy was reversed. The operator felt an overwhelming urge to kneel and obey the demon. He became a slave to his own summon, forced to perform tasks for the entity in the physical world, turning the master-servant relationship on its head.",
+            "id": "Ia menggambar pentagram terbalik karena kesalahan, ujung ke bawah bukan ke atas. Dalam sihir klasik, ujung ke atas mewakili Roh menguasai Materi; ujung ke bawah mewakili Materi menguasai Roh.\n\nRoh muncul, tapi alih-alih melayani, ia memerintah. Hirarki terbalik. Operator merasakan dorongan luar biasa untuk berlutut dan mematuhi iblis. Ia menjadi budak panggilannya sendiri, dipaksa melakukan tugas untuk entitas itu di dunia fisik, membalikkan hubungan tuan-pelayan sepenuhnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Magic Circle",
+        "id": "Lingkaran Sihir"
+      },
+      "preview": {
+        "en": "A fortress of chalk and charcoal. Step outside, and you die. Stay inside, and you are God.",
+        "id": "Benteng dari kapur dan arang. Melangkah keluar, kau mati. Tinggal di dalam, kau adalah Tuhan."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Drawing the Boundary",
+            "id": "Menggambar Batas"
+          },
+          "content": {
+            "en": "The Circle is the only safe place during the operation. It must be drawn with the consecrated Knife of Art or with charcoal and chalk. The standard circle is nine feet in diameter. Inside this, a second circle is drawn, one foot smaller. Within this one-foot strip, the operator writes the mighty Names of God (EHEIEH, TETRAGRAMMATON, ELOHIM) and draws crosses.\n\nAt the four cardinal points (North, South, East, West), Pentagrams are drawn outside the circle to act as watchtowers. In the center, the operator places a burning brazier with perfumes. He must enter the circle with humility and caution, and once the ritual begins, he *must not* leave it for any reason until the spirits are licensed to depart.\n\nThe Circle serves two purposes: it protects the magician from being attacked by evil spirits, and it concentrates his power, acting as a lens for his will. To the spirits, the line of the circle appears as a wall of infinite fire reaching to heaven. As long as the operator stands within it, he speaks with the authority of the Creator. If he breaks the circle, he becomes just a man—and a very vulnerable one.",
+            "id": "Lingkaran adalah satu-satunya tempat aman selama operasi. Itu harus digambar dengan Pisau Seni yang ditahbiskan atau dengan arang dan kapur. Lingkaran standar berdiameter sembilan kaki. Di dalamnya, lingkaran kedua digambar, satu kaki lebih kecil. Di dalam jalur satu kaki ini, operator menulis Nama-Nama Tuhan yang perkasa (EHEIEH, TETRAGRAMMATON, ELOHIM) dan menggambar salib.\n\nDi empat titik kardinal (Utara, Selatan, Timur, Barat), Pentagram digambar di luar lingkaran untuk bertindak sebagai menara penjaga. Di tengah, operator menempatkan tungku pembakaran dengan parfum. Ia harus memasuki lingkaran dengan kerendahan hati dan kehati-hatian, dan begitu ritual dimulai, ia *tidak boleh* meninggalkannya dengan alasan apa pun sampai roh-roh diizinkan pergi.\n\nLingkaran memiliki dua tujuan: melindungi penyihir agar tidak diserang roh jahat, dan memusatkan kekuatannya, bertindak sebagai lensa bagi kehendaknya. Bagi roh-roh, garis lingkaran tampak sebagai dinding api tak terbatas yang mencapai surga. Selama operator berdiri di dalamnya, ia berbicara dengan otoritas Sang Pencipta. Jika ia memutus lingkaran, ia menjadi hanya seorang manusia—dan manusia yang sangat rentan."
+          }
+        },
+        {
+          "id": "what_if_4_broken_line",
+          "type": "what_if",
+          "title": {
+            "en": "The Gap",
+            "id": "Celah"
+          },
+          "content": {
+            "en": "The floor was uneven. A small piece of charcoal skipped, leaving a tiny, almost invisible gap in the circle's line. To the human eye, it was perfect. To the spirit, it was an open door.\n\nThe demon didn't attack immediately. It waited until the operator was most confident. Then, it poured through the gap like black smoke. The operator tried to banish it, but the circle was compromised. The protective names were useless because the container was broken. He was found the next morning, dead of fright, with the circle perfectly intact—except for that one millimeter of doom.",
+            "id": "Lantainya tidak rata. Sepotong kecil arang melompat, meninggalkan celah kecil yang hampir tak terlihat di garis lingkaran. Bagi mata manusia, itu sempurna. Bagi roh, itu pintu terbuka.\n\nIblis tidak menyerang segera. Ia menunggu sampai operator paling percaya diri. Lalu, ia mengalir melalui celah itu seperti asap hitam. Operator mencoba mengusirnya, tapi lingkaran sudah jebol. Nama-nama pelindung tak berguna karena wadahnya rusak. Ia ditemukan keesokan paginya, mati ketakutan, dengan lingkaran utuh sempurna—kecuali satu milimeter kiamat itu."
+          }
+        },
+        {
+          "id": "what_if_4_lured_out",
+          "type": "what_if",
+          "title": {
+            "en": "The Voice of a Loved One",
+            "id": "Suara Orang Tercinta"
+          },
+          "content": {
+            "en": "The spirits couldn't enter, so they tried to make him leave. They mimicked the voice of his daughter screaming for help just outside the door. 'Daddy, help me! It burns!'\n\nPanic overrode training. He forgot the ritual. He forgot the danger. He stepped one foot out of the circle to rush to the door. The screaming stopped instantly, replaced by laughter. The spirits seized his exposed leg and dragged him into the shadows. He learned the hard way that inside the circle, nothing is real except the Will; outside, everything is a trap.",
+            "id": "Roh-roh tak bisa masuk, jadi mereka mencoba membuatnya keluar. Mereka meniru suara putrinya menjerit minta tolong tepat di luar pintu. 'Ayah, tolong aku! Panas!'\n\nKepanikan mengalahkan latihan. Ia lupa ritualnya. Ia lupa bahayanya. Ia melangkahkan satu kaki keluar lingkaran untuk lari ke pintu. Teriakan berhenti seketika, digantikan tawa. Roh-roh menyambar kakinya yang terbuka dan menyeretnya ke dalam bayangan. Ia belajar dengan cara keras bahwa di dalam lingkaran, tak ada yang nyata kecuali Kehendak; di luar, semuanya adalah jebakan."
+          }
+        },
+        {
+          "id": "what_if_4_circle_too_small",
+          "type": "what_if",
+          "title": {
+            "en": "Claustrophobia",
+            "id": "Klaustrofobia"
+          },
+          "content": {
+            "en": "His room was small, so he drew a 5-foot circle instead of 9. It felt cramped. The spiritual pressure inside was immense.\n\nAs the ritual progressed, the energy built up too quickly in the small space. The circle didn't break; it overloaded. The operator hallucinated, feeling like the walls were crushing him. He fainted, falling face-first across the line. The barrier shattered, and the spirits feasted on his unconscious mind, leaving him catatonic forever.",
+            "id": "Ruangannya kecil, jadi ia menggambar lingkaran 5 kaki alih-alih 9. Terasa sempit. Tekanan spiritual di dalamnya sangat besar.\n\nSaat ritual berlangsung, energi menumpuk terlalu cepat di ruang kecil itu. Lingkaran tidak pecah; ia kelebihan beban (overload). Operator berhalusinasi, merasa dinding meremukkannya. Ia pingsan, jatuh tertelungkup melintasi garis. Penghalang hancur, dan roh-roh berpesta di pikiran bawah sadarnya, meninggalkannya katatonik selamanya."
+          }
+        },
+        {
+          "id": "what_if_4_rat_enters",
+          "type": "what_if",
+          "title": {
+            "en": "The Uninvited Guest",
+            "id": "Tamu Tak Diundang"
+          },
+          "content": {
+            "en": "A rat scuttled across the floor and ran *into* the circle. A living creature crossing the boundary broke the seal.\n\nThe spirit possessed the rat instantly. The tiny animal grew to monstrous proportions, its eyes burning with hellfire. The operator was trapped inside his own fortress with a demon-rat. The circle that was meant to keep evil out now kept him in with it. The 'safety' of the circle became a cage fight he couldn't win.",
+            "id": "Seekor tikus merayap di lantai dan lari *masuk* ke dalam lingkaran. Makhluk hidup yang melintasi batas memecahkan segel.\n\nRoh merasuki tikus itu seketika. Hewan kecil itu tumbuh ke proporsi mengerikan, matanya menyala dengan api neraka. Operator terperangkap di dalam bentengnya sendiri bersama tikus-iblis. Lingkaran yang dimaksudkan untuk menahan kejahatan di luar kini mengurungnya di dalam bersamanya. 'Keamanan' lingkaran menjadi pertarungan kandang yang tak bisa ia menangkan."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Incantation",
+        "id": "Mantra Pemanggilan"
+      },
+      "preview": {
+        "en": "Words of power spoken to the four winds. The operator commands, threatens, and compels the spirit to appear.",
+        "id": "Kata-kata kuasa diucapkan ke empat penjuru angin. Operator memerintah, mengancam, dan memaksa roh untuk muncul."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The Conjuration",
+            "id": "Konjurasi"
+          },
+          "content": {
+            "en": "Standing in the center of the circle, wand in hand, the Exorcist begins the Conjuration. It is not a request; it is a command. He calls upon the spirit by its name and by the Names of God: 'I conjure thee, O Spirit [Name], by the living God, by the true God, by the holy God, that thou appear before this circle in a fair and human shape, without any deformity or tortuosity.'\n\nIf the spirit does not appear, the operator repeats the call with greater force, invoking stronger names (EL, YAH, AGLA, ADONAI). If it still refuses, the operator moves to the 'Constraint' or 'Curse'. He threatens to burn the spirit's seal and condemn it to the abyss. 'I curse thee into the depths of the Bottomless Pit, into the Lake of Fire and Brimstone!'\n\nThe air may grow cold; strange noises may be heard. The operator must not flinch. He must continue until the spirit manifests visibly outside the circle. Once it appears, he shows the Pentacle to subdue it. Only then can he ask his questions or make his demands. The key is absolute confidence; any hesitation is a crack in the armor.",
+            "id": "Berdiri di tengah lingkaran, tongkat di tangan, Sang Eksorsis memulai Konjurasi. Ini bukan permintaan; ini perintah. Ia memanggil roh dengan namanya dan dengan Nama-Nama Tuhan: 'Aku memanggilmu, O Roh [Nama], demi Tuhan yang hidup, demi Tuhan yang benar, demi Tuhan yang suci, agar kau muncul di depan lingkaran ini dalam wujud manusia yang elok, tanpa cacat atau kebengkokan.'\n\nJika roh tidak muncul, operator mengulangi panggilan dengan kekuatan lebih besar, memanggil nama-nama yang lebih kuat (EL, YAH, AGLA, ADONAI). Jika masih menolak, operator beralih ke 'Paksaan' atau 'Kutukan'. Ia mengancam akan membakar segel roh dan mengutuknya ke jurang maut. 'Aku mengutukmu ke kedalaman Lubang Tak Berdasar, ke Danau Api dan Belerang!'\n\nUdara mungkin menjadi dingin; suara-suara aneh mungkin terdengar. Operator tidak boleh gentar. Ia harus melanjutkannya sampai roh bermanifestasi secara kasat mata di luar lingkaran. Begitu ia muncul, ia menunjukkan Pentakel untuk menundukkannya. Baru setelah itu ia bisa mengajukan pertanyaan atau tuntutannya. Kuncinya adalah kepercayaan diri mutlak; keraguan sedikit pun adalah retakan pada baju zirah."
+          }
+        },
+        {
+          "id": "what_if_5_stutter",
+          "type": "what_if",
+          "title": {
+            "en": "The Stutter",
+            "id": "Gagap"
+          },
+          "content": {
+            "en": "The operator was nervous. When he reached the climax of the curse—'I condemn thee to the abyss!'—he stuttered. 'I c-c-condemn thee...'\n\nThe spirit sensed the fear. It didn't appear as a human; it appeared as a towering shadow. 'You cannot command what you fear,' it boomed. The ritual backfired. Instead of binding the spirit, the stutter bound the operator. He lost his voice forever, cursed to silence because he couldn't speak the Word with power when it mattered most.",
+            "id": "Operator gugup. Saat mencapai klimaks kutukan—'Aku mengutukmu ke jurang maut!'—ia gagap. 'Aku m-m-mengutukmu...'\n\nRoh merasakan ketakutan itu. Ia tidak muncul sebagai manusia; ia muncul sebagai bayangan yang menjulang. 'Kau tak bisa memerintah apa yang kau takuti,' gema suaranya. Ritual menjadi bumerang. Alih-alih mengikat roh, kegagapan itu mengikat operator. Ia kehilangan suaranya selamanya, dikutuk bisu karena ia tak bisa mengucapkan Kata dengan kuasa saat paling dibutuhkan."
+          }
+        },
+        {
+          "id": "what_if_5_wrong_name",
+          "type": "what_if",
+          "title": {
+            "en": "Wrong Number",
+            "id": "Salah Sambung"
+          },
+          "content": {
+            "en": "He meant to summon *Bael* (a king of demons), but he mispronounced it as *Baal-Zebub* (Lord of the Flies). The difference in power scale was immense.\n\nThe circle was prepared for a lesser spirit, not a Prince of Hell. The barriers shattered instantly. Flies filled the room, choking the operator. He didn't just fail; he inadvertently invited a catastrophe that swarmed the entire city with pestilence, all because of a slip of the tongue.",
+            "id": "Ia bermaksud memanggil *Bael* (raja iblis), tapi ia salah melafalkannya sebagai *Baal-Zebub* (Penguasa Lalat). Perbedaan skala kekuatannya sangat besar.\n\nLingkaran disiapkan untuk roh yang lebih rendah, bukan Pangeran Neraka. Penghalang hancur seketika. Lalat memenuhi ruangan, mencekik operator. Ia tidak hanya gagal; ia secara tak sengaja mengundang bencana yang mengerubungi seluruh kota dengan wabah penyakit, semua karena kepeleset lidah."
+          }
+        },
+        {
+          "id": "what_if_5_spirit_negotiates",
+          "type": "what_if",
+          "title": {
+            "en": "The Counter-Offer",
+            "id": "Tawaran Balik"
+          },
+          "content": {
+            "en": "The spirit appeared, but it didn't look scared of the curse. It looked bored. 'You threaten me with fire?' it yawned. 'I live in fire. Try something else.'\n\nThe operator was stunned. The book didn't say what to do if the threats failed. The spirit smiled. 'I will do your task,' it offered, 'but I want your firstborn.' Desperate and confused, the operator agreed without thinking. He got his wish, but the price was paid years later in a nursery tragedy, proving that negotiating with demons without a script is a losing game.",
+            "id": "Roh muncul, tapi tak tampak takut pada kutukan. Ia tampak bosan. 'Kau mengancamku dengan api?' ia menguap. 'Aku tinggal di api. Coba yang lain.'\n\nOperator tertegun. Buku tidak mengatakan apa yang harus dilakukan jika ancaman gagal. Roh tersenyum. 'Aku akan lakukan tugasmu,' tawarnya, 'tapi aku minta anak pertamamu.' Putus asa dan bingung, operator setuju tanpa berpikir. Ia mendapat keinginannya, tapi harganya dibayar bertahun-tahun kemudian dalam tragedi kamar bayi, membuktikan bahwa bernegosiasi dengan iblis tanpa naskah adalah permainan yang kalah."
+          }
+        },
+        {
+          "id": "what_if_5_silent_summoning",
+          "type": "what_if",
+          "title": {
+            "en": "The Mental Call",
+            "id": "Panggilan Mental"
+          },
+          "content": {
+            "en": "The operator had a sore throat, so he tried to perform the conjuration mentally, projecting his will. 'Thoughts are things,' he reasoned.\n\nBut the spirits respond to *vibration* (sound). The mental call didn't reach the intended spirit; it echoed in his own subconscious. He summoned his own inner demons instead. His darkest fears and traumas manifested physically in the room. He spent the night fighting monsters made of his own guilt and regret, a therapy session from hell.",
+            "id": "Operator sedang sakit tenggorokan, jadi ia mencoba melakukan konjurasi secara mental, memproyeksikan kehendaknya. 'Pikiran adalah benda,' nalarnya.\n\nTapi roh merespons *getaran* (suara). Panggilan mental tidak mencapai roh yang dituju; itu bergema di alam bawah sadarnya sendiri. Ia malah memanggil iblis batinnya sendiri. Ketakutan dan trauma tergelapnya bermanifestasi secara fisik di ruangan. Ia menghabiskan malam melawan monster yang terbuat dari rasa bersalah dan penyesalannya sendiri, sesi terapi dari neraka."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Welcome and The License",
+        "id": "Sambutan dan Izin Pergi"
+      },
+      "preview": {
+        "en": "When the spirit arrives, welcome it as a master welcomes a servant. Give the command, then send it home. Never leave the circle until the air is clear.",
+        "id": "Saat roh tiba, sambutlah seperti tuan menyambut pelayan. Berikan perintah, lalu suruh ia pulang. Jangan pernah tinggalkan lingkaran sampai udara bersih."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Dismissal",
+            "id": "Pembubaran"
+          },
+          "content": {
+            "en": "When the spirit appears in a visible form, the operator must uncover the Pentacle and say: 'Welcome, O Spirit [Name], most noble king! I have called thee through Him who created heaven and earth... I command thee to fulfill my desire.' He then states his request clearly (e.g., finding treasure, gaining love, knowing secrets). The spirit may try to trick the operator with riddles or vague promises; the operator must demand clear, literal answers.\n\nOnce the pact is made or the answer given, the operator *must* dismiss the spirit. He cannot just walk away. He says: 'Because thou hast answered my demands, I license thee to depart to thy proper place, without causing harm or danger to man or beast. Depart, I say, and be thou ready to come again when called!'\n\nThe spirit should vanish. But the operator must not leave the circle immediately. He must wait until the atmosphere returns to normal and the smell of sulfur or incense fades. Leaving too soon is like stepping out of a shark cage before the shark has swum away. Finally, he performs a prayer of thanks to God, burns the parchment with the spirit's seal, and erases the circle, closing the door he opened.",
+            "id": "Saat roh muncul dalam wujud kasat mata, operator harus membuka Pentakel dan berkata: 'Selamat datang, O Roh [Nama], raja paling mulia! Aku telah memanggilmu melalui Dia yang menciptakan langit dan bumi... Aku memerintahkanmu untuk memenuhi keinginanku.' Ia lalu menyatakan permintaannya dengan jelas (misal: menemukan harta, mendapatkan cinta, mengetahui rahasia). Roh mungkin mencoba menipu operator dengan teka-teki atau janji samar; operator harus menuntut jawaban yang jelas dan harfiah.\n\nBegitu kesepakatan dibuat atau jawaban diberikan, operator *harus* membubarkan roh itu. Ia tidak boleh pergi begitu saja. Ia berkata: 'Karena kau telah menjawab tuntutanku, aku mengizinkanmu untuk pergi ke tempatmu yang semestinya, tanpa menyebabkan bahaya bagi manusia atau binatang. Pergilah, kataku, dan bersiaplah untuk datang lagi saat dipanggil!'\n\nRoh harusnya lenyap. Tapi operator tidak boleh meninggalkan lingkaran segera. Ia harus menunggu sampai atmosfer kembali normal dan bau belerang atau dupa memudar. Keluar terlalu cepat ibarat keluar dari kandang hiu sebelum hiunya berenang pergi. Akhirnya, ia melakukan doa syukur pada Tuhan, membakar perkamen dengan segel roh, dan menghapus lingkaran, menutup pintu yang ia buka."
+          }
+        },
+        {
+          "id": "what_if_6_rude_welcome",
+          "type": "what_if",
+          "title": {
+            "en": "The Insult",
+            "id": "Penghinaan"
+          },
+          "content": {
+            "en": "The operator felt powerful, so he skipped the polite welcome. 'Get to work, slave!' he shouted at the King of Spirits.\n\nDemons have pride. The spirit took offense. It followed the letter of the command but twisted the intent. Ordered to 'bring gold', it teleported molten gold directly into the operator's throat. He died rich but screaming, a lesson that even when commanding demons, manners matter.",
+            "id": "Operator merasa berkuasa, jadi ia melewatkan sambutan sopan. 'Kerja sana, budak!' teriaknya pada Raja Roh.\n\nIblis punya harga diri. Roh itu tersinggung. Ia mematuhi perintah secara harfiah tapi memelintir niatnya. Diperintah untuk 'bawa emas', ia menteleportasi emas cair langsung ke tenggorokan operator. Ia mati kaya tapi menjerit, pelajaran bahwa bahkan saat memerintah iblis, sopan santun itu penting."
+          }
+        },
+        {
+          "id": "what_if_6_forgot_dismissal",
+          "type": "what_if",
+          "title": {
+            "en": "The Open Door",
+            "id": "Pintu Terbuka"
+          },
+          "content": {
+            "en": "He got what he wanted and was so excited he simply stepped out of the circle to celebrate. He didn't say the License to Depart.\n\nThe spirit hadn't left. It was still there, invisible, waiting for the barrier to drop. As soon as his foot touched the floor outside, the spirit latched onto him. It didn't kill him; it followed him home. It plagued his family with poltergeist activity, sickness, and nightmares for generations, all because he forgot to say 'Goodbye'.",
+            "id": "Ia mendapatkan apa yang ia mau dan begitu gembira hingga ia melangkah keluar lingkaran begitu saja untuk merayakan. Ia tidak mengucapkan Izin Pergi.\n\nRoh itu belum pergi. Ia masih di sana, tak terlihat, menunggu penghalang runtuh. Begitu kakinya menyentuh lantai di luar, roh itu menempel padanya. Ia tidak membunuhnya; ia mengikutinya pulang. Ia menyiksa keluarganya dengan aktivitas poltergeist, penyakit, dan mimpi buruk selama beberapa generasi, semua karena ia lupa bilang 'Selamat Tinggal'."
+          }
+        },
+        {
+          "id": "what_if_6_circle_erased_early",
+          "type": "what_if",
+          "title": {
+            "en": "The Broken Seal",
+            "id": "Segel Rusak"
+          },
+          "content": {
+            "en": "He dismissed the spirit, but didn't wait for the feeling of dread to pass. He grabbed a mop and erased the chalk circle immediately.\n\nThe spirit was fading but not gone. When the line broke, the fading entity surged back into reality, anchored by the broken ritual. It couldn't manifest fully, so it became a residue in the room. The room became a 'dead zone' where nothing could live—plants died, pets went mad, and anyone who slept there woke up with scratches on their bodies.",
+            "id": "Ia membubarkan roh, tapi tidak menunggu perasaan takut itu berlalu. Ia mengambil pel dan menghapus lingkaran kapur segera.\n\nRoh itu sedang memudar tapi belum hilang. Saat garis putus, entitas yang memudar itu melonjak kembali ke realitas, tertambat oleh ritual yang rusak. Ia tak bisa bermanifestasi penuh, jadi ia menjadi residu di ruangan itu. Ruangan itu menjadi 'zona mati' di mana tak ada yang bisa hidup—tanaman mati, hewan peliharaan gila, dan siapa pun yang tidur di sana bangun dengan cakaran di tubuh mereka."
+          }
+        },
+        {
+          "id": "what_if_6_spirit_refuses",
+          "type": "what_if",
+          "title": {
+            "en": " The Squatter",
+            "id": "Penghuni Liar"
+          },
+          "content": {
+            "en": "The operator said, 'Depart!' The spirit said, 'No.'\n\nIt sat down. It refused to move. The operator read the curses. The spirit laughed. It turned out the operator had used a name of God he didn't truly believe in. The spirit sensed the lack of faith and called his bluff. The operator was trapped in the circle for days, starving, while the demon sat outside eating his snacks and watching him wither, a battle of wills that the mortal was destined to lose.",
+            "id": "Operator berkata, 'Pergilah!' Roh berkata, 'Tidak.'\n\nIa duduk. Ia menolak bergerak. Operator membaca kutukan. Roh tertawa. Ternyata operator menggunakan nama Tuhan yang tidak benar-benar ia imani. Roh merasakan kurangnya iman itu dan menantang gertakannya. Operator terperangkap dalam lingkaran selama berhari-hari, kelaparan, sementara iblis duduk di luar memakan camilannya dan menontonnya layu, pertarungan kehendak yang ditakdirkan kalah bagi si manusia fana."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Experiments",
+        "id": "Eksperimen"
+      },
+      "preview": {
+        "en": "Three great works: finding hidden gold, binding a lover, and walking unseen. The ultimate test of the mage's skill.",
+        "id": "Tiga karya besar: menemukan emas tersembunyi, mengikat kekasih, dan berjalan tak terlihat. Ujian utama kemampuan penyihir."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "Love, Gold, and Invisibility",
+            "id": "Cinta, Emas, dan Invisibilitas"
+          },
+          "content": {
+            "en": "The book details specific rituals for specific desires. For **Treasure**, the operator doesn't just ask for money; he summons spirits to locate hidden hoards buried by ancient kings. He must use a special pentacle and recite the Psalms while holding a magnetic compass. The spirits may appear as dragons or excessive rain to scare him away, but he must stand firm.\n\nFor **Love**, the ritual is controversial. It involves creating a wax image of the beloved, piercing it with a needle, and burying it under their threshold. Or, more simply, invoking spirits of Venus (like Hagiel) to influence the target's dreams. The Key warns that forced love often turns to obsession or hatred.\n\nFor **Invisibility**, the ritual requires the 'Ring of Invisibility' or a talisman made of yellow wax containing the eye of a black cat. The operator places it on the crown of his head and recites the spell: 'O Thou who seest all things... make me invisible to the eyes of all men.' If successful, he can walk among crowds unseen, stealing secrets or goods. But the text warns: if he sins while invisible, the cloak will fail at the worst possible moment, exposing him to the world.",
+            "id": "Buku ini merinci ritual khusus untuk hasrat tertentu. Untuk **Harta**, operator tidak hanya minta uang; ia memanggil roh untuk melacak timbunan tersembunyi yang dikubur raja-raja kuno. Ia harus menggunakan pentakel khusus dan mendaraskan Mazmur sambil memegang kompas magnetik. Roh mungkin muncul sebagai naga atau hujan lebat untuk menakutinya, tapi ia harus teguh.\n\nUntuk **Cinta**, ritualnya kontroversial. Melibatkan pembuatan patung lilin orang yang dicintai, menusuknya dengan jarum, dan menguburnya di bawah ambang pintu mereka. Atau, lebih sederhana, memanggil roh Venus (seperti Hagiel) untuk memengaruhi mimpi target. Kunci memperingatkan bahwa cinta yang dipaksakan sering berubah jadi obsesi atau kebencian.\n\nUntuk **Invisibilitas**, ritual membutuhkan 'Cincin Invisibilitas' atau jimat dari lilin kuning berisi mata kucing hitam. Operator meletakkannya di mahkota kepalanya dan mendaraskan mantra: 'O Engkau yang melihat segalanya... buatlah aku tak terlihat di mata semua orang.' Jika berhasil, ia bisa berjalan di keramaian tanpa terlihat, mencuri rahasia atau barang. Tapi teks memperingatkan: jika ia berdosa saat tak terlihat, jubah itu akan gagal di saat terburuk, mengeksposnya pada dunia."
+          }
+        },
+        {
+          "id": "what_if_7_love_zombie",
+          "type": "what_if",
+          "title": {
+            "en": "The Hollow Lover",
+            "id": "Kekasih Kosong"
+          },
+          "content": {
+            "en": "The love spell worked too well. The target fell madly in love with the operator. But it wasn't real love; it was slavery.\n\nShe lost all personality, hobbies, and free will. She just stared at him with empty, adoring eyes, agreeing with everything he said, following him like a dog. The operator realized he hadn't won a partner; he had erased a person. Living with this hollow shell drove him mad with guilt, but the spell had no 'off' switch. He was loved to death by a beautiful zombie.",
+            "id": "Mantra cinta bekerja terlalu baik. Target jatuh cinta gila-gilaan pada operator. Tapi itu bukan cinta sejati; itu perbudakan.\n\nIa kehilangan semua kepribadian, hobi, dan kehendak bebas. Ia hanya menatapnya dengan mata kosong memuja, menyetujui semua yang dikatakannya, mengikutinya seperti anjing. Operator sadar ia tidak memenangkan pasangan; ia telah menghapus seseorang. Hidup dengan cangkang kosong ini membuatnya gila karena rasa bersalah, tapi mantra itu tak punya tombol 'matikan'. Ia dicintai sampai mati oleh zombie cantik."
+          }
+        },
+        {
+          "id": "what_if_7_invisible_forever",
+          "type": "what_if",
+          "title": {
+            "en": "The Ghost Walk",
+            "id": "Jalan Hantu"
+          },
+          "content": {
+            "en": "He put the talisman on his head and vanished. He stole money, spied on enemies, and enjoyed his power. Then he took the talisman off.\n\nHe didn't reappear. He shouted, but no one heard. He touched people, but his hand passed through them. The ritual had shifted his phase of reality permanently. He was now a ghost while still alive, doomed to wander the world seeing everything but interacting with nothing, screaming silently in a crowded room forever.",
+            "id": "Ia menaruh jimat di kepalanya dan menghilang. Ia mencuri uang, memata-matai musuh, dan menikmati kekuasaannya. Lalu ia melepas jimat itu.\n\nIa tidak muncul kembali. Ia berteriak, tapi tak ada yang dengar. Ia menyentuh orang, tapi tangannya menembus mereka. Ritual itu telah menggeser fase realitasnya secara permanen. Ia kini hantu saat masih hidup, dikutuk mengembara dunia melihat segalanya tapi tak berinteraksi dengan apa pun, menjerit tanpa suara di ruangan penuh orang selamanya."
+          }
+        },
+        {
+          "id": "what_if_7_cursed_gold",
+          "type": "what_if",
+          "title": {
+            "en": "Fool's Gold",
+            "id": "Emas Bodoh"
+          },
+          "content": {
+            "en": "The spirits led him to the treasure. He dug up a chest full of gold coins. He was rich! He spent it lavishly.\n\nBut the gold was fairy-gold (glamour). At sunrise the next day, the coins in the merchants' vaults turned back into dry leaves and rocks. The operator was arrested for fraud. The spirits laughed from the shadows, having played the classic prank on human greed. He rotted in prison, insisting magic was real to cellmates who just thought he was crazy.",
+            "id": "Roh-roh menuntunnya ke harta karun. Ia menggali peti penuh koin emas. Ia kaya! Ia membelanjakannya dengan boros.\n\nTapi emas itu adalah emas peri (glamor). Saat matahari terbit keesokan harinya, koin-koin di brankas pedagang berubah kembali menjadi daun kering dan batu. Operator ditangkap karena penipuan. Roh-roh tertawa dari bayangan, telah memainkan lelucon klasik pada keserakahan manusia. Ia membusuk di penjara, bersikeras sihir itu nyata pada teman sel yang hanya mengira ia gila."
+          }
+        },
+        {
+          "id": "what_if_7_cat_eye",
+          "type": "what_if",
+          "title": {
+            "en": "The Cat's Revenge",
+            "id": "Pembalasan Kucing"
+          },
+          "content": {
+            "en": "To make the invisibility talisman, he killed a black cat. But cats are guardians of the underworld. The spirit of the cat didn't fade; it grew.\n\nWhen he turned invisible, he wasn't alone in the void. A giant, spectral panther hunted him in the invisible realm. He couldn't return to the visible world because the beast was blocking the exit. He was hunted down and torn apart by the vengeful spirit of the animal he sacrificed, becoming just another mouse in the cosmic game.",
+            "id": "Untuk membuat jimat invisibilitas, ia membunuh kucing hitam. Tapi kucing adalah penjaga dunia bawah. Roh kucing itu tidak pudar; ia membesar.\n\nSaat ia menjadi tak terlihat, ia tidak sendirian di kehampaan. Seekor macan kumbang hantu raksasa memburunya di alam tak terlihat. Ia tak bisa kembali ke dunia kasat mata karena binatang itu memblokir jalan keluar. Ia diburu dan dicabik-cabik oleh roh pendendam hewan yang ia korbankan, menjadi sekadar tikus lain dalam permainan kosmik."
+          }
+        }
+      ]
+    }
+  ]
+}

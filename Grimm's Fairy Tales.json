@@ -1,0 +1,520 @@
+{
+  "book_id": "grimms_fairy_tales",
+  "title": {
+    "en": "Grimm's Fairy Tales",
+    "id": "Dongeng Grimm"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Hansel and Gretel",
+        "id": "Hansel dan Gretel"
+      },
+      "preview": {
+        "en": "Abandoned in the woods by their starving parents, two siblings find a house made of candy. But inside, a witch prepares her oven.",
+        "id": "Dibuang ke hutan oleh orang tua yang kelaparan, dua bersaudara menemukan rumah yang terbuat dari permen. Namun di dalamnya, seorang penyihir menyiapkan ovennya."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Breadcrumb Trail",
+            "id": "Jejak Remah Roti"
+          },
+          "content": {
+            "en": "A great famine struck the land. A woodcutter and his cruel wife could no longer feed their two children, Hansel and Gretel. The stepmother convinced the weak-willed father to lead the children deep into the forest and leave them there to die. Hansel, overhearing this, dropped white pebbles the first time to find their way back. But the second time, he only had breadcrumbs, which the birds ate. Lost and starving, they followed a beautiful white bird to a clearing.\n\nThere stood a house made of bread, roofed with cake, and windows of clear sugar. As they ate the house, an old woman emerged. She seemed kind, offering food and beds, but she was actually a wicked witch who built the house to lure children. She locked Hansel in a cage to fatten him up for a feast, and forced Gretel to be her slave.\n\nEvery day, the nearly blind witch checked Hansel's finger to see if he was fat enough, but Hansel tricked her by holding out a chicken bone. Finally, the impatient witch decided to cook him anyway. She ordered Gretel to climb into the oven to check the heat. Gretel, sensing the trap, played dumb: 'I don't know how to get in.' When the witch demonstrated, Gretel shoved her in and slammed the iron door. The witch burned to death miserably. Gretel freed Hansel, they filled their pockets with the witch's pearls and jewels, and found their way home. Their stepmother had died, and they lived happily with their repentant father.",
+            "id": "Kelaparan hebat melanda negeri. Seorang penebang kayu dan istrinya yang kejam tak lagi sanggup memberi makan kedua anak mereka, Hansel dan Gretel. Ibu tiri itu meyakinkan sang ayah yang lemah untuk membawa anak-anak jauh ke dalam hutan dan meninggalkan mereka di sana untuk mati. Hansel, yang menguping hal ini, menjatuhkan kerikil putih saat pertama kali agar bisa menemukan jalan pulang. Tapi kali kedua, dia hanya punya remah roti, yang kemudian dimakan burung. Tersesat dan kelaparan, mereka mengikuti seekor burung putih cantik ke sebuah tanah lapang.\n\nDi sana berdiri sebuah rumah yang terbuat dari roti, beratapkan kue, dan berjendela gula bening. Saat mereka memakan rumah itu, seorang wanita tua keluar. Dia tampak baik, menawarkan makanan dan tempat tidur, tapi sebenarnya dia adalah penyihir jahat yang membangun rumah itu untuk memancing anak-anak. Dia mengurung Hansel di kandang untuk digemukkan sebagai santapan, dan memaksa Gretel menjadi budaknya.\n\nSetiap hari, penyihir yang hampir buta itu memeriksa jari Hansel untuk melihat apakah dia sudah cukup gemuk, tapi Hansel menipunya dengan menyodorkan tulang ayam. Akhirnya, penyihir yang tidak sabar itu memutuskan untuk tetap memasaknya. Dia menyuruh Gretel masuk ke oven untuk memeriksa panasnya. Gretel, merasakan jebakan itu, pura-pura bodoh: 'Aku tidak tahu cara masuknya.' Saat penyihir itu mencontohkan, Gretel mendorongnya masuk dan membanting pintu besi. Penyihir itu terbakar mati dengan mengenaskan. Gretel membebaskan Hansel, mereka mengisi saku dengan mutiara dan permata penyihir, lalu menemukan jalan pulang. Ibu tiri mereka telah meninggal, dan mereka hidup bahagia bersama ayah mereka yang bertobat."
+          }
+        },
+        {
+          "id": "what_if_1_innocent_grandma",
+          "type": "what_if",
+          "title": {
+            "en": "The Hallucination",
+            "id": "Halusinasi"
+          },
+          "content": {
+            "en": "There was no witch. There was no magic house. Starving and delirious from eating poisonous berries in the forest, the children stumbled upon a normal cottage owned by a kind, lonely old woman.\n\nShe tried to feed them soup and nurse them back to health. But in their madness, Hansel saw a cage instead of a bed, and Gretel saw a monster instead of a grandmother. When the old woman bent down to check the fire to warm the room, Gretel shoved her in, believing she was slaying a demon. They ran home carrying 'jewels' that were actually just common river stones, leaving an innocent corpse burning in the hearth. The monsters in this story were not the ones living in the woods.",
+            "id": "Tidak ada penyihir. Tidak ada rumah ajaib. Kelaparan dan mengigau karena memakan beri beracun di hutan, anak-anak itu tersandung ke sebuah gubuk biasa milik seorang wanita tua yang baik dan kesepian.\n\nWanita itu mencoba memberi mereka sup dan merawat mereka. Tapi dalam kegilaan mereka, Hansel melihat kandang, bukan tempat tidur, dan Gretel melihat monster, bukan nenek. Saat wanita tua itu membungkuk memeriksa api untuk menghangatkan ruangan, Gretel mendorongnya masuk, percaya bahwa ia sedang membunuh iblis. Mereka lari pulang membawa 'permata' yang sebenarnya hanyalah batu sungai biasa, meninggalkan mayat tak berdosa terbakar di perapian. Monster dalam cerita ini bukanlah yang tinggal di hutan."
+          }
+        },
+        {
+          "id": "what_if_1_witch_apprentice",
+          "type": "what_if",
+          "title": {
+            "en": "The Witch's Heir",
+            "id": "Pewaris Penyihir"
+          },
+          "content": {
+            "en": "Gretel didn't push the witch into the oven. She realized that going back to her parents meant returning to poverty and betrayal. The Witch had food. The Witch had power. \n\nSo, Gretel made a deal. She offered Hansel as the sacrifice. The Witch accepted the trade. Hansel was cooked, and Gretel became the Witch's apprentice. Years later, travellers would whisper of a new, terrifying sorceress in the woods—one who built traps not out of candy, but out of gold, luring greedy adults instead of hungry children.",
+            "id": "Gretel tidak mendorong penyihir ke dalam oven. Ia sadar bahwa kembali ke orang tuanya berarti kembali pada kemiskinan dan pengkhianatan. Penyihir punya makanan. Penyihir punya kekuasaan.\n\nMaka, Gretel membuat kesepakatan. Ia menawarkan Hansel sebagai tumbal. Penyihir menerima pertukaran itu. Hansel dimasak, dan Gretel menjadi murid Penyihir. Bertahun-tahun kemudian, para pelancong berbisik tentang penyihir baru yang mengerikan di hutan—yang membangun jebakan bukan dari permen, tapi dari emas, memancing orang dewasa yang serakah alih-alih anak-anak yang lapar."
+          }
+        },
+        {
+          "id": "what_if_1_gingerbread_parents",
+          "type": "what_if",
+          "title": {
+            "en": "Sweet Revenge",
+            "id": "Balas Dendam Manis"
+          },
+          "content": {
+            "en": "The children killed the witch, but they didn't just take her jewels; they took her grimoire (spellbook). They returned home not as victims, but as warlocks.\n\nWhen the cruel stepmother and the cowardly father saw their children, they feigned relief. Hansel smiled coldly. 'We have brought dinner,' he said. He recited a spell from the book. The parents' skin turned to dough, their eyes to icing, and their buttons to gumdrops. Hansel and Gretel didn't live happily with their father. They baked him. And for the first time in years, the children were full.",
+            "id": "Anak-anak membunuh penyihir, tapi mereka tidak hanya mengambil permatanya; mereka mengambil kitab mantranya. Mereka pulang bukan sebagai korban, tapi sebagai penyihir.\n\nSaat ibu tiri yang kejam dan ayah yang pengecut melihat anak-anak mereka, mereka pura-pura lega. Hansel tersenyum dingin. 'Kami membawa makan malam,' katanya. Ia merapalkan mantra dari buku itu. Kulit orang tua mereka berubah menjadi adonan, mata mereka menjadi gula hias, dan kancing mereka menjadi permen karet. Hansel dan Gretel tidak hidup bahagia bersama ayah mereka. Mereka memanggangnya. Dan untuk pertama kalinya dalam bertahun-tahun, anak-anak itu kekenyangan."
+          }
+        },
+        {
+          "id": "what_if_1_house_alive",
+          "type": "what_if",
+          "title": {
+            "en": "The House is Alive",
+            "id": "Rumah Itu Hidup"
+          },
+          "content": {
+            "en": "The old woman wasn't the threat. She was just a lure, a puppet controlled by the true predator: the House itself. The candy wasn't masonry; it was flesh. The windows weren't sugar; they were solidified saliva.\n\nWhen Gretel pushed the 'witch' into the oven, the House woke up. The floorboards turned into tongues and the door became a maw with jagged wooden teeth. The children didn't escape. They were digested slowly, becoming part of the architecture, waiting to be eaten by the next starving travellers who dared to nibble on the walls.",
+            "id": "Wanita tua itu bukanlah ancamannya. Ia hanyalah umpan, boneka yang dikendalikan oleh pemangsa sejati: Rumah itu sendiri. Permen itu bukan tembok; itu daging. Jendelanya bukan gula; itu air liur yang membeku.\n\nSaat Gretel mendorong 'penyihir' ke dalam oven, Rumah itu terbangun. Lantai kayunya berubah menjadi lidah dan pintunya menjadi rahang dengan gigi kayu bergerigi. Anak-anak tidak lolos. Mereka dicerna perlahan, menjadi bagian dari arsitektur, menunggu untuk dimakan oleh pelancong kelaparan berikutnya yang berani mengigit dindingnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Cinderella",
+        "id": "Cinderella"
+      },
+      "preview": {
+        "en": "No fairy godmother here. Just a grieving girl, a magical tree on a grave, and a golden slipper filled with blood.",
+        "id": "Tidak ada ibu peri di sini. Hanya gadis yang berduka, pohon ajaib di kuburan, dan sepatu emas yang dipenuhi darah."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "Blood in the Slipper",
+            "id": "Darah dalam Sepatu"
+          },
+          "content": {
+            "en": "A rich man's wife died, and his daughter wept at her grave every day. When the man remarried, the new wife brought two daughters who were beautiful of face but black of heart. They stripped the girl of her fine clothes, made her wear grey rags, and forced her to sleep in the ashes near the hearth, mocking her as 'Aschenputtel' (Cinderella).\n\nWhen the father went to a fair, the stepdaughters asked for dresses and jewels. Cinderella asked only for the first twig that brushed his hat. She planted this hazel twig on her mother's grave and watered it with her tears until it grew into a magnificent tree. A white bird would come to the tree and grant whatever she wished.\n\nThe King held a three-day festival. The stepmother poured lentils into the ashes, telling Cinderella she could go only if she picked them all out. Two white doves helped her finish the task, but the stepmother left her behind anyway. Crying, Cinderella ran to the hazel tree: 'Shake and quiver, little tree, throw gold and silver down on me.' The bird threw down a gold and silver dress and silk slippers.\n\nShe danced with the Prince, who would dance with no one else. For three nights she escaped him, hiding once in a pigeon house and once in a pear tree, which the Prince chopped down trying to find her. On the third night, the Prince smeared pitch (tar) on the palace stairs. Cinderella's left slipper stuck fast—it was made of pure gold.\n\nThe Prince brought the shoe to the house. The eldest sister cut off her big toe to force her foot in. The Prince rode off with her, but the doves on the hazel tree sang: 'Turn and peep, turn and peep, there's blood in the shoe... the true bride is still at home.' He returned her. The second sister cut off her heel, but the blood oozing through the stocking betrayed her too. Finally, Cinderella tried it. It fit perfectly. The Prince recognized her. At the wedding, the pigeons pecked out the eyes of the two wicked sisters, leaving them blind as punishment for their cruelty.",
+            "id": "Istri seorang pria kaya meninggal, dan putrinya menangis di kuburannya setiap hari. Ketika pria itu menikah lagi, istri barunya membawa dua putri yang berwajah cantik tapi berhati hitam. Mereka melucuti pakaian bagus gadis itu, memaksanya memakai kain lusuh abu-abu, dan menyuruhnya tidur di abu dekat perapian, mengejeknya sebagai 'Aschenputtel' (Cinderella).\n\nSaat sang ayah pergi ke pameran, putri-putri tiri meminta gaun dan permata. Cinderella hanya meminta ranting pertama yang menyentuh topi ayahnya. Ia menanam ranting hazel ini di kuburan ibunya dan menyiramnya dengan air mata hingga tumbuh menjadi pohon yang megah. Seekor burung putih akan datang ke pohon itu dan mengabulkan apa pun yang ia minta.\n\nRaja mengadakan festival tiga hari. Ibu tiri menumpahkan kacang lentil ke dalam abu, mengatakan Cinderella boleh ikut hanya jika bisa memungut semuanya. Dua merpati putih membantunya menyelesaikan tugas itu, tapi ibu tiri tetap meninggalkannya. Sambil menangis, Cinderella berlari ke pohon hazel: 'Goyangkan dan getarkan, pohon kecil, lemparkan emas dan perak padaku.' Burung itu melemparkan gaun emas perak dan sepatu sutra.\n\nIa menari dengan Pangeran, yang tak mau menari dengan orang lain. Selama tiga malam ia melarikan diri, bersembunyi di kandang merpati dan pohon pir, yang ditebang Pangeran saat mencarinya. Pada malam ketiga, Pangeran mengoleskan aspal di tangga istana. Sepatu kiri Cinderella tersangkut—terbuat dari emas murni.\n\nPangeran membawa sepatu itu ke rumah. Kakak tertua memotong jempol kakinya agar kakinya muat. Pangeran membawanya pergi, tapi merpati di pohon hazel bernyanyi: 'Berbalik dan intip, ada darah di sepatu... pengantin sejati masih di rumah.' Ia mengembalikannya. Kakak kedua memotong tumitnya, tapi darah yang merembes di kaus kaki mengkhianatinya juga. Akhirnya, Cinderella mencobanya. Pas sempurna. Pangeran mengenalinya. Di pernikahan, merpati mematuk mata kedua saudara jahat itu, membiarkan mereka buta sebagai hukuman atas kekejaman mereka."
+          }
+        },
+        {
+          "id": "what_if_2_glass_shards",
+          "type": "what_if",
+          "title": {
+            "en": "The Glass Weapon",
+            "id": "Senjata Kaca"
+          },
+          "content": {
+            "en": "The slipper wasn't gold; it was glass, fragile and razor-sharp. When the Prince chased Cinderella, she didn't lose the shoe by accident; she broke it on the stairs intentionally.\n\nWhen the Prince came to try the slipper on the stepsisters, he didn't find a dainty shoe. He found a jagged shard. He demanded they try it on anyway. The sisters didn't just cut their toes; the trial became a bloodbath. Seeing the Prince's cruelty in forcing women to mutilate themselves for a 'perfect fit', Cinderella refused to come out. She realized the Prince wasn't looking for a wife, but a victim who could bleed beautifully. She stayed in the ashes, safe from a throne built on pain.",
+            "id": "Sepatunya bukan emas; itu kaca, rapuh dan setajam silet. Saat Pangeran mengejar Cinderella, ia tidak kehilangan sepatu itu secara tidak sengaja; ia memecahkannya di tangga dengan sengaja.\n\nSaat Pangeran datang untuk mencoba sepatu itu pada saudara-saudara tirinya, ia tidak menemukan sepatu cantik. Ia menemukan pecahan bergerigi. Ia menuntut mereka mencobanya. Para saudari itu tidak hanya memotong jari kaki; pengadilan itu menjadi pertumpahan darah. Melihat kekejaman Pangeran yang memaksa wanita memutilasi diri demi 'pas yang sempurna', Cinderella menolak keluar. Ia sadar Pangeran tidak mencari istri, tapi korban yang bisa berdarah dengan indah. Ia tetap tinggal di abu, aman dari takhta yang dibangun di atas rasa sakit."
+          }
+        },
+        {
+          "id": "what_if_2_tree_demands_price",
+          "type": "what_if",
+          "title": {
+            "en": "The Tree's Price",
+            "id": "Harga Sang Pohon"
+          },
+          "content": {
+            "en": "The hazel tree on the grave wasn't a benevolent spirit. It was fueled by grief and necro-magic. It granted the dress and carriage, but demanded a price: life force.\n\nEvery night Cinderella danced, she grew paler and colder. By the third night, she wasn't just beautiful; she was corpse-like. When the Prince finally found her and the shoe fit, she didn't have a happily ever after. She collapsed, her life force fully drained to pay for the magic. The Prince married a beautiful, lifeless doll, while the tree on the grave bloomed redder than ever, having consumed its own daughter.",
+            "id": "Pohon hazel di kuburan itu bukanlah roh yang baik hati. Ia ditenagai oleh duka dan sihir kematian. Ia memberikan gaun dan kereta, tapi menuntut bayaran: energi kehidupan.\n\nSetiap malam Cinderella menari, ia semakin pucat dan dingin. Pada malam ketiga, ia tidak hanya cantik; ia seperti mayat. Saat Pangeran akhirnya menemukannya dan sepatu itu pas, ia tidak bahagia selamanya. Ia ambruk, energi hidupnya terkuras habis untuk membayar sihir itu. Pangeran menikahi boneka cantik yang tak bernyawa, sementara pohon di kuburan mekar lebih merah dari sebelumnya, setelah memangsa putrinya sendiri."
+          }
+        },
+        {
+          "id": "what_if_2_evil_cinderella",
+          "type": "what_if",
+          "title": {
+            "en": "The Ash Queen",
+            "id": "Ratu Abu"
+          },
+          "content": {
+            "en": "Years of abuse didn't make Cinderella kind; it made her hateful. When she became Queen, she didn't just let the birds peck out her sisters' eyes. That was too quick.\n\nShe ordered her stepmother and stepsisters to become the palace servants. She made them sleep in the royal fireplaces. She poured lentils into the ashes every morning and whipped them if they didn't pick them out. Cinderella became a tyrant worse than her stepmother ever was, proving that oppression often just breeds a new oppressor.",
+            "id": "Bertahun-tahun penyiksaan tidak membuat Cinderella baik hati; itu membuatnya penuh kebencian. Saat ia menjadi Ratu, ia tidak membiarkan burung mematuk mata saudara tirinya begitu saja. Itu terlalu cepat.\n\nIa memerintahkan ibu tiri dan saudara tirinya menjadi pelayan istana. Ia memaksa mereka tidur di perapian kerajaan. Ia menumpahkan kacang lentil ke dalam abu setiap pagi dan mencambuk mereka jika tidak selesai memungutnya. Cinderella menjadi tiran yang lebih buruk dari ibu tirinya, membuktikan bahwa penindasan seringkali hanya melahirkan penindas baru."
+          }
+        },
+        {
+          "id": "what_if_2_stepmother_wins",
+          "type": "what_if",
+          "title": {
+            "en": "The Pragmatic Prince",
+            "id": "Pangeran Pragmatis"
+          },
+          "content": {
+            "en": "The Prince saw the blood in the shoe. He saw the cut toe. But he looked at the eldest stepsister—ambitious, ruthless, willing to mutilate herself for power. He thought, 'This is the kind of Queen I need to rule a kingdom.'\n\nHe ignored the birds. He ignored Cinderella. He married the eldest sister, appreciating her sheer determination. Cinderella remained a servant, realizing that in the game of thrones, grit and ambition often beat purity and magic. The kingdom entered a golden age of ruthless conquest led by a Queen who limped but never bowed.",
+            "id": "Pangeran melihat darah di sepatu itu. Ia melihat jari kaki yang terpotong. Tapi ia menatap kakak tiri tertua—ambisius, kejam, rela memutilasi diri demi kekuasaan. Ia berpikir, 'Inilah jenis Ratu yang kubutuhkan untuk memerintah kerajaan.'\n\nIa mengabaikan burung-burung itu. Ia mengabaikan Cinderella. Ia menikahi kakak tertua, menghargai tekad bajanya. Cinderella tetap menjadi pelayan, menyadari bahwa dalam perebutan takhta, ketangguhan dan ambisi seringkali mengalahkan kemurnian dan sihir. Kerajaan memasuki zaman keemasan penaklukan kejam yang dipimpin oleh Ratu yang pincang tapi tak pernah tunduk."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Little Red Riding Hood",
+        "id": "Gadis Berkerudung Merah"
+      },
+      "preview": {
+        "en": "A girl, a wolf, and a grandmother. The wolf eats them both, but a huntsman's scissors cut the story open.",
+        "id": "Seorang gadis, serigala, dan nenek. Serigala memakan keduanya, tapi gunting seorang pemburu membedah cerita itu."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Wolf's Belly",
+            "id": "Perut Serigala"
+          },
+          "content": {
+            "en": "A sweet little girl, loved by everyone, received a hood of red velvet from her grandmother. It suited her so well she would wear nothing else, so she was called Little Red Riding Hood. One day, her mother said, 'Come, Little Red Riding Hood, here is a piece of cake and a bottle of wine. Take them to your grandmother, she is ill and weak. Walk nicely and do not run off the path, or you may fall and break the bottle.'\n\nThe grandmother lived out in the wood, half a league from the village. Just as Little Red Riding Hood entered the wood, a wolf met her. The girl did not know what a wicked creature he was, and was not afraid. The wolf asked where she was going. 'To my grandmother's,' she replied innocently. The crafty wolf thought, 'What a tender young creature! She will be a better mouthful than the old woman.'\n\nHe suggested she pick flowers for her grandmother. While she strayed from the path to pick a nosegay, the wolf ran straight to the grandmother's house, pretended to be the girl, and when the door opened, swallowed the grandmother whole without chewing. He then put on her clothes and cap, and lay in her bed.\n\nWhen Little Red Riding Hood arrived, she was surprised to find the door open and the house looking strange. She approached the bed. 'Oh grandmother, what big ears you have!' - 'The better to hear you with, my child.' - 'What big eyes you have!' - 'The better to see you with.' - 'What big hands you have!' - 'The better to grab you with!' - 'But grandmother, what a terribly big mouth you have!' - 'The better to eat you with!'\n\nAnd with one jump, the wolf swallowed Little Red Riding Hood. Satisfied, he fell asleep and snored loudly. A huntsman passing by thought the old woman was snoring strangely. He entered, saw the wolf, and raised his rifle. But then he thought, 'Perhaps the wolf has eaten the grandmother, and she may yet be saved.' He took a pair of scissors and cut open the sleeping wolf's belly. Little Red Riding Hood sprang out, crying, 'Ah, how dark it was inside the wolf!' Then the aged grandmother came out alive also. They filled the wolf's belly with stones. When he woke and tried to run, the stones were so heavy he fell dead.",
+            "id": "Seorang gadis kecil yang manis, dicintai semua orang, menerima tudung beludru merah dari neneknya. Itu sangat cocok baginya hingga ia tak mau memakai yang lain, jadi ia dipanggil Gadis Berkerudung Merah. Suatu hari, ibunya berkata, 'Ayo, Kerudung Merah, ini sepotong kue dan sebotol anggur. Bawalah ke nenekmu, dia sakit dan lemah. Berjalanlah dengan baik dan jangan lari dari jalan setapak, atau kau bisa jatuh dan memecahkan botolnya.'\n\nNenek tinggal di hutan, setengah liga dari desa. Tepat saat Kerudung Merah masuk hutan, seekor serigala menemuinya. Gadis itu tidak tahu betapa jahatnya makhluk itu, dan tidak takut. Serigala bertanya ke mana ia pergi. 'Ke rumah nenek,' jawabnya polos. Serigala licik itu berpikir, 'Makhluk muda yang empuk! Dia akan jadi santapan yang lebih enak daripada wanita tua itu.'\n\nDia menyarankan gadis itu memetik bunga untuk neneknya. Sementara gadis itu melenceng dari jalan untuk memetik bunga, serigala lari langsung ke rumah nenek, pura-pura jadi si gadis, dan saat pintu dibuka, menelan nenek bulat-bulat tanpa mengunyah. Dia lalu memakai baju dan topi nenek, dan berbaring di tempat tidurnya.\n\nSaat Kerudung Merah tiba, ia kaget mendapati pintu terbuka dan rumah tampak aneh. Ia mendekati tempat tidur. 'Oh nenek, telingamu besar sekali!' - 'Supaya lebih jelas mendengarmu, nak.' - 'Matamu besar sekali!' - 'Supaya lebih jelas melihatmu.' - 'Tanganmu besar sekali!' - 'Supaya lebih kuat memegangmu!' - 'Tapi nenek, mulutmu besar sekali!' - 'Supaya lebih mudah memakanmu!'\n\nDan dengan satu lompatan, serigala menelan Kerudung Merah. Puas, ia tertidur dan mendengkur keras. Seorang pemburu yang lewat berpikir nenek itu mendengkur aneh. Ia masuk, melihat serigala, dan mengarahkan senapannya. Tapi kemudian ia berpikir, 'Mungkin serigala telah memakan nenek, dan dia masih bisa diselamatkan.' Ia mengambil gunting dan membedah perut serigala yang tidur itu. Kerudung Merah melompat keluar, menangis, 'Ah, betapa gelapnya di dalam serigala!' Lalu nenek tua itu pun keluar hidup-hidup. Mereka mengisi perut serigala dengan batu. Saat ia bangun dan mencoba lari, batu-batu itu begitu berat hingga ia jatuh mati."
+          }
+        },
+        {
+          "id": "what_if_3_apex_predator",
+          "type": "what_if",
+          "title": {
+            "en": "The Apex Predator",
+            "id": "Pemangsa Puncak"
+          },
+          "content": {
+            "en": "The Wolf made a fatal error: he assumed the small creature in the red hood was prey. When he pounced in the cottage, he didn't find a helpless girl. He found something ancient and hungry.\n\nLittle Red Riding Hood wasn't wearing red because she liked the color; she wore it to hide the bloodstains. She was a vampire (or a forest demon) that the village feared. The Wolf didn't eat her; she ate the Wolf. When the Huntsman arrived, he found the cottage quiet, the floor slick with blood, and a little girl wiping her mouth, asking if he, too, had come for a visit.",
+            "id": "Serigala membuat kesalahan fatal: ia mengira makhluk kecil bertudung merah itu adalah mangsa. Saat ia menerkam di gubuk, ia tidak menemukan gadis tak berdaya. Ia menemukan sesuatu yang purba dan lapar.\n\nGadis Berkerudung Merah tidak memakai merah karena suka warnanya; ia memakainya untuk menyamarkan noda darah. Ia adalah vampir (atau iblis hutan) yang ditakuti desa. Serigala tidak memakannya; dialah yang memakan Serigala. Saat Pemburu tiba, ia mendapati gubuk itu sunyi, lantai licin oleh darah, dan seorang gadis kecil menyeka mulutnya, bertanya apakah bapak juga datang untuk berkunjung."
+          }
+        },
+        {
+          "id": "what_if_3_werewolf_grandma",
+          "type": "what_if",
+          "title": {
+            "en": "Grandmother's Secret",
+            "id": "Rahasia Nenek"
+          },
+          "content": {
+            "en": "There was no wolf in the woods. The creature in the bed *was* the Grandmother. She suffered from lycanthropy (the werewolf curse). The 'Wolf' Red met on the path was actually a village guardian trying to warn her: 'Don't go there, it's a full moon.'\n\nRed ignored the warning. She entered the cottage just as the transformation completed. 'What big teeth you have,' she whispered, realizing too late that the curse ran in the family. The Grandmother didn't eat her out of malice, but out of uncontrollable hunger. The tragedy wasn't an invasion, but an inheritance.",
+            "id": "Tidak ada serigala di hutan. Makhluk di tempat tidur itu *adalah* sang Nenek. Ia menderita lycanthropy (kutukan manusia serigala). 'Serigala' yang ditemui Red di jalan setapak sebenarnya adalah penjaga desa yang mencoba memperingatkannya: 'Jangan ke sana, ini bulan purnama.'\n\nRed mengabaikan peringatan itu. Ia masuk ke gubuk tepat saat transformasi selesai. 'Gigi yang besar sekali,' bisiknya, terlambat menyadari bahwa kutukan itu mengalir dalam keluarga. Nenek tidak memakannya karena jahat, tapi karena kelaparan yang tak terkendali. Tragedi itu bukanlah invasi, melainkan warisan."
+          }
+        },
+        {
+          "id": "what_if_3_village_sacrifice",
+          "type": "what_if",
+          "title": {
+            "en": "The Sacrifice",
+            "id": "Tumbal Desa"
+          },
+          "content": {
+            "en": "The Mother didn't send Red to deliver cake. She sent her as a tribute. The village had a pact with the Wolf God: one child every year to keep the rest safe. The red hood was the ceremonial mark of the sacrifice.\n\nRed realized this when she saw the path was lined with old red hoods from years past. Instead of accepting her fate, she made a deal with the Wolf. She led him back to the village. The Wolf got a feast of treacherous villagers, and Red rode on his back, not as a victim, but as the new Queen of the Wild, burning the village that tried to feed her to the beast.",
+            "id": "Sang Ibu tidak menyuruh Red mengantar kue. Ia mengirimnya sebagai upeti. Desa memiliki perjanjian dengan Dewa Serigala: satu anak setiap tahun agar yang lain selamat. Tudung merah adalah tanda seremonial tumbal tersebut.\n\nRed menyadari ini saat melihat jalan setapak dipenuhi tudung merah usang dari tahun-tahun sebelumnya. Alih-alih menerima nasib, ia membuat kesepakatan dengan Serigala. Ia menuntunnya kembali ke desa. Serigala mendapat pesta pora penduduk desa yang khianat, dan Red menunggangi punggungnya, bukan sebagai korban, tapi sebagai Ratu Rimba baru, membakar desa yang mencoba mengumpankannya pada binatang buas."
+          }
+        },
+        {
+          "id": "what_if_3_huntsman_villain",
+          "type": "what_if",
+          "title": {
+            "en": "The Surgeon's Fee",
+            "id": "Upah Sang Bedah"
+          },
+          "content": {
+            "en": "The Huntsman cut them out, yes. But he wasn't a hero; he was a poacher and a slaver. He saw a talking wolf and two miraculous survivors as a goldmine.\n\nHe stitched the wolf back up (alive) and put chains on Red and her Grandmother. He sold them to a traveling freak show: 'The Indigestible Family and the Beast.' They spent the rest of their lives in a cage, wishing they had just stayed inside the dark, warm belly of the wolf where they were at least together and free from the cruelty of men.",
+            "id": "Pemburu memang membedah mereka keluar. Tapi ia bukan pahlawan; ia pemburu liar dan pedagang budak. Ia melihat serigala yang bisa bicara dan dua penyintas ajaib sebagai tambang emas.\n\nIa menjahit kembali serigala itu (hidup-hidup) dan merantai Red serta Neneknya. Ia menjual mereka ke sirkus keliling aneh: 'Keluarga Tak Bisa Dicerna dan Si Binatang Buas.' Mereka menghabiskan sisa hidup di dalam kandang, berharap mereka tetap tinggal di dalam perut serigala yang gelap dan hangat, di mana mereka setidaknya bersama dan bebas dari kekejaman manusia."
+          }
+        }
+      ]
+    }    ,
+    {
+      "id": 4,
+      "title": {
+        "en": "Rapunzel",
+        "id": "Rapunzel"
+      },
+      "preview": {
+        "en": "A girl traded for lettuce, locked in a tower with no door. A prince climbs her hair, but the witch cuts the rope.",
+        "id": "Seorang gadis ditukar dengan selada, dikunci di menara tanpa pintu. Pangeran memanjat rambutnya, tapi penyihir memutus talinya."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "Tears of Healing",
+            "id": "Air Mata Penyembuh"
+          },
+          "content": {
+            "en": "A pregnant woman craved rapunzel (rampion lettuce) from the garden of a powerful sorceress named Dame Gothel. Her husband stole some, but was caught. To save his life, he promised the sorceress the baby when it was born. Gothel took the child, named her Rapunzel, and at age twelve, locked her in a tower with no stairs or door, only a high window.\n\nWhen Gothel visited, she cried, 'Rapunzel, Rapunzel, let down your hair!' Rapunzel would drop her twenty-ell long golden braids, and the witch climbed up. Years later, a Prince heard Rapunzel singing. He saw the witch climb and learned the secret. That night, he called out the phrase, climbed up, and they fell in love. He visited her every evening, planning her escape.\n\nRapunzel innocently betrayed herself. 'Mother Gothel,' she asked, 'why are you so much heavier to pull up than the young King's son?' (In some versions, she asks why her clothes are getting tight around her waist). Furious, Gothel cut off Rapunzel's hair and banished her to a desolate wasteland to birth her twins alone.\n\nWhen the Prince came, Gothel let down the severed braids. The Prince climbed up, but instead of his love, he found the witch. 'The bird is lost,' she mocked. In despair, the Prince leapt from the tower. He survived, but the thorns below scratched out his eyes. Blind and grieving, he wandered for years until he heard a familiar voice. It was Rapunzel. She saw him and wept. Two of her tears fell into his eyes, miraculously clearing his vision. He took her and their twins to his kingdom, where they lived happily.",
+            "id": "Seorang wanita hamil mengidam rapunzel (selada rampion) dari kebun penyihir sakti bernama Dame Gothel. Suaminya mencuri sebagian, tapi tertangkap. Demi menyelamatkan nyawanya, ia menjanjikan bayinya pada penyihir saat lahir nanti. Gothel mengambil anak itu, menamainya Rapunzel, dan pada usia dua belas tahun, mengurungnya di menara tanpa tangga atau pintu, hanya jendela tinggi.\n\nSaat Gothel berkunjung, ia berseru, 'Rapunzel, Rapunzel, turunkan rambutmu!' Rapunzel akan menjatuhkan kepangan emasnya sepanjang dua puluh hasta, dan penyihir itu memanjat. Bertahun-tahun kemudian, seorang Pangeran mendengar Rapunzel bernyanyi. Ia melihat penyihir memanjat dan mempelajari rahasianya. Malam itu, ia menyerukan kalimat itu, memanjat naik, dan mereka jatuh cinta. Ia mengunjunginya setiap malam, merencanakan pelarian.\n\nRapunzel tanpa sengaja membocorkan rahasianya. 'Ibu Gothel,' tanyanya, 'kenapa kau jauh lebih berat ditarik daripada putra Raja muda itu?' (Dalam beberapa versi, ia bertanya kenapa bajunya makin sempit di pinggang). Murka, Gothel memotong rambut Rapunzel dan membuangnya ke tanah gersang untuk melahirkan anak kembarnya sendirian.\n\nSaat Pangeran datang, Gothel menurunkan kepangan yang terpotong. Pangeran memanjat, tapi bukan kekasihnya yang ia temukan, melainkan penyihir. 'Burung itu hilang,' ejeknya. Dalam keputusasaan, Pangeran melompat dari menara. Ia selamat, tapi duri di bawah mencungkil matanya. Buta dan berduka, ia mengembara bertahun-tahun hingga mendengar suara yang dikenalnya. Itu Rapunzel. Ia melihatnya dan menangis. Dua air matanya jatuh ke mata Pangeran, secara ajaib memulihkan penglihatannya. Ia membawa Rapunzel dan anak kembar mereka ke kerajaannya, di mana mereka hidup bahagia."
+          }
+        },
+        {
+          "id": "what_if_4_hair_alive",
+          "type": "what_if",
+          "title": {
+            "en": "The Golden Noose",
+            "id": "Jerat Emas"
+          },
+          "content": {
+            "en": "Rapunzel's hair wasn't just dead keratin; it was an extension of the Witch's magic. It had a mind of its own. When the Prince climbed up, the hair didn't just support him; it tasted him.\n\nSensing an intruder, the golden braids wrapped around his neck like a python. Rapunzel screamed, trying to pull him up, but her hair obeyed only its true master, Gothel. The Prince didn't fall into thorns; he was strangled against the tower wall. Rapunzel spent the rest of her life as a prisoner of her own body, her hair growing thicker and stronger, feeding on the remains of the would-be saviour dangling outside her window.",
+            "id": "Rambut Rapunzel bukan sekadar keratin mati; itu adalah perpanjangan sihir Penyihir. Rambut itu punya kesadaran sendiri. Saat Pangeran memanjat, rambut itu tidak hanya menopangnya; ia mencicipinya.\n\nMerasakan penyusup, kepangan emas itu melilit lehernya seperti ular sanca. Rapunzel menjerit, mencoba menariknya ke atas, tapi rambutnya hanya patuh pada tuan sejatinya, Gothel. Pangeran tidak jatuh ke duri; ia dicekik di dinding menara. Rapunzel menghabiskan sisa hidupnya sebagai tawanan tubuhnya sendiri, rambutnya tumbuh makin tebal dan kuat, memakan sisa-sisa calon penyelamat yang tergantung di luar jendelanya."
+          }
+        },
+        {
+          "id": "what_if_4_gothel_mother",
+          "type": "what_if",
+          "title": {
+            "en": "Mother Knows Best",
+            "id": "Ibu Lebih Tahu"
+          },
+          "content": {
+            "en": "Gothel wasn't evil. She locked Rapunzel up to protect her from a plague that had wiped out the rest of the world. The 'Prince' wasn't a hero; he was a carrier of the disease.\n\nWhen he climbed up, he didn't bring love; he brought death. Rapunzel contracted the sickness instantly. Gothel arrived too late. Seeing her dying daughter, Gothel realized her strict quarantine had failed because of a moment of carelessness. She burned the tower with both of them inside to stop the spread, weeping as she destroyed the only thing she ever loved to save what was left of humanity.",
+            "id": "Gothel tidak jahat. Ia mengurung Rapunzel untuk melindunginya dari wabah yang telah memusnahkan seluruh dunia. 'Pangeran' itu bukan pahlawan; ia pembawa penyakit.\n\nSaat ia memanjat, ia tidak membawa cinta; ia membawa maut. Rapunzel langsung tertular. Gothel terlambat tiba. Melihat putrinya sekarat, Gothel sadar karantina ketatnya gagal karena kecerobohan sesaat. Ia membakar menara dengan mereka berdua di dalamnya untuk menghentikan penyebaran, menangis saat ia menghancurkan satu-satunya hal yang ia cintai demi menyelamatkan sisa umat manusia."
+          }
+        },
+        {
+          "id": "what_if_4_rapunzel_witch",
+          "type": "what_if",
+          "title": {
+            "en": "The Sorceress Ascendant",
+            "id": "Kebangkitan Penyihir"
+          },
+          "content": {
+            "en": "Rapunzel didn't wait to be rescued. In the solitude of the tower, she read Gothel's books. She learned necromancy. When Gothel cut her hair, Rapunzel didn't cry; she laughed.\n\nShe used the severed hair to animate the stone gargoyles of the tower. They tore Gothel apart. When the Prince arrived, Rapunzel didn't need a husband; she needed a general. She descended the tower not as a victim, but as a powerful Lich Queen, with the blinded Prince as her first thrall, marching to reclaim the kingdom that had sold her for a head of lettuce.",
+            "id": "Rapunzel tidak menunggu diselamatkan. Dalam kesendirian menara, ia membaca buku-buku Gothel. Ia mempelajari nekromansi (sihir mayat). Saat Gothel memotong rambutnya, Rapunzel tidak menangis; ia tertawa.\n\nIa menggunakan rambut yang terpotong untuk menghidupkan gargoyle batu di menara. Mereka mencabik-cabik Gothel. Saat Pangeran tiba, Rapunzel tidak butuh suami; ia butuh jenderal. Ia turun dari menara bukan sebagai korban, tapi sebagai Ratu Lich yang sakti, dengan Pangeran buta sebagai budak pertamanya, berbaris untuk merebut kembali kerajaan yang telah menjualnya demi seikat selada."
+          }
+        },
+        {
+          "id": "what_if_4_tower_infinite",
+          "type": "what_if",
+          "title": {
+            "en": "The Infinite Tower",
+            "id": "Menara Tak Berujung"
+          },
+          "content": {
+            "en": "The tower wasn't just tall; it was infinite. It existed in a pocket dimension. Rapunzel aged, but never died. The Prince climbed for days, then years, then decades. He grew old on the braid, eating moss from the stones.\n\nHe eventually reached the window as an old man, only to find an elderly Rapunzel waiting. They were too frail to escape. They died together in the room, holding hands, realizing the journey *was* the trap. The witch simply watched the skeletons accumulate, waiting for the next young fool to start the climb.",
+            "id": "Menara itu tidak hanya tinggi; itu tak berujung. Ia ada di dimensi saku. Rapunzel menua, tapi tak pernah mati. Pangeran memanjat selama berhari-hari, lalu bertahun-tahun, lalu berdekade-dekade. Ia menjadi tua di kepangan itu, memakan lumut dari batu.\n\nIa akhirnya mencapai jendela sebagai kakek tua, hanya untuk menemukan Rapunzel tua yang menunggu. Mereka terlalu lemah untuk kabur. Mereka mati bersama di ruangan itu, bergandengan tangan, menyadari bahwa perjalanan itu *adalah* jebakannya. Penyihir hanya menonton kerangka menumpuk, menunggu orang bodoh muda berikutnya untuk mulai memanjat."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Snow White",
+        "id": "Putri Salju"
+      },
+      "preview": {
+        "en": "Skin as white as snow, lips as red as blood. A jealous Queen wants her heart, but seven dwarfs and a glass coffin intervene.",
+        "id": "Kulit seputih salju, bibir semerah darah. Ratu cemburu menginginkan jantungnya, tapi tujuh kurcaci dan peti kaca menghalangi."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The Iron Shoes",
+            "id": "Sepatu Besi"
+          },
+          "content": {
+            "en": "A Queen pricked her finger on a needle while sewing in the snow, wishing for a child as white as snow, as red as blood, and as black as ebony. She died giving birth to Snow White. The King remarried a beautiful but vain woman who possessed a magic mirror. When the mirror declared Snow White the fairest of all, the envious Queen ordered a huntsman to take the girl into the woods and bring back her lungs and liver as proof of death.\n\nThe huntsman took pity on the girl and let her go, bringing the Queen the organs of a wild boar instead, which the wicked woman ate with salt, thinking they were Snow White's. Meanwhile, Snow White found refuge with seven dwarfs who mined for gold. \n\nThe Queen learned the truth from her mirror. She tried to kill Snow White three times herself. First, disguised as a peddler, she laced Snow White into a bodice so tight she fainted. The dwarfs cut it open. Second, she used a poisoned comb. The dwarfs removed it. Finally, she used a poisoned apple. Snow White ate the red half and fell into a death-like sleep. The dwarfs could not wake her, so they placed her in a glass coffin on a mountain.\n\nA Prince saw the beautiful corpse and begged the dwarfs to let him have it. As his servants carried the coffin, they stumbled over a root. The jolt dislodged the piece of poisoned apple from Snow White's throat. She woke up! The Prince married her instantly.\n\nThey invited the Wicked Queen to the wedding. When she arrived, she saw Snow White and froze in terror. Iron shoes had been heated in the fire until they glowed red. They were placed before the Queen. She was forced to put them on and dance until she dropped dead.",
+            "id": "Seorang Ratu menusuk jarinya dengan jarum saat menjahit di salju, berharap punya anak seputih salju, semerah darah, dan sehitam kayu eboni. Ia meninggal saat melahirkan Putri Salju. Raja menikah lagi dengan wanita cantik tapi sombong yang memiliki cermin ajaib. Saat cermin menyatakan Putri Salju yang tercantik, Ratu yang iri memerintahkan pemburu membawa gadis itu ke hutan dan membawa kembali paru-paru dan hatinya sebagai bukti kematian.\n\nPemburu kasihan pada gadis itu dan membiarkannya pergi, membawa organ babi hutan sebagai gantinya, yang dimakan wanita jahat itu dengan garam, mengira itu milik Putri Salju. Sementara itu, Putri Salju berlindung pada tujuh kurcaci penambang emas.\n\nRatu mengetahui kebenaran dari cerminnya. Ia mencoba membunuh Putri Salju tiga kali sendiri. Pertama, menyamar sebagai pedagang, ia mengikat Putri Salju dengan korset begitu kencang hingga pingsan. Kurcaci memotongnya. Kedua, ia menggunakan sisir beracun. Kurcaci mencabutnya. Terakhir, ia menggunakan apel beracun. Putri Salju memakan bagian merahnya dan jatuh dalam tidur seperti mati. Kurcaci tak bisa membangunkannya, jadi mereka menaruhnya di peti kaca di gunung.\n\nSeorang Pangeran melihat mayat cantik itu dan memohon pada kurcaci untuk memilikinya. Saat pelayannya menggotong peti, mereka tersandung akar. Guncangan itu mengeluarkan potongan apel beracun dari tenggorokan Putri Salju. Ia bangun! Pangeran langsung menikahinya.\n\nMereka mengundang Ratu Jahat ke pernikahan. Saat tiba, ia melihat Putri Salju dan membeku ketakutan. Sepatu besi telah dipanaskan di api hingga membara merah. Sepatu itu diletakkan di depan Ratu. Ia dipaksa memakainya dan menari sampai ia jatuh mati."
+          }
+        },
+        {
+          "id": "what_if_5_necro_prince",
+          "type": "what_if",
+          "title": {
+            "en": "The Collector",
+            "id": "Sang Kolektor"
+          },
+          "content": {
+            "en": "The Prince didn't want a wife; he wanted a doll. He had a collection of preserved 'beauties' in his castle. When the coffin stumbled and Snow White woke up, he wasn't overjoyed—he was furious.\n\n'You ruined it!' he screamed. He drew his sword to put her back to sleep permanently. The dwarfs, realizing their mistake in trusting this stranger, attacked him with their pickaxes. They saved Snow White, but they learned a grim lesson: sometimes the monster isn't the witch offering an apple, but the handsome stranger offering a kiss.",
+            "id": "Pangeran tidak menginginkan istri; ia menginginkan boneka. Ia punya koleksi 'wanita cantik' yang diawetkan di istananya. Saat peti tersandung dan Putri Salju bangun, ia tidak gembira—ia murka.\n\n'Kau merusaknya!' teriaknya. Ia menghunus pedang untuk menidurkannya kembali secara permanen. Para kurcaci, menyadari kesalahan mereka mempercayai orang asing ini, menyerangnya dengan beliung. Mereka menyelamatkan Putri Salju, tapi belajar pelajaran suram: terkadang monsternya bukan penyihir yang menawarkan apel, tapi orang asing tampan yang menawarkan ciuman."
+          }
+        },
+        {
+          "id": "what_if_5_snow_vampire",
+          "type": "what_if",
+          "title": {
+            "en": "Skin as White as Death",
+            "id": "Kulit Seputih Kematian"
+          },
+          "content": {
+            "en": "Snow White didn't survive the apple because of luck. She survived because she was already undead. Her mother wished for a child 'white as snow, red as blood'—and she got a vampire.\n\nThe Queen hunted her not out of jealousy, but out of duty as a monster hunter. The mirror wasn't vain; it was a dark detector. When the Prince woke Snow White, he didn't break a curse; he unleashed a plague. The wedding feast became a massacre as the new Queen drank the blood of the entire court, finally achieving the redness she was promised.",
+            "id": "Putri Salju tidak selamat dari apel karena keberuntungan. Ia selamat karena ia sudah menjadi mayat hidup. Ibunya berharap anak 'seputih salju, semerah darah'—dan ia mendapatkan vampir.\n\nRatu memburunya bukan karena cemburu, tapi karena tugas sebagai pemburu monster. Cermin itu tidak sombong; itu adalah detektor kegelapan. Saat Pangeran membangunkan Putri Salju, ia tidak mematahkan kutukan; ia melepaskan wabah. Pesta pernikahan berubah menjadi pembantaian saat Ratu baru meminum darah seluruh istana, akhirnya mencapai warna merah yang dijanjikan padanya."
+          }
+        },
+        {
+          "id": "what_if_5_dwarfs_revolt",
+          "type": "what_if",
+          "title": {
+            "en": "The Union Strike",
+            "id": "Mogok Kerja"
+          },
+          "content": {
+            "en": "The dwarfs were tired of being treated as sidekicks. They mined gold all day and came home to a princess who invited danger into their sanctuary. When the Queen arrived with the apple, the dwarfs didn't chase her away; they negotiated.\n\n'Take her,' they said. 'She eats our food and brings assassins to our door.' They traded Snow White for the Queen's magic mirror, which could tell them where the biggest gold veins were. Snow White was taken back to the castle dungeon, and the dwarfs became the richest tycoons in the land, proving that solidarity beats royalty.",
+            "id": "Para kurcaci lelah diperlakukan sebagai peran pembantu. Mereka menambang emas seharian dan pulang ke rumah yang dimasuki bahaya oleh seorang putri. Saat Ratu datang dengan apel, kurcaci tidak mengusirnya; mereka bernegosiasi.\n\n'Ambil dia,' kata mereka. 'Dia memakan makanan kami dan membawa pembunuh ke pintu kami.' Mereka menukar Putri Salju dengan cermin ajaib Ratu, yang bisa memberi tahu letak urat emas terbesar. Putri Salju dibawa kembali ke penjara bawah tanah istana, dan para kurcaci menjadi taipan terkaya di negeri itu, membuktikan bahwa solidaritas mengalahkan bangsawan."
+          }
+        },
+        {
+          "id": "what_if_5_mirror_mastermind",
+          "type": "what_if",
+          "title": {
+            "en": "The Mirror's Game",
+            "id": "Permainan Cermin"
+          },
+          "content": {
+            "en": "The Queen wasn't evil; the Mirror was. It was a sentient artifact that fed on conflict. It lied to the Queen about Snow White's beauty to provoke murder. It lied to Snow White about the Queen's death to lure her back.\n\nIn the end, with the Queen dead dancing in iron shoes and Snow White traumatized, the Mirror was moved to the Prince's castle. There, it whispered to Snow White: 'You are fair, my Queen... but your daughter is fairer.' The cycle of jealousy began anew, orchestrated by a piece of glass that would never die.",
+            "id": "Ratu tidak jahat; Cerminlah yang jahat. Itu adalah artefak hidup yang memakan konflik. Ia berbohong pada Ratu tentang kecantikan Putri Salju untuk memprovokasi pembunuhan. Ia berbohong pada Putri Salju tentang kematian Ratu untuk memancingnya kembali.\n\nPada akhirnya, dengan Ratu mati menari di sepatu besi dan Putri Salju trauma, Cermin dipindahkan ke istana Pangeran. Di sana, ia berbisik pada Putri Salju: 'Kau cantik, Ratuku... tapi putrimu lebih cantik.' Siklus kecemburuan dimulai lagi, didalangi oleh sepotong kaca yang tak akan pernah mati."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Rumpelstiltskin",
+        "id": "Rumpelstiltskin"
+      },
+      "preview": {
+        "en": "A miller lies that his daughter can spin straw into gold. A little man helps her for a terrible price: her firstborn child.",
+        "id": "Seorang penggiling berbohong bahwa putrinya bisa memintal jerami jadi emas. Seorang pria kecil membantunya dengan harga mengerikan: anak pertamanya."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Name Game",
+            "id": "Permainan Nama"
+          },
+          "content": {
+            "en": "A miller, trying to impress the King, lied that his beautiful daughter could spin straw into gold. The greedy King locked the girl in a room full of straw and threatened to kill her if she didn't spin it by morning. The girl wept, for she had no such power.\n\nSuddenly, a little man appeared. 'What will you give me if I spin it for you?' he asked. She gave him her necklace. He spun the straw into gold. The next night, the King demanded more. The little man returned and took her ring. On the third night, the King promised to marry her if she spun a whole roomful, but threatened execution if she failed. The girl had nothing left to give.\n\n'Promise me your first child when you are Queen,' the little man demanded. Desperate, she agreed. He spun the gold, and the King married her. A year later, she gave birth. The little man appeared to claim his prize. The Queen begged for mercy. Pitying her slightly, he gave her three days: 'If you can guess my name, you shall keep your child.'\n\nShe guessed every name in the kingdom—Caspar, Melchior, Balthazar—but all were wrong. On the final night, her messenger saw a strange little man dancing around a fire in the woods, singing: 'Tonight, tonight, my plans I make, tomorrow tomorrow, the baby I take. The Queen will never win the game, for Rumpelstiltskin is my name!'\n\nThe messenger told the Queen. When the little man returned, she teased him: 'Is your name Kunz? Is it Heinz?' 'No.' 'Is it... Rumpelstiltskin?'\n\nThe little man screamed, 'The devil told you that!' In his fury, he stomped his right foot so deep into the earth that he sank to his waist. Then, in a rage, he seized his left foot with both hands and tore himself in two.",
+            "id": "Seorang penggiling, mencoba membuat Raja terkesan, berbohong bahwa putrinya yang cantik bisa memintal jerami menjadi emas. Raja yang serakah mengunci gadis itu di kamar penuh jerami dan mengancam akan membunuhnya jika tidak selesai memintal di pagi hari. Gadis itu menangis, karena dia tidak punya kekuatan itu.\n\nTiba-tiba, seorang pria kecil muncul. 'Apa yang akan kau berikan jika aku memintalnya untukmu?' tanyanya. Dia memberinya kalungnya. Pria itu memintal jerami jadi emas. Malam berikutnya, Raja menuntut lebih banyak. Pria kecil itu kembali dan mengambil cincinnya. Pada malam ketiga, Raja berjanji menikahinya jika ia memintal semarung penuh, tapi mengancam eksekusi jika gagal. Gadis itu tak punya apa-apa lagi.\n\n'Janjikan anak pertamamu saat kau jadi Ratu,' tuntut pria kecil itu. Putus asa, ia setuju. Pria itu memintal emas, dan Raja menikahinya. Setahun kemudian, ia melahirkan. Pria kecil itu muncul menagih janji. Ratu memohon belas kasihan. Sedikit kasihan, ia memberinya tiga hari: 'Jika kau bisa menebak namaku, kau boleh menyimpan anakmu.'\n\nIa menebak semua nama di kerajaan—Caspar, Melchior, Balthazar—tapi semua salah. Pada malam terakhir, utusannya melihat pria kecil aneh menari di sekeliling api di hutan, bernyanyi: 'Malam ini, malam ini, rencanaku kubuat, besok besok, bayi itu kuambil. Ratu takkan pernah menang, karena Rumpelstiltskin namaku!'\n\nUtusan itu memberi tahu Ratu. Saat pria kecil itu kembali, ia menggodanya: 'Apakah namamu Kunz? Apakah Heinz?' 'Bukan.' 'Apakah itu... Rumpelstiltskin?'\n\nPria kecil itu menjerit, 'Iblis memberitahumu itu!' Dalam kemurkaannya, ia menghentakkan kaki kanannya begitu dalam ke tanah hingga ia tenggelam sampai pinggang. Lalu, dengan amarah, ia meraih kaki kirinya dengan kedua tangan dan merobek dirinya sendiri jadi dua."
+          }
+        },
+        {
+          "id": "what_if_6_queen_villain",
+          "type": "what_if",
+          "title": {
+            "en": "The Miller's Daughter",
+            "id": "Putri Penggiling"
+          },
+          "content": {
+            "en": "The Queen didn't guess the name because of a lucky messenger. She knew magic too. She had manipulated the imp from the start.\n\nWhen Rumpelstiltskin came for the child, she didn't beg. She trapped him in a circle of salt. 'You thought you were the trickster?' she laughed. She forced him to spin gold for the kingdom eternally, enslaving him. The 'tear himself in two' story was just propaganda she spread to explain his disappearance. The kingdom prospered on infinite gold, built on the back of a magical slave in the dungeon.",
+            "id": "Ratu tidak menebak nama itu karena utusan yang beruntung. Ia juga tahu sihir. Ia telah memanipulasi makhluk itu sejak awal.\n\nSaat Rumpelstiltskin datang mengambil anak itu, ia tidak memohon. Ia menjebaknya dalam lingkaran garam. 'Kau pikir kaulah penipunya?' tawanya. Ia memaksanya memintal emas untuk kerajaan selamanya, memperbudaknya. Cerita 'merobek diri jadi dua' hanyalah propaganda yang ia sebarkan untuk menjelaskan hilangnya makhluk itu. Kerajaan makmur dengan emas tak terbatas, dibangun di atas punggung budak sihir di penjara bawah tanah."
+          }
+        },
+        {
+          "id": "what_if_6_imp_father",
+          "type": "what_if",
+          "title": {
+            "en": "The True Father",
+            "id": "Ayah Sejati"
+          },
+          "content": {
+            "en": "Rumpelstiltskin didn't want the baby to eat it. He wanted to save it. He knew the King was a greedy tyrant who would eventually sell his own child for more power.\n\nThe imp was actually the baby's true protector (or father, in a magical sense). When the Queen guessed his name, she condemned her child to grow up in a loveless court of vipers. Rumpelstiltskin tore himself apart not out of anger, but out of grief, knowing he had failed to rescue the innocent soul from a golden cage.",
+            "id": "Rumpelstiltskin tidak menginginkan bayi itu untuk dimakan. Ia ingin menyelamatkannya. Ia tahu Raja adalah tiran serakah yang akhirnya akan menjual anaknya sendiri demi kekuasaan lebih.\n\nMakhluk itu sebenarnya adalah pelindung sejati bayi itu (atau ayah secara magis). Saat Ratu menebak namanya, ia menghukum anaknya untuk tumbuh di istana ular yang tanpa cinta. Rumpelstiltskin merobek dirinya bukan karena marah, tapi karena duka, tahu ia gagal menyelamatkan jiwa tak berdosa dari sangkar emas."
+          }
+        },
+        {
+          "id": "what_if_6_king_greedy",
+          "type": "what_if",
+          "title": {
+            "en": "Gold Fever",
+            "id": "Demam Emas"
+          },
+          "content": {
+            "en": "The King found out about the deal. He didn't care about the baby. He cared about the spinning ability.\n\nHe captured Rumpelstiltskin before the name game ended. He tortured the imp to learn the secret of straw-to-gold transmutation. The economy crashed because gold became worthless as dirt. The people revolted, storming the castle filled with useless yellow metal, and ate the 'Golden King' alive, proving that Midas's touch is always a curse.",
+            "id": "Raja mengetahui kesepakatan itu. Ia tidak peduli pada bayinya. Ia peduli pada kemampuan memintal itu.\n\nIa menangkap Rumpelstiltskin sebelum permainan nama berakhir. Ia menyiksa makhluk itu untuk mengetahui rahasia transmutasi jerami-ke-emas. Ekonomi hancur karena emas menjadi tidak berharga seperti tanah. Rakyat memberontak, menyerbu istana yang penuh logam kuning tak berguna, dan memakan 'Raja Emas' hidup-hidup, membuktikan bahwa sentuhan Midas selalu merupakan kutukan."
+          }
+        },
+        {
+          "id": "what_if_6_name_wrong",
+          "type": "what_if",
+          "title": {
+            "en": "The Wrong Name",
+            "id": "Nama yang Salah"
+          },
+          "content": {
+            "en": "The Queen guessed 'Rumpelstiltskin'. The imp smiled. 'No,' he said softly. 'That was my brother.'\n\nThe Queen turned pale. She had no more guesses. The imp took the child. But instead of vanishing, he sat on the throne. 'A deal is a deal,' he declared. 'I take the firstborn... to be my heir.' The imp raised the human child as a goblin king, returning years later to conquer the human realm with an army of changelings led by the Queen's own son.",
+            "id": "Ratu menebak 'Rumpelstiltskin'. Makhluk itu tersenyum. 'Bukan,' katanya lembut. 'Itu saudaraku.'\n\nRatu memucat. Ia tak punya tebakan lagi. Makhluk itu mengambil anak itu. Tapi alih-alih menghilang, ia duduk di takhta. 'Janji adalah janji,' serunya. 'Aku mengambil anak pertama... untuk jadi pewarisku.' Makhluk itu membesarkan anak manusia itu sebagai raja goblin, kembali bertahun-tahun kemudian untuk menaklukkan alam manusia dengan pasukan changeling yang dipimpin oleh putra Ratu sendiri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Pied Piper of Hamelin",
+        "id": "Peniup Seruling dari Hamelin"
+      },
+      "preview": {
+        "en": "A town infested with rats hires a mysterious piper. When they refuse to pay him, he plays a different tune, and the children follow him forever.",
+        "id": "Kota yang dipenuhi tikus menyewa peniup seruling misterius. Saat mereka menolak membayarnya, ia memainkan nada berbeda, dan anak-anak mengikutinya selamanya."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The Lost Children",
+            "id": "Anak-Anak yang Hilang"
+          },
+          "content": {
+            "en": "The town of Hamelin was suffering from a plague of rats. They fought the dogs and killed the cats, and bit the babies in the cradles. The desperate Mayor promised a thousand guilders to anyone who could rid them of the vermin. A tall, thin man dressed in multicolored (pied) clothes appeared, claiming he could do it.\n\nHe stepped into the street and played a strange, shrill tune on his pipe. Out came the rats! From every house and cellar, they followed him. He led them to the River Weser, where they all plunged in and drowned. The town was saved.\n\nBut when the Piper came for his money, the Mayor laughed. 'A thousand guilders for playing a tune? We will give you fifty.' The Piper warned them, 'Folks who put me in a passion may find me pipe after another fashion.' The townspeople mocked him and chased him away.\n\nOn the 26th of June, the Piper returned. This time, he played a soft, sweet melody. The rats were gone, but the children came running. Clapping and skipping, 130 children followed him out of the town gate. Their parents stood frozen, unable to move or speak as if under a spell.\n\nThe Piper led the children to the Koppelberg Hill. A great door in the mountainside opened, and they all danced inside. The door slammed shut, and they were never seen again. Only two children returned: one was blind and couldn't see where they went, the other was lame and couldn't keep up. For years, the town of Hamelin was silent, devoid of laughter, a grim reminder that a promise broken is a debt that must be paid.",
+            "id": "Kota Hamelin menderita wabah tikus. Mereka melawan anjing dan membunuh kucing, serta menggigit bayi di buaian. Walikota yang putus asa menjanjikan seribu guilder kepada siapa saja yang bisa menyingkirkan hama itu. Seorang pria tinggi kurus berpakaian warna-warni (pied) muncul, mengaku bisa melakukannya.\n\nIa melangkah ke jalan dan memainkan nada aneh yang melengking dengan serulingnya. Keluarlah tikus-tikus itu! Dari setiap rumah dan gudang bawah tanah, mereka mengikutinya. Ia memimpin mereka ke Sungai Weser, di mana mereka semua terjun dan tenggelam. Kota itu selamat.\n\nTapi saat Peniup Seruling datang menagih uangnya, Walikota tertawa. 'Seribu guilder untuk memainkan lagu? Kami beri kau lima puluh.' Peniup Seruling memperingatkan mereka, 'Orang yang membuatku marah mungkin akan melihatku meniup dengan cara lain.' Warga kota mengejeknya dan mengusirnya.\n\nPada tanggal 26 Juni, Peniup Seruling kembali. Kali ini, ia memainkan melodi lembut dan manis. Tikus-tikus sudah hilang, tapi anak-anaklah yang berlarian datang. Bertepuk tangan dan melompat-lompat, 130 anak mengikutinya keluar gerbang kota. Orang tua mereka berdiri membeku, tak bisa bergerak atau bicara seolah di bawah mantra.\n\nPeniup Seruling memimpin anak-anak ke Bukit Koppelberg. Sebuah pintu besar di lereng gunung terbuka, dan mereka semua menari masuk ke dalamnya. Pintu terbanting menutup, dan mereka tak pernah terlihat lagi. Hanya dua anak yang kembali: satu buta dan tak bisa melihat ke mana mereka pergi, satu lagi pincang dan tak bisa mengejar. Selama bertahun-tahun, kota Hamelin sunyi, tanpa tawa, pengingat suram bahwa janji yang diingkari adalah utang yang harus dibayar."
+          }
+        },
+        {
+          "id": "what_if_7_rats_transformed",
+          "type": "what_if",
+          "title": {
+            "en": "The Transmutation",
+            "id": "Transmutasi"
+          },
+          "content": {
+            "en": "The Piper didn't drown the rats. He was a master of polymorphy. When he led the rats to the river, he didn't kill them; he hid them.\n\nWhen the town refused to pay, he didn't lure the children away. He simply reversed the spell on the 'rats'. The vermin that had been biting babies turned back into the town's lost children from years ago. The current children turned into rats. The town was left with a generation of confused teenagers and a new plague of vermin that looked suspiciously like their sons and daughters. The Piper left laughing, having taught them that if you treat people like pests, pests they shall become.",
+            "id": "Peniup Seruling tidak menenggelamkan tikus-tikus itu. Ia adalah ahli polimorf (pengubah bentuk). Saat ia memimpin tikus ke sungai, ia tidak membunuh mereka; ia menyembunyikan mereka.\n\nSaat kota menolak membayar, ia tidak memancing anak-anak pergi. Ia hanya membalikkan mantra pada 'tikus-tikus' itu. Hama yang menggigit bayi-bayi itu berubah kembali menjadi anak-anak kota yang hilang bertahun-tahun lalu. Anak-anak yang sekarang berubah menjadi tikus. Kota itu ditinggalkan dengan generasi remaja yang bingung dan wabah hama baru yang tampak mencurigakan mirip putra-putri mereka. Peniup Seruling pergi sambil tertawa, mengajarkan bahwa jika kau memperlakukan orang seperti hama, maka jadilah mereka hama."
+          }
+        },
+        {
+          "id": "what_if_7_children_saved",
+          "type": "what_if",
+          "title": {
+            "en": "The Rescue Mission",
+            "id": "Misi Penyelamatan"
+          },
+          "content": {
+            "en": "The Piper wasn't a villain; he was a savior. Hamelin was a cruel, abusive town that exploited its children for labor. The 'rats' were a manifestation of the town's filth and sin.\n\nWhen he led the children into the mountain, he didn't kidnap them; he liberated them. Inside the mountain lay a utopian valley where no adult could enter. The children grew up free and happy, while Hamelin slowly died out, a grey town of old, bitter people who realized too late that their wealth meant nothing without a future to inherit it.",
+            "id": "Peniup Seruling bukan penjahat; ia penyelamat. Hamelin adalah kota kejam yang mengeksploitasi anak-anaknya untuk buruh. 'Tikus-tikus' itu adalah manifestasi dari kotoran dan dosa kota itu.\n\nSaat ia memimpin anak-anak ke dalam gunung, ia tidak menculik mereka; ia membebaskan mereka. Di dalam gunung terhampar lembah utopia di mana orang dewasa tak bisa masuk. Anak-anak tumbuh bebas dan bahagia, sementara Hamelin perlahan mati, menjadi kota abu-abu berisi orang tua yang pahit, yang terlambat menyadari bahwa kekayaan mereka tak berarti tanpa masa depan untuk mewarisinya."
+          }
+        },
+        {
+          "id": "what_if_7_piper_death",
+          "type": "what_if",
+          "title": {
+            "en": "The Deaf Child",
+            "id": "Anak Tuli"
+          },
+          "content": {
+            "en": "There was one child who didn't follow: a deaf boy who couldn't hear the music. He saw his friends walking into the river like zombies. He realized the Piper was leading them to mass suicide, not a magical land.\n\nThe deaf boy threw a rock, hitting the Piper in the head. The music stopped. The spell broke. The children woke up on the edge of the cliff, terrified. The townspeople, seeing the danger, swarmed the Piper and tore him apart. The deaf boy was hailed as a hero, but he never smiled again, haunted by the silent melody he saw in the Piper's dying eyes.",
+            "id": "Ada satu anak yang tidak mengikuti: seorang bocah tuli yang tak bisa mendengar musik itu. Ia melihat teman-temannya berjalan ke sungai seperti zombie. Ia sadar Peniup Seruling memimpin mereka menuju bunuh diri massal, bukan negeri ajaib.\n\nBocah tuli itu melempar batu, mengenai kepala Peniup Seruling. Musik berhenti. Mantra pecah. Anak-anak terbangun di tepi jurang, ketakutan. Warga kota, melihat bahaya itu, mengeroyok Peniup Seruling dan mencabik-cabiknya. Bocah tuli itu dipuja sebagai pahlawan, tapi ia tak pernah tersenyum lagi, dihantui oleh melodi sunyi yang ia lihat di mata Peniup Seruling yang sekarat."
+          }
+        },
+        {
+          "id": "what_if_7_dance_macabre",
+          "type": "what_if",
+          "title": {
+            "en": "The Eternal Dance",
+            "id": "Tarian Abadi"
+          },
+          "content": {
+            "en": "The mountain didn't close. The music never stopped. The children just kept dancing. They danced out of Hamelin, across the country, through wars and famines, never eating, never sleeping, their feet bleeding but moving to the infernal rhythm.\n\nThey became a legend: The Dancing Plague. They swept through other towns, compelling other children to join the macabre procession. The Piper wasn't a man but a contagouis idea, a hysteria that consumed the youth of the world until there was no one left to dance but the skeletons rattling in the wind.",
+            "id": "Gunung itu tidak menutup. Musik itu tidak pernah berhenti. Anak-anak terus menari. Mereka menari keluar dari Hamelin, melintasi negeri, melewati perang dan kelaparan, tak pernah makan, tak pernah tidur, kaki mereka berdarah tapi bergerak mengikuti irama neraka.\n\nMereka menjadi legenda: Wabah Menari. Mereka menyapu kota-kota lain, memaksa anak-anak lain bergabung dalam prosesi mengerikan itu. Peniup Seruling bukanlah manusia tapi ide yang menular, histeria yang memakan pemuda dunia hingga tak ada lagi yang tersisa untuk menari selain kerangka yang bergemerincing ditiup angin."
+          }
+        }
+      ]
+    }
+  ]
+}

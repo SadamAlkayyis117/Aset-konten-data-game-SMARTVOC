@@ -1,0 +1,532 @@
+{
+  "book_id": "le_morte_darthur",
+  "title": {
+    "en": "Le Morte d'Arthur",
+    "id": "Kematian Arthur"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "en": "The Sword in the Stone",
+        "id": "Pedang dalam Batu"
+      },
+      "preview": {
+        "en": "England is in chaos without a king. A mysterious sword appears in a churchyard, waiting for the true heir.",
+        "id": "Inggris dalam kekacauan tanpa raja. Sebuah pedang misterius muncul di halaman gereja, menanti pewaris sejati."
+      },
+      "routes": [
+        {
+          "id": "canon_1",
+          "type": "canon",
+          "title": {
+            "en": "The Boy King",
+            "id": "Raja Muda"
+          },
+          "content": {
+            "en": "It befell in the days of Uther Pendragon, when he was King of all England, and so reigned, that there was a mighty duke in Cornwall that held war against him long time. But King Uther died, and for years the realm stood in great jeopardy, for every lord that was mighty of men made him strong, and many weened to have been king.\n\nThen Merlin went to the Archbishop of Canterbury, and counseled him to send for all the lords of the realm to come to London by Christmas. And in the greatest church of London, there was seen in the churchyard, against the high altar, a great stone four square, like unto a marble stone; and in midst thereof was like an anvil of steel a foot on high, and therein stuck a fair sword naked by the point, and letters there were written in gold about the sword that said thus: 'Whoso pulleth out this sword of this stone and anvil is rightwise king born of all England.'\n\nMany tried, but none could stir the sword. So it was ordained that on New Year's Day a tournament should be held. To this tournament came Sir Ector, a noble knight, with his son Sir Kay, and young Arthur, who was Kay's foster brother.\n\nAs they rode to the jousts, Sir Kay realized he had left his sword at his father's lodging. He prayed young Arthur to ride for it. 'I will well,' said Arthur, and rode fast back. But the lodging was locked. Then Arthur said to himself, 'I will ride to the churchyard, and take the sword with me that sticketh in the stone, for my brother Sir Kay shall not be without a sword this day.'\n\nArthur came to the churchyard. No knights were there, for they were at the jousting. He took the sword by the handles, and lightly and fiercely pulled it out of the stone. He rode straight to Sir Kay and delivered the sword.\n\nWhen Sir Kay saw the sword, he knew well it was the Sword of the Stone. He rode to his father Sir Ector and said: 'Sir, lo here is the Sword of the Stone, wherefore I must be King of this land.'\n\nBut Sir Ector made them go back to the church and swore his son upon a book. 'How gat ye this sword?' asked Ector. Kay answered, 'By my brother Arthur, for he brought it to me.' Then Sir Ector turned to Arthur. 'Found ye this sword?' Arthur said, 'Yes.' Ector said, 'Now I understand ye must be King of this land.' 'Wherefore I?' said Arthur, 'and for what cause?' 'Sir,' said Ector, 'for God will have it so; for there should never man have drawn out this sword, but he that shall be rightwise King of this land.'\n\nSir Ector and Sir Kay knelt before Arthur. 'Alas,' said Arthur, 'mine own dear father and brother, why kneel ye to me?' Then Ector told him the truth: that Arthur was not his blood son, but given to him by Merlin years ago. Arthur wept, for he loved Ector deeply.\n\nAt the feast of Pentecost, all the barons tried again to pull the sword, but only Arthur could do it. The lords were angry, saying it was a shame to be governed by a boy of no high blood. But the common people cried out: 'We will have Arthur unto our King! We will no more delay, for we see that it is God's will.' And so Arthur was crowned, and he swore to his lords and commons to be a true King, to stand with true justice from that day forth.",
+            "id": "Terjadi pada masa Uther Pendragon, ketika ia menjadi Raja seluruh Inggris, bahwa ada seorang adipati perkasa di Cornwall yang lama berperang melawannya. Namun Raja Uther wafat, dan selama bertahun-tahun kerajaan berada dalam bahaya besar, karena setiap tuan tanah yang kuat memperkuat dirinya sendiri, dan banyak yang berambisi menjadi raja.\n\nKemudian Merlin pergi menghadap Uskup Agung Canterbury, dan menasihatinya untuk memanggil semua bangsawan kerajaan datang ke London menjelang Natal. Dan di gereja terbesar di London, terlihat di halaman gereja, di depan altar tinggi, sebuah batu besar persegi empat, seperti marmer; dan di tengahnya ada landasan besi setinggi satu kaki, dan di dalamnya tertancap sebilah pedang indah yang telanjang pada ujungnya, dan tertulis huruf-huruf emas di sekitar pedang itu yang berbunyi: 'Barangsiapa menarik pedang ini dari batu dan landasan ini adalah raja sah seluruh Inggris.'\n\nBanyak yang mencoba, tetapi tidak ada yang bisa menggerakkan pedang itu. Maka diputuskanlah bahwa pada Hari Tahun Baru akan diadakan turnamen. Ke turnamen ini datanglah Sir Ector, seorang ksatria mulia, bersama putranya Sir Kay, dan Arthur muda, saudara angkat Kay.\n\nSaat mereka berkuda menuju arena tombak, Sir Kay menyadari pedangnya tertinggal di penginapan ayahnya. Ia memohon Arthur muda untuk mengambilnya. 'Aku akan melakukannya,' kata Arthur, dan berkuda cepat kembali. Tapi penginapan itu terkunci. Kemudian Arthur berkata pada dirinya sendiri, 'Aku akan pergi ke halaman gereja, dan mengambil pedang yang tertancap di batu itu, karena saudaraku Sir Kay tidak boleh tanpa pedang hari ini.'\n\nArthur tiba di halaman gereja. Tidak ada ksatria di sana, karena mereka sedang di arena. Ia memegang gagang pedang, dan dengan ringan namun kuat menariknya keluar dari batu. Ia berkuda langsung ke Sir Kay dan menyerahkan pedang itu.\n\nKetika Sir Kay melihat pedang itu, ia tahu betul itu adalah Pedang dalam Batu. Ia berkuda ke ayahnya Sir Ector dan berkata: 'Tuan, lihatlah ini Pedang dalam Batu, karena itu aku harus menjadi Raja negeri ini.'\n\nTetapi Sir Ector menyuruh mereka kembali ke gereja dan menyumpah putranya di atas kitab suci. 'Bagaimana kau mendapatkan pedang ini?' tanya Ector. Kay menjawab, 'Dari saudaraku Arthur, dia yang membawakannya untukku.' Kemudian Sir Ector berpaling ke Arthur. 'Kau yang menemukan pedang ini?' Arthur berkata, 'Ya.' Ector berkata, 'Sekarang aku mengerti kau harus menjadi Raja negeri ini.' 'Kenapa aku?' kata Arthur, 'dan karena sebab apa?' 'Tuan,' kata Ector, 'karena Tuhan menghendakinya demikian; karena tidak ada manusia yang bisa mencabut pedang ini, kecuali dia yang akan menjadi Raja sah negeri ini.'\n\nSir Ector dan Sir Kay berlutut di depan Arthur. 'Aduh,' kata Arthur, 'ayah dan saudara terkasihku, kenapa kalian berlutut padaku?' Kemudian Ector memberitahunya kebenaran: bahwa Arthur bukan anak kandungnya, tetapi diserahkan kepadanya oleh Merlin bertahun-tahun lalu. Arthur menangis, karena ia sangat mencintai Ector.\n\nPada pesta Pentakosta, semua baron mencoba lagi menarik pedang itu, tetapi hanya Arthur yang bisa melakukannya. Para bangsawan marah, mengatakan memalukan diperintah oleh seorang anak tanpa darah bangsawan tinggi. Tetapi rakyat jelata berteriak: 'Kami ingin Arthur menjadi Raja kami! Kami tidak akan menunda lagi, karena kami melihat ini adalah kehendak Tuhan.' Maka Arthur dinobatkan, dan ia bersumpah kepada para bangsawan dan rakyat jelata untuk menjadi Raja sejati, dan menegakkan keadilan sejati sejak hari itu."
+          }
+        },
+        {
+          "id": "what_if_1_reluctant",
+          "type": "what_if",
+          "title": {
+            "en": "The Reluctant King",
+            "id": "Raja yang Enggan"
+          },
+          "content": {
+            "en": "When Sir Ector and Sir Kay knelt before him in the churchyard, Arthur trembled. The weight of the crown felt like a crushing burden, not a blessing. 'I am no king!' Arthur cried, backing away from the sword he had just driven back into the stone. 'I am but a squire! I want no part of this!'\n\nIgnoring Merlin's shadowy figure emerging from the cloisters, Arthur turned and ran. He fled the city of London, disappearing into the wild forests. Without a king to unite them, the barons turned on each other with renewed fury.\n\nTen years passed. England became a land of warlords and robber knights. The common people suffered under heavy taxes and constant raids. The sword remained in the stone, rusted and forgotten, overgrown with ivy.\n\nArthur, now a grown man living as a nameless forester, saw a village burned by soldiers bearing the banner of King Lot—a tyrant who claimed the throne by force. Overcome with guilt, Arthur realized his cowardice had cost his people their freedom. He returned to London, not as a boy seeking a sword, but as a man seeking redemption. But the magic of the stone had faded. The sword would not move for him anymore. He had refused his destiny once, and magic does not offer second chances easily.\n\nWith no Excalibur and no Merlin to guide him, Arthur had to rally the people with words alone. He raised a peasant army, fighting with a simple iron axe, proving that a true king is made by his heart, not by a magic sword.",
+            "id": "Ketika Sir Ector dan Sir Kay berlutut di hadapannya di halaman gereja, Arthur gemetar. Beban mahkota itu terasa menghancurkan, bukan sebuah anugerah. 'Aku bukan raja!' teriak Arthur, mundur menjauhi pedang yang baru saja ia tancapkan kembali ke batu. 'Aku hanyalah seorang pelayan! Aku tidak menginginkan semua ini!'\n\nMengabaikan sosok bayangan Merlin yang muncul dari lorong biara, Arthur berbalik dan lari. Ia melarikan diri dari kota London, menghilang ke dalam hutan liar. Tanpa raja untuk menyatukan mereka, para baron saling menyerang dengan kemarahan yang baru.\n\nSepuluh tahun berlalu. Inggris menjadi tanah para panglima perang dan ksatria perampok. Rakyat jelata menderita di bawah pajak tinggi dan penjarahan terus-menerus. Pedang itu tetap di batu, berkarat dan terlupakan, ditumbuhi tanaman merambat.\n\nArthur, kini pria dewasa yang hidup sebagai penjaga hutan tanpa nama, melihat sebuah desa dibakar oleh tentara yang membawa panji Raja Lot—seorang tiran yang mengklaim takhta dengan kekerasan. Diliputi rasa bersalah, Arthur menyadari pengecutnya telah mengorbankan kebebasan rakyatnya. Ia kembali ke London, bukan sebagai bocah yang mencari pedang, tapi sebagai pria yang mencari penebusan. Namun sihir batu itu telah pudar. Pedang itu tidak mau bergerak lagi untuknya. Ia telah menolak takdirnya sekali, dan sihir tidak memberikan kesempatan kedua dengan mudah.\n\nTanpa Excalibur dan tanpa Merlin untuk membimbingnya, Arthur harus menggalang rakyat dengan kata-kata saja. Ia membangkitkan tentara petani, bertarung dengan kapak besi sederhana, membuktikan bahwa raja sejati dibentuk oleh hatinya, bukan oleh pedang ajaib."
+          }
+        },
+        {
+          "id": "what_if_1_pretender",
+          "type": "what_if",
+          "title": {
+            "en": "The Pretender King",
+            "id": "Raja Palsu"
+          },
+          "content": {
+            "en": "The night before the tournament, a shadow crept into the churchyard. It was not a knight, but Morgan le Fay, Arthur's half-sister and sorceress. She knew of Merlin's prophecy and sought to twist it. With a forbidden spell fueled by blood, she weakened the enchantment binding the sword to the stone, just for a few hours.\n\nWhen dawn broke, before Arthur even woke up, a roar erupted from the crowd. Sir Lot of Orkney, a brutal and ambitious warlord allied with Morgan, had stepped up to the stone. With a grunt of effort—and a subtle flash of green magic from Morgan in the crowd—the sword slid out. It was not smooth, it scraped and shrieked, but it came out. The people were stunned into silence, then terrified cheers erupted. 'All hail King Lot!'\n\nArthur arrived moments later, breathless, only to see Lot holding the sword high. Merlin watched from the shadows, his face grim; the prophecy had been hacked. When Arthur tried to speak, claiming he felt a pull to the sword, Lot laughed. 'Seize this peasant boy!' he ordered. 'He dares to covet the King's weapon!'\n\nArthur was thrown into the dungeons of Camelot, labeled a traitor. There, in the dark, he didn't learn to be a noble king. He learned to survive. He learned that laws are for the rich and that justice is a lie told by the powerful. He wasn't raised by Merlin's wisdom, but by the whispers of other prisoners—thieves, rebels, and old knights loyal to Uther who saw Lot for the tyrant he was.\n\nFive years later, a mysterious fire broke out in the dungeons. Arthur escaped, scarred and hardened. He didn't flee England. Instead, he stole a nameless sword from a dead guard and vanished into the city's underbelly. He began to gather a different kind of Round Table—not of shining knights, but of spies, assassins, and freedom fighters. He would not be the King given by God; he would be the King who took his crown back in blood. The Sword in the Stone was gone, stolen by a lie. Now, the Sword in the Shadows would rise.",
+            "id": "Malam sebelum turnamen, sebuah bayangan menyelinap ke halaman gereja. Itu bukan ksatria, melainkan Morgan le Fay, saudari tiri Arthur dan penyihir wanita. Dia tahu ramalan Merlin dan berniat memelintirnya. Dengan mantra terlarang yang dipicu oleh darah, dia melemahkan sihir yang mengikat pedang ke batu itu, hanya untuk beberapa jam.\n\nSaat fajar menyingsing, bahkan sebelum Arthur bangun, gemuruh meledak dari kerumunan. Sir Lot dari Orkney, panglima perang brutal dan ambisius yang bersekutu dengan Morgan, telah melangkah ke batu itu. Dengan erangan usaha—dan kilatan samar sihir hijau dari Morgan di kerumunan—pedang itu meluncur keluar. Tidak mulus, pedang itu bergesekan dan memekik, tapi ia keluar. Rakyat tertegun diam, lalu sorakan ketakutan meledak. 'Hidup Raja Lot!'\n\nArthur tiba beberapa saat kemudian, terengah-engah, hanya untuk melihat Lot mengangkat pedang itu tinggi-tinggi. Merlin mengamati dari bayang-bayang, wajahnya suram; ramalan itu telah diretas. Ketika Arthur mencoba bicara, mengklaim dia merasakan tarikan pada pedang itu, Lot tertawa. 'Tangkap bocah petani ini!' perintahnya. 'Dia berani mengingini senjata Raja!'\n\nArthur dilemparkan ke penjara bawah tanah Camelot, dicap sebagai pengkhianat. Di sana, dalam kegelapan, dia tidak belajar menjadi raja yang mulia. Dia belajar untuk bertahan hidup. Dia belajar bahwa hukum adalah untuk orang kaya dan keadilan adalah kebohongan yang diceritakan oleh penguasa. Dia tidak dibesarkan oleh kebijaksanaan Merlin, melainkan oleh bisikan tahanan lain—pencuri, pemberontak, dan ksatria tua setia pada Uther yang melihat Lot sebagai tiran.\n\nLima tahun kemudian, kebakaran misterius terjadi di penjara. Arthur melarikan diri, penuh luka parut dan hati yang keras. Dia tidak lari dari Inggris. Sebaliknya, dia mencuri pedang tanpa nama dari penjaga yang mati dan menghilang ke perut kota. Dia mulai mengumpulkan Meja Bundar jenis lain—bukan ksatria berkilau, tapi mata-mata, pembunuh, dan pejuang kebebasan. Dia tidak akan menjadi Raja yang diberikan Tuhan; dia akan menjadi Raja yang merebut kembali mahkotanya dengan darah. Pedang dalam Batu telah hilang, dicuri oleh kebohongan. Kini, Pedang dalam Bayangan akan bangkit."
+          }
+        },
+        {
+          "id": "what_if_1_cursed",
+          "type": "what_if",
+          "title": {
+            "en": "The Cursed Sovereign",
+            "id": "Penguasa Terkutuk"
+          },
+          "content": {
+            "en": "Arthur grasped the hilt, but the moment his skin touched the leather, a cold shock pierced his heart. It wasn't the warmth of destiny he felt, but an icy, ancient hunger. The sword slid out effortlessly, but as he raised it, the blade turned pitch black, absorbing the sunlight around it. The crowd didn't cheer; they gasped in horror as the sky above London darkened instantly.\n\nMerlin stepped forward, eyes wide. 'Put it back, boy!' he screamed, a fear in his voice that no one had ever heard. 'That is not the sword I forged! Morgan has switched them!'\n\nBut Arthur couldn't let go. The sword had fused to his hand, tendrils of black shadow creeping up his arm. A voice whispered in his mind, louder than his own thoughts: *'Kill them. Kill the doubters. Rule them all.'* Sir Kay tried to approach him, 'Arthur?'\n\nArthur swung. It wasn't his will, but the sword's reflex. A wave of dark energy slashed through the air, knocking Kay and Ector back, unconscious. The nobles drew their weapons, seeing a monster, not a king.\n\n'I... I am King!' Arthur shouted, his voice layered with a demonic echo. He fought his way out of the churchyard, not with skill, but with brutal, supernatural force. Every man he cut down fed the sword, and in turn, fed him strength, erasing his fear and replacing it with arrogance.\n\nHe fled to the desolate ruins of Tintagel. There, the sword slowly corrupted him. He became the 'Black King'. He didn't build Camelot as a beacon of hope, but as a fortress of fear. Knights came to him not out of loyalty, but out of terror or desire for dark power. Merlin was banished, unable to approach the boy he failed to protect.\n\nArthur sat on a throne of jagged obsidian, lonely and weeping inside, while his body issued orders of conquest. He was the undisputed King of England, powerful beyond measure, but he was also the sword's first prisoner. The age of gold never came; the age of shadow had begun.",
+            "id": "Arthur menggenggam gagangnya, tapi saat kulitnya menyentuh kulit pembungkus itu, kejutan dingin menusuk jantungnya. Bukan kehangatan takdir yang ia rasakan, melainkan kelaparan kuno yang sedingin es. Pedang itu meluncur keluar dengan mudah, tapi saat ia mengangkatnya, bilahnya berubah menjadi hitam pekat, menyerap cahaya matahari di sekitarnya. Kerumunan tidak bersorak; mereka tersentak ngeri saat langit di atas London mendadak menjadi gelap.\n\nMerlin melangkah maju, matanya terbelalak. 'Kembalikan, Nak!' teriaknya, ketakutan dalam suaranya yang belum pernah didengar siapa pun. 'Itu bukan pedang yang kutempa! Morgan telah menukarnya!'\n\nTapi Arthur tidak bisa melepaskannya. Pedang itu telah menyatu dengan tangannya, sulur-sulur bayangan hitam merambat naik ke lengannya. Sebuah suara berbisik di benaknya, lebih keras dari pikirannya sendiri: *'Bunuh mereka. Bunuh para peragu. Kuasai mereka semua.'* Sir Kay mencoba mendekatinya, 'Arthur?'\n\nArthur mengayun. Itu bukan kehendaknya, tapi refleks pedang itu. Gelombang energi gelap menebas udara, melempar Kay dan Ector ke belakang, pingsan. Para bangsawan menghunus senjata mereka, melihat monster, bukan raja.\n\n'Aku... Aku adalah Raja!' teriak Arthur, suaranya berlapis dengan gema iblis. Ia bertarung keluar dari halaman gereja, bukan dengan keahlian, tapi dengan kekuatan supernatural yang brutal. Setiap orang yang ia tebas memberi makan pedang itu, dan gantinya, memberinya kekuatan, menghapus rasa takutnya dan menggantinya dengan keangkuhan.\n\nIa melarikan diri ke reruntuhan sunyi Tintagel. Di sana, pedang itu perlahan mengorupsinya. Ia menjadi 'Raja Hitam'. Ia tidak membangun Camelot sebagai suar harapan, tapi sebagai benteng ketakutan. Ksatria datang padanya bukan karena kesetiaan, tapi karena teror atau hasrat akan kekuatan gelap. Merlin diasingkan, tidak mampu mendekati bocah yang gagal ia lindungi.\n\nArthur duduk di atas takhta obsidian tajam, kesepian dan menangis di dalam hati, sementara tubuhnya mengeluarkan perintah penaklukan. Ia adalah Raja Inggris yang tak terbantahkan, kuat tak terukur, tapi ia juga adalah tawanan pertama pedang itu. Zaman keemasan tidak pernah datang; zaman bayangan telah dimulai."
+          }
+        },
+        {
+          "id": "what_if_1_shared",
+          "type": "what_if",
+          "title": {
+            "en": "The Twin Sovereigns",
+            "id": "Dua Penguasa"
+          },
+          "content": {
+            "en": "Arthur reached for the sword, but at that exact moment, a hooded figure leaped from the crowd, grabbing the hilt from the other side. It was a girl named Elara, a fierce commoner who believed the prophecy belonged to no noble. They tugged, eyes locked in shock, and the stone cracked. With a blinding flash, the sword didn't just come out—it split into two identical blades: Twin Excaliburs.\n\nMerlin stood aghast. 'Two souls, one destiny? The prophecy never spoke of this.' The crowd murmured. The barons laughed, 'A bastard boy and a peasant girl? England is a joke!'\n\nArthur and Elara stood back-to-back as the guards advanced. They fought instinctively, their movements mirroring each other perfectly, as if the swords were connected by an invisible thread. They drove the attackers back, forcing a stalemate.\n\nThey were forced to flee together, an uneasy alliance formed. Arthur wanted peace; Elara wanted revolution against the rich. They argued constantly, their swords sparking when they clashed. But they realized one couldn't rule without the other. If one strayed too far, both swords lost their power.\n\nEngland didn't get a King. It got a Dyarchy. The Round Table became a place of fierce debate between Arthur's noble ideals and Elara's radical justice. They were the Sun and Moon of Camelot—destined to rule together, or tear the kingdom apart with their differences.",
+            "id": "Arthur meraih pedang itu, tapi pada saat yang tepat, sosok bertudung melompat dari kerumunan, mencengkeram gagang dari sisi lain. Itu adalah gadis bernama Elara, rakyat jelata yang ganas yang percaya ramalan itu bukan milik bangsawan. Mereka saling tarik, mata terkunci kaget, dan batu itu retak. Dengan kilatan menyilaukan, pedang itu tidak hanya keluar—ia terbelah menjadi dua bilah identik: Excalibur Kembar.\n\nMerlin berdiri terperanjat. 'Dua jiwa, satu takdir? Ramalan tidak pernah bicara soal ini.' Kerumunan bergumam. Para baron tertawa, 'Bocah haram dan gadis petani? Inggris adalah lelucon!'\n\nArthur dan Elara berdiri saling membelakangi saat penjaga maju. Mereka bertarung secara naluriah, gerakan mereka saling mencerminkan dengan sempurna, seolah pedang-pedang itu terhubung oleh benang tak terlihat. Mereka memukul mundur para penyerang, memaksakan jalan buntu.\n\nMereka terpaksa melarikan diri bersama, sebuah aliansi yang canggung terbentuk. Arthur menginginkan perdamaian; Elara menginginkan revolusi melawan orang kaya. Mereka terus berdebat, pedang mereka memercikkan api saat beradu. Tapi mereka sadar satu tak bisa memerintah tanpa yang lain. Jika satu menjauh terlalu jauh, kedua pedang kehilangan kekuatannya.\n\nInggris tidak mendapatkan seorang Raja. Inggris mendapatkan Diarki (Dua Penguasa). Meja Bundar menjadi tempat perdebatan sengit antara idealisme mulia Arthur dan keadilan radikal Elara. Mereka adalah Matahari dan Bulan Camelot—ditakdirkan memerintah bersama, atau merobek kerajaan dengan perbedaan mereka."
+          }
+        },
+        {
+          "id": "what_if_1_broken",
+          "type": "what_if",
+          "title": {
+            "en": "The King of Scraps",
+            "id": "Raja Rongsokan"
+          },
+          "content": {
+            "en": "Arthur pulled with all his youthful might. He braced his foot against the stone and heaved. There was a loud *SNAP* that echoed through the silent churchyard. Arthur fell backward, holding... just the hilt and three inches of jagged steel. The rest of the legendary blade remained stubbornly stuck in the stone.\n\nSilence. Then, Sir Kay burst out laughing. The crowd joined in. 'The boy broke the miracle!' they jeered. Merlin facepalmed, muttering about 'cheap craftsmanship' or 'omen of doom'.\n\nArthur was humiliated. He wasn't crowned; he was mocked as 'King Clumsy'. But Arthur looked at the broken hilt. It was sharp enough. While the lords laughed and went back to their feasting, assuming the prophecy void, invaders from the North attacked London that very night.\n\nWhile the knights were drunk and unready, Arthur rallied the stable boys and squires. Fighting with a broken sword requires zero reach but infinite courage. He fought in close quarters, stabbing and punching, defending the city gates when the 'true knights' fled.\n\nMorning came. London was saved, not by a shining hero with a magic beam, but by a dirty boy with a broken shiv. The people stopped laughing. They realized: The prophecy said 'Whoso pulleth out this sword', it didn't say it had to be in one piece. Arthur became the 'Beggar King', ruling not from a high throne, but from the streets, proving that a tool is only as good as the hand that holds it.",
+            "id": "Arthur menarik dengan segenap tenaga mudanya. Ia menumpukan kakinya pada batu dan menghentak. Terdengar suara *KRAK* keras yang menggema di halaman gereja yang sunyi. Arthur jatuh terlentang, memegang... hanya gagang dan tiga inci baja bergerigi. Sisa bilah legendaris itu tetap tertancap keras kepala di dalam batu.\n\nHening. Lalu, Sir Kay meledak tertawa. Kerumunan ikut serta. 'Bocah itu mematahkan keajaiban!' cemooh mereka. Merlin menepuk jidatnya, bergumam tentang 'kualitas murahan' atau 'pertanda kiamat'.\n\nArthur dipermalukan. Ia tidak dinobatkan; ia diejek sebagai 'Raja Ceroboh'. Tapi Arthur menatap gagang patah itu. Masih cukup tajam. Sementara para tuan tanah tertawa dan kembali berpesta, menganggap ramalan itu batal, penyerbu dari Utara menyerang London malam itu juga.\n\nSaat para ksatria mabuk dan tak siap, Arthur mengumpulkan para anak kandang kuda dan pelayan. Bertarung dengan pedang patah butuh keberanian tanpa batas karena jangkauannya nol. Ia bertarung jarak dekat, menusuk dan memukul, mempertahankan gerbang kota saat 'ksatria sejati' melarikan diri.\n\nPagi tiba. London selamat, bukan oleh pahlawan berkilau dengan sinar ajaib, tapi oleh bocah kotor dengan pisau patah. Orang-orang berhenti tertawa. Mereka sadar: Ramalan bilang 'Barangsiapa menarik pedang ini', tidak bilang harus utuh. Arthur menjadi 'Raja Pengemis', memerintah bukan dari takhta tinggi, tapi dari jalanan, membuktikan bahwa alat hanya sebaik tangan yang memegangnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Excalibur & The Round Table",
+        "id": "Excalibur & Meja Bundar"
+      },
+      "preview": {
+        "en": "The young king faces rebellion. A broken sword leads to a watery miracle. A wedding gift unites the realm.",
+        "id": "Raja muda menghadapi pemberontakan. Pedang yang patah menuntun pada keajaiban di air. Sebuah hadiah pernikahan menyatukan kerajaan."
+      },
+      "routes": [
+        {
+          "id": "canon_2",
+          "type": "canon",
+          "title": {
+            "en": "The Lady of the Lake",
+            "id": "Nyonya Danau"
+          },
+          "content": {
+            "en": "Arthur reigned, but his rule was not unchallenged. King Pellinore, a mighty knight, set up his pavilion by the roadside and challenged all who passed. Arthur, young and proud, rode out to fight him. They fought fiercely, their spears shattering. They drew swords, and Pellinore, with a mighty stroke, smote Arthur's sword in two pieces. Arthur was defenseless. Merlin intervened, casting a sleep spell on Pellinore to save the young King's life.\n\n'I have no sword,' said Arthur, dismayed. 'No matter,' said Merlin, 'here is a sword that shall be yours.'\n\nThey rode to a lake of broad waters. In the midst of the lake, Arthur saw an arm clothed in white samite, holding a fair sword in its hand. 'Yonder is that sword that I spake of,' said Merlin. Then they saw a damsel walking upon the water. 'That is the Lady of the Lake,' said Merlin. 'Speak to her fair.'\n\nArthur rowed a barge to the arm and took the sword and the scabbard. The arm slid under the water. 'Which like you better,' asked Merlin, 'the sword or the scabbard?' 'The sword,' said Arthur. 'Ye are more unwise,' said Merlin, 'for the scabbard is worth ten of the sword; while ye have the scabbard upon you, ye shall never lose no blood, be ye never so sore wounded.'\n\nWith Excalibur, Arthur won many battles. But a King needs more than a sword; he needs allies. Arthur fell in love with Guinevere, daughter of King Leodegrance. Merlin warned him that Guinevere was not wholesome for him, foreseeing her love for Lancelot, but Arthur loved her deeply.\n\nKing Leodegrance was overjoyed. As a wedding gift, he sent the Round Table, which Uther Pendragon had given him long ago. It had seats for a hundred and fifty knights. 'This is the fairest gift,' said Arthur.\n\nArthur established the Order of the Round Table in Camelot. He made his knights swear a sacred oath: to never do outrage nor murder, to flee treason, to be merciful, to give succor to ladies, and to never take battle in a wrongful quarrel. The table had no head, symbolizing that all knights—king and subject—were equal in brotherhood. The golden age of Camelot had truly begun.",
+            "id": "Arthur memerintah, tetapi kekuasaannya bukannya tanpa tantangan. Raja Pellinore, seorang ksatria perkasa, mendirikan tendanya di pinggir jalan dan menantang semua yang lewat. Arthur, muda dan bangga, berkuda keluar untuk melawannya. Mereka bertarung sengit, tombak mereka hancur. Mereka menghunus pedang, dan Pellinore, dengan pukulan dahsyat, membelah pedang Arthur menjadi dua bagian. Arthur tak berdaya. Merlin campur tangan, merapalkan mantra tidur pada Pellinore untuk menyelamatkan nyawa Raja muda itu.\n\n'Aku tidak punya pedang,' kata Arthur, kecewa. 'Tidak masalah,' kata Merlin, 'di sini ada pedang yang akan menjadi milikmu.'\n\nMereka berkuda ke sebuah danau yang luas airnya. Di tengah danau, Arthur melihat sebuah lengan berbalut sutra putih, memegang pedang indah di tangannya. 'Di sana adalah pedang yang kukatakan,' kata Merlin. Kemudian mereka melihat seorang gadis berjalan di atas air. 'Itu adalah Nyonya Danau,' kata Merlin. 'Bicaralah padanya dengan sopan.'\n\nArthur mendayung perahu ke arah lengan itu dan mengambil pedang serta sarungnya. Lengan itu meluncur ke bawah air. 'Mana yang lebih kau suka,' tanya Merlin, 'pedang atau sarungnya?' 'Pedangnya,' kata Arthur. 'Kau kurang bijaksana,' kata Merlin, 'karena sarungnya bernilai sepuluh kali lipat dari pedangnya; selama kau mengenakan sarung itu, kau tidak akan pernah kehilangan darah, seberat apa pun lukamu.'\n\nDengan Excalibur, Arthur memenangkan banyak pertempuran. Tapi seorang Raja butuh lebih dari sekadar pedang; dia butuh sekutu. Arthur jatuh cinta pada Guinevere, putri Raja Leodegrance. Merlin memperingatkannya bahwa Guinevere tidak baik untuknya, meramalkan cintanya pada Lancelot, tapi Arthur sangat mencintainya.\n\nRaja Leodegrance sangat gembira. Sebagai hadiah pernikahan, dia mengirimkan Meja Bundar, yang diberikan Uther Pendragon padanya dulu. Meja itu memiliki kursi untuk seratus lima puluh ksatria. 'Ini adalah hadiah terindah,' kata Arthur.\n\nArthur mendirikan Ordo Meja Bundar di Camelot. Dia membuat ksatria-ksatrianya bersumpah suci: untuk tidak pernah melakukan kekejaman atau pembunuhan, menjauhi pengkhianatan, berbelas kasih, memberi pertolongan pada wanita, dan tidak pernah bertempur dalam pertengkaran yang salah. Meja itu tidak memiliki kepala, melambangkan bahwa semua ksatria—raja dan bawahan—adalah setara dalam persaudaraan. Zaman keemasan Camelot benar-benar telah dimulai."
+          }
+        },
+        {
+          "id": "what_if_2_immortal",
+          "type": "what_if",
+          "title": {
+            "en": "The Bloodless King",
+            "id": "Raja Tanpa Darah"
+          },
+          "content": {
+            "en": "When Merlin asked, 'Which like you better?', Arthur paused. He remembered the pain of Pellinore's lance. 'The scabbard,' Arthur answered firmly. 'I can buy a thousand swords, but life is given only once.'\n\nMerlin nodded, pleased by the wisdom, but he missed the glint of fear in Arthur's eyes. Arthur took the scabbard and treated Excalibur merely as a tool. In battle, Arthur became reckless. He walked into arrow storms without a shield. He let enemies strike him just to laugh as his skin remained unbroken.\n\nThe knights feared him. He was not brave; he was simply unkillable. Because he felt no pain, he forgot how to empathize with the pain of others. He sent his armies into suicidal charges, shrugging off their deaths because death was a stranger to him.\n\nCamelot became a cold empire of iron. Lancelot never joined the Round Table, disgusted by a King who fought without risk. Guinevere feared her husband's cold, perfect skin. Arthur conquered Europe, but he sat on his throne alone—an immortal statue of a man, untouched by blades but rotting from the inside.",
+            "id": "Ketika Merlin bertanya, 'Mana yang lebih kau suka?', Arthur terdiam. Dia teringat rasa sakit tombak Pellinore. 'Sarungnya,' jawab Arthur tegas. 'Aku bisa membeli seribu pedang, tapi nyawa hanya diberikan sekali.'\n\nMerlin mengangguk, senang dengan kebijaksanaan itu, tapi dia melewatkan kilatan ketakutan di mata Arthur. Arthur mengambil sarung itu dan memperlakukan Excalibur hanya sebagai alat. Dalam pertempuran, Arthur menjadi nekat. Dia berjalan ke dalam badai panah tanpa perisai. Dia membiarkan musuh memukulnya hanya untuk tertawa saat kulitnya tetap utuh.\n\nPara ksatria takut padanya. Dia bukan pemberani; dia hanya tak bisa dibunuh. Karena dia tidak merasakan sakit, dia lupa cara berempati dengan rasa sakit orang lain. Dia mengirim pasukannya ke serangan bunuh diri, tidak peduli dengan kematian mereka karena kematian adalah hal asing baginya.\n\nCamelot menjadi kekaisaran besi yang dingin. Lancelot tidak pernah bergabung dengan Meja Bundar, jijik dengan Raja yang bertarung tanpa risiko. Guinevere takut pada kulit suaminya yang dingin dan sempurna. Arthur menaklukkan Eropa, tapi dia duduk di takhtanya sendirian—patung manusia yang abadi, tak tersentuh pedang tapi membusuk dari dalam."
+          }
+        },
+        {
+          "id": "what_if_2_sorcerer",
+          "type": "what_if",
+          "title": {
+            "en": "The Arcane Crown",
+            "id": "Mahkota Arkanum"
+          },
+          "content": {
+            "en": "Merlin warned Arthur of Guinevere's betrayal. This time, Arthur listened. 'If love is a weakness,' Arthur said, 'then I shall wed only wisdom.' He broke the betrothal to Guinevere, offending King Leodegrance. The Round Table was never given. War loomed.\n\nDesperate to protect his realm without the knights' alliance, Arthur demanded Merlin teach him the Old Arts. Merlin hesitated but agreed. Arthur proved to be a prodigy. He didn't need Excalibur; he summoned lightning to strike his foes. He didn't need knights; he conjured golems of stone and mud to defend Camelot.\n\nEngland became a land of magic, feared by the church and neighboring kingdoms. People whispered that their King was a warlock. Lancelot arrived not to serve, but as a crusader to destroy the 'Demon King'. The final battle wasn't an army vs army, but the greatest Knight vs the greatest Mage. Arthur won, but the cost was his humanity—he faded into the mists of Avalon, not as a dying man, but as a spirit of pure magic, leaving England leaderless once more.",
+            "id": "Merlin memperingatkan Arthur tentang pengkhianatan Guinevere. Kali ini, Arthur mendengarkan. 'Jika cinta adalah kelemahan,' kata Arthur, 'maka aku hanya akan menikahi kebijaksanaan.' Dia membatalkan pertunangan dengan Guinevere, menyinggung Raja Leodegrance. Meja Bundar tidak pernah diberikan. Perang mengancam.\n\nPutus asa melindungi kerajaannya tanpa aliansi ksatria, Arthur menuntut Merlin mengajarinya Seni Kuno. Merlin ragu tapi setuju. Arthur terbukti jenius. Dia tidak butuh Excalibur; dia memanggil petir untuk menyambar musuhnya. Dia tidak butuh ksatria; dia membangkitkan golem batu dan lumpur untuk mempertahankan Camelot.\n\nInggris menjadi tanah sihir, ditakuti oleh gereja dan kerajaan tetangga. Orang-orang berbisik bahwa Raja mereka adalah penyihir jahat. Lancelot tiba bukan untuk mengabdi, tapi sebagai tentara salib untuk menghancurkan 'Raja Iblis'. Pertempuran terakhir bukanlah tentara lawan tentara, tapi Ksatria terhebat lawan Penyihir terhebat. Arthur menang, tapi harganya adalah kemanusiaannya—dia memudar ke dalam kabut Avalon, bukan sebagai orang sekarat, tapi sebagai roh sihir murni, meninggalkan Inggris tanpa pemimpin sekali lagi."
+          }
+        },
+        {
+          "id": "what_if_2_price",
+          "type": "what_if",
+          "title": {
+            "en": "The Drowned Pact",
+            "id": "Perjanjian Tenggelam"
+          },
+          "content": {
+            "en": "Arthur rowed to the Lady of the Lake. He reached for Excalibur, but the Lady's hand grabbed his wrist. Her voice bubbled up from the depths: 'A sword of power requires a soul of equal value. To take the blade, you must give me your firstborn.'\n\nMerlin went pale. 'Refuse, Arthur!' But Arthur, desperate to save his kingdom from Pellinore and the rebels, agreed. He took the sword.\n\nYears later, when Mordred was born (his incestuous son with Morgan, unbeknownst to him at the time), the Lady came to collect. Arthur, realizing his horrific mistake, tried to fight her. The Lady flooded Camelot. Water rose from the wells, drowning the castle.\n\nTo save his people, Arthur had to throw Excalibur back, breaking the pact. He lost his weapon, his son was taken by the Fae (changing Mordred's destiny from villain to a strange aquatic prince), and Camelot was rebuilt on wetlands, forever haunted by the weeping of the waters. Arthur ruled as a melancholy king who hated the rain, knowing his debt was never fully paid.",
+            "id": "Arthur mendayung ke Nyonya Danau. Dia meraih Excalibur, tapi tangan Nyonya itu mencengkeram pergelangan tangannya. Suaranya menggelegak dari kedalaman: 'Pedang kekuasaan membutuhkan jiwa yang setara nilainya. Untuk mengambil bilah ini, kau harus berikan anak pertamamu.'\n\nMerlin memucat. 'Tolak, Arthur!' Tapi Arthur, putus asa menyelamatkan kerajaannya dari Pellinore dan pemberontak, setuju. Dia mengambil pedang itu.\n\nBertahun-tahun kemudian, saat Mordred lahir (anak hasil hubungan sedarah dengan Morgan, tanpa sepengetahuannya saat itu), Nyonya Danau datang menagih. Arthur, menyadari kesalahan mengerikannya, mencoba melawannya. Nyonya Danau membanjiri Camelot. Air naik dari sumur-sumur, menenggelamkan istana.\n\nUntuk menyelamatkan rakyatnya, Arthur harus melempar Excalibur kembali, membatalkan perjanjian. Dia kehilangan senjatanya, anaknya diambil oleh kaum Fae (mengubah takdir Mordred dari penjahat menjadi pangeran air yang aneh), dan Camelot dibangun kembali di atas lahan basah, selamanya dihantui oleh tangisan air. Arthur memerintah sebagai raja melankolis yang membenci hujan, tahu utangnya tak pernah lunas sepenuhnya."
+          }
+        },
+        {
+          "id": "what_if_2_villains",
+          "type": "what_if",
+          "title": {
+            "en": "The Table of Wolves",
+            "id": "Meja Serigala"
+          },
+          "content": {
+            "en": "Arthur established the Round Table with a radical idea: 'I will turn my enemies into friends.' He invited the warlords he defeated, the bandits, and the ruthless mercenaries, hoping the Oath would tame them. He invited King Pellinore (who broke his first sword) and King Lot.\n\nThe Oath meant nothing to them. They used the brotherhood as a cover for organized crime. The Round Table became a mafia council. They divided England into territories, extracting protection money under Arthur's banner. Arthur, blinded by his idealism, didn't see the rot until it was too late.\n\nGalahad and the pure knights were assassinated in dark alleys. Camelot became a den of vice. In the end, Arthur was not killed by Mordred in battle, but stabbed in the back during a feast by his own 'brothers' who tired of his moral preaching. The Round Table didn't unite the realm; it strangled it.",
+            "id": "Arthur mendirikan Meja Bundar dengan ide radikal: 'Aku akan mengubah musuhku menjadi teman.' Dia mengundang panglima perang yang dikalahkannya, bandit, dan tentara bayaran kejam, berharap Sumpah itu akan menjinakkan mereka. Dia mengundang Raja Pellinore (yang mematahkan pedang pertamanya) dan Raja Lot.\n\nSumpah itu tidak berarti apa-apa bagi mereka. Mereka menggunakan persaudaraan itu sebagai kedok kejahatan terorganisir. Meja Bundar menjadi dewan mafia. Mereka membagi Inggris menjadi wilayah-wilayah, memeras uang perlindungan di bawah panji Arthur. Arthur, buta oleh idealismenya, tidak melihat kebusukan itu sampai terlambat.\n\nGalahad dan ksatria murni dibunuh di gang-gang gelap. Camelot menjadi sarang maksiat. Pada akhirnya, Arthur tidak dibunuh oleh Mordred dalam pertempuran, tapi ditikam dari belakang saat pesta oleh 'saudara-saudaranya' sendiri yang bosan dengan khotbah moralnya. Meja Bundar tidak menyatukan kerajaan; itu mencekiknya."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Betrayal of Lancelot",
+        "id": "Pengkhianatan Lancelot"
+      },
+      "preview": {
+        "en": "The greatest knight falls in love with the queen. A forbidden romance threatens to tear the Round Table apart.",
+        "id": "Ksatria terhebat jatuh cinta pada sang ratu. Romansa terlarang mengancam akan memecah belah Meja Bundar."
+      },
+      "routes": [
+        {
+          "id": "canon_3",
+          "type": "canon",
+          "title": {
+            "en": "The Poisoned Heart",
+            "id": "Hati yang Teracuni"
+          },
+          "content": {
+            "en": "Sir Lancelot du Lake was the flower of chivalry, the mightiest of Arthur's knights. He saved Queen Guinevere from abduction by Sir Meliagrance and rescued her from being burnt at the stake when she was falsely accused of poisoning a knight. Through these rescues, a deep, passionate love bloomed between them—a love that betrayed their King.\n\nArthur loved them both. He chose to be blind to the whispers, hoping the rumors would die. But Sir Mordred and Sir Agravain, Arthur's nephews, hated Lancelot. They sought to expose the affair to destroy the Round Table's unity.\n\n'I will prove it,' said Mordred. They laid a trap. When Arthur went hunting, Lancelot visited the Queen's chambers at night. Mordred and twelve knights surrounded the door, shouting, 'Traitor knight! Come out!'\n\nLancelot had no armor, only his sword. He opened the door slightly, killed the first knight who entered, took his armor, and then slew almost all the rest. He escaped, but the secret was out. By the laws of the realm, Guinevere was condemned to burn for treason.\n\nArthur, heartbroken and forced by the law he created, ordered the execution. But secretly, he hoped Lancelot would rescue her. And Lancelot did. He charged the execution site, killing guards in a frenzy to save his love. In the chaos, Lancelot accidentally killed Sir Gaheris and Sir Gareth—Gawain's beloved brothers—who were guarding the Queen unarmed. This tragedy turned Gawain, Lancelot's best friend, into his mortal enemy. The fellowship of the Round Table was broken forever.",
+            "id": "Sir Lancelot du Lake adalah bunga ksatria, yang terkuat dari ksatria Arthur. Dia menyelamatkan Ratu Guinevere dari penculikan oleh Sir Meliagrance dan menyelamatkannya dari hukuman bakar ketika dia dituduh palsu meracuni seorang ksatria. Melalui penyelamatan ini, cinta yang dalam dan penuh gairah tumbuh di antara mereka—cinta yang mengkhianati Raja mereka.\n\nArthur mencintai keduanya. Dia memilih untuk buta terhadap bisikan-bisikan, berharap rumor itu akan mati. Tapi Sir Mordred dan Sir Agravain, keponakan Arthur, membenci Lancelot. Mereka berusaha membongkar perselingkuhan itu untuk menghancurkan persatuan Meja Bundar.\n\n'Aku akan membuktikannya,' kata Mordred. Mereka memasang jebakan. Ketika Arthur pergi berburu, Lancelot mengunjungi kamar Ratu di malam hari. Mordred dan dua belas ksatria mengepung pintu, berteriak, 'Ksatria pengkhianat! Keluar!'\n\nLancelot tidak mengenakan baju zirah, hanya pedangnya. Dia membuka pintu sedikit, membunuh ksatria pertama yang masuk, mengambil baju zirahnya, dan kemudian membunuh hampir semua sisanya. Dia melarikan diri, tapi rahasianya terbongkar. Menurut hukum kerajaan, Guinevere dihukum bakar karena pengkhianatan.\n\nArthur, patah hati dan dipaksa oleh hukum yang dia buat, memerintahkan eksekusi. Tapi diam-diam, dia berharap Lancelot akan menyelamatkannya. Dan Lancelot melakukannya. Dia menyerbu tempat eksekusi, membunuh penjaga dengan membabi buta untuk menyelamatkan cintanya. Dalam kekacauan itu, Lancelot secara tidak sengaja membunuh Sir Gaheris dan Sir Gareth—saudara kesayangan Gawain—yang menjaga Ratu tanpa senjata. Tragedi ini mengubah Gawain, sahabat Lancelot, menjadi musuh bebuyutannya. Persaudaraan Meja Bundar hancur selamanya."
+          }
+        },
+        {
+          "id": "what_if_3_justice",
+          "type": "what_if",
+          "title": {
+            "en": "The Red Chamber",
+            "id": "Kamar Merah"
+          },
+          "content": {
+            "en": "Mordred didn't need to trap them. Arthur found them himself. He returned early from the hunt, suspicious, and kicked open the Queen's door. Seeing his best knight and his wife together, Arthur's legendary patience snapped. He didn't wait for a trial.\n\nHe drew Excalibur. Lancelot, unarmed and ashamed, refused to fight his King. 'Forgive me, my lord,' Lancelot whispered. Arthur drove the blade through Lancelot's heart, killing the greatest knight of the world instantly.\n\nGuinevere screamed. Arthur stood over the body, blood dripping from the holy sword. The realm was shocked. Arthur had upheld the law, but he had lost his soul. He executed Guinevere the next day publicly.\n\nCamelot became a police state. Gawain and the other knights served Arthur out of fear, not love. The brotherhood died that night. Arthur ruled as a bitter, lonely widower, seeing betrayal in every shadow, trusting no one, until he eventually went mad from paranoia.",
+            "id": "Mordred tidak perlu menjebak mereka. Arthur menemukan mereka sendiri. Dia pulang lebih awal dari perburuan, curiga, dan menendang pintu Ratu hingga terbuka. Melihat ksatria terbaiknya dan istrinya bersama, kesabaran legendaris Arthur putus. Dia tidak menunggu pengadilan.\n\nDia menghunus Excalibur. Lancelot, tanpa senjata dan malu, menolak melawan Rajanya. 'Maafkan aku, tuanku,' bisik Lancelot. Arthur menghunjamkan bilah itu menembus jantung Lancelot, membunuh ksatria terhebat dunia seketika.\n\nGuinevere menjerit. Arthur berdiri di atas mayat itu, darah menetes dari pedang suci. Kerajaan terguncang. Arthur telah menegakkan hukum, tapi dia kehilangan jiwanya. Dia mengeksekusi Guinevere keesokan harinya di depan umum.\n\nCamelot menjadi negara polisi. Gawain dan ksatria lain melayani Arthur karena takut, bukan cinta. Persaudaraan mati malam itu. Arthur memerintah sebagai duda yang pahit dan kesepian, melihat pengkhianatan di setiap bayangan, tidak mempercayai siapa pun, hingga akhirnya dia gila karena paranoia."
+          }
+        },
+        {
+          "id": "what_if_3_dark_queen",
+          "type": "what_if",
+          "title": {
+            "en": "The Serpent in the Garden",
+            "id": "Ular di Taman"
+          },
+          "content": {
+            "en": "Lancelot was loyal, but Guinevere was not. She was secretly allied with Morgan le Fay. She used love potions and enchantments to seduce Lancelot, turning him into her puppet. When Mordred exposed them, it was part of her plan.\n\nGuinevere accused Arthur of neglect and claimed Lancelot was her true protector. Lancelot, under her spell, declared war on Arthur. Half the Round Table sided with the Queen, bewitched by her beauty and lies.\n\nCamelot fell into a civil war not for love, but for power. Arthur had to fight Lancelot, his brother in arms. In their final duel, Arthur managed to break the enchantment on Lancelot, but it was too late. Lancelot, realizing what he had done, took his own life in grief. Guinevere fled to Morgan, and Arthur was left with a broken kingdom and the realization that his marriage was a lie from the start.",
+            "id": "Lancelot setia, tapi Guinevere tidak. Dia diam-diam bersekutu dengan Morgan le Fay. Dia menggunakan ramuan cinta dan mantra untuk merayu Lancelot, mengubahnya menjadi bonekanya. Ketika Mordred membongkar mereka, itu adalah bagian dari rencananya.\n\nGuinevere menuduh Arthur menelantarkannya dan mengklaim Lancelot adalah pelindung sejatinya. Lancelot, di bawah pengaruh mantranya, menyatakan perang terhadap Arthur. Setengah Meja Bundar memihak Ratu, tersihir oleh kecantikan dan kebohongannya.\n\nCamelot jatuh dalam perang saudara bukan karena cinta, tapi karena kekuasaan. Arthur harus melawan Lancelot, saudara seperjuangannya. Dalam duel terakhir mereka, Arthur berhasil mematahkan mantra pada Lancelot, tapi sudah terlambat. Lancelot, menyadari apa yang telah dilakukannya, bunuh diri karena duka. Guinevere lari ke Morgan, dan Arthur ditinggalkan dengan kerajaan yang hancur dan kesadaran bahwa pernikahannya adalah kebohongan sejak awal."
+          }
+        },
+        {
+          "id": "what_if_3_throuple",
+          "type": "what_if",
+          "title": {
+            "en": "The Triangle Unbroken",
+            "id": "Segitiga Tak Terputus"
+          },
+          "content": {
+            "en": "Mordred burst into the room, shouting 'Treason!' But Arthur stepped out from behind the curtain. 'It is not treason if the King knows,' Arthur said calmly.\n\nArthur realized he loved Lancelot as a brother and Guinevere as a wife, and he could not bear to lose either. He rewrote the laws of Camelot. He declared that the King's heart was vast enough to share. He legitimized their bond, stunning the court and the church.\n\nMordred was furious; his plot had failed. The church threatened excommunication. But the Round Table stood stronger than ever. With Lancelot and Arthur united without secrets, no enemy could defeat them. They ruled as a trio—The King, The Queen, and The Champion. It was a scandal to the world, but a golden age for Camelot, proving that love, in any form, conquers hate.",
+            "id": "Mordred mendobrak masuk, berteriak 'Pengkhianatan!' Tapi Arthur melangkah keluar dari balik tirai. 'Bukan pengkhianatan jika Raja tahu,' kata Arthur tenang.\n\nArthur sadar dia mencintai Lancelot sebagai saudara dan Guinevere sebagai istri, dan dia tidak sanggup kehilangan salah satunya. Dia menulis ulang hukum Camelot. Dia menyatakan bahwa hati Raja cukup luas untuk berbagi. Dia melegalkan ikatan mereka, mengejutkan istana dan gereja.\n\nMordred murka; rencananya gagal. Gereja mengancam ekskomunikasi. Tapi Meja Bundar berdiri lebih kuat dari sebelumnya. Dengan Lancelot dan Arthur bersatu tanpa rahasia, tidak ada musuh yang bisa mengalahkan mereka. Mereka memerintah sebagai trio—Sang Raja, Sang Ratu, dan Sang Juara. Itu skandal bagi dunia, tapi zaman keemasan bagi Camelot, membuktikan bahwa cinta, dalam bentuk apa pun, mengalahkan kebencian."
+          }
+        },
+        {
+          "id": "what_if_3_usurper",
+          "type": "what_if",
+          "title": {
+            "en": "The Knight King",
+            "id": "Raja Ksatria"
+          },
+          "content": {
+            "en": "When Arthur confronted them, Lancelot didn't apologize. He sneered. 'You are weak, Arthur. You dream of equality while monsters roam the land. England needs a warrior, not a philosopher.'\n\nLancelot killed the guards and kidnapped Guinevere—not to save her, but to use her claim. He rallied the knights who thought Arthur was too soft. 'I am the greatest knight!' Lancelot declared. 'I deserve the crown!'\n\nThe Round Table split. It was Arthur (Loyalists) vs Lancelot (Rebels). Lancelot was a better fighter, but Arthur was a better leader. The war was brutal. In the end, Arthur had to use Excalibur not for justice, but for vengeance, striking down the man he once called his best friend. He won, but he burned the Round Table afterwards, declaring that trust was a weakness he could no longer afford.",
+            "id": "Ketika Arthur mengonfrontasi mereka, Lancelot tidak minta maaf. Dia mencibir. 'Kau lemah, Arthur. Kau bermimpi tentang kesetaraan sementara monster berkeliaran. Inggris butuh prajurit, bukan filsuf.'\n\nLancelot membunuh penjaga dan menculik Guinevere—bukan untuk menyelamatkannya, tapi menggunakan klaimnya. Dia mengumpulkan ksatria yang menganggap Arthur terlalu lembek. 'Aku ksatria terhebat!' seru Lancelot. 'Aku berhak atas mahkota!'\n\nMeja Bundar pecah. Arthur (Loyalis) vs Lancelot (Pemberontak). Lancelot petarung yang lebih baik, tapi Arthur pemimpin yang lebih baik. Perang itu brutal. Pada akhirnya, Arthur harus menggunakan Excalibur bukan untuk keadilan, tapi untuk balas dendam, menebas pria yang dulu dia sebut sahabat terbaiknya. Dia menang, tapi dia membakar Meja Bundar setelahnya, menyatakan bahwa kepercayaan adalah kelemahan yang tak mampu lagi dia miliki."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "The Quest for the Holy Grail",
+        "id": "Pencarian Cawan Suci"
+      },
+      "preview": {
+        "en": "A holy vision appears in Camelot. The knights scatter to find the sacred cup, but only the purest will succeed.",
+        "id": "Sebuah penglihatan suci muncul di Camelot. Para ksatria menyebar untuk mencari cawan keramat, tapi hanya yang paling murni yang akan berhasil."
+      },
+      "routes": [
+        {
+          "id": "canon_4",
+          "type": "canon",
+          "title": {
+            "en": "The Sangreal",
+            "id": "Sangreal"
+          },
+          "content": {
+            "en": "It was Pentecost eve when a new knight came to court: Galahad, the son of Lancelot. He sat in the Siege Perilous, the seat forbidden to all but the best knight, and he was not harmed. Then, a wondrous thing happened. The hall darkened, and a beam of light seven times brighter than the sun appeared. Floating in the light was the Holy Grail, covered in white samite, filling the hall with the scent of spices. Then, it vanished.\n\nSir Gawain stood up and vowed, 'I shall labor in the quest of the Sangreal for a year and a day.' The other knights—Lancelot, Percival, Bors, and a hundred more—made the same vow. King Arthur wept, for he knew this quest would break up the Round Table. 'Ye have bereft me of the fairest fellowship that ever was seen,' he said.\n\nThe knights scattered. It was a quest not of muscle, but of soul. Lancelot failed because of his sinful love for Guinevere; he saw the Grail but was burned when he tried to approach it. Gawain failed because he lacked patience and piety.\n\nOnly three succeeded: Sir Galahad, Sir Percival, and Sir Bors. They traveled to the spiritual city of Sarras. There, Galahad, the purest of all, looked into the Grail and saw the secrets of God. His soul was so filled with joy that he prayed to leave this world. Angels carried his soul to heaven, and a hand from the sky took the Grail away forever. Percival died a hermit soon after. Only Sir Bors returned to Camelot to tell the tale. The Round Table was thinned, the greatest knights were gone, and a shadow of melancholy fell over the King.",
+            "id": "Itu adalah malam Pentakosta ketika seorang ksatria baru datang ke istana: Galahad, putra Lancelot. Dia duduk di Siege Perilous, kursi yang terlarang bagi semua kecuali ksatria terbaik, dan dia tidak terluka. Kemudian, hal menakjubkan terjadi. Aula menjadi gelap, dan seberkas cahaya tujuh kali lebih terang dari matahari muncul. Melayang dalam cahaya itu adalah Cawan Suci, tertutup sutra putih, memenuhi aula dengan aroma rempah-rempah. Kemudian, itu menghilang.\n\nSir Gawain berdiri dan bersumpah, 'Aku akan berjuang dalam pencarian Sangreal selama setahun dan sehari.' Ksatria lainnya—Lancelot, Percival, Bors, dan seratus lainnya—mengucapkan sumpah yang sama. Raja Arthur menangis, karena dia tahu pencarian ini akan memecah belah Meja Bundar. 'Kalian telah merenggut dariku persekutuan terindah yang pernah terlihat,' katanya.\n\nPara ksatria menyebar. Ini adalah pencarian bukan tentang otot, tapi tentang jiwa. Lancelot gagal karena cinta berdosanya pada Guinevere; dia melihat Cawan itu tapi terbakar saat mencoba mendekatinya. Gawain gagal karena dia kurang sabar dan kurang alim.\n\nHanya tiga yang berhasil: Sir Galahad, Sir Percival, dan Sir Bors. Mereka pergi ke kota spiritual Sarras. Di sana, Galahad, yang paling murni dari semuanya, melihat ke dalam Cawan dan melihat rahasia Tuhan. Jiwanya begitu dipenuhi sukacita sehingga dia berdoa untuk meninggalkan dunia ini. Malaikat membawa jiwanya ke surga, dan sebuah tangan dari langit mengambil Cawan itu selamanya. Percival meninggal sebagai pertapa tak lama kemudian. Hanya Sir Bors yang kembali ke Camelot untuk menceritakan kisahnya. Meja Bundar menipis, ksatria-ksatria terhebat telah pergi, dan bayangan melankolis jatuh di atas Raja."
+          }
+        },
+        {
+          "id": "what_if_4_unholy",
+          "type": "what_if",
+          "title": {
+            "en": "The Cup of Blood",
+            "id": "Cawan Darah"
+          },
+          "content": {
+            "en": "Galahad reached the Grail, but when he lifted the cloth, there was no holy light. The cup was rusted iron, filled with fresh, bubbling blood. A voice whispered, promising eternal life, not in heaven, but on earth.\n\nGalahad, pure as he was, recoiled and refused. But the other knights were weaker. Sir Bors and others drank from it. They didn't ascend; they changed. Their skin turned pale, their eyes red. They returned to Camelot not as saints, but as immortals craving blood.\n\nThe Quest became a plague. The 'Grail Knights' attacked their brothers. Arthur faced a horror: his most loyal knights were now unkillable monsters. He had to lead the survivors to destroy the Grail, realizing it was never a gift from God, but a lure from Hell.",
+            "id": "Galahad mencapai Cawan itu, tapi saat dia mengangkat kain penutupnya, tidak ada cahaya suci. Cawan itu besi berkarat, berisi darah segar yang menggelegak. Sebuah suara berbisik, menjanjikan kehidupan abadi, bukan di surga, tapi di bumi.\n\nGalahad, semurni dirinya, mundur dan menolak. Tapi ksatria lain lebih lemah. Sir Bors dan lainnya meminumnya. Mereka tidak naik ke surga; mereka berubah. Kulit mereka memucat, mata mereka merah. Mereka kembali ke Camelot bukan sebagai orang suci, tapi sebagai makhluk abadi yang haus darah.\n\nPencarian itu menjadi wabah. 'Ksatria Cawan' menyerang saudara mereka sendiri. Arthur menghadapi horor: ksatria setianya kini monster yang tak bisa mati. Dia harus memimpin yang selamat untuk menghancurkan Cawan itu, menyadari itu tidak pernah hadiah dari Tuhan, tapi umpan dari Neraka."
+          }
+        },
+        {
+          "id": "what_if_4_arthur",
+          "type": "what_if",
+          "title": {
+            "en": "The King's Pilgrimage",
+            "id": "Ziarah Sang Raja"
+          },
+          "content": {
+            "en": "Seeing his knights fail one by one, Arthur grew impatient. 'If my knights cannot save the realm, the King must.' Leaving Mordred as regent (a fatal mistake), Arthur rode out himself.\n\nArthur faced trials that broke Lancelot. He was tempted by power, by Guinevere, by ease. But Arthur's love for his land was pure. He reached Sarras and found the Grail. He didn't ascend to heaven; instead, he brought the Grail back to Camelot.\n\nWith the Grail in the Round Table's center, sickness vanished from England. Crops grew overnight. Wounds healed instantly. Camelot became a literal Utopia. But without suffering, the people grew soft and complacent. And Mordred, envious of Arthur's god-like status, plotted to steal the cup, turning the artifact of life into a weapon of war.",
+            "id": "Melihat ksatria-ksatrianya gagal satu per satu, Arthur menjadi tidak sabar. 'Jika ksatriaku tidak bisa menyelamatkan kerajaan, Raja yang harus melakukannya.' Meninggalkan Mordred sebagai wali (kesalahan fatal), Arthur berkuda keluar sendiri.\n\nArthur menghadapi ujian yang mematahkan Lancelot. Dia digoda oleh kekuasaan, oleh Guinevere, oleh kemudahan. Tapi cinta Arthur pada negerinya murni. Dia mencapai Sarras dan menemukan Cawan itu. Dia tidak naik ke surga; sebaliknya, dia membawa Cawan itu kembali ke Camelot.\n\nDengan Cawan di tengah Meja Bundar, penyakit lenyap dari Inggris. Tanaman tumbuh semalam. Luka sembuh seketika. Camelot menjadi Utopia harfiah. Tapi tanpa penderitaan, rakyat menjadi lemah dan terlena. Dan Mordred, iri dengan status Arthur yang seperti dewa, berencana mencuri cawan itu, mengubah artefak kehidupan menjadi senjata perang."
+          }
+        },
+        {
+          "id": "what_if_4_empty",
+          "type": "what_if",
+          "title": {
+            "en": "The Great Delusion",
+            "id": "Delusi Besar"
+          },
+          "content": {
+            "en": "The knights searched for years. They starved, fought, and died in foreign lands. Galahad reached the destination, only to find an empty cave. There was no cup. No angels. Only silence.\n\nThe 'vision' at Pentecost was a mass hysteria born of desperation. The knights broke down. Galahad died of grief/starvation. Lancelot went mad, wandering the woods naked. Percival renounced knighthood.\n\nThose who returned to Camelot were broken men, disillusioned with God and King. They blamed Arthur for sending them on a fool's errand. The Round Table didn't dissolve due to holiness; it dissolved due to bitterness. Arthur had to rule a kingdom of cynics who no longer believed in magic or destiny.",
+            "id": "Para ksatria mencari selama bertahun-tahun. Mereka kelaparan, bertarung, dan mati di negeri asing. Galahad mencapai tujuan, hanya untuk menemukan gua kosong. Tidak ada cawan. Tidak ada malaikat. Hanya kesunyian.\n\n'Penglihatan' saat Pentakosta adalah histeria massal yang lahir dari keputusasaan. Para ksatria hancur mentalnya. Galahad mati karena duka/kelaparan. Lancelot gila, berkeliaran di hutan telanjang. Percival meninggalkan ksatria.\n\nMereka yang kembali ke Camelot adalah pria-pria hancur, kecewa pada Tuhan dan Raja. Mereka menyalahkan Arthur karena mengirim mereka pada tugas bodoh. Meja Bundar tidak bubar karena kesucian; ia bubar karena kepahitan. Arthur harus memerintah kerajaan kaum sinis yang tidak lagi percaya pada sihir atau takdir."
+          }
+        },
+        {
+          "id": "what_if_4_redemption",
+          "type": "what_if",
+          "title": {
+            "en": "The Saint Knight",
+            "id": "Ksatria Suci"
+          },
+          "content": {
+            "en": "At the chapel door, Lancelot was barred by fire. But instead of retreating, he fell to his knees and truly repented. He confessed his sin with Guinevere and swore to end it. The fire vanished. Lancelot entered and stood beside his son, Galahad.\n\nTogether, father and son achieved the Grail. Lancelot was healed of his madness and sin. He returned to Camelot radiating holy power. He went straight to Guinevere and ended their affair gently, 'I love you, but I love my soul more.'\n\nMordred's plan to expose them failed because there was nothing left to expose. The Round Table was purified. Arthur, seeing his friend's holiness, made Lancelot his spiritual advisor. Camelot became a theocracy ruled by saint-knights, and the Civil War never happened... but perhaps a different conflict arose between the zealous religious knights and the secular lords.",
+            "id": "Di pintu kapel, Lancelot dihalangi oleh api. Tapi bukannya mundur, dia jatuh berlutut dan benar-benar bertobat. Dia mengakui dosanya dengan Guinevere dan bersumpah mengakhirinya. Api itu lenyap. Lancelot masuk dan berdiri di samping putranya, Galahad.\n\nBersama-sama, ayah dan anak mencapai Cawan itu. Lancelot disembuhkan dari kegilaan dan dosanya. Dia kembali ke Camelot memancarkan kekuatan suci. Dia langsung menemui Guinevere dan mengakhiri hubungan mereka dengan lembut, 'Aku mencintaimu, tapi aku lebih mencintai jiwaku.'\n\nRencana Mordred untuk membongkar mereka gagal karena tidak ada lagi yang bisa dibongkar. Meja Bundar dimurnikan. Arthur, melihat kesucian temannya, menjadikan Lancelot penasihat spiritualnya. Camelot menjadi teokrasi yang diperintah ksatria-santo, dan Perang Saudara tidak pernah terjadi... tapi mungkin konflik berbeda muncul antara ksatria religius fanatik dan tuan tanah sekuler."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Civil War",
+        "id": "Perang Saudara"
+      },
+      "preview": {
+        "en": "The fellowship is broken. Brother fights brother as the King chases his former champion across the sea.",
+        "id": "Persaudaraan hancur. Saudara melawan saudara saat Raja mengejar mantan juaranya melintasi lautan."
+      },
+      "routes": [
+        {
+          "id": "canon_5",
+          "type": "canon",
+          "title": {
+            "en": "The Wrath of Gawain",
+            "id": "Murka Gawain"
+          },
+          "content": {
+            "en": "Lancelot had fled to his castle, Joyous Gard, taking Queen Guinevere with him. Arthur, though grieving, might have sought peace, for he still loved Lancelot. But Sir Gawain would hear of no peace. When he learned that Lancelot had slain his unarmed brothers, Gareth and Gaheris, Gawain's heart turned to stone.\n\n'Wit you well, Sir Lancelot,' Gawain shouted beneath the castle walls, 'I shall never rest until I have revenge for the death of my brothers!'\n\nArthur besieged Joyous Gard. It was a mournful war. Knights who had feasted together now killed each other. Lancelot fought reluctantly, refusing to strike King Arthur even when he had the chance, forcing his own men to spare the King. The Pope eventually intervened, ordering Lancelot to return Guinevere to Arthur and leave England for France.\n\nLancelot obeyed. He returned the Queen and sailed away. But Gawain was not satisfied. 'He must die!' Gawain insisted. He shamed Arthur into gathering an army to pursue Lancelot across the sea to Benwick (France).\n\nArthur left his nephew Mordred in charge of England as regent—a fatal mistake. In France, Gawain challenged Lancelot to single combat every day for months. Lancelot defeated Gawain twice but refused to kill him. Gawain lay wounded, cursing Lancelot still. While Arthur was bogged down in this useless war of vengeance, a dark shadow was rising back home in Camelot.",
+            "id": "Lancelot telah melarikan diri ke kastilnya, Joyous Gard, membawa Ratu Guinevere bersamanya. Arthur, meski berduka, mungkin akan mencari perdamaian, karena dia masih mencintai Lancelot. Tapi Sir Gawain tidak mau mendengar kata damai. Ketika dia tahu Lancelot telah membunuh saudara-saudaranya yang tak bersenjata, Gareth dan Gaheris, hati Gawain berubah menjadi batu.\n\n'Ketahuilah, Sir Lancelot,' teriak Gawain di bawah dinding kastil, 'Aku tidak akan pernah istirahat sampai aku membalas kematian saudara-saudaraku!'\n\nArthur mengepung Joyous Gard. Itu adalah perang yang menyedihkan. Ksatria yang pernah berpesta bersama kini saling membunuh. Lancelot bertarung dengan enggan, menolak menyerang Raja Arthur bahkan ketika dia punya kesempatan, memaksa pasukannya sendiri untuk mengampuni Raja. Paus akhirnya campur tangan, memerintahkan Lancelot mengembalikan Guinevere ke Arthur dan meninggalkan Inggris menuju Prancis.\n\nLancelot patuh. Dia mengembalikan Ratu dan berlayar pergi. Tapi Gawain tidak puas. 'Dia harus mati!' desak Gawain. Dia mempermalukan Arthur agar mengumpulkan pasukan untuk mengejar Lancelot melintasi laut ke Benwick (Prancis).\n\nArthur meninggalkan keponakannya Mordred untuk memimpin Inggris sebagai wali—sebuah kesalahan fatal. Di Prancis, Gawain menantang Lancelot duel satu lawan satu setiap hari selama berbulan-bulan. Lancelot mengalahkan Gawain dua kali tapi menolak membunuhnya. Gawain terbaring terluka, masih mengutuk Lancelot. Sementara Arthur terjebak dalam perang balas dendam yang sia-sia ini, bayangan gelap sedang bangkit kembali di rumah, di Camelot."
+          }
+        },
+        {
+          "id": "what_if_5_forgiveness",
+          "type": "what_if",
+          "title": {
+            "en": "The Broken Sword Mended",
+            "id": "Pedang Patah Tersambung"
+          },
+          "content": {
+            "en": "Gawain screamed for blood, but Arthur struck the table. 'Enough!' the King roared. 'I have lost my wife. I will not lose my best knight and my kingdom to your vendetta.'\n\nArthur rode to Joyous Gard alone, unarmed. Lancelot came out to meet him. In front of both armies, they embraced and wept. Arthur exiled Lancelot for ten years as penance but refused to wage war. Gawain, furious, left the court, taking his faction with him.\n\nWithout the Civil War draining England's strength, Mordred never got the chance to seize power. Arthur remained in Camelot, strong and vigilant. When Mordred tried to plot, he was easily caught and executed. Camelot survived, though it was sadder and quieter without Lancelot and Gawain. It was a kingdom of peace, bought at the price of friendship.",
+            "id": "Gawain berteriak minta darah, tapi Arthur memukul meja. 'Cukup!' raung Raja. 'Aku sudah kehilangan istriku. Aku tidak akan kehilangan ksatria terbaikku dan kerajaanku demi dendammu.'\n\nArthur berkuda ke Joyous Gard sendirian, tanpa senjata. Lancelot keluar menemuinya. Di depan kedua pasukan, mereka berpelukan dan menangis. Arthur mengasingkan Lancelot selama sepuluh tahun sebagai hukuman tapi menolak berperang. Gawain, murka, meninggalkan istana, membawa faksinya bersamanya.\n\nTanpa Perang Saudara yang menguras kekuatan Inggris, Mordred tidak pernah mendapat kesempatan merebut kekuasaan. Arthur tetap di Camelot, kuat dan waspada. Ketika Mordred mencoba berkonspirasi, dia dengan mudah ditangkap dan dieksekusi. Camelot bertahan, meski lebih sedih dan sepi tanpa Lancelot dan Gawain. Itu adalah kerajaan damai, dibeli dengan harga persahabatan."
+          }
+        },
+        {
+          "id": "what_if_5_conqueror",
+          "type": "what_if",
+          "title": {
+            "en": "The Knight's Empire",
+            "id": "Kekaisaran Ksatria"
+          },
+          "content": {
+            "en": "When Arthur besieged Joyous Gard, Lancelot snapped. 'I saved the Queen! I served you faithfully! And this is my reward?' He realized Arthur was weak, controlled by Gawain's rage.\n\nLancelot didn't hold back. He led his French kin in a counter-attack. Being the greatest warrior alive, he decimated Arthur's army. He killed Gawain in a duel and captured Arthur.\n\nLancelot declared himself King. He married Guinevere and ruled with an iron fist. But the British lords hated him as a usurper and a foreigner. His reign was a constant war against rebellions. Camelot became a fortress of tyranny, and Lancelot died years later, not as a hero, but as a lonely dictator who realized too late that power without legitimacy is a curse.",
+            "id": "Ketika Arthur mengepung Joyous Gard, Lancelot meledak. 'Aku menyelamatkan Ratu! Aku melayanimu dengan setia! Dan ini balasannya?' Dia sadar Arthur lemah, dikendalikan amarah Gawain.\n\nLancelot tidak menahan diri. Dia memimpin kerabat Prancisnya dalam serangan balik. Sebagai petarung terhebat, dia menghancurkan pasukan Arthur. Dia membunuh Gawain dalam duel dan menawan Arthur.\n\nLancelot menyatakan dirinya Raja. Dia menikahi Guinevere dan memerintah dengan tangan besi. Tapi tuan tanah Inggris membencinya sebagai perebut takhta dan orang asing. Pemerintahannya adalah perang terus-menerus melawan pemberontakan. Camelot menjadi benteng tirani, dan Lancelot mati bertahun-tahun kemudian, bukan sebagai pahlawan, tapi diktator kesepian yang terlambat sadar bahwa kekuasaan tanpa legitimasi adalah kutukan."
+          }
+        },
+        {
+          "id": "what_if_5_gawain_wins",
+          "type": "what_if",
+          "title": {
+            "en": "The Hollow Revenge",
+            "id": "Balas Dendam Hampa"
+          },
+          "content": {
+            "en": "In France, during their daily duel, Gawain's strength waxed at noon (due to his solar blessing). Usually, Lancelot played defensive, but this time Gawain landed a lucky, fatal blow to Lancelot's skull.\n\nThe greatest knight was dead. Gawain stood over his body, expecting triumph, but felt only emptiness. The French army, enraged by their lord's death, massacred Arthur's exhausted forces. Arthur barely escaped back to England with a shattered army.\n\nWhen he returned, he was too weak to fight Mordred. With Lancelot dead and his army destroyed in France, Arthur had no defense against the coup. Gawain's vengeance had cost Arthur his only chance of survival. Gawain died of his wounds shortly after, realizing his anger had doomed the very King he tried to avenge.",
+            "id": "Di Prancis, saat duel harian mereka, kekuatan Gawain memuncak di siang hari (karena berkah mataharinya). Biasanya Lancelot bermain defensif, tapi kali ini Gawain mendaratkan pukulan fatal yang beruntung ke tengkorak Lancelot.\n\nKsatria terhebat mati. Gawain berdiri di atas mayatnya, mengharapkan kemenangan, tapi hanya merasakan kehampaan. Pasukan Prancis, murka atas kematian tuan mereka, membantai pasukan Arthur yang kelelahan. Arthur nyaris tidak lolos kembali ke Inggris dengan pasukan yang hancur.\n\nSaat dia kembali, dia terlalu lemah untuk melawan Mordred. Dengan Lancelot mati dan pasukannya hancur di Prancis, Arthur tidak punya pertahanan melawan kudeta. Balas dendam Gawain telah mengorbankan satu-satunya kesempatan Arthur untuk selamat. Gawain mati karena lukanya tak lama kemudian, menyadari amarahnya telah membinasakan Raja yang justru ingin dia bela."
+          }
+        },
+        {
+          "id": "what_if_5_alliance",
+          "type": "what_if",
+          "title": {
+            "en": "The United Front",
+            "id": "Front Bersatu"
+          },
+          "content": {
+            "en": "News reached France: Mordred had seized the crown. Gawain wanted to keep fighting Lancelot, but Arthur saw the truth. 'My throne is stolen,' Arthur said. 'I need every sword. Even yours, Lancelot.'\n\nArthur offered a truce. Lancelot accepted instantly, eager to redeem himself. Gawain refused and sulked, but followed Arthur.\n\nThey sailed back to Dover together. Mordred was waiting on the beach, expecting a tired, divided army. Instead, he faced the combined might of Arthur's legions and Lancelot's French cavalry. The battle was short. Lancelot cut through the rebel ranks like a scythe. Arthur reclaimed his throne in a day.\n\nLancelot was not reinstated to the Round Table, but he was allowed to live in England as a guardian. The wound between them never fully healed, but the kingdom was saved because they chose duty over pride.",
+            "id": "Berita sampai ke Prancis: Mordred telah merebut mahkota. Gawain ingin terus melawan Lancelot, tapi Arthur melihat kebenaran. 'Takhtaku dicuri,' kata Arthur. 'Aku butuh setiap pedang. Bahkan milikmu, Lancelot.'\n\nArthur menawarkan gencatan senjata. Lancelot langsung setuju, ingin menebus kesalahannya. Gawain menolak dan merajuk, tapi mengikuti Arthur.\n\nMereka berlayar kembali ke Dover bersama. Mordred menunggu di pantai, mengharapkan pasukan yang lelah dan terpecah. Sebaliknya, dia menghadapi kekuatan gabungan legiun Arthur dan kavaleri Prancis Lancelot. Pertempuran itu singkat. Lancelot membelah barisan pemberontak seperti sabit. Arthur merebut kembali takhtanya dalam sehari.\n\nLancelot tidak dikembalikan ke Meja Bundar, tapi dia diizinkan tinggal di Inggris sebagai penjaga. Luka di antara mereka tidak pernah sembuh sepenuhnya, tapi kerajaan selamat karena mereka memilih tugas di atas harga diri."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Usurper Mordred",
+        "id": "Mordred Sang Perebut"
+      },
+      "preview": {
+        "en": "While the King is away, a serpent strikes at home. Letters are forged, and a new King is crowned in London.",
+        "id": "Saat Raja pergi, ular menyerang di rumah. Surat dipalsukan, dan Raja baru dinobatkan di London."
+      },
+      "routes": [
+        {
+          "id": "canon_6",
+          "type": "canon",
+          "title": {
+            "en": "The Treason of Blood",
+            "id": "Pengkhianatan Darah"
+          },
+          "content": {
+            "en": "Arthur had left Sir Mordred, his son (though publicly known as his nephew), as regent to rule England in his absence. It was the opportunity Mordred had waited for all his life. He forged letters that came as if from overseas, stating that King Arthur had been slain in battle against Lancelot.\n\nMordred called a parliament and persuaded the lords that, with Arthur dead, they needed a new protector. Being charismatic and promising lower taxes and peace (unlike Arthur's constant wars), Mordred was elected King. He was crowned at Canterbury, and the festivities lasted fifteen days.\n\nBut Mordred desired more. He set his eyes on Queen Guinevere (who had been left behind in the Tower of London for safety). He announced he would marry his father's wife, legitimizing his claim to the throne. Guinevere, terrified, pretended to agree but asked to go to London to buy wedding clothes. Once there, she locked herself in the Tower and refused to come out, provisioning it for a siege.\n\nMordred laid siege to the Tower, firing cannons and engines of war against his own stepmother. The Archbishop of Canterbury rebuked him: 'Will you shame yourself and all knighthood by marrying your father's wife?' Mordred threatened to cut off the Archbishop's head. The Bishop fled and became a hermit.\n\nNews finally reached Arthur in France: he was not dead, but his kingdom was stolen. Heartbroken by this double betrayal, Arthur abandoned his war with Lancelot and sailed home. Mordred, hearing this, gathered a massive army of lords who preferred his chaotic freedom over Arthur's strict justice, and marched to Dover to stop the rightful King from landing.",
+            "id": "Arthur telah meninggalkan Sir Mordred, putranya (meski secara umum dikenal sebagai keponakannya), sebagai wali untuk memerintah Inggris saat ia pergi. Itu adalah kesempatan yang ditunggu Mordred seumur hidupnya. Ia memalsukan surat-surat yang seolah-olah datang dari seberang laut, menyatakan bahwa Raja Arthur telah tewas dalam pertempuran melawan Lancelot.\n\nMordred memanggil parlemen dan meyakinkan para tuan tanah bahwa, dengan matinya Arthur, mereka butuh pelindung baru. Karena karismatik dan menjanjikan pajak rendah serta perdamaian (tidak seperti perang terus-menerus Arthur), Mordred dipilih menjadi Raja. Ia dinobatkan di Canterbury, dan perayaannya berlangsung lima belas hari.\n\nTapi Mordred menginginkan lebih. Ia mengincar Ratu Guinevere (yang ditinggalkan di Menara London demi keamanan). Ia mengumumkan akan menikahi istri ayahnya, melegitimasi klaimnya atas takhta. Guinevere, ketakutan, pura-pura setuju tapi minta izin ke London untuk membeli baju pengantin. Sesampainya di sana, ia mengunci diri di Menara dan menolak keluar, menyiapkannya untuk pengepungan.\n\nMordred mengepung Menara, menembakkan meriam dan mesin perang melawan ibu tirinya sendiri. Uskup Agung Canterbury menegurnya: 'Akankah kau mempermalukan dirimu dan seluruh ksatria dengan menikahi istri ayahmu?' Mordred mengancam akan memenggal kepala Uskup. Uskup melarikan diri dan menjadi pertapa.\n\nBerita akhirnya sampai ke Arthur di Prancis: ia belum mati, tapi kerajaannya dicuri. Patah hati oleh pengkhianatan ganda ini, Arthur meninggalkan perangnya dengan Lancelot dan berlayar pulang. Mordred, mendengar ini, mengumpulkan pasukan besar tuan tanah yang lebih menyukai kebebasan kacaunya daripada keadilan ketat Arthur, dan berbaris ke Dover untuk menghentikan pendaratan Raja yang sah."
+          }
+        },
+        {
+          "id": "what_if_6_queen_betrayal",
+          "type": "what_if",
+          "title": {
+            "en": "The Black Wedding",
+            "id": "Pernikahan Hitam"
+          },
+          "content": {
+            "en": "When Mordred proposed, Guinevere didn't run to the Tower. She smiled. She was tired of being the neglected wife of a warmonger King and the lover of an exiled knight. Mordred offered her something new: absolute power.\n\nShe opened the gates of London to him. They married the next day. With the Queen's endorsement, Mordred's legitimacy was unquestioned. The few lords loyal to Arthur wavered, seeing their Queen turn coat.\n\nWhen Arthur landed at Dover, he didn't face a usurper; he faced a united Kingdom led by his son and his wife. He was painted as the invader. Heartbroken and outnumbered, Arthur couldn't even make landfall. He was forced to flee back to France, dying in exile years later, not by a spear, but by the crushing weight of total abandonment.",
+            "id": "Ketika Mordred melamar, Guinevere tidak lari ke Menara. Dia tersenyum. Dia lelah menjadi istri yang diabaikan oleh Raja yang gila perang dan kekasih ksatria yang diasingkan. Mordred menawarinya sesuatu yang baru: kekuasaan mutlak.\n\nDia membuka gerbang London untuknya. Mereka menikah keesokan harinya. Dengan dukungan Ratu, legitimasi Mordred tak terbantahkan. Beberapa tuan tanah yang setia pada Arthur goyah, melihat Ratu mereka berbalik arah.\n\nKetika Arthur mendarat di Dover, dia tidak menghadapi perebut takhta; dia menghadapi Kerajaan bersatu yang dipimpin oleh putranya dan istrinya. Dia digambarkan sebagai penyerbu. Patah hati dan kalah jumlah, Arthur bahkan tidak bisa mendarat. Dia terpaksa melarikan diri kembali ke Prancis, mati dalam pengasingan bertahun-tahun kemudian, bukan karena tombak, tapi karena beban berat pengabaian total."
+          }
+        },
+        {
+          "id": "what_if_6_revolt",
+          "type": "what_if",
+          "title": {
+            "en": "The Peasant Army",
+            "id": "Tentara Petani"
+          },
+          "content": {
+            "en": "Mordred declared himself King, but the commoners remembered. They remembered the Round Table's justice, the free bread, the protection from bandits. They knew Arthur would never die so easily.\n\nWhen Mordred tried to siege the Tower of London to get Guinevere, the city turned on him. Blacksmiths, bakers, and farmers took up hammers and pitchforks. 'For the True King!' they shouted, barricading the streets.\n\nMordred's mercenary army was bogged down in street fighting. He couldn't secure the capital. By the time Arthur arrived at Dover, Mordred was already exhausted and losing control. Arthur didn't have to fight a war; he just had to walk into London. Mordred was captured by a group of fishmongers and handed over to his father in chains.",
+            "id": "Mordred menyatakan dirinya Raja, tapi rakyat jelata ingat. Mereka ingat keadilan Meja Bundar, roti gratis, perlindungan dari bandit. Mereka tahu Arthur tidak akan mati semudah itu.\n\nKetika Mordred mencoba mengepung Menara London untuk mendapatkan Guinevere, kota itu berbalik melawannya. Pandai besi, tukang roti, dan petani mengambil palu dan garpu tanah. 'Demi Raja Sejati!' teriak mereka, membarikade jalanan.\n\nPasukan bayaran Mordred terjebak dalam pertempuran jalanan. Dia tidak bisa mengamankan ibu kota. Pada saat Arthur tiba di Dover, Mordred sudah kelelahan dan kehilangan kendali. Arthur tidak perlu berperang; dia hanya perlu berjalan masuk ke London. Mordred ditangkap oleh sekelompok penjual ikan dan diserahkan kepada ayahnya dalam keadaan terantai."
+          }
+        },
+        {
+          "id": "what_if_6_merlin",
+          "type": "what_if",
+          "title": {
+            "en": "The Wizard's Wrath",
+            "id": "Murka Penyihir"
+          },
+          "content": {
+            "en": "As Mordred placed the crown on his head, the cathedral doors blew open. An old man in grey robes stood there—Merlin, freed from his crystal prison for one final duty.\n\n'You wear a borrowed crown, boy,' Merlin thundered. Mordred ordered his guards to attack, but they turned into flock of ravens. Merlin didn't use fire or lightning; he used truth. He projected a vision in the sky for all of London to see: Arthur, alive and sailing home.\n\nThe lie was shattered instantly. Mordred's support evaporated. The lords who had sided with him, fearing Merlin's magic more than Mordred's threats, switched sides immediately. Mordred fled into the wilderness, a king of nothing, hunted by his own shadow.",
+            "id": "Saat Mordred meletakkan mahkota di kepalanya, pintu katedral terbuka lebar. Seorang pria tua berjubah abu-abu berdiri di sana—Merlin, terbebas dari penjara kristalnya untuk satu tugas terakhir.\n\n'Kau memakai mahkota pinjaman, Nak,' guntur Merlin. Mordred memerintahkan penjaganya menyerang, tapi mereka berubah menjadi kawanan gagak. Merlin tidak menggunakan api atau petir; dia menggunakan kebenaran. Dia memproyeksikan penglihatan di langit untuk dilihat seluruh London: Arthur, hidup dan sedang berlayar pulang.\n\nKebohongan itu hancur seketika. Dukungan Mordred menguap. Para tuan tanah yang memihaknya, lebih takut pada sihir Merlin daripada ancaman Mordred, langsung berganti pihak. Mordred lari ke hutan liar, raja tanpa wilayah, diburu oleh bayangannya sendiri."
+          }
+        },
+        {
+          "id": "what_if_6_arthur_dead",
+          "type": "what_if",
+          "title": {
+            "en": "The Age of Mordred",
+            "id": "Zaman Mordred"
+          },
+          "content": {
+            "en": "Mordred lied, but fate has a cruel sense of humor. On the ship back to England, Arthur's old wound from Pellinore reopened. Or perhaps it was a broken heart. Either way, the King died at sea before reaching Dover.\n\nWhen the fleet arrived, they brought not a savior, but a corpse. Mordred stood on the cliffs and watched. There was no battle. The loyalist army, leaderless, surrendered.\n\nMordred became the undisputed King. But surprisingly, he didn't destroy Camelot. Without his father's shadow to fight, Mordred proved to be a competent, albeit ruthless, ruler. He modernized the kingdom, discarded the chivalric code for efficient laws, and ruled for forty years. History remembers Arthur as the Legend, but Mordred as the King who actually built the nation.",
+            "id": "Mordred berbohong, tapi takdir punya selera humor yang kejam. Di kapal kembali ke Inggris, luka lama Arthur dari Pellinore terbuka kembali. Atau mungkin itu hati yang patah. Bagaimanapun, Raja meninggal di laut sebelum mencapai Dover.\n\nKetika armada tiba, mereka tidak membawa penyelamat, tapi mayat. Mordred berdiri di tebing dan menonton. Tidak ada pertempuran. Pasukan loyalis, tanpa pemimpin, menyerah.\n\nMordred menjadi Raja tak terbantahkan. Tapi mengejutkan, dia tidak menghancurkan Camelot. Tanpa bayang-bayang ayahnya untuk dilawan, Mordred terbukti menjadi penguasa yang kompeten, meski kejam. Dia memodernisasi kerajaan, membuang kode ksatria demi hukum yang efisien, dan memerintah selama empat puluh tahun. Sejarah mengingat Arthur sebagai Legenda, tapi Mordred sebagai Raja yang benar-benar membangun bangsa."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Battle of Camlann",
+        "id": "Pertempuran Camlann"
+      },
+      "preview": {
+        "en": "Father meets son on the field of death. A final spear thrust ends the age of Camelot, and the King sails into the mist.",
+        "id": "Ayah bertemu anak di ladang kematian. Tusukan tombak terakhir mengakhiri zaman Camelot, dan Sang Raja berlayar ke dalam kabut."
+      },
+      "routes": [
+        {
+          "id": "canon_7",
+          "type": "canon",
+          "title": {
+            "en": "The Once and Future King",
+            "id": "Raja Masa Lalu dan Masa Depan"
+          },
+          "content": {
+            "en": "Arthur landed at Dover and fought his way inland, but Gawain died of his old wounds, writing a final letter begging Lancelot to help the King. It was too late. Arthur met Mordred's massive rebel army at Camlann.\n\nThe night before battle, Arthur dreamed of Gawain's ghost warning him: 'Do not fight tomorrow, or you will die. Wait for Lancelot.' Arthur tried to negotiate a truce. The two armies met to sign a peace treaty. But an adder (snake) bit a knight's foot. The knight drew his sword to kill the snake. Seeing the drawn blade, both armies roared 'Treason!' and charged. The war began by accident.\n\nThey fought all day until only Arthur, Bedivere, and Lucan were left standing on one side, and only Mordred on the other. Arthur saw his traitorous son. 'Give me my spear,' Arthur said. 'Let him be,' cried Sir Lucan, 'remember your dream!' But Arthur charged.\n\nHe drove his spear through Mordred's body. But Mordred, in his death throes, pulled himself up the spear handle and struck Arthur's helmet with his sword, piercing the skull. Both fell.\n\nArthur, dying, commanded Sir Bedivere to throw Excalibur into the nearby lake. Twice Bedivere failed, hiding the beautiful sword. The third time, he threw it. A hand rose from the water, caught the sword, brandished it three times, and vanished.\n\nA barge appeared with three queens in black hoods. They took Arthur aboard. 'I go to the valley of Avalon, to heal me of my grievous wound,' Arthur whispered. He sailed into the mist. Some say he died; others say he sleeps in a cave, waiting to return when England needs him most.",
+            "id": "Arthur mendarat di Dover dan bertempur menuju pedalaman, tapi Gawain meninggal karena luka lamanya, menulis surat terakhir memohon Lancelot membantu Raja. Sudah terlambat. Arthur bertemu pasukan pemberontak besar Mordred di Camlann.\n\nMalam sebelum pertempuran, Arthur bermimpi hantu Gawain memperingatkannya: 'Jangan bertarung besok, atau kau akan mati. Tunggulah Lancelot.' Arthur mencoba negosiasi gencatan senjata. Kedua pasukan bertemu untuk tanda tangan perjanjian damai. Tapi seekor ular berbisa menggigit kaki seorang ksatria. Ksatria itu menghunus pedang untuk membunuh ular itu. Melihat pedang terhunus, kedua pasukan meraung 'Pengkhianatan!' dan menyerbu. Perang dimulai karena kecelakaan.\n\nMereka bertarung seharian sampai hanya Arthur, Bedivere, dan Lucan yang tersisa berdiri di satu sisi, dan hanya Mordred di sisi lain. Arthur melihat anak pengkhianatnya. 'Berikan tombakku,' kata Arthur. 'Biarkan dia,' seru Sir Lucan, 'ingat mimpimu!' Tapi Arthur menyerbu.\n\nDia menghunjamkan tombaknya menembus tubuh Mordred. Tapi Mordred, dalam sekaratnya, menarik tubuhnya maju sepanjang gagang tombak dan memukul helm Arthur dengan pedangnya, menembus tengkorak. Keduanya jatuh.\n\nArthur, sekarat, memerintahkan Sir Bedivere melempar Excalibur ke danau terdekat. Dua kali Bedivere gagal, menyembunyikan pedang indah itu. Ketiga kalinya, dia melemparnya. Sebuah tangan muncul dari air, menangkap pedang itu, mengacungkannya tiga kali, dan menghilang.\n\nSebuah perahu muncul dengan tiga ratu bertudung hitam. Mereka membawa Arthur naik. 'Aku pergi ke lembah Avalon, untuk menyembuhkan lukaku yang parah,' bisik Arthur. Dia berlayar ke dalam kabut. Ada yang bilang dia mati; yang lain bilang dia tidur di gua, menunggu untuk kembali saat Inggris paling membutuhkannya."
+          }
+        },
+        {
+          "id": "what_if_7_lancelot_arrives",
+          "type": "what_if",
+          "title": {
+            "en": "The Cavalry Arrives",
+            "id": "Kavaleri Tiba"
+          },
+          "content": {
+            "en": "Arthur saw the snake bite the knight, but instead of charging, he ordered his men to hold. 'Wait!' he commanded. The tension held. And then, a horn blew from the coast.\n\nSir Lancelot had arrived. Leading an army of French knights and loyalists, he flanked Mordred's rebels. The battle was not a slaughter of Arthur's men, but a crushing victory for the King. Lancelot cut his way to Mordred and struck him down, sparing Arthur the task of killing his own son.\n\nArthur survived. He embraced Lancelot, their feud forgotten in the face of death. But Camelot was changed. Guinevere entered a nunnery to repent. Arthur ruled for twenty more years, a wise but sadder king, with Lancelot ever at his side as his champion. The Golden Age ended, but the Silver Age of peace began.",
+            "id": "Arthur melihat ular menggigit ksatria itu, tapi bukannya menyerbu, dia memerintahkan pasukannya menahan diri. 'Tunggu!' perintahnya. Ketegangan bertahan. Dan kemudian, terompet berbunyi dari pantai.\n\nSir Lancelot telah tiba. Memimpin pasukan ksatria Prancis dan loyalis, dia mengepung pemberontak Mordred dari samping. Pertempuran itu bukan pembantaian orang-orang Arthur, tapi kemenangan telak bagi Raja. Lancelot menebas jalan menuju Mordred dan menjatuhkannya, menyelamatkan Arthur dari tugas membunuh anaknya sendiri.\n\nArthur selamat. Dia memeluk Lancelot, permusuhan mereka terlupakan di hadapan kematian. Tapi Camelot berubah. Guinevere masuk biara untuk bertobat. Arthur memerintah dua puluh tahun lagi, raja yang bijak tapi lebih sedih, dengan Lancelot selalu di sisinya sebagai juaranya. Zaman Keemasan berakhir, tapi Zaman Perak perdamaian dimulai."
+          }
+        },
+        {
+          "id": "what_if_7_mordred_wins",
+          "type": "what_if",
+          "title": {
+            "en": "The Serpent Throne",
+            "id": "Takhta Ular"
+          },
+          "content": {
+            "en": "Arthur charged, but he was old and weary. Mordred was young and quick. Before Arthur could land his spear thrust, Mordred sidestepped and severed Arthur's wand arm. Excalibur fell into the mud.\n\nMordred laughed as he beheaded the King in front of both armies. Arthur's remaining knights lost heart and surrendered. Bedivere tried to run with Excalibur, but was shot down by archers. Mordred took the holy sword and corrupted it with dark rituals.\n\nMordred ruled for forty years. He burned churches, enslaved the commoners, and hunted down every surviving knight of the Round Table. Lancelot tried to invade but was defeated and executed. England became a land of shadow and fear, and the name of Arthur was forbidden to be spoken, erased from history books.",
+            "id": "Arthur menyerbu, tapi dia tua dan lelah. Mordred muda dan cepat. Sebelum Arthur bisa mendaratkan tusukan tombaknya, Mordred menghindar dan memotong lengan pedang Arthur. Excalibur jatuh ke lumpur.\n\nMordred tertawa saat dia memenggal Raja di depan kedua pasukan. Ksatria Arthur yang tersisa patah semangat dan menyerah. Bedivere mencoba lari membawa Excalibur, tapi ditembak jatuh pemanah. Mordred mengambil pedang suci itu dan mengorupsinya dengan ritual gelap.\n\nMordred memerintah selama empat puluh tahun. Dia membakar gereja, memperbudak rakyat jelata, dan memburu setiap ksatria Meja Bundar yang tersisa. Lancelot mencoba menyerang tapi dikalahkan dan dieksekusi. Inggris menjadi tanah bayangan dan ketakutan, dan nama Arthur dilarang diucapkan, dihapus dari buku sejarah."
+          }
+        },
+        {
+          "id": "what_if_7_bedivere_keeps",
+          "type": "what_if",
+          "title": {
+            "en": "The False Heir",
+            "id": "Pewaris Palsu"
+          },
+          "content": {
+            "en": "Bedivere couldn't do it. The sword was too beautiful, too powerful. He returned to Arthur and lied for the third time. 'I threw it,' he said. Arthur, too weak to check, nodded and closed his eyes. 'Then help me to the barge.'\n\nBut the barge never came. The Queens of Avalon were waiting for the signal of the sword returned to the water. Without it, the magic portal didn't open. Arthur bled out and died on the cold shore, abandoned.\n\nBedivere wept, realizing his greed had doomed his King's soul. He took Excalibur and tried to wield it himself to save the realm, but the sword rejected him. It became heavy as lead in his hands. He was easily killed by looters a few days later. Excalibur was lost in a ditch, eventually buried by time, waiting for a future archaeologist to find a weapon they could not understand.",
+            "id": "Bedivere tidak bisa melakukannya. Pedang itu terlalu indah, terlalu kuat. Dia kembali ke Arthur dan berbohong untuk ketiga kalinya. 'Aku melemparnya,' katanya. Arthur, terlalu lemah untuk memeriksa, mengangguk dan menutup matanya. 'Kalau begitu bantu aku ke perahu.'\n\nTapi perahu itu tidak pernah datang. Ratu-Ratu Avalon menunggu sinyal pedang dikembalikan ke air. Tanpa itu, portal sihir tidak terbuka. Arthur kehabisan darah dan mati di pantai dingin, ditinggalkan.\n\nBedivere menangis, menyadari keserakahannya telah membinasakan jiwa Rajanya. Dia mengambil Excalibur dan mencoba menggunakannya sendiri untuk menyelamatkan kerajaan, tapi pedang itu menolaknya. Pedang itu menjadi seberat timah di tangannya. Dia dengan mudah dibunuh oleh penjarah beberapa hari kemudian. Excalibur hilang di selokan, akhirnya terkubur waktu, menunggu arkeolog masa depan menemukan senjata yang tak bisa mereka pahami."
+          }
+        },
+        {
+          "id": "what_if_7_ascension",
+          "type": "what_if",
+          "title": {
+            "en": "The Eternal Emperor",
+            "id": "Kaisar Abadi"
+          },
+          "content": {
+            "en": "Arthur lay dying, but Sir Galahad (who had returned from Sarras in this timeline) stepped forward. He held the Holy Grail. He poured the water of life onto Arthur's wound.\n\nThe skull fracture healed instantly. Arthur stood up, glowing with divine light. He was no longer just a man; he was a vessel of God's will. He banished Mordred's spirit to the void with a wave of his hand.\n\nArthur declared that Camelot was no longer an earthly kingdom, but a Kingdom of Heaven on Earth. He ruled for a thousand years, never aging. But a perfect king allows no freedom. Humanity stagnated under his benevolent but absolute rule. There was no war, but there was no growth. Arthur became the God-Emperor, waiting for a hero brave enough to kill him and set humanity free again.",
+            "id": "Arthur terbaring sekarat, tapi Sir Galahad (yang kembali dari Sarras di garis waktu ini) melangkah maju. Dia memegang Cawan Suci. Dia menuangkan air kehidupan ke luka Arthur.\n\nRetakan tengkorak sembuh seketika. Arthur berdiri, bersinar dengan cahaya ilahi. Dia bukan lagi hanya manusia; dia adalah wadah kehendak Tuhan. Dia mengusir roh Mordred ke kehampaan dengan lambaian tangan.\n\nArthur menyatakan bahwa Camelot bukan lagi kerajaan duniawi, tapi Kerajaan Surga di Bumi. Dia memerintah selama seribu tahun, tidak pernah menua. Tapi raja yang sempurna tidak mengizinkan kebebasan. Kemanusiaan mandek di bawah pemerintahannya yang baik tapi mutlak. Tidak ada perang, tapi tidak ada pertumbuhan. Arthur menjadi Kaisar-Dewa, menunggu pahlawan yang cukup berani untuk membunuhnya dan membebaskan kemanusiaan lagi."
+          }
+        }
+      ]
+    }
+  ]
+}
